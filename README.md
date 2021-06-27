@@ -95,6 +95,7 @@
 
 ## C 
 
+- [vmxdev/tkvdb](https://github.com/vmxdev/tkvdb) - Trie key-value database
 - [bitly/dablooms](https://github.com/bitly/dablooms) - scaling, counting, bloom filter library
 - [Legrandin/pycryptodome](https://github.com/Legrandin/pycryptodome) - A self-contained cryptographic library for Python
 - [FastFilter/xor_singleheader](https://github.com/FastFilter/xor_singleheader) - Header-only Xor Filter library
@@ -135,7 +136,7 @@
 - [corosync/corosync](https://github.com/corosync/corosync) - The Corosync Cluster Engine
 - [quiet/quiet](https://github.com/quiet/quiet) - Transmit data with sound. Includes binaries for soundcards and .wav files.
 - [emojicode/emojicode](https://github.com/emojicode/emojicode) - 😀😜🔂 World’s only programming language that’s bursting with emojis
-- [augmentable-dev/askgit](https://github.com/augmentable-dev/askgit) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
+- [askgitdev/askgit](https://github.com/askgitdev/askgit) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
 - [alibaba/inclavare-containers](https://github.com/alibaba/inclavare-containers) - A novel container runtime, aka confidential container, for cloud-native confidential computing and enclave runtime ecosystem.
 - [mariadb-corporation/MaxScale](https://github.com/mariadb-corporation/MaxScale) - An intelligent database proxy.
 - [collectd/collectd](https://github.com/collectd/collectd) - The system statistics collection daemon. Please send Pull Requests here!
@@ -782,6 +783,7 @@
 
 ## Go 
 
+- [pingcap/ticdc](https://github.com/pingcap/ticdc) - Change data capture for TiDB
 - [ha/doozerd](https://github.com/ha/doozerd) - A consistent distributed data store.
 - [kophy/6.824](https://github.com/kophy/6.824) - Labs of  MIT 6.824: Distributed Systems.
 - [vladimirvivien/automi](https://github.com/vladimirvivien/automi) - A stream processing API for Go (alpha)
@@ -1388,6 +1390,11 @@
 
 ## Java 
 
+- [linkedin/databus](https://github.com/linkedin/databus) - Source-agnostic distributed change data capture system
+- [ververica/flink-cdc-connectors](https://github.com/ververica/flink-cdc-connectors) - Change Data Capture (CDC) Connectors for Apache Flink
+- [airbnb/SpinalTap](https://github.com/airbnb/SpinalTap) - Change Data Capture (CDC) service
+- [zendesk/maxwell](https://github.com/zendesk/maxwell) - Maxwell's daemon, a mysql-to-json kafka producer
+- [debezium/debezium](https://github.com/debezium/debezium) - Change data capture for a variety of databases. Please log issues at https://issues.redhat.com/browse/DBZ.
 - [zoho/hawking](https://github.com/zoho/hawking) - A Natural Language Date Time Parser that Extract date and time from text with context and parse to the required format
 - [flipkart-incubator/ranger](https://github.com/flipkart-incubator/ranger) - Feature rich service discovery on ZooKeeper
 - [JanusGraph/janusgraph](https://github.com/JanusGraph/janusgraph) - JanusGraph: an open-source, distributed graph database
