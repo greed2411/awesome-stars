@@ -120,7 +120,7 @@
 - [gentilkiwi/mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
 - [RIOT-OS/RIOT](https://github.com/RIOT-OS/RIOT) - RIOT -  The friendly OS for IoT
 - [chjj/liburkel](https://github.com/chjj/liburkel) - Authenticated key-value store (i.e. an urkel tree)
-- [ithewei/libhv](https://github.com/ithewei/libhv) - 🔥 比libevent、libuv更易用的国产网络库。A network library for developing TCP/UDP/SSL/HTTP/WebSocket client/server.
+- [ithewei/libhv](https://github.com/ithewei/libhv) - 🔥 比libevent、libuv更易用的国产网络库。A c/c++ network library for developing TCP/UDP/SSL/HTTP/WebSocket client/server.
 - [viabtc/viabtc_exchange_server](https://github.com/viabtc/viabtc_exchange_server) - A trading engine with high-speed performance and real-time notification
 - [SchedMD/slurm](https://github.com/SchedMD/slurm) - Slurm: A Highly Scalable Workload Manager
 - [tanersener/mobile-ffmpeg](https://github.com/tanersener/mobile-ffmpeg) - FFmpeg for Android, iOS and tvOS. Not maintained anymore. Superseded by FFmpegKit.
@@ -783,6 +783,8 @@
 
 ## Go 
 
+- [tidwall/buntdb](https://github.com/tidwall/buntdb) - BuntDB is an embeddable, in-memory key/value database for Go with custom indexing and geospatial support
+- [tidwall/btree](https://github.com/tidwall/btree) - B-tree implementation for Go
 - [pingcap/ticdc](https://github.com/pingcap/ticdc) - Change data capture for TiDB
 - [ha/doozerd](https://github.com/ha/doozerd) - A consistent distributed data store.
 - [kophy/6.824](https://github.com/kophy/6.824) - Labs of  MIT 6.824: Distributed Systems.
@@ -1267,7 +1269,6 @@
 - [websocket-client/websocket-client](https://github.com/websocket-client/websocket-client) - WebSocket client for Python
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 - [abhivaikar/howtheytest](https://github.com/abhivaikar/howtheytest) - A collection of public resources about how software companies test their software
-- [xlwings/xlwings](https://github.com/xlwings/xlwings) - xlwings is a BSD-licensed Python library that makes it easy to call Python from Excel and vice versa. It works with Microsoft Excel on Windows and macOS.
 - [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre) - At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.
 - [vadootvpeer/p2p-cdn-sdk-javascript](https://github.com/vadootvpeer/p2p-cdn-sdk-javascript) - Free p2p cdn github javascript sdk to reduce video streaming costs of live and on demand video using webrtc by upto 90% and improve scalability by 6x - 🚀 Vadootv 🚀
 - [w3c/webtransport](https://github.com/w3c/webtransport) - WebTransport is a web API for flexible data transport
@@ -1390,6 +1391,7 @@
 
 ## Java 
 
+- [williamfiset/Algorithms](https://github.com/williamfiset/Algorithms) - A collection of algorithms and data structures
 - [linkedin/databus](https://github.com/linkedin/databus) - Source-agnostic distributed change data capture system
 - [ververica/flink-cdc-connectors](https://github.com/ververica/flink-cdc-connectors) - Change Data Capture (CDC) Connectors for Apache Flink
 - [airbnb/SpinalTap](https://github.com/airbnb/SpinalTap) - Change Data Capture (CDC) service
@@ -1747,6 +1749,7 @@
 - [karpathy/cryptos](https://github.com/karpathy/cryptos) - Pure Python from-scratch zero-dependency implementation of Bitcoin for educational purposes
 - [scikit-learn-contrib/hdbscan](https://github.com/scikit-learn-contrib/hdbscan) - A high performance implementation of HDBSCAN clustering.
 - [jpartemis/cwarp](https://github.com/jpartemis/cwarp) - Streamlit App and Notebook For CWARP
+- [wilson1yan/VideoGPT](https://github.com/wilson1yan/VideoGPT) - 
 - [open-mmlab/mmclassification](https://github.com/open-mmlab/mmclassification) - OpenMMLab Image Classification Toolbox and Benchmark
 - [facebookresearch/droidlet](https://github.com/facebookresearch/droidlet) - A modular embodied agent architecture and platform for building embodied agents
 - [tulasiram58827/TTS_TFLite](https://github.com/tulasiram58827/TTS_TFLite) - This repository is a collection of TTS Models in TFLite
@@ -2550,7 +2553,7 @@
 - [firmai/data-science-career](https://github.com/firmai/data-science-career) - Career Resources for Data Science, Machine Learning, Big Data and Business Analytics Career Repository
 - [brohrer/academic_advisory](https://github.com/brohrer/academic_advisory) - Collected opinions and advice for academic programs focused on data science skills.
 - [saurabhkukade/Haskell_Study](https://github.com/saurabhkukade/Haskell_Study) - Collections of papers and books about Haskell, Type Theory and Category Theory
-- [n1trux/awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) - MOVED/ARCHIVED A curated list of amazingly awesome open source sysadmin resources.
+- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - MOVED/ARCHIVED A curated list of amazingly awesome open source sysadmin resources.
 - [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 - [aikho/awesome-feature-engineering](https://github.com/aikho/awesome-feature-engineering) - A curated list of resources dedicated to Feature Engineering Techniques for Machine Learning
 - [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
@@ -2980,6 +2983,8 @@
 
 ## Python 
 
+- [GamestonkTerminal/GamestonkTerminal](https://github.com/GamestonkTerminal/GamestonkTerminal) - A FOSS alternative to Bloomberg Terminal.
+- [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [karlicoss/cachew](https://github.com/karlicoss/cachew) - Transparent and persistent cache/serialization powered by type hints
 - [bryanveloso/geopatterns](https://github.com/bryanveloso/geopatterns) - A Python-port of @jasonlong's lovely SVG generation library.
@@ -3025,7 +3030,6 @@
 - [blockchain-etl/ethereum-etl](https://github.com/blockchain-etl/ethereum-etl) - Python scripts for ETL (extract, transform and load) jobs for Ethereum blocks, transactions, ERC20 / ERC721 tokens, transfers, receipts, logs, contracts, internal transactions. Data is available in Google BigQuery https://goo.gl/oY5BCQ
 - [openai/baselines](https://github.com/openai/baselines) - OpenAI Baselines: high-quality implementations of reinforcement learning algorithms
 - [dwromero/ckconv](https://github.com/dwromero/ckconv) - Code repository of the paper "CKConv: Continuous Kernel Convolution For Sequential Data" https://arxiv.org/abs/2102.02611
-- [wilson1yan/VideoGPT](https://github.com/wilson1yan/VideoGPT) - 
 - [oap-project/raydp](https://github.com/oap-project/raydp) - RayDP: Distributed data processing library that provides simple APIs for running Spark on Ray and integrating Spark with distributed deep learning and machine learning frameworks.
 - [awslabs/python-deequ](https://github.com/awslabs/python-deequ) - Python API for Deequ
 - [PyTorchLightning/lightning-transformers](https://github.com/PyTorchLightning/lightning-transformers) - Flexible interface for high-performance research using SOTA Transformers leveraging Pytorch Lightning, Transformers, and Hydra.
@@ -3120,6 +3124,7 @@
 - [graphdeeplearning/graphtransformer](https://github.com/graphdeeplearning/graphtransformer) - Graph Transformer Architecture. Source code for "A Generalization of Transformer Networks to Graphs", DLG-AAAI'21.
 - [argosopentech/argos-translate](https://github.com/argosopentech/argos-translate) - Open source neural machine translation in Python. Designed to be used either as a Python library or desktop application. Uses OpenNMT for translations and PyQt for GUI.
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to automate your data
+- [xlwings/xlwings](https://github.com/xlwings/xlwings) - xlwings is a BSD-licensed Python library that makes it easy to call Python from Excel and vice versa. It works with Microsoft Excel on Windows and macOS.
 - [aio-libs/aiokafka](https://github.com/aio-libs/aiokafka) - asyncio client for kafka
 - [lightly-ai/lightly](https://github.com/lightly-ai/lightly) - A python library for self-supervised learning on images.
 - [sebp/scikit-survival](https://github.com/sebp/scikit-survival) - Survival analysis built on top of scikit-learn
@@ -3247,7 +3252,7 @@
 - [magicleap/Atlas](https://github.com/magicleap/Atlas) - Atlas: End-to-End 3D Scene Reconstruction from Posed Images
 - [pandera-dev/pandera](https://github.com/pandera-dev/pandera) - A light-weight, flexible, and expressive pandas data validation library
 - [linkedin/detext](https://github.com/linkedin/detext) - DeText: A Deep Neural Text Understanding Framework for Ranking and Classification Tasks
-- [openrazer/openrazer](https://github.com/openrazer/openrazer) - An entirely open source driver and user-space daemon that allows you to manage your Razer peripherals on GNU/Linux
+- [openrazer/openrazer](https://github.com/openrazer/openrazer) - Open source driver and user-space daemon to control Razer lighting and other features on GNU/Linux
 - [lRomul/argus-freesound](https://github.com/lRomul/argus-freesound) - Kaggle | 1st place solution for Freesound Audio Tagging 2019
 - [shawroad/NLP_pytorch_project](https://github.com/shawroad/NLP_pytorch_project) - Embedding, NMT, Text_Classification, Text_Generation, NER etc.
 - [docopt/docopt](https://github.com/docopt/docopt) - Pythonic command line arguments parser, that will make you smile
