@@ -1234,7 +1234,7 @@
 - [metrue/fx](https://github.com/metrue/fx) - A Function as a Service tool makes a function as a  container-based service in seconds.
 - [qri-io/qri](https://github.com/qri-io/qri) - you're invited to a data party!
 - [google/syzkaller](https://github.com/google/syzkaller) - syzkaller is an unsupervised coverage-guided kernel fuzzer
-- [cortexlabs/cortex](https://github.com/cortexlabs/cortex) - Serverless containers on AWS
+- [cortexlabs/cortex](https://github.com/cortexlabs/cortex) - Cost-effective serverless computing
 - [fanpei91/torsniff](https://github.com/fanpei91/torsniff) - torsniff - a sniffer that sniffs torrents from BitTorrent network
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [uber/prototool](https://github.com/uber/prototool) - Your Swiss Army Knife for Protocol Buffers
@@ -1400,6 +1400,7 @@
 
 ## Java 
 
+- [slackapi/java-slack-sdk](https://github.com/slackapi/java-slack-sdk) - Slack Developer Kit (including Bolt for Java) for any JVM language
 - [stanfordnlp/CoreNLP](https://github.com/stanfordnlp/CoreNLP) - Stanford CoreNLP: A Java suite of core NLP tools.
 - [williamfiset/Algorithms](https://github.com/williamfiset/Algorithms) - A collection of algorithms and data structures
 - [linkedin/databus](https://github.com/linkedin/databus) - Source-agnostic distributed change data capture system
@@ -1749,6 +1750,7 @@
 - [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl) - Relax! Flux is the ML library that doesn't make you tensor
 - [FluxML/Zygote.jl](https://github.com/FluxML/Zygote.jl) - Intimate Affection Auditor
 - [probcomp/Gen.jl](https://github.com/probcomp/Gen.jl) - A general-purpose probabilistic programming system with programmable inference
+- [alan-turing-institute/MLJ.jl](https://github.com/alan-turing-institute/MLJ.jl) - A Julia machine learning framework
 - [SciML/DiffEqFlux.jl](https://github.com/SciML/DiffEqFlux.jl) - Universal neural differential equations with O(1) backprop, GPUs, and stiff+non-stiff DE solvers, demonstrating scientific machine learning (SciML) and physics-informed machine learning methods
 - [mschauer/CausalInference.jl](https://github.com/mschauer/CausalInference.jl) - Causal inference, graphical models and structure learning with the PC algorithm.
 - [JuliaLang/julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
@@ -1815,11 +1817,10 @@
 - [graykode/xlnet-Pytorch](https://github.com/graykode/xlnet-Pytorch) - Simple XLNet implementation with Pytorch Wrapper
 - [johnhw/differentiable_sorting](https://github.com/johnhw/differentiable_sorting) - Differentiable bitonic sorting
 - [microsoft/tensorwatch](https://github.com/microsoft/tensorwatch) - Debugging, monitoring and visualization for Python Machine Learning and Data Science
-- [uwdata/falcon](https://github.com/uwdata/falcon) - Brushing and linking for big data
+- [vega/falcon](https://github.com/vega/falcon) - Brushing and linking for big data
 - [bentrevett/pytorch-rl](https://github.com/bentrevett/pytorch-rl) - Tutorials for reinforcement learning in PyTorch and Gym by implementing a few of the popular algorithms. [IN PROGRESS]
 - [timsainb/tensorflow2-generative-models](https://github.com/timsainb/tensorflow2-generative-models) - Implementations of a number of generative models in Tensorflow 2. GAN, VAE, Seq2Seq, VAEGAN, GAIA, Spectrogram Inversion. Everything is self contained in a jupyter notebook for easy export to colab.
 - [google/jax-md](https://github.com/google/jax-md) - Differentiable, Hardware Accelerated, Molecular Dynamics
-- [alan-turing-institute/MLJ.jl](https://github.com/alan-turing-institute/MLJ.jl) - A Julia machine learning framework
 - [liyin2015/Hands-on-Algorithmic-Problem-Solving](https://github.com/liyin2015/Hands-on-Algorithmic-Problem-Solving) - A middle-to-high level algorithm book designed with coding interview at heart!
 - [facebook/Ax](https://github.com/facebook/Ax) - Adaptive Experimentation Platform
 - [Ranlot/single-parameter-fit](https://github.com/Ranlot/single-parameter-fit) - Real numbers, data science and chaos: How to fit any dataset with a single parameter
@@ -2997,6 +2998,8 @@
 
 ## Python 
 
+- [datamade/parserator](https://github.com/datamade/parserator) - :bookmark: A toolkit for making domain-specific probabilistic parsers
+- [datamade/usaddress](https://github.com/datamade/usaddress) - :us: a python library for parsing unstructured United States address strings into address components
 - [jd/tenacity](https://github.com/jd/tenacity) - Retrying library for Python
 - [kubeflow-kale/kale](https://github.com/kubeflow-kale/kale) - Kubeflow’s superfood for Data Scientists
 - [leohowell/redis-lru](https://github.com/leohowell/redis-lru) - LRU cache for Python. Use Redis as backend. Provides a dictionary-like object as well as a method decorator. pip install redis-lru
@@ -6069,6 +6072,7 @@
 
 ## Rust 
 
+- [bastion-rs/bastion](https://github.com/bastion-rs/bastion) - Highly-available Distributed Fault-tolerant Runtime
 - [ayrat555/fang](https://github.com/ayrat555/fang) - Background processing for Rust
 - [facebookresearch/Cupcake](https://github.com/facebookresearch/Cupcake) - A Rust library for lattice-based additive homomorphic encryption.
 - [neuronika/neuronika](https://github.com/neuronika/neuronika) - Tensors and dynamic neural networks in pure Rust.
