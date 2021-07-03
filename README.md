@@ -901,7 +901,7 @@
 - [yjjnls/awesome-blockchain](https://github.com/yjjnls/awesome-blockchain) - ⚡️Curated list of resources for the development and applications of blockchain.
 - [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - A multi-service dev environment for teams on Kubernetes
 - [vdaas/vald](https://github.com/vdaas/vald) - Vald.  A Highly Scalable Distributed Vector Search Engine
-- [mosn/holmes](https://github.com/mosn/holmes) - self-aware Golang profile dumper[beta]
+- [mosn/holmes](https://github.com/mosn/holmes) - self-aware Golang profile dumper
 - [openfaas/faasd](https://github.com/openfaas/faasd) - A lightweight & portable faas engine
 - [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
 - [kkdai/youtube](https://github.com/kkdai/youtube) - Download Youtube Video in Golang
@@ -2998,6 +2998,8 @@
 
 ## Python 
 
+- [SeldonIO/alibi-detect](https://github.com/SeldonIO/alibi-detect) - Algorithms for outlier, adversarial and drift detection
+- [jacopotagliabue/metaflow-intent-prediction](https://github.com/jacopotagliabue/metaflow-intent-prediction) - An end-to-end implementation of intent prediction with Metaflow and other cool tools
 - [datamade/parserator](https://github.com/datamade/parserator) - :bookmark: A toolkit for making domain-specific probabilistic parsers
 - [datamade/usaddress](https://github.com/datamade/usaddress) - :us: a python library for parsing unstructured United States address strings into address components
 - [jd/tenacity](https://github.com/jd/tenacity) - Retrying library for Python
@@ -6445,6 +6447,7 @@
 
 ## TypeScript 
 
+- [autoai-org/AID](https://github.com/autoai-org/AID) - One-Stop System for Machine Learning.
 - [directus/directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
 - [aporia-ai/mlplatform-workshop](https://github.com/aporia-ai/mlplatform-workshop) - 🍫 Example code for a basic ML Platform based on Pulumi, FastAPI, DVC, MLFlow and more
 - [opstrace/opstrace](https://github.com/opstrace/opstrace) - The Open Source Observability Distribution
