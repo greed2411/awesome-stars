@@ -259,6 +259,7 @@
 
 ## C++ 
 
+- [pedromvpg/Bitcoin-v0.1-A-Guided-Tour](https://github.com/pedromvpg/Bitcoin-v0.1-A-Guided-Tour) - Bitcoin v0.1 - A Guided Tour
 - [odin-lang/Odin](https://github.com/odin-lang/Odin) - Odin Programming Language
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
 - [MFatihMAR/Game-Networking-Resources](https://github.com/MFatihMAR/Game-Networking-Resources) - A Curated List of Game Network Programming Resources
@@ -788,6 +789,8 @@
 
 ## Go 
 
+- [bitclout/core](https://github.com/bitclout/core) - BitClout core node
+- [cloudwego/netpoll](https://github.com/cloudwego/netpoll) - A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance.
 - [zhangyunhao116/skipmap](https://github.com/zhangyunhao116/skipmap) - skipmap is a high-performance, scalable concurrent sorted map based on skip-list. Up to 10x faster than sync.Map in the typical pattern.
 - [dustinxie/lockfree](https://github.com/dustinxie/lockfree) - Golang lock-free Hashmap and List
 - [tidwall/buntdb](https://github.com/tidwall/buntdb) - BuntDB is an embeddable, in-memory key/value database for Go with custom indexing and geospatial support
@@ -1273,6 +1276,7 @@
 
 ## HTML 
 
+- [GamestonkTerminal/GamestonkTerminal](https://github.com/GamestonkTerminal/GamestonkTerminal) - A FOSS alternative to Bloomberg Terminal.
 - [chiphuyen/ml-interviews-book](https://github.com/chiphuyen/ml-interviews-book) - https://huyenchip.com/ml-interviews-book/
 - [asatarin/testing-distributed-systems](https://github.com/asatarin/testing-distributed-systems) - Curated list of resources on testing distributed systems
 - [websocket-client/websocket-client](https://github.com/websocket-client/websocket-client) - WebSocket client for Python
@@ -1400,6 +1404,7 @@
 
 ## Java 
 
+- [netty/netty](https://github.com/netty/netty) - Netty project - an event-driven asynchronous network application framework
 - [slackapi/java-slack-sdk](https://github.com/slackapi/java-slack-sdk) - Slack Developer Kit (including Bolt for Java) for any JVM language
 - [stanfordnlp/CoreNLP](https://github.com/stanfordnlp/CoreNLP) - Stanford CoreNLP: A Java suite of core NLP tools.
 - [williamfiset/Algorithms](https://github.com/williamfiset/Algorithms) - A collection of algorithms and data structures
@@ -2998,6 +3003,7 @@
 
 ## Python 
 
+- [aiogram/aiogram](https://github.com/aiogram/aiogram) - Is a pretty simple and fully asynchronous framework for Telegram Bot API written in Python 3.7 with asyncio and aiohttp.
 - [deepmind/android_env](https://github.com/deepmind/android_env) - A library for doing RL research on Android devices.
 - [SeldonIO/alibi-detect](https://github.com/SeldonIO/alibi-detect) - Algorithms for outlier, adversarial and drift detection
 - [jacopotagliabue/metaflow-intent-prediction](https://github.com/jacopotagliabue/metaflow-intent-prediction) - An end-to-end implementation of intent prediction with Metaflow and other cool tools
@@ -3007,7 +3013,6 @@
 - [kubeflow-kale/kale](https://github.com/kubeflow-kale/kale) - Kubeflow’s superfood for Data Scientists
 - [leohowell/redis-lru](https://github.com/leohowell/redis-lru) - LRU cache for Python. Use Redis as backend. Provides a dictionary-like object as well as a method decorator. pip install redis-lru
 - [chrislit/abydos](https://github.com/chrislit/abydos) - Abydos NLP/IR library for Python
-- [GamestonkTerminal/GamestonkTerminal](https://github.com/GamestonkTerminal/GamestonkTerminal) - A FOSS alternative to Bloomberg Terminal.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [karlicoss/cachew](https://github.com/karlicoss/cachew) - Transparent and persistent cache/serialization powered by type hints
@@ -6448,6 +6453,7 @@
 
 ## TypeScript 
 
+- [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [autoai-org/AID](https://github.com/autoai-org/AID) - One-Stop System for Machine Learning.
 - [directus/directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
 - [aporia-ai/mlplatform-workshop](https://github.com/aporia-ai/mlplatform-workshop) - 🍫 Example code for a basic ML Platform based on Pulumi, FastAPI, DVC, MLFlow and more
