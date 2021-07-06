@@ -789,6 +789,7 @@
 
 ## Go 
 
+- [SethMMorton/secret-santa](https://github.com/SethMMorton/secret-santa) - Solve Secret Santa without putting names into a hat
 - [bitclout/core](https://github.com/bitclout/core) - BitClout core node
 - [cloudwego/netpoll](https://github.com/cloudwego/netpoll) - A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance.
 - [zhangyunhao116/skipmap](https://github.com/zhangyunhao116/skipmap) - skipmap is a high-performance, scalable concurrent sorted map based on skip-list. Up to 10x faster than sync.Map in the typical pattern.
@@ -1404,6 +1405,7 @@
 
 ## Java 
 
+- [http-kit/http-kit](https://github.com/http-kit/http-kit) - http-kit is a minimalist, event-driven, high-performance Clojure HTTP server/client library with WebSocket and asynchronous support
 - [netty/netty](https://github.com/netty/netty) - Netty project - an event-driven asynchronous network application framework
 - [slackapi/java-slack-sdk](https://github.com/slackapi/java-slack-sdk) - Slack Developer Kit (including Bolt for Java) for any JVM language
 - [stanfordnlp/CoreNLP](https://github.com/stanfordnlp/CoreNLP) - Stanford CoreNLP: A Java suite of core NLP tools.
@@ -1762,6 +1764,7 @@
 
 ## Jupyter Notebook 
 
+- [rasbt/deeplearning-models](https://github.com/rasbt/deeplearning-models) - A collection of various deep learning architectures, models, and tips
 - [whylabs/whylogs](https://github.com/whylabs/whylogs) - Profile and monitor your ML data pipeline end-to-end
 - [karpathy/cryptos](https://github.com/karpathy/cryptos) - Pure Python from-scratch zero-dependency implementation of Bitcoin for educational purposes
 - [scikit-learn-contrib/hdbscan](https://github.com/scikit-learn-contrib/hdbscan) - A high performance implementation of HDBSCAN clustering.
@@ -3003,6 +3006,7 @@
 
 ## Python 
 
+- [SethMMorton/natsort](https://github.com/SethMMorton/natsort) - Simple yet flexible natural sorting in Python.
 - [aiogram/aiogram](https://github.com/aiogram/aiogram) - Is a pretty simple and fully asynchronous framework for Telegram Bot API written in Python 3.7 with asyncio and aiohttp.
 - [deepmind/android_env](https://github.com/deepmind/android_env) - A library for doing RL research on Android devices.
 - [SeldonIO/alibi-detect](https://github.com/SeldonIO/alibi-detect) - Algorithms for outlier, adversarial and drift detection
