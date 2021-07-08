@@ -286,7 +286,7 @@
 - [uNetworking/uWebSockets.js](https://github.com/uNetworking/uWebSockets.js) - μWebSockets for Node.js back-ends :metal:
 - [alibaba/graph-learn](https://github.com/alibaba/graph-learn) - An Industrial Graph Neural Network Framework
 - [pdclab/graphbolt](https://github.com/pdclab/graphbolt) - GraphBolt: Dependency-Driven Synchronous Processing of Streaming Graphs
-- [vectorizedio/redpanda](https://github.com/vectorizedio/redpanda) - Redpanda is the real-time engine for modern apps.  Kafka API Compatible; 10x faster. See more at vectorized.io/redpanda
+- [vectorizedio/redpanda](https://github.com/vectorizedio/redpanda) - Redpanda is the real-time engine for modern apps.  Kafka API Compatible; 10x faster 🚀    See more at vectorized.io/redpanda
 - [brpc/media-server](https://github.com/brpc/media-server) - A brpc-based server to host and proxy live streams
 - [utsaslab/pebblesdb](https://github.com/utsaslab/pebblesdb) - The PebblesDB write-optimized key-value store (SOSP 17)
 - [couchbase/forestdb](https://github.com/couchbase/forestdb) - A Fast Key-Value Storage Engine Based on Hierarchical B+-Tree Trie
@@ -789,6 +789,10 @@
 
 ## Go 
 
+- [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent & automation system with lots of bees 🐝
+- [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+- [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
+- [k6io/k6](https://github.com/k6io/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [RoaringBitmap/roaring](https://github.com/RoaringBitmap/roaring) - Roaring bitmaps in Go (golang)
 - [SethMMorton/secret-santa](https://github.com/SethMMorton/secret-santa) - Solve Secret Santa without putting names into a hat
 - [bitclout/core](https://github.com/bitclout/core) - BitClout core node
@@ -1360,6 +1364,7 @@
 
 ## Haskell 
 
+- [simonmichael/hledger](https://github.com/simonmichael/hledger) - easy-to-use command-line/curses/web plaintext accounting tool; a modern and largely compatible Haskell rewrite of Ledger
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [raviksharma/bartosz-basics-of-haskell](https://github.com/raviksharma/bartosz-basics-of-haskell) - Code and exercises from Bartosz Milewski's Basics of Haskell Tutorial
@@ -2420,6 +2425,7 @@
 
 ## Others 
 
+- [heartexlabs/awesome-data-labeling](https://github.com/heartexlabs/awesome-data-labeling) - A curated list of awesome data labeling tools
 - [matthiasn/talk-transcripts](https://github.com/matthiasn/talk-transcripts) - Transcripts of Clojure-related talks
 - [mhadidg/software-architecture-books](https://github.com/mhadidg/software-architecture-books) - A comprehensive list of books on Software Architecture.
 - [prasadgujar/low-level-design-primer](https://github.com/prasadgujar/low-level-design-primer) - Dedicated Resources for the Low-Level System Design. Learn how to design and implement large-scale systems. Prep for the system design interview.
@@ -3006,6 +3012,9 @@
 
 ## Python 
 
+- [heartexlabs/label-studio-converter](https://github.com/heartexlabs/label-studio-converter) - Tools for converting Label Studio annotations into common dataset formats
+- [heartexlabs/label-studio-transformers](https://github.com/heartexlabs/label-studio-transformers) - Label data using HuggingFace's transformers and automatically get a prediction service
+- [heartexlabs/label-studio](https://github.com/heartexlabs/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [faviq/faviq](https://github.com/faviq/faviq) - FaVIQ: Fact Verification from Information-seeking Questions
 - [Ezibenroc/PyRoaringBitMap](https://github.com/Ezibenroc/PyRoaringBitMap) - An efficient and light-weight ordered set of 32 bits integers.
 - [SethMMorton/natsort](https://github.com/SethMMorton/natsort) - Simple yet flexible natural sorting in Python.
@@ -4446,7 +4455,7 @@
 - [sbarratt/inception-score-pytorch](https://github.com/sbarratt/inception-score-pytorch) - Inception Score for GANs in Pytorch
 - [ctr4si/MMN](https://github.com/ctr4si/MMN) - :memo: Abstractive Summarization of Reddit Posts with Multi-level Memory Networks. In NAACL-HLT, 2019 (oral).
 - [Zheng222/PPCN](https://github.com/Zheng222/PPCN) - Tensorflow implementation of Perception-Preserving Convolutional Networks for Image Enhancement on Smartphones (ECCV 2018 Workshop PIRM)
-- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX.
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX.
 - [seomoz/reppy](https://github.com/seomoz/reppy) - Modern robots.txt Parser for Python
 - [MingtaoGuo/Conditional-Instance-Norm-for-n-Style-Transfer](https://github.com/MingtaoGuo/Conditional-Instance-Norm-for-n-Style-Transfer) - Implementation of the paper A Learned Representation for Artistic Style (Conditional instance  normalization)
 - [tcassou/causal_impact](https://github.com/tcassou/causal_impact) - Python package for causal inference using Bayesian structural time-series models.
@@ -6589,6 +6598,7 @@
 
 ## Zig 
 
+- [ratfactor/ziglings](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs.
 - [lithdew/snow](https://github.com/lithdew/snow) - A small, fast, cross-platform, async Zig networking framework built on top of lithdew/pike.
 - [prime31/zig-ecs](https://github.com/prime31/zig-ecs) - 
 - [iansimonson/ztor](https://github.com/iansimonson/ztor) - A (partial) bittorrent client in zig
