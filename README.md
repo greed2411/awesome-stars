@@ -789,6 +789,7 @@
 
 ## Go 
 
+- [niftynei/glightning](https://github.com/niftynei/glightning) - A Golang driver for c-lightning. Includes both an RPC client and plugin framework
 - [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent & automation system with lots of bees 🐝
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
@@ -1300,7 +1301,6 @@
 - [SilentByte/selfie2anime-site](https://github.com/SilentByte/selfie2anime-site) - What do YOU look like in Anime? Here's the source of selfie2anime.com
 - [WebOfTrustInfo/rwot1-sf](https://github.com/WebOfTrustInfo/rwot1-sf) - RWOT1 in San Francisco, California (November 2015)
 - [dtan4/paus](https://github.com/dtan4/paus) - Docker Compose PaaS
-- [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
 - [youngwoon/transition](https://github.com/youngwoon/transition) - Official code for the paper "Learning Transition Policies for Composing Complex Skills" (ICLR 2019)
 - [wowchemy/wowchemy-hugo-modules](https://github.com/wowchemy/wowchemy-hugo-modules) - 🔥 The website builder for Hugo. No code, build with widgets! 创建在线课程，学术简历或初创网站。
 - [kkinder/templatemail](https://github.com/kkinder/templatemail) - Templated Email for Python
@@ -2422,6 +2422,7 @@
 - [facebook/pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
 - [briskml/brisk](https://github.com/briskml/brisk) - ✨Cross-platform set of tools for building native UIs with Reason/OCaml
 - [andrejbauer/coop](https://github.com/andrejbauer/coop) - A prototype programming language for programming with runners
+- [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
 
 ## Others 
 
