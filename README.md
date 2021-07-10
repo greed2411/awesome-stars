@@ -930,7 +930,7 @@
 - [fullstorydev/grpchan](https://github.com/fullstorydev/grpchan) - Channels for gRPC: custom transports
 - [grafana-tools/sdk](https://github.com/grafana-tools/sdk) - Library for using Grafana' structures in Go programs and client for Grafana REST API.
 - [dbohdan/automatic-api](https://github.com/dbohdan/automatic-api) - A list of software that turns your database into a REST/GraphQL API
-- [prest/prest](https://github.com/prest/prest) - pREST (PostgreSQL REST), simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new
+- [prest/prest](https://github.com/prest/prest) - pREST (PostgreSQL REST), low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new
 - [rmoff/ksqldb-go](https://github.com/rmoff/ksqldb-go) - A Golang client for ksqlDB
 - [xelaj/mtproto](https://github.com/xelaj/mtproto) - Full-native go implementation of Telegram API
 - [aws/amazon-cloudwatch-agent](https://github.com/aws/amazon-cloudwatch-agent) - 
