@@ -499,7 +499,7 @@
 - [nmoehrle/mvs-texturing](https://github.com/nmoehrle/mvs-texturing) - Algorithm to texture 3D reconstructions from multi-view stereo images
 - [devshaaran/SWARM](https://github.com/devshaaran/SWARM) - Hacking purpose :p
 - [manuelruder/fast-artistic-videos](https://github.com/manuelruder/fast-artistic-videos) - Video style transfer using feed-forward networks.
-- [cmuratori/meow_hash](https://github.com/cmuratori/meow_hash) - Official version of the Meow hash, an extremely fast level 3 hash
+- [cmuratori/meow_hash](https://github.com/cmuratori/meow_hash) - Official version of the Meow hash, an extremely fast level 1 hash
 - [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) - OpenVINO™ Toolkit repository
 - [cvxpy/cvxpy](https://github.com/cvxpy/cvxpy) - A Python-embedded modeling language for convex optimization problems.
 - [sunglok/3dv_tutorial](https://github.com/sunglok/3dv_tutorial) - An Invitation to 3D Vision: A Tutorial for Everyone
@@ -1125,7 +1125,7 @@
 - [nlpodyssey/spago](https://github.com/nlpodyssey/spago) - Self-contained Machine Learning and Natural Language Processing library in Go
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
 - [yahoo/vssh](https://github.com/yahoo/vssh) - Go Library to Execute Commands Over SSH at Scale
-- [asim/go-micro](https://github.com/asim/go-micro) - Go Micro is a framework for distributed systems development
+- [asim/go-micro](https://github.com/asim/go-micro) - Go Micro is a standalone framework for distributed systems development
 - [danaugrs/go-tsne](https://github.com/danaugrs/go-tsne) - t-Distributed Stochastic Neighbor Embedding (t-SNE) in Go
 - [goplus/gop](https://github.com/goplus/gop) - GoPlus - The Go+ language for data science
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
@@ -6096,7 +6096,7 @@
 
 ## Rust 
 
-- [rustviz/rustviz](https://github.com/rustviz/rustviz) - Interactively Visualizing Ownership and Borrowing
+- [rustviz/rustviz](https://github.com/rustviz/rustviz) - Interactively Visualizing Ownership and Borrowing for Rust
 - [bastion-rs/bastion](https://github.com/bastion-rs/bastion) - Highly-available Distributed Fault-tolerant Runtime
 - [ayrat555/fang](https://github.com/ayrat555/fang) - Background processing for Rust
 - [facebookresearch/Cupcake](https://github.com/facebookresearch/Cupcake) - A Rust library for lattice-based additive homomorphic encryption.
