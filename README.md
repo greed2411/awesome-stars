@@ -813,7 +813,7 @@
 - [p2pderivatives/dlc](https://github.com/p2pderivatives/dlc) - Discreet Log Contracts library
 - [neilotoole/sq](https://github.com/neilotoole/sq) - swiss-army knife for data
 - [openacid/slim](https://github.com/openacid/slim) - Surprisingly space efficient trie in Golang(11 bits/key; 100 ns/get).
-- [alitto/pond](https://github.com/alitto/pond) - Minimalistic and High-performance goroutine worker pool written in Go
+- [alitto/pond](https://github.com/alitto/pond) - 🔘 Minimalistic and High-performance goroutine worker pool written in Go
 - [tidwall/redcon](https://github.com/tidwall/redcon) - Redis compatible server framework for Go
 - [uber-go/gopatch](https://github.com/uber-go/gopatch) - Refactoring and code transformation tool for Go.
 - [wasmerio/wasmer-go](https://github.com/wasmerio/wasmer-go) - 🐹🕸️ WebAssembly runtime for Go
@@ -1635,7 +1635,7 @@
 - [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
 - [ezyang/convolution-visualizer](https://github.com/ezyang/convolution-visualizer) - Convolution visualizations
 - [NVIDIA-AI-IOT/deepstream_360_d_smart_parking_application](https://github.com/NVIDIA-AI-IOT/deepstream_360_d_smart_parking_application) - Describes the full end to end smart parking application that is available with DeepStream 5.0
-- [jddunn/frame](https://github.com/jddunn/frame) - Notetaking Electron app that can answer your questions and makes summaries for you (buggy front-end)
+- [jddunn/frame](https://github.com/jddunn/frame) - Notetaking Electron app that can answer your questions and makes summaries for you
 - [drillan/jupyter-black](https://github.com/drillan/jupyter-black) - Black formatter for Jupyter Notebook
 - [fyears/electron-python-example](https://github.com/fyears/electron-python-example) - Electron as GUI of Python Applications
 - [octref/polacode](https://github.com/octref/polacode) - 📸 Polaroid for your code
@@ -5812,7 +5812,7 @@
 - [RasaHQ/rasa](https://github.com/RasaHQ/rasa) - 💬   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants
 - [rougier/ASPP-2017](https://github.com/rougier/ASPP-2017) - Material for the Advanced Scientific Python Programming course, Nikiti, Greece, 2017
 - [zcyang/imageqa-san](https://github.com/zcyang/imageqa-san) - code for Stacked attention networks for image question answering
-- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - A list of cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
+- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
 - [flomlo/ntm_keras](https://github.com/flomlo/ntm_keras) - An implementation of the Neural Turing Machine as a keras recurrent layer.
 - [bplank/bilstm-aux](https://github.com/bplank/bilstm-aux) - Bidirectional Long-Short Term Memory tagger (bi-LSTM) (in DyNet) -- hierarchical (with word and character embeddings)
 - [petertodd/python-bitcoinlib](https://github.com/petertodd/python-bitcoinlib) - Python3 library providing an easy interface to the Bitcoin data structures and protocol.
