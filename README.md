@@ -789,6 +789,12 @@
 
 ## Go 
 
+- [mumax/3](https://github.com/mumax/3) - GPU-accelerated micromagnetic simulator
+- [VictoriaMetrics/fastcache](https://github.com/VictoriaMetrics/fastcache) - Fast thread-safe inmemory cache for big number of entries in Go. Minimizes GC overhead
+- [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
+- [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
+- [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
+- [colinmarc/hdfs](https://github.com/colinmarc/hdfs) - A native go client for HDFS
 - [niftynei/glightning](https://github.com/niftynei/glightning) - A Golang driver for c-lightning. Includes both an RPC client and plugin framework
 - [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent & automation system with lots of bees 🐝
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
@@ -1125,7 +1131,7 @@
 - [nlpodyssey/spago](https://github.com/nlpodyssey/spago) - Self-contained Machine Learning and Natural Language Processing library in Go
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
 - [yahoo/vssh](https://github.com/yahoo/vssh) - Go Library to Execute Commands Over SSH at Scale
-- [asim/go-micro](https://github.com/asim/go-micro) - Go Micro is a standalone framework for distributed systems development
+- [asim/go-micro](https://github.com/asim/go-micro) - Go Micro is a framework for distributed systems development
 - [danaugrs/go-tsne](https://github.com/danaugrs/go-tsne) - t-Distributed Stochastic Neighbor Embedding (t-SNE) in Go
 - [goplus/gop](https://github.com/goplus/gop) - GoPlus - The Go+ language for data science
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
@@ -3014,6 +3020,7 @@
 
 ## Python 
 
+- [jonaswinkler/paperless-ng](https://github.com/jonaswinkler/paperless-ng) - A supercharged version of paperless: scan, index and archive all your physical documents
 - [heartexlabs/label-studio-converter](https://github.com/heartexlabs/label-studio-converter) - Tools for converting Label Studio annotations into common dataset formats
 - [heartexlabs/label-studio-transformers](https://github.com/heartexlabs/label-studio-transformers) - Label data using HuggingFace's transformers and automatically get a prediction service
 - [heartexlabs/label-studio](https://github.com/heartexlabs/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
@@ -3023,7 +3030,7 @@
 - [aiogram/aiogram](https://github.com/aiogram/aiogram) - Is a pretty simple and fully asynchronous framework for Telegram Bot API written in Python 3.7 with asyncio and aiohttp.
 - [deepmind/android_env](https://github.com/deepmind/android_env) - A library for doing RL research on Android devices.
 - [SeldonIO/alibi-detect](https://github.com/SeldonIO/alibi-detect) - Algorithms for outlier, adversarial and drift detection
-- [jacopotagliabue/metaflow-intent-prediction](https://github.com/jacopotagliabue/metaflow-intent-prediction) - An end-to-end implementation of intent prediction with Metaflow and other cool tools
+- [jacopotagliabue/you-dont-need-a-bigger-boat](https://github.com/jacopotagliabue/you-dont-need-a-bigger-boat) - An end-to-end implementation of intent prediction with Metaflow and other cool tools
 - [datamade/parserator](https://github.com/datamade/parserator) - :bookmark: A toolkit for making domain-specific probabilistic parsers
 - [datamade/usaddress](https://github.com/datamade/usaddress) - :us: a python library for parsing unstructured United States address strings into address components
 - [jd/tenacity](https://github.com/jd/tenacity) - Retrying library for Python
@@ -5790,7 +5797,6 @@
 - [asappresearch/sru](https://github.com/asappresearch/sru) - Training RNNs as Fast as CNNs (https://arxiv.org/abs/1709.02755)
 - [yosinski/deep-visualization-toolbox](https://github.com/yosinski/deep-visualization-toolbox) - DeepVis Toolbox
 - [google/seq2seq](https://github.com/google/seq2seq) - A general-purpose encoder-decoder framework for Tensorflow
-- [hangtwenty/presswork](https://github.com/hangtwenty/presswork) - Text generation workbench, starting with Markov Chains. Play with text! Python, with a CLI and local Flask app.
 - [znxlwm/pytorch-generative-model-collections](https://github.com/znxlwm/pytorch-generative-model-collections) - Collection of generative models in Pytorch version.
 - [hwalsuklee/tensorflow-generative-model-collections](https://github.com/hwalsuklee/tensorflow-generative-model-collections) - Collection of generative models in Tensorflow
 - [google-research/batch-ppo](https://github.com/google-research/batch-ppo) - Efficient Batched Reinforcement Learning in TensorFlow
@@ -6097,6 +6103,7 @@
 
 ## Rust 
 
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [infinyon/fluvio](https://github.com/infinyon/fluvio) - Cloud-native distributed data streaming platform, written in Rust
 - [rustviz/rustviz](https://github.com/rustviz/rustviz) - Interactively Visualizing Ownership and Borrowing for Rust
 - [bastion-rs/bastion](https://github.com/bastion-rs/bastion) - Highly-available Distributed Fault-tolerant Runtime
@@ -6472,6 +6479,7 @@
 
 ## TypeScript 
 
+- [kubeflow/metadata](https://github.com/kubeflow/metadata) - Repository for assets related to Metadata.
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [autoai-org/AID](https://github.com/autoai-org/AID) - One-Stop System for Machine Learning.
 - [directus/directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
