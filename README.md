@@ -1339,7 +1339,6 @@
 - [reshamas/fastai_deeplearn_part1](https://github.com/reshamas/fastai_deeplearn_part1) - Notes for Fastai Deep Learning Course
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [emilwallner/Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website.
-- [jlord/git-it-electron](https://github.com/jlord/git-it-electron) - :computer: :mortar_board: Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub
 - [aaalgo/picpac](https://github.com/aaalgo/picpac) - An image database for deep learning.
 - [abhshkdz/ai-deadlines](https://github.com/abhshkdz/ai-deadlines) - :alarm_clock: AI conference deadline countdowns
 - [yanhann10/opendata_viz](https://github.com/yanhann10/opendata_viz) - Code behind medium blog
@@ -1416,6 +1415,7 @@
 
 ## Java 
 
+- [VertaAI/modeldb](https://github.com/VertaAI/modeldb) - Open Source ML Model Versioning, Metadata, and Experiment Management
 - [http-kit/http-kit](https://github.com/http-kit/http-kit) - http-kit is a minimalist, event-driven, high-performance Clojure HTTP server/client library with WebSocket and asynchronous support
 - [netty/netty](https://github.com/netty/netty) - Netty project - an event-driven asynchronous network application framework
 - [slackapi/java-slack-sdk](https://github.com/slackapi/java-slack-sdk) - Slack Developer Kit (including Bolt for Java) for any JVM language
@@ -1928,7 +1928,6 @@
 - [bayesgroup/deepbayes-2018](https://github.com/bayesgroup/deepbayes-2018) - Seminars DeepBayes Summer School 2018
 - [Hvass-Labs/FinanceOps](https://github.com/Hvass-Labs/FinanceOps) - Research in investment finance with Python Notebooks
 - [simonjisu/pytorch_tutorials](https://github.com/simonjisu/pytorch_tutorials) - some tutorials for blog: simonjisu.github.io
-- [shagunsodhani/torch-template](https://github.com/shagunsodhani/torch-template) - Boiler plate code for Torch based ML projects
 - [omerbsezer/Reinforcement_learning_tutorial_with_demo](https://github.com/omerbsezer/Reinforcement_learning_tutorial_with_demo) - Reinforcement Learning Tutorial with Demo: DP (Policy and Value Iteration), Monte Carlo, TD Learning (SARSA, QLearning), Function Approximation, Policy Gradient, DQN, Imitation, Meta Learning, Papers, Courses, etc..
 - [FrancescoSaverioZuppichini/mirror](https://github.com/FrancescoSaverioZuppichini/mirror) - Visualisation tool for CNNs in pytorch
 - [hate-alert/HateALERT-EVALITA](https://github.com/hate-alert/HateALERT-EVALITA) - Code for replicating results of team 'hateminers' at EVALITA-2018 for AMI task
@@ -2620,7 +2619,6 @@
 - [JiayongO-O/3D_DepthFusion](https://github.com/JiayongO-O/3D_DepthFusion) - This is the collection of 3D reconstruction and depth fusion methods
 - [lw-lin/streaming-readings](https://github.com/lw-lin/streaming-readings) - Streaming System 相关的论文读物
 - [mmcgrana/services-engineering](https://github.com/mmcgrana/services-engineering) - A reading list for services engineering, with a focus on cloud infrastructure services
-- [adembudak/vim-doctor](https://github.com/adembudak/vim-doctor) - A quick reference for Vim text editor.
 - [xgrommx/awesome-functional-programming](https://github.com/xgrommx/awesome-functional-programming) - Yet another resource for collecting articles, videos etc. regarding functional programming
 - [sheqi/GAN_Review](https://github.com/sheqi/GAN_Review) - A Survey and Taxonomy of the Recent GANs Development & GAN-based Action Recognition Implementations
 - [vasanthk/how-web-works](https://github.com/vasanthk/how-web-works) - What happens behind the scenes when we type www.google.com in a browser?
@@ -2997,6 +2995,7 @@
 
 - [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer
 - [Diego999/py-rouge](https://github.com/Diego999/py-rouge) - Full Python implementation of the ROUGE metric, producing same results as in the official perl implementation.
+- [jlord/git-it-electron](https://github.com/jlord/git-it-electron) - :computer: :mortar_board: Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub
 - [tseemann/shovill](https://github.com/tseemann/shovill) - ⚡♠️ Assemble bacterial isolate genomes from Illumina paired-end reads
 - [tseemann/abricate](https://github.com/tseemann/abricate) - :mag_right: :pill: Mass screening of contigs for antimicrobial and virulence genes
 - [biosql/biosql](https://github.com/biosql/biosql) - 
@@ -4282,6 +4281,7 @@
 - [sagiebenaim/Singing](https://github.com/sagiebenaim/Singing) - 
 - [Sleepwalking/pytorch-softdtw](https://github.com/Sleepwalking/pytorch-softdtw) - An implementation of SoftDTW for PyTorch.
 - [jessevig/bertviz](https://github.com/jessevig/bertviz) - Tool for visualizing attention in the Transformer model (BERT, GPT-2, Albert, XLNet, RoBERTa, CTRL, etc.)
+- [shagunsodhani/torch-template](https://github.com/shagunsodhani/torch-template) - Boiler plate code for Torch based ML projects
 - [atselousov/transformer_chatbot](https://github.com/atselousov/transformer_chatbot) - Convai2 submission.
 - [ysymyth/3D-SDN](https://github.com/ysymyth/3D-SDN) - [NeurIPS 2018] 3D-Aware Scene Manipulation via Inverse Graphics
 - [skrish13/PyTorch-mask-x-rcnn](https://github.com/skrish13/PyTorch-mask-x-rcnn) - PyTorch implementation of the Mask-X-RCNN network proposed in the 'Learning to Segment Everything' paper by Facebook AI Research
