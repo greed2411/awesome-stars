@@ -259,6 +259,7 @@
 
 ## C++ 
 
+- [typesense/typesense](https://github.com/typesense/typesense) - Fast, typo tolerant, fuzzy search engine for building delightful search experiences ⚡ 🔍
 - [pedromvpg/Bitcoin-v0.1-A-Guided-Tour](https://github.com/pedromvpg/Bitcoin-v0.1-A-Guided-Tour) - Bitcoin v0.1 - A Guided Tour
 - [odin-lang/Odin](https://github.com/odin-lang/Odin) - Odin Programming Language
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
@@ -799,7 +800,7 @@
 - [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent & automation system with lots of bees 🐝
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
-- [k6io/k6](https://github.com/k6io/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
+- [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [RoaringBitmap/roaring](https://github.com/RoaringBitmap/roaring) - Roaring bitmaps in Go (golang)
 - [SethMMorton/secret-santa](https://github.com/SethMMorton/secret-santa) - Solve Secret Santa without putting names into a hat
 - [bitclout/core](https://github.com/bitclout/core) - BitClout core node
@@ -1080,7 +1081,7 @@
 - [contiamo/go-base](https://github.com/contiamo/go-base) - This module contains common packages for Contiamo projects written in Go
 - [gocraft/work](https://github.com/gocraft/work) - Process background jobs in Go
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
-- [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, service-to-service and IoT auth. Can work as an OAuth2 / OpenID Connect Provider. Golang, headless, API-only - without templating or theming headaches.
+- [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, and IoT auth. Golang, headless, API-only - without templating or theming headaches.
 - [ipfs/go-ipfs](https://github.com/ipfs/go-ipfs) - IPFS implementation in Go
 - [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
 - [asdine/storm](https://github.com/asdine/storm) - Simple and powerful toolkit for BoltDB
@@ -1775,6 +1776,7 @@
 
 ## Jupyter Notebook 
 
+- [mindslab-ai/wavegrad2](https://github.com/mindslab-ai/wavegrad2) - Unofficial Pytorch Implementation of WaveGrad2
 - [rasbt/deeplearning-models](https://github.com/rasbt/deeplearning-models) - A collection of various deep learning architectures, models, and tips
 - [whylabs/whylogs](https://github.com/whylabs/whylogs) - Profile and monitor your ML data pipeline end-to-end
 - [karpathy/cryptos](https://github.com/karpathy/cryptos) - Pure Python from-scratch zero-dependency implementation of Bitcoin for educational purposes
@@ -2810,7 +2812,7 @@
 - [Mayeu/awesome-open-source-organizations](https://github.com/Mayeu/awesome-open-source-organizations) - ⚡️ A list of organizations that have open sourced everything they do
 - [stacygohyunsi/algorithms-primer](https://github.com/stacygohyunsi/algorithms-primer) - A consolidated collection of resources for you to learn and understand algorithms and data structures easily.
 - [mathsyouth/awesome-text-summarization](https://github.com/mathsyouth/awesome-text-summarization) - A curated list of resources dedicated to text summarization
-- [cncf/mentoring](https://github.com/cncf/mentoring) - 👩🏿‍🎓👨🏽‍🎓👩🏻‍🎓CNCF Mentoring + CommunityBridge + Summer of Code
+- [cncf/mentoring](https://github.com/cncf/mentoring) - 👩🏿‍🎓👨🏽‍🎓👩🏻‍🎓CNCF Mentoring + LFX Mentoring + Summer of Code
 - [theanalyst/awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems) - A curated list to learn about distributed systems
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
@@ -3019,6 +3021,8 @@
 
 ## Python 
 
+- [vturrisi/solo-learn](https://github.com/vturrisi/solo-learn) - solo-learn: a library of self-supervised methods for visual representation learning powered by Pytorch Lightning
+- [ben-hayes/neural-waveshaping-synthesis](https://github.com/ben-hayes/neural-waveshaping-synthesis) - efficient neural audio synthesis in the waveform domain
 - [jonaswinkler/paperless-ng](https://github.com/jonaswinkler/paperless-ng) - A supercharged version of paperless: scan, index and archive all your physical documents
 - [heartexlabs/label-studio-converter](https://github.com/heartexlabs/label-studio-converter) - Tools for converting Label Studio annotations into common dataset formats
 - [heartexlabs/label-studio-transformers](https://github.com/heartexlabs/label-studio-transformers) - Label data using HuggingFace's transformers and automatically get a prediction service
@@ -4496,7 +4500,7 @@
 - [delph-in/pydelphin](https://github.com/delph-in/pydelphin) - Python libraries for DELPH-IN
 - [lrank/Linguistic_adversity](https://github.com/lrank/Linguistic_adversity) - 
 - [tensorflow/mesh](https://github.com/tensorflow/mesh) - Mesh TensorFlow: Model Parallelism Made Easier
-- [learnpyqt/15-minute-apps](https://github.com/learnpyqt/15-minute-apps) - 15 minute (small) desktop apps built with PyQt
+- [pythonguis/15-minute-apps](https://github.com/pythonguis/15-minute-apps) - 15 minute (small) desktop apps built with PyQt
 - [mahasak/pytorch-deploy-model](https://github.com/mahasak/pytorch-deploy-model) - 
 - [qijiezhao/M2Det](https://github.com/qijiezhao/M2Det) - M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network
 - [ppwwyyxx/SoPaper](https://github.com/ppwwyyxx/SoPaper) - Automatically Search and Download Papers
@@ -4574,7 +4578,7 @@
 - [anandsaha/pytorch.cyclic.learning.rate](https://github.com/anandsaha/pytorch.cyclic.learning.rate) - Using the CLR algorithm for training (https://arxiv.org/abs/1506.01186)
 - [traveller59/second.pytorch](https://github.com/traveller59/second.pytorch) - SECOND for KITTI/NuScenes object detection
 - [DongjunLee/notes](https://github.com/DongjunLee/notes) - The notes for Math, Machine Learning, Deep Learning and Research papers.
-- [githubharald/CTCDecoder](https://github.com/githubharald/CTCDecoder) - Connectionist Temporal Classification (CTC) decoding algorithms: best path, prefix search, beam search and token passing. Implemented in Python.
+- [githubharald/CTCDecoder](https://github.com/githubharald/CTCDecoder) - Connectionist Temporal Classification (CTC) decoding algorithms: best path, beam search, lexicon search, prefix search, and token passing. Implemented in Python.
 - [tensorflow/lingvo](https://github.com/tensorflow/lingvo) - Lingvo
 - [boathit/Benchmark-Flux-PyTorch](https://github.com/boathit/Benchmark-Flux-PyTorch) - 
 - [kentsyx/Neural-IMage-Assessment](https://github.com/kentsyx/Neural-IMage-Assessment) - A PyTorch Implementation of Neural IMage Assessment
