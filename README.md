@@ -650,6 +650,7 @@
 
 ## Clojure 
 
+- [edn-query-language/eql](https://github.com/edn-query-language/eql) - EQL is a declarative way to make hierarchical (and possibly nested) selections of information about data requirements. This repository contains the base specs and definitions for EQL parsing, AST, etc.
 - [clojurenlp/core](https://github.com/clojurenlp/core) - Clojure wrapper for the Stanford CoreNLP Java library
 - [polyfy/polylith](https://github.com/polyfy/polylith) - A tool used to develop Polylith based architectures in Clojure.
 - [furkan3ayraktar/clojure-polylith-realworld-example-app](https://github.com/furkan3ayraktar/clojure-polylith-realworld-example-app) - Clojure, Polylith and Ring codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the RealWorld spec and API.
@@ -1415,6 +1416,7 @@
 
 ## Java 
 
+- [jitsi/jitsi-webrtc-vad-wrapper](https://github.com/jitsi/jitsi-webrtc-vad-wrapper) - A java wrapper around the WebRTC Voice Activity Detection library
 - [VertaAI/modeldb](https://github.com/VertaAI/modeldb) - Open Source ML Model Versioning, Metadata, and Experiment Management
 - [http-kit/http-kit](https://github.com/http-kit/http-kit) - http-kit is a minimalist, event-driven, high-performance Clojure HTTP server/client library with WebSocket and asynchronous support
 - [netty/netty](https://github.com/netty/netty) - Netty project - an event-driven asynchronous network application framework
@@ -3929,7 +3931,7 @@
 - [fabric/fabric](https://github.com/fabric/fabric) - Simple, Pythonic remote execution and deployment.
 - [vijayanandrp/Thirukkural-Tamil-Dataset](https://github.com/vijayanandrp/Thirukkural-Tamil-Dataset) - திருக்குறள் by திருவள்ளுவர்.
 - [rasbt/biopandas](https://github.com/rasbt/biopandas) - Working with molecular structures in pandas DataFrames
-- [BayesWitnesses/m2cgen](https://github.com/BayesWitnesses/m2cgen) - Transform ML models into a native code (Java, C, Python, Go, JavaScript, Visual Basic, C#, R, PowerShell, PHP, Dart, Haskell, Ruby) with zero dependencies
+- [BayesWitnesses/m2cgen](https://github.com/BayesWitnesses/m2cgen) - Transform ML models into a native code (Java, C, Python, Go, JavaScript, Visual Basic, C#, R, PowerShell, PHP, Dart, Haskell, Ruby, F#, Rust) with zero dependencies
 - [foolwood/deepmask-pytorch](https://github.com/foolwood/deepmask-pytorch) - PyTorch re-implementation of DeepMask
 - [denizalti/paxosmmc](https://github.com/denizalti/paxosmmc) - Paxos Made Moderately Complex
 - [rupa/epub](https://github.com/rupa/epub) - python/curses cli epub reader
