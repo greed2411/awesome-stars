@@ -1189,7 +1189,7 @@
 - [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 - [nuclio/nuclio](https://github.com/nuclio/nuclio) - High-Performance Serverless event and data processing platform
-- [pion/ion](https://github.com/pion/ion) - Distributed RTC System by pure Go and Flutter
+- [pion/ion](https://github.com/pion/ion) - Real-Distributed(non-cluster) RTC System by pure Go and Flutter
 - [natefinch/lumberjack](https://github.com/natefinch/lumberjack) - lumberjack is a log rolling package for Go
 - [pachyderm/pachyderm](https://github.com/pachyderm/pachyderm) - Reproducible Data Science at Scale!
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
@@ -3022,6 +3022,7 @@
 
 ## Python 
 
+- [BaguaSys/bagua](https://github.com/BaguaSys/bagua) - Bagua is a flexible and performant distributed training algorithm development framework.
 - [deepmind/alphafold](https://github.com/deepmind/alphafold) - Open source code for AlphaFold.
 - [vturrisi/solo-learn](https://github.com/vturrisi/solo-learn) - solo-learn: a library of self-supervised methods for visual representation learning powered by Pytorch Lightning
 - [ben-hayes/neural-waveshaping-synthesis](https://github.com/ben-hayes/neural-waveshaping-synthesis) - efficient neural audio synthesis in the waveform domain
