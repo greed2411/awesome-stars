@@ -352,7 +352,7 @@
 - [andreasfertig/cppinsights](https://github.com/andreasfertig/cppinsights) - C++ Insights - See your source code with the eyes of a compiler
 - [0xZ0F/Z0FCourse_ReverseEngineering](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering) - Reverse engineering focusing on x64 Windows.
 - [h2oai/datatable](https://github.com/h2oai/datatable) - A Python package for manipulating 2-dimensional tabular data structures
-- [Tencent/Hippy](https://github.com/Tencent/Hippy) - A cross platform framework designed for Web developer. Introduction video - https://v.qq.com/x/page/i3038urj2mt.html
+- [Tencent/Hippy](https://github.com/Tencent/Hippy) - A cross platform framework designed for Web developer.
 - [jmairal/cyanure](https://github.com/jmairal/cyanure) - Cyanure: An Open-Source Toolbox for Empirical Risk Minimization
 - [TarsCloud/Tars](https://github.com/TarsCloud/Tars) - Tars is a high-performance RPC framework based on name service and Tars protocol, also integrated administration platform, and implemented hosting-service via flexible schedule.
 - [4ian/GDevelop](https://github.com/4ian/GDevelop) - :video_game: GDevelop is an open-source, cross-platform game engine designed to be used by everyone.
@@ -1794,7 +1794,7 @@
 - [gordicaleksa/pytorch-deepdream](https://github.com/gordicaleksa/pytorch-deepdream) - PyTorch implementation of DeepDream algorithm (Mordvintsev et al.). Additionally I've included playground.py to help you better understand basic concepts behind the algo.
 - [lambdaclass/options_backtester](https://github.com/lambdaclass/options_backtester) - Simple backtesting software for options
 - [haltakov/natural-language-youtube-search](https://github.com/haltakov/natural-language-youtube-search) - Search inside YouTube videos using natural language
-- [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧠 Implementations/tutorials of deep learning papers with side-by-side notes; including transformers (original, xl, switch, feedback), optimizers(adam, radam, adabelief), gans(dcgan, cyclegan, stylegan2), reinforcement learning (ppo, dqn), capsnet, sketch-rnn, etc.
+- [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧠 Implementations/tutorials of deep learning papers with side-by-side notes; including transformers (original, xl, switch, feedback, vit), optimizers(adam, radam, adabelief), gans(dcgan, cyclegan, stylegan2), reinforcement learning (ppo, dqn), capsnet, distillation, etc.
 - [kaesve/muzero](https://github.com/kaesve/muzero) - A clean implementation of MuZero and AlphaZero following the AlphaZero General framework. Train and Pit both algorithms against each other, and investigate reliability of learned MuZero MDP models.
 - [studio-ousia/luke](https://github.com/studio-ousia/luke) - LUKE -- Language Understanding with Knowledge-based Embeddings
 - [jmschrei/pomegranate](https://github.com/jmschrei/pomegranate) - Fast, flexible and easy to use probabilistic modelling in Python.
@@ -2178,7 +2178,7 @@
 - [nmhkahn/deep_learning_tutorial](https://github.com/nmhkahn/deep_learning_tutorial) - [ko] 패스트캠퍼스 강의 자료
 - [keitakurita/practical-torchtext](https://github.com/keitakurita/practical-torchtext) - A set of tutorials for torchtext
 - [nmhkahn/pytorch-exercise](https://github.com/nmhkahn/pytorch-exercise) - Practical Exercise Codes for PyTorch
-- [PaddlePaddle/DeepSpeech](https://github.com/PaddlePaddle/DeepSpeech) - A PaddlePaddle Speech to Text toolkit.
+- [PaddlePaddle/DeepSpeech](https://github.com/PaddlePaddle/DeepSpeech) - A PaddlePaddle Speech to Any toolkit.
 - [zhedongzheng/tensorflow-nlp](https://github.com/zhedongzheng/tensorflow-nlp) - NLP and Text Generation Experiments in TensorFlow 2.x / 1.x
 - [NVIDIA/tacotron2](https://github.com/NVIDIA/tacotron2) - Tacotron 2 - PyTorch implementation with faster-than-realtime inference
 - [microsoft/AcademicContent](https://github.com/microsoft/AcademicContent) - Free tech resources for faculty, students, researchers, life-long learners, and academic community builders for use in tech based courses, workshops, and hackathons.
@@ -2391,6 +2391,7 @@
 - [xiuyechen/FishExplorer](https://github.com/xiuyechen/FishExplorer) - interactive analysis of calcium imaging data from larval zebrafish
 - [lacerbi/vbmc](https://github.com/lacerbi/vbmc) - Variational Bayesian Monte Carlo (VBMC) algorithm for posterior and model inference in MATLAB
 - [cszn/SRMD](https://github.com/cszn/SRMD) - Learning a Single Convolutional Super-Resolution Network for Multiple Degradations (CVPR, 2018) (Matlab)
+- [posenhuang/deeplearningsourceseparation](https://github.com/posenhuang/deeplearningsourceseparation) - Deep Recurrent Neural Networks for Source Separation
 - [peiyunh/tiny](https://github.com/peiyunh/tiny) - Tiny Face Detector, CVPR 2017
 
 ## Makefile 
@@ -2417,7 +2418,6 @@
 - [anilbas/BFMLandmarks](https://github.com/anilbas/BFMLandmarks) - 68/21 Landmark points for Basel Face Model (3DMM)
 - [uddaloksarkar/TSP-using-Ant-colony-Optimization](https://github.com/uddaloksarkar/TSP-using-Ant-colony-Optimization) - An Ant colony Optimization Approach for solving Travelling Salesman Problem
 - [econti/cs229](https://github.com/econti/cs229) - Stanford CS229 (Autumn 2017)
-- [posenhuang/deeplearningsourceseparation](https://github.com/posenhuang/deeplearningsourceseparation) - Deep Recurrent Neural Networks for Source Separation
 - [chrislgarry/KalmanFilter](https://github.com/chrislgarry/KalmanFilter) - MATLAB implementation of a simple Kalman filter.
 
 ## NASL 
@@ -3026,6 +3026,8 @@
 
 ## Python 
 
+- [yzhangcs/parser](https://github.com/yzhangcs/parser) - State-of-the-art Dependency, Constituency and Semantic Dependency Parsers, with pretrained models for more than 19 languages.
+- [google-research/byt5](https://github.com/google-research/byt5) - 
 - [BaguaSys/bagua](https://github.com/BaguaSys/bagua) - Bagua is a flexible and performant distributed training algorithm development framework.
 - [deepmind/alphafold](https://github.com/deepmind/alphafold) - Open source code for AlphaFold.
 - [vturrisi/solo-learn](https://github.com/vturrisi/solo-learn) - solo-learn: a library of self-supervised methods for visual representation learning powered by Pytorch Lightning
@@ -3070,7 +3072,7 @@
 - [chenzhuoyu/mem-redis](https://github.com/chenzhuoyu/mem-redis) - A simple Redis Server implemented entirely in Python, using `asyncio`.
 - [jettify/pytorch-optimizer](https://github.com/jettify/pytorch-optimizer) - torch-optimizer -- collection of optimizers for Pytorch
 - [diegojromerolopez/gelidum](https://github.com/diegojromerolopez/gelidum) - Freeze your objects in python
-- [sooftware/openspeech](https://github.com/sooftware/openspeech) - Open-Source Toolkit for End-to-End Speech Recognition leveraging PyTorch-Lightning and Hydra.
+- [openspeech-team/openspeech](https://github.com/openspeech-team/openspeech) - Open-Source Toolkit for End-to-End Speech Recognition leveraging PyTorch-Lightning and Hydra.
 - [DreamLab/memoize](https://github.com/DreamLab/memoize) - Caching library for asynchronous Python applications.
 - [microsoft/DialoGPT](https://github.com/microsoft/DialoGPT) - Large-scale pretraining for dialogue
 - [laekov/fastmoe](https://github.com/laekov/fastmoe) - A fast MoE impl for PyTorch
@@ -3399,7 +3401,7 @@
 - [guildai/guildai](https://github.com/guildai/guildai) - Experiment tracking, ML developer tools
 - [garyelephant/pygrok](https://github.com/garyelephant/pygrok) - python implementation of jordansissel's grok regular expression library
 - [deepmind/bsuite](https://github.com/deepmind/bsuite) - bsuite is a collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is developer-friendly, open-source product analytics.
+- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics that you can self host.
 - [automl/auto-sklearn](https://github.com/automl/auto-sklearn) - Automated Machine Learning with scikit-learn
 - [quantumblacklabs/kedro](https://github.com/quantumblacklabs/kedro) - A Python framework for creating reproducible, maintainable and modular data science code.
 - [trondhindenes/Traefik-Flask-Opentracing-Blogpost](https://github.com/trondhindenes/Traefik-Flask-Opentracing-Blogpost) - Code for blog post
@@ -5546,7 +5548,7 @@
 - [facebookarchive/adversarial_image_defenses](https://github.com/facebookarchive/adversarial_image_defenses) - Countering Adversarial Image using Input Transformations.
 - [anttttti/Wordbatch](https://github.com/anttttti/Wordbatch) - Python library for distributed AI processing pipelines, using swappable scheduler backends.
 - [marl/dl4mir-tutorial](https://github.com/marl/dl4mir-tutorial) - 
-- [vitchyr/rlkit](https://github.com/vitchyr/rlkit) - Collection of reinforcement learning algorithms
+- [rail-berkeley/rlkit](https://github.com/rail-berkeley/rlkit) - Collection of reinforcement learning algorithms
 - [facebookresearch/poincare-embeddings](https://github.com/facebookresearch/poincare-embeddings) - PyTorch implementation of the NIPS-17 paper "Poincaré Embeddings for Learning Hierarchical Representations"
 - [MasterScrat/Chatistics](https://github.com/MasterScrat/Chatistics) - 💬 Python scripts to parse Messenger, Hangouts, WhatsApp and Telegram chat logs into DataFrames.
 - [dragen1860/LearningToCompare-Pytorch](https://github.com/dragen1860/LearningToCompare-Pytorch) - Pytorch Implementation for CVPR2018 Paper: Learning to Compare: Relation Network for Few-Shot Learning
@@ -6493,6 +6495,7 @@
 
 ## TypeScript 
 
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [kubeflow/metadata](https://github.com/kubeflow/metadata) - Repository for assets related to Metadata.
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [autoai-org/AID](https://github.com/autoai-org/AID) - One-Stop System for Machine Learning.
@@ -6603,6 +6606,7 @@
 
 ## Vim script 
 
+- [VundleVim/Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vundle, the plug-in manager for Vim
 - [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim distribution - The ultimate vim configuration
 - [fatih/vim-go](https://github.com/fatih/vim-go) - Go development plugin for Vim
 - [onivim/libvim](https://github.com/onivim/libvim) - libvim: The core Vim editing engine as a minimal C library
