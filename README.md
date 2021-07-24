@@ -96,6 +96,7 @@
 
 ## C 
 
+- [axboe/liburing](https://github.com/axboe/liburing) - 
 - [patrykstefanski/libfev](https://github.com/patrykstefanski/libfev) - A library for events and fibers
 - [vmxdev/tkvdb](https://github.com/vmxdev/tkvdb) - Trie key-value database
 - [bitly/dablooms](https://github.com/bitly/dablooms) - scaling, counting, bloom filter library
@@ -791,6 +792,8 @@
 
 ## Go 
 
+- [panjf2000/ants](https://github.com/panjf2000/ants) - 🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go, inspired by fasthttp./ ants 是一个高性能且低损耗的 goroutine 池。
+- [Iceber/iouring-go](https://github.com/Iceber/iouring-go) - Provides easy-to-use async IO interface with io_uring
 - [zhenghaoz/gorse](https://github.com/zhenghaoz/gorse) - An open source recommender system service written in Go
 - [lni/dragonboat](https://github.com/lni/dragonboat) - A feature complete and high performance multi-group Raft library in Go.
 - [mumax/3](https://github.com/mumax/3) - GPU-accelerated micromagnetic simulator
@@ -1832,7 +1835,6 @@
 - [harvardnlp/pytorch-struct](https://github.com/harvardnlp/pytorch-struct) - Fast, general, and tested differentiable structured prediction in PyTorch
 - [shaoanlu/fewshot-face-translation-GAN](https://github.com/shaoanlu/fewshot-face-translation-GAN) - Generative adversarial networks integrating modules from FUNIT and SPADE for face-swapping.
 - [deepmind/deepmind-research](https://github.com/deepmind/deepmind-research) - This repository contains implementations and illustrative code to accompany DeepMind publications
-- [tensorflow/gan](https://github.com/tensorflow/gan) - Tooling for GANs in TensorFlow
 - [christophM/interpretable-ml-book](https://github.com/christophM/interpretable-ml-book) - Book about interpretable machine learning
 - [dsgiitr/d2l-pytorch](https://github.com/dsgiitr/d2l-pytorch) - This project reproduces the book Dive Into Deep Learning (https://d2l.ai/), adapting the code from MXNet into PyTorch.
 - [makcedward/nlpaug](https://github.com/makcedward/nlpaug) - Data augmentation for NLP
@@ -2438,6 +2440,8 @@
 
 ## Others 
 
+- [Open-Speech-EkStep/vakyansh-models](https://github.com/Open-Speech-EkStep/vakyansh-models) - Open source speech to text models for Indic Languages
+- [rakyll/awesome-spanner](https://github.com/rakyll/awesome-spanner) - A curated list of awesome Google Cloud Spanner references, tools, libraries and more.
 - [gdamdam/awesome-decentralized-web](https://github.com/gdamdam/awesome-decentralized-web) - an awesome list of decentralized services and technologies
 - [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀
 - [heartexlabs/awesome-data-labeling](https://github.com/heartexlabs/awesome-data-labeling) - A curated list of awesome data labeling tools
@@ -3563,6 +3567,7 @@
 - [paulu/deepfeatinterp](https://github.com/paulu/deepfeatinterp) - Deep Feature Interpolation (CVPR 2017)
 - [tsproisl/SoMaJo](https://github.com/tsproisl/SoMaJo) - A tokenizer and sentence splitter for German and English web and social media texts.
 - [ICLRandD/Blackstone](https://github.com/ICLRandD/Blackstone) - :black_circle: A spaCy pipeline and model for NLP on unstructured legal text.
+- [tensorflow/gan](https://github.com/tensorflow/gan) - Tooling for GANs in TensorFlow
 - [nickmpaz/freereads](https://github.com/nickmpaz/freereads) - Command line application that provides a simple GUI for searching Library Genesis for books, downloading them, and emailing them to an Amazon Kindle.
 - [IDSIA/sacred](https://github.com/IDSIA/sacred) - Sacred is a tool to help you configure, organize, log and reproduce experiments developed at IDSIA.
 - [RameshAditya/scoper](https://github.com/RameshAditya/scoper) - Fuzzy and semantic search for captioned YouTube videos.
@@ -3656,7 +3661,7 @@
 - [sethmlarson/whatwg-url](https://github.com/sethmlarson/whatwg-url) - Python implementation of WHATWG URL Living Standard
 - [more-itertools/more-itertools](https://github.com/more-itertools/more-itertools) - More routines for operating on iterables, beyond itertools
 - [tobgu/pyrsistent](https://github.com/tobgu/pyrsistent) - Persistent/Immutable/Functional data structures for Python
-- [deepinsight/insightface](https://github.com/deepinsight/insightface) - Face Analysis Project on PyTorch and MXNet
+- [deepinsight/insightface](https://github.com/deepinsight/insightface) - State-of-the-art 2D and 3D Face Analysis Project
 - [facebookresearch/luckmatters](https://github.com/facebookresearch/luckmatters) - Understanding Training Dynamics of Deep ReLU Networks
 - [asyml/texar-pytorch](https://github.com/asyml/texar-pytorch) - Integrating the Best of TF into PyTorch, for Machine Learning, Natural Language Processing, and Text Generation.  This is part of the CASL project: http://casl-project.ai/
 - [APrioriInvestments/typed_python](https://github.com/APrioriInvestments/typed_python) - An llvm-based framework for generating and calling into high-performance native code from Python.
@@ -6617,7 +6622,7 @@
 
 ## Vue 
 
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥  The Open Source Airtable alternative.
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥  The Open Source Airtable alternative  - Powered by Vue.js 🚀 🚀
 - [HotPotatoC/twitter-clone](https://github.com/HotPotatoC/twitter-clone) - 🕊 Twitter Clone developed using Go + Vue 3 + Vite + TailwindCSS + PostgreSQL + Redis
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem https://hoppscotch.io
 - [Requarks/wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
