@@ -2440,6 +2440,7 @@
 
 ## Others 
 
+- [google-research-datasets/conceptual-12m](https://github.com/google-research-datasets/conceptual-12m) - Conceptual 12M is a dataset containing (image-URL, caption) pairs collected for vision-and-language pre-training.
 - [Open-Speech-EkStep/vakyansh-models](https://github.com/Open-Speech-EkStep/vakyansh-models) - Open source speech to text models for Indic Languages
 - [rakyll/awesome-spanner](https://github.com/rakyll/awesome-spanner) - A curated list of awesome Google Cloud Spanner references, tools, libraries and more.
 - [gdamdam/awesome-decentralized-web](https://github.com/gdamdam/awesome-decentralized-web) - an awesome list of decentralized services and technologies
@@ -3031,6 +3032,8 @@
 
 ## Python 
 
+- [facebookresearch/PAQ](https://github.com/facebookresearch/PAQ) - Code and data to support the paper "PAQ 65 Million Probably-Asked Questions andWhat You Can Do With Them"
+- [tunib-ai/parallelformers](https://github.com/tunib-ai/parallelformers) - Parallelformers: An Efficient Model Parallelization Toolkit for Deployment
 - [yzhangcs/parser](https://github.com/yzhangcs/parser) - State-of-the-art Dependency, Constituency and Semantic Dependency Parsers, with pretrained models for more than 19 languages.
 - [google-research/byt5](https://github.com/google-research/byt5) - 
 - [BaguaSys/bagua](https://github.com/BaguaSys/bagua) - Bagua is a flexible and performant distributed training algorithm development framework.
@@ -6123,6 +6126,7 @@
 
 ## Rust 
 
+- [tower-rs/tower](https://github.com/tower-rs/tower) - async fn(Request) -&gt; Result&lt;Response, Error&gt;
 - [zaeleus/noodles](https://github.com/zaeleus/noodles) - Bioinformatics I/O libraries in Rust
 - [rethinkdb/rethinkdb-rs](https://github.com/rethinkdb/rethinkdb-rs) - A native RethinkDB driver written in Rust
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
@@ -6633,6 +6637,7 @@
 
 ## Zig 
 
+- [lithdew/rheia](https://github.com/lithdew/rheia) - A blockchain written in Zig.
 - [coilhq/tigerbeetle](https://github.com/coilhq/tigerbeetle) - A purpose-built financial accounting database, designed for high-throughput low-latency two-phase prepare/commit transfers between accounts.
 - [ratfactor/ziglings](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs.
 - [lithdew/snow](https://github.com/lithdew/snow) - A small, fast, cross-platform, async Zig networking framework built on top of lithdew/pike.
