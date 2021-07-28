@@ -51,6 +51,7 @@
   - [OCaml](#ocaml)
   - [Others](#others)
   - [PHP](#php)
+  - [PLpgSQL](#plpgsql)
   - [POV-Ray SDL](#pov-ray-sdl)
   - [Perl](#perl)
   - [Pony](#pony)
@@ -1790,6 +1791,7 @@
 
 ## Jupyter Notebook 
 
+- [bmabey/pyLDAvis](https://github.com/bmabey/pyLDAvis) - Python library for interactive topic model visualization. Port of the R LDAvis package.
 - [mindslab-ai/wavegrad2](https://github.com/mindslab-ai/wavegrad2) - Unofficial Pytorch Implementation of WaveGrad2
 - [rasbt/deeplearning-models](https://github.com/rasbt/deeplearning-models) - A collection of various deep learning architectures, models, and tips
 - [whylabs/whylogs](https://github.com/whylabs/whylogs) - Profile and monitor your ML data pipeline end-to-end
@@ -3006,6 +3008,10 @@
 - [cookie-monstar/star-tracker](https://github.com/cookie-monstar/star-tracker) - CNN implementation to detect constellations in sky
 - [openml/OpenML](https://github.com/openml/OpenML) - Open Machine Learning
 
+## PLpgSQL 
+
+- [zombodb/zombodb](https://github.com/zombodb/zombodb) - Making Postgres and Elasticsearch work together like it's 2021
+
 ## POV-Ray SDL 
 
 - [projectchrono/chrono](https://github.com/projectchrono/chrono) - C++ library for multi-physics simulation
@@ -3038,6 +3044,7 @@
 
 ## Python 
 
+- [rkern/line_profiler](https://github.com/rkern/line_profiler) - (OLD REPO) Line-by-line profiling for Python - Current repo -&gt;
 - [facebookresearch/PAQ](https://github.com/facebookresearch/PAQ) - Code and data to support the paper "PAQ 65 Million Probably-Asked Questions andWhat You Can Do With Them"
 - [tunib-ai/parallelformers](https://github.com/tunib-ai/parallelformers) - Parallelformers: An Efficient Model Parallelization Toolkit for Deployment
 - [yzhangcs/parser](https://github.com/yzhangcs/parser) - State-of-the-art Dependency, Constituency and Semantic Dependency Parsers, with pretrained models for more than 19 languages.
@@ -3509,7 +3516,7 @@
 - [gdikov/hypertunity](https://github.com/gdikov/hypertunity) - A toolset for black-box hyperparameter optimisation.
 - [hendrycks/natural-adv-examples](https://github.com/hendrycks/natural-adv-examples) - A Harder ImageNet Test Set (CVPR 2021)
 - [python-gino/gino](https://github.com/python-gino/gino) - GINO Is Not ORM - a Python asyncio ORM on SQLAlchemy core.
-- [deepjyoti30/ytmdl](https://github.com/deepjyoti30/ytmdl) - A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, LastFM, Deezer, Gaana etc.
+- [deepjyoti30/ytmdl](https://github.com/deepjyoti30/ytmdl) - A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, Spotify, LastFM, Deezer, Gaana etc.
 - [nschloe/meshio](https://github.com/nschloe/meshio) - :spider_web: input/output for many mesh formats
 - [Kayzaks/HackingNeuralNetworks](https://github.com/Kayzaks/HackingNeuralNetworks) - A small course on exploiting and defending neural networks
 - [cgnorthcutt/cleanlab](https://github.com/cgnorthcutt/cleanlab) - The standard package for machine learning with noisy labels and finding mislabeled data. Works with most datasets and models.
@@ -4821,7 +4828,7 @@
 - [CSAILVision/semantic-segmentation-pytorch](https://github.com/CSAILVision/semantic-segmentation-pytorch) - Pytorch implementation for Semantic Segmentation/Scene Parsing on MIT ADE20K dataset
 - [Mariewelt/OpenChem](https://github.com/Mariewelt/OpenChem) - OpenChem: Deep Learning toolkit for Computational Chemistry and Drug Design Research
 - [cbrueffer/pep8-git-hook](https://github.com/cbrueffer/pep8-git-hook) - Git pre-commit hook that checks for Python PEP8 style compliance.
-- [fperazzi/proSR](https://github.com/fperazzi/proSR) - Repository containing an independent implementation of the paper: "A Fully Progressive Approach to Single-Image Super-Resolution"
+- [fperazzi-zz/proSR](https://github.com/fperazzi-zz/proSR) - Repository containing an independent implementation of the paper: "A Fully Progressive Approach to Single-Image Super-Resolution"
 - [hyperopt/hyperopt](https://github.com/hyperopt/hyperopt) - Distributed Asynchronous Hyperparameter Optimization in Python
 - [Kyubyong/transformer](https://github.com/Kyubyong/transformer) - A TensorFlow Implementation of the Transformer: Attention Is All You Need
 - [saranshkarira/Fastest-Object-Detector-of-PyTorch](https://github.com/saranshkarira/Fastest-Object-Detector-of-PyTorch) - This Toolkit is the fastest way to train YOLO-v2 with your own custom dataset from scratch including annotating part
@@ -5163,7 +5170,7 @@
 - [mitmul/chainer-siamese](https://github.com/mitmul/chainer-siamese) - Siamese Network implementation using Chainer
 - [zijundeng/pytorch-semantic-segmentation](https://github.com/zijundeng/pytorch-semantic-segmentation) - PyTorch for Semantic Segmentation
 - [IssamLaradji/BlockCoordinateDescent](https://github.com/IssamLaradji/BlockCoordinateDescent) - Code for the paper "Let’s Make Block Coordinate Descent Go Fast"
-- [monk1337/Various-Attention-mechanisms](https://github.com/monk1337/Various-Attention-mechanisms) - This repository contain various types of attention mechanism like Bahdanau , Soft attention , Additive Attention , Hierarchical Attention etc
+- [camus1337/Various-Attention-mechanisms](https://github.com/camus1337/Various-Attention-mechanisms) - This repository contain various types of attention mechanism like Bahdanau , Soft attention , Additive Attention , Hierarchical Attention etc
 - [akirafukui/vqa-mcb](https://github.com/akirafukui/vqa-mcb) - 
 - [farizrahman4u/recurrentshop](https://github.com/farizrahman4u/recurrentshop) - Framework for building complex recurrent neural networks with Keras
 - [bhpfelix/Variational-Autoencoder-PyTorch](https://github.com/bhpfelix/Variational-Autoencoder-PyTorch) - Variational Autoencoder implemented with PyTorch, Trained over CelebA Dataset
@@ -6152,7 +6159,6 @@
 - [Thomasdezeeuw/heph](https://github.com/Thomasdezeeuw/heph) - Heph is an actor framework for Rust based on asynchronous functions.
 - [stateright/stateright](https://github.com/stateright/stateright) - A model checker for implementing distributed systems.
 - [constellation-rs/amadeus](https://github.com/constellation-rs/amadeus) - Harmonious distributed data analysis in Rust.
-- [zombodb/zombodb](https://github.com/zombodb/zombodb) - Making Postgres and Elasticsearch work together like it's 2021
 - [paritytech/substrate](https://github.com/paritytech/substrate) - Substrate: The platform for blockchain innovators
 - [raskr/rust-autograd](https://github.com/raskr/rust-autograd) - Tensors and differentiable operations (like TensorFlow) in Rust
 - [flouthoc/vas-quod](https://github.com/flouthoc/vas-quod) - :aerial_tramway: Minimal linux container runtime.
