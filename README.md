@@ -6139,6 +6139,9 @@
 
 ## Rust 
 
+- [DataDog/glommio](https://github.com/DataDog/glommio) - Glommio is a thread-per-core framework that aims to make the task of writing highly parallel asynchronous application in a thread-per-core architecture easier for rustaceans
+- [tokio-rs/io-uring](https://github.com/tokio-rs/io-uring) - The `io_uring` library for Rust
+- [spacejam/rio](https://github.com/spacejam/rio) - pure rust io_uring library, built on libc, thread & async friendly, misuse resistant
 - [tower-rs/tower](https://github.com/tower-rs/tower) - async fn(Request) -&gt; Result&lt;Response, Error&gt;
 - [zaeleus/noodles](https://github.com/zaeleus/noodles) - Bioinformatics I/O libraries in Rust
 - [rethinkdb/rethinkdb-rs](https://github.com/rethinkdb/rethinkdb-rs) - A native RethinkDB driver written in Rust
