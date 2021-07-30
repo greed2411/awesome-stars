@@ -662,7 +662,7 @@
 - [fmnoise/zakon](https://github.com/fmnoise/zakon) - Declarative Clojure authorization
 - [riemann/riemann](https://github.com/riemann/riemann) - A network event stream processing system, in Clojure.
 - [retro/penkala](https://github.com/retro/penkala) - Composable query builder for PostgreSQL written in Clojure.
-- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source(frontend now, backend later) platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
 - [clj-kondo/clj-kondo](https://github.com/clj-kondo/clj-kondo) - A linter for Clojure code that sparks joy.
 - [babashka/babashka](https://github.com/babashka/babashka) - Native, fast starting Clojure interpreter for scripting
 - [clojurewerkz/ogre](https://github.com/clojurewerkz/ogre) - Clojure library for querying Apache TinkerPop graphs
@@ -922,7 +922,7 @@
 - [fvbock/endless](https://github.com/fvbock/endless) - Zero downtime restarts for go servers (Drop in replacement for http.ListenAndServe)
 - [tylertreat/BoomFilters](https://github.com/tylertreat/BoomFilters) - Probabilistic data structures for processing continuous, unbounded streams.
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
-- [motemen/gore](https://github.com/motemen/gore) - Yet another Go REPL that works nicely. Featured with line editing, code completion, and more.
+- [x-motemen/gore](https://github.com/x-motemen/gore) - Yet another Go REPL that works nicely. Featured with line editing, code completion, and more.
 - [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
 - [geohot/minikeyvalue](https://github.com/geohot/minikeyvalue) - A distributed key value store in under 1000 lines. Used in production at comma.ai
 - [stellar/go](https://github.com/stellar/go) - Stellar's public monorepo of go code
@@ -2448,6 +2448,7 @@
 
 ## Others 
 
+- [clvrai/awesome-rl-envs](https://github.com/clvrai/awesome-rl-envs) - 
 - [google-research-datasets/conceptual-12m](https://github.com/google-research-datasets/conceptual-12m) - Conceptual 12M is a dataset containing (image-URL, caption) pairs collected for vision-and-language pre-training.
 - [Open-Speech-EkStep/vakyansh-models](https://github.com/Open-Speech-EkStep/vakyansh-models) - Open source speech to text models for Indic Languages
 - [rakyll/awesome-spanner](https://github.com/rakyll/awesome-spanner) - A curated list of awesome Google Cloud Spanner references, tools, libraries and more.
@@ -5777,7 +5778,7 @@
 - [explosion/spacymoji](https://github.com/explosion/spacymoji) - 💙 Emoji handling and meta data for spaCy with custom extension attributes
 - [tensorflow/lattice](https://github.com/tensorflow/lattice) - Lattice methods in TensorFlow
 - [tpsatish95/indus-script-ocr](https://github.com/tpsatish95/indus-script-ocr) - The Indus script optical grapheme recognition engine (from archaeological artifact images)
-- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first
+- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation and energy management that puts local control and privacy first.
 - [mattupstate/flask-security](https://github.com/mattupstate/flask-security) - Quick and simple security for Flask applications
 - [maxcountryman/flask-seasurf](https://github.com/maxcountryman/flask-seasurf) - SeaSurf is a Flask extension for preventing cross-site request forgery (CSRF).
 - [ask/flask-celery](https://github.com/ask/flask-celery) - Celery integration for Flask (SINCE CELERY 3.0 THIS IS NO LONGER NEEDED)
@@ -6139,6 +6140,7 @@
 
 ## Rust 
 
+- [ringbahn/ringbahn](https://github.com/ringbahn/ringbahn) - safe bindings to io-uring
 - [DataDog/glommio](https://github.com/DataDog/glommio) - Glommio is a thread-per-core framework that aims to make the task of writing highly parallel asynchronous application in a thread-per-core architecture easier for rustaceans
 - [tokio-rs/io-uring](https://github.com/tokio-rs/io-uring) - The `io_uring` library for Rust
 - [spacejam/rio](https://github.com/spacejam/rio) - pure rust io_uring library, built on libc, thread & async friendly, misuse resistant
@@ -6548,7 +6550,7 @@
 - [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [aws/jsii](https://github.com/aws/jsii) - jsii allows code in any language to naturally interact with JavaScript classes. It is the technology that enables the AWS Cloud Development Kit to deliver polyglot libraries from a single codebase!
-- [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server & SQLite
+- [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite & MongoDB (Preview)
 - [inkandswitch/cambria](https://github.com/inkandswitch/cambria) - Schema evolution with bi-directional lenses.
 - [quasilyte/gopherkon](https://github.com/quasilyte/gopherkon) - Go mascot image constructor. Create your cute own gopher.
 - [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
@@ -6652,6 +6654,7 @@
 
 ## Zig 
 
+- [MasterQ32/asciitable](https://github.com/MasterQ32/asciitable) - A very basic tool that just prints the ascii table
 - [lithdew/rheia](https://github.com/lithdew/rheia) - A blockchain written in Zig.
 - [coilhq/tigerbeetle](https://github.com/coilhq/tigerbeetle) - A purpose-built financial accounting database, designed for high-throughput low-latency two-phase prepare/commit transfers between accounts.
 - [ratfactor/ziglings](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs.
