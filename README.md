@@ -6141,6 +6141,8 @@
 
 ## Rust 
 
+- [rustwasm/gloo](https://github.com/rustwasm/gloo) - A modular toolkit for building fast, reliable Web applications and libraries with Rust and Wasm
+- [smol-rs/smol](https://github.com/smol-rs/smol) - A small and fast async runtime for Rust
 - [ringbahn/ringbahn](https://github.com/ringbahn/ringbahn) - safe bindings to io-uring
 - [DataDog/glommio](https://github.com/DataDog/glommio) - Glommio is a thread-per-core framework that aims to make the task of writing highly parallel asynchronous application in a thread-per-core architecture easier for rustaceans
 - [tokio-rs/io-uring](https://github.com/tokio-rs/io-uring) - The `io_uring` library for Rust
