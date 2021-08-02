@@ -6141,6 +6141,7 @@
 
 ## Rust 
 
+- [hora-search/hora](https://github.com/hora-search/hora) - 🚀  efficient approximate nearest neighbor search algorithm collections library, which implemented with Rust 🦀.
 - [rustwasm/gloo](https://github.com/rustwasm/gloo) - A modular toolkit for building fast, reliable Web applications and libraries with Rust and Wasm
 - [smol-rs/smol](https://github.com/smol-rs/smol) - A small and fast async runtime for Rust
 - [ringbahn/ringbahn](https://github.com/ringbahn/ringbahn) - safe bindings to io-uring
