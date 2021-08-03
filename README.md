@@ -372,6 +372,7 @@
 - [facebookresearch/minirts](https://github.com/facebookresearch/minirts) - We release dataset collected for our research, code that implement neural network models described in the paper, and scripts to reproduce all of our results, and visualization tool for visualize dataset.
 - [igushev/IgushArray](https://github.com/igushev/IgushArray) - 
 - [vesoft-inc/nebula](https://github.com/vesoft-inc/nebula) - A distributed, fast open-source graph database featuring horizontal scalability and high availability
+- [google/differential-privacy](https://github.com/google/differential-privacy) - Google's differential privacy libraries.
 - [google/bloaty](https://github.com/google/bloaty) - Bloaty McBloatface: a size profiler for binaries
 - [eBay/NuRaft](https://github.com/eBay/NuRaft) - C++ implementation of Raft core logic as a replication library
 - [mitsuba-renderer/enoki](https://github.com/mitsuba-renderer/enoki) - Enoki: structured vectorization and differentiation on modern processor architectures
@@ -654,6 +655,7 @@
 
 ## Clojure 
 
+- [jepsen-io/jepsen](https://github.com/jepsen-io/jepsen) - A framework for distributed systems verification, with fault injection
 - [edn-query-language/eql](https://github.com/edn-query-language/eql) - EQL is a declarative way to make hierarchical (and possibly nested) selections of information about data requirements. This repository contains the base specs and definitions for EQL parsing, AST, etc.
 - [clojurenlp/core](https://github.com/clojurenlp/core) - Clojure wrapper for the Stanford CoreNLP Java library
 - [polyfy/polylith](https://github.com/polyfy/polylith) - A tool used to develop Polylith based architectures in Clojure.
@@ -795,6 +797,9 @@
 
 ## Go 
 
+- [lesismal/arpc](https://github.com/lesismal/arpc) - More effective network communication, two-way calling, notify and broadcast supported.
+- [lesismal/nbio](https://github.com/lesismal/nbio) - High-performance, non-blocking, event-driven, easy-to-use networking framework written in Go, support tls/http1.x/websocket.
+- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 - [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie.
 - [boltdb/bolt](https://github.com/boltdb/bolt) - An embedded key/value database for Go.
 - [etcd-io/bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go.
@@ -1245,7 +1250,6 @@
 - [bfenetworks/bfe](https://github.com/bfenetworks/bfe) - A modern layer 7 load balancer from baidu
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
-- [google/differential-privacy](https://github.com/google/differential-privacy) - Google's differential privacy libraries.
 - [logrange/logrange](https://github.com/logrange/logrange) - High performance data aggregating storage
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite
 - [libp2p/go-libp2p-pubsub](https://github.com/libp2p/go-libp2p-pubsub) - The PubSub implementation for go-libp2p
@@ -1867,6 +1871,7 @@
 - [mosheman5/DNP](https://github.com/mosheman5/DNP) - Audio Denoising with Deep Network Priors
 - [google/neural-tangents](https://github.com/google/neural-tangents) - Fast and Easy Infinite Neural Networks in Python
 - [IDEA-NTHU-Taiwan/PatternTutorial](https://github.com/IDEA-NTHU-Taiwan/PatternTutorial) - A Graph-based Pattern Representations Tutorial
+- [probml/pyprobml](https://github.com/probml/pyprobml) - Python code for "Machine learning: a probabilistic perspective" (2nd edition)
 - [timnon/pyschedule](https://github.com/timnon/pyschedule) - pyschedule - resource scheduling in python
 - [successar/AttentionExplanation](https://github.com/successar/AttentionExplanation) - 
 - [jorwalk/data-engineering-gcp](https://github.com/jorwalk/data-engineering-gcp) - Data Engineering on Google Cloud Platform
@@ -3046,6 +3051,7 @@
 
 ## Python 
 
+- [chakki-works/seqeval](https://github.com/chakki-works/seqeval) - A Python framework for sequence labeling evaluation(named-entity recognition, pos tagging, etc...)
 - [rkern/line_profiler](https://github.com/rkern/line_profiler) - (OLD REPO) Line-by-line profiling for Python - Current repo -&gt;
 - [facebookresearch/PAQ](https://github.com/facebookresearch/PAQ) - Code and data to support the paper "PAQ 65 Million Probably-Asked Questions andWhat You Can Do With Them"
 - [tunib-ai/parallelformers](https://github.com/tunib-ai/parallelformers) - Parallelformers: An Efficient Model Parallelization Toolkit for Deployment
@@ -3876,7 +3882,6 @@
 - [facebookresearch/LAMA](https://github.com/facebookresearch/LAMA) - LAnguage Model Analysis
 - [Roulbac/GanSeg](https://github.com/Roulbac/GanSeg) - Framework for medical image segmentation using deep neural networks
 - [ets-labs/python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) - Dependency injection framework for Python
-- [probml/pyprobml](https://github.com/probml/pyprobml) - Python code for "Machine learning: a probabilistic perspective" (2nd edition)
 - [ruotianluo/Context-aware-ZSR](https://github.com/ruotianluo/Context-aware-ZSR) - Official code for paper Context-aware Zero-shot Recognition (https://arxiv.org/abs/1904.09320 to appear at AAAI2020)
 - [ethereum/py-solc](https://github.com/ethereum/py-solc) - Python wrapper around the solc Solidity compiler.
 - [eth-brownie/brownie](https://github.com/eth-brownie/brownie) - A Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.
@@ -5779,7 +5784,7 @@
 - [explosion/spacymoji](https://github.com/explosion/spacymoji) - 💙 Emoji handling and meta data for spaCy with custom extension attributes
 - [tensorflow/lattice](https://github.com/tensorflow/lattice) - Lattice methods in TensorFlow
 - [tpsatish95/indus-script-ocr](https://github.com/tpsatish95/indus-script-ocr) - The Indus script optical grapheme recognition engine (from archaeological artifact images)
-- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation and energy management that puts local control and privacy first.
+- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [mattupstate/flask-security](https://github.com/mattupstate/flask-security) - Quick and simple security for Flask applications
 - [maxcountryman/flask-seasurf](https://github.com/maxcountryman/flask-seasurf) - SeaSurf is a Flask extension for preventing cross-site request forgery (CSRF).
 - [ask/flask-celery](https://github.com/ask/flask-celery) - Celery integration for Flask (SINCE CELERY 3.0 THIS IS NO LONGER NEEDED)
@@ -6141,7 +6146,7 @@
 
 ## Rust 
 
-- [hora-search/hora](https://github.com/hora-search/hora) - 🚀  efficient approximate nearest neighbor search algorithm collections library, which implemented with Rust 🦀.
+- [hora-search/hora](https://github.com/hora-search/hora) - 🚀  efficient approximate nearest neighbor search algorithm collections library written in Rust 🦀 .
 - [rustwasm/gloo](https://github.com/rustwasm/gloo) - A modular toolkit for building fast, reliable Web applications and libraries with Rust and Wasm
 - [smol-rs/smol](https://github.com/smol-rs/smol) - A small and fast async runtime for Rust
 - [ringbahn/ringbahn](https://github.com/ringbahn/ringbahn) - safe bindings to io-uring
@@ -6223,7 +6228,7 @@
 - [mit-pdos/RVirt](https://github.com/mit-pdos/RVirt) - RISC-V hypervisor written in Rust
 - [async-rs/async-std](https://github.com/async-rs/async-std) - Async version of the Rust standard library
 - [AdamNiederer/faster](https://github.com/AdamNiederer/faster) - SIMD for humans
-- [skytable/skytable](https://github.com/skytable/skytable) - Skytable is an extremely fast, secure and reliable real-time NoSQL database with automated snapshots and SSL
+- [skytable/skytable](https://github.com/skytable/skytable) - Skytable is an extremely fast, secure and reliable real-time NoSQL database with automated snapshots and TLS
 - [paulchernoch/shy](https://github.com/paulchernoch/shy) - Shunting Yard Rule Engine in Rust
 - [amethyst/laminar](https://github.com/amethyst/laminar) - A simple semi-reliable UDP protocol for multiplayer games
 - [kyren/webrtc-unreliable](https://github.com/kyren/webrtc-unreliable) - Just enough hacks to get unreliable unordered WebRTC data channels between a browser and a server
