@@ -747,7 +747,6 @@
 
 ## Dockerfile 
 
-- [webrtc-for-the-curious/webrtc-for-the-curious](https://github.com/webrtc-for-the-curious/webrtc-for-the-curious) - WebRTC for the Curious: Go beyond the APIs
 - [valerauko/clojure-graalvm-native](https://github.com/valerauko/clojure-graalvm-native) - Docker image for building Clojure GraalVM native images
 - [cclauss/GitHub-Action-for-pytest](https://github.com/cclauss/GitHub-Action-for-pytest) - A GitHub Action to run a pytest command when new code is pushed into your repo
 - [codingCoffee/fahclient](https://github.com/codingCoffee/fahclient) - Dockerized Folding@home client with NVIDIA GPU support to help battle COVID-19
@@ -1422,7 +1421,6 @@
 ## Hy 
 
 - [hylang/hydiomatic](https://github.com/hylang/hydiomatic) - The Hy Transformer
-- [hylang/hy](https://github.com/hylang/hy) - A dialect of Lisp that's embedded in Python
 - [h2non/siringa](https://github.com/h2non/siringa) - Minimalist dependency injection library for Python that embraces type annotations syntax
 
 ## Idris 
@@ -3051,6 +3049,7 @@
 
 ## Python 
 
+- [XuehaiPan/nvitop](https://github.com/XuehaiPan/nvitop) - An interactive NVIDIA-GPU process viewer, the one-stop solution for GPU process management.
 - [chakki-works/seqeval](https://github.com/chakki-works/seqeval) - A Python framework for sequence labeling evaluation(named-entity recognition, pos tagging, etc...)
 - [rkern/line_profiler](https://github.com/rkern/line_profiler) - (OLD REPO) Line-by-line profiling for Python - Current repo -&gt;
 - [facebookresearch/PAQ](https://github.com/facebookresearch/PAQ) - Code and data to support the paper "PAQ 65 Million Probably-Asked Questions andWhat You Can Do With Them"
@@ -3321,10 +3320,10 @@
 - [kkroening/ffmpeg-python](https://github.com/kkroening/ffmpeg-python) - Python bindings for FFmpeg - with complex filtering support
 - [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper) - A Smart, Automatic, Fast and Lightweight Web Scraper for Python
 - [as-ideas/TransformerTTS](https://github.com/as-ideas/TransformerTTS) - 🤖💬 Transformer TTS: Implementation of a non-autoregressive Transformer based neural network for text to speech.
+- [webrtc-for-the-curious/webrtc-for-the-curious](https://github.com/webrtc-for-the-curious/webrtc-for-the-curious) - WebRTC for the Curious: Go beyond the APIs
 - [trailofbits/graphtage](https://github.com/trailofbits/graphtage) - A semantic diff utility and library for tree-like files such as JSON, JSON5, XML, HTML, YAML, and CSV.
 - [Ericsson/eva](https://github.com/Ericsson/eva) - EVA is a web-based tool for efficient annotation of videos and image sequences and has an additional tracking capabilities
 - [hirofumi0810/neural_sp](https://github.com/hirofumi0810/neural_sp) - End-to-end ASR/LM implementation with PyTorch
-- [heroxbd/waveform-analysis](https://github.com/heroxbd/waveform-analysis) - Waveform analysis for reviewing all the effective methods.
 - [SforAiDl/genrl](https://github.com/SforAiDl/genrl) - A PyTorch reinforcement learning library for generalizable and reproducible algorithm implementations with an aim to improve accessibility in RL
 - [SamStudio8/hansel](https://github.com/SamStudio8/hansel) - A graph-inspired data structure for determining likely chains of sequences from breadcrumbs of evidence
 - [luvsound/pippi](https://github.com/luvsound/pippi) - computer music with python
@@ -3615,6 +3614,7 @@
 - [8080labs/pyforest](https://github.com/8080labs/pyforest) - pyforest - feel the bliss of automated imports
 - [swansonk14/p_tqdm](https://github.com/swansonk14/p_tqdm) - Parallel processing with progress bars
 - [nvbn/anndi](https://github.com/nvbn/anndi) - Experimental dependency injection that uses annotations.
+- [hylang/hy](https://github.com/hylang/hy) - A dialect of Lisp that's embedded in Python
 - [rushter/selectolax](https://github.com/rushter/selectolax) - Python binding to Modest engine (fast HTML5 parser with CSS selectors).
 - [hzlmn/diy-async-web-framework](https://github.com/hzlmn/diy-async-web-framework) - Learn how modern async web frameworks work, by writing simple clone from scratch
 - [boydfd/tqdm_multi_thread](https://github.com/boydfd/tqdm_multi_thread) - A tqdm multi-thread helper
@@ -6507,6 +6507,7 @@
 
 ## TeX 
 
+- [heroxbd/waveform-analysis](https://github.com/heroxbd/waveform-analysis) - Waveform analysis for reviewing all the effective methods.
 - [liuxinyu95/unplugged](https://github.com/liuxinyu95/unplugged) - Open book about math and programming.
 - [optimass/continual_learning_papers](https://github.com/optimass/continual_learning_papers) - Relevant papers in Continual Learning
 - [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source
