@@ -15,6 +15,7 @@
   - [Clojure](#clojure)
   - [Coq](#coq)
   - [Cuda](#cuda)
+  - [Cython](#cython)
   - [D](#d)
   - [DIGITAL Command Language](#digital-command-language)
   - [Dockerfile](#dockerfile)
@@ -737,6 +738,11 @@
 - [luanfujun/deep-painterly-harmonization](https://github.com/luanfujun/deep-painterly-harmonization) - Code and data for paper "Deep Painterly Harmonization": https://arxiv.org/abs/1804.03189
 - [hujie-frank/SENet](https://github.com/hujie-frank/SENet) - Squeeze-and-Excitation Networks
 
+## Cython 
+
+- [rushter/selectolax](https://github.com/rushter/selectolax) - Python binding to Modest engine (fast HTML5 parser with CSS selectors).
+- [MagicStack/uvloop](https://github.com/MagicStack/uvloop) - Ultra fast asyncio event loop.
+
 ## D 
 
 - [Netflix/vectorflow](https://github.com/Netflix/vectorflow) - 
@@ -796,6 +802,7 @@
 
 ## Go 
 
+- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀
 - [bchadwic/gh-graph](https://github.com/bchadwic/gh-graph) - An extension for the GitHub Cli application that displays your current contribution graph
 - [platoneko/tinykv](https://github.com/platoneko/tinykv) - Talent Plan 2.0
 - [lesismal/arpc](https://github.com/lesismal/arpc) - More effective network communication, two-way calling, notify and broadcast supported.
@@ -1537,6 +1544,7 @@
 
 ## JavaScript 
 
+- [Vernacular-ai/dagre-py](https://github.com/Vernacular-ai/dagre-py) - Thin python wrapper around dagre-d3
 - [laxyapahuja/bunken](https://github.com/laxyapahuja/bunken) - A chrome extension to download ebooks directly from Goodreads.
 - [serverless/serverless-kubeless](https://github.com/serverless/serverless-kubeless) - This plugin enables support for Kubeless within the Serverless Framework.
 - [google/bottery](https://github.com/google/bottery) - 
@@ -3383,7 +3391,7 @@
 - [VPanjeta/ModiScript](https://github.com/VPanjeta/ModiScript) - Acche din aa gaye
 - [bhaveshpraveen/aiocrontab](https://github.com/bhaveshpraveen/aiocrontab) - Crontab implementation in asyncio
 - [PhoenixDL/rising](https://github.com/PhoenixDL/rising) - Provides everything needed for high performance data loading and augmentation in pytorch.
-- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use NLP datasets for ML models with fast, easy-to-use and efficient data manipulation tools
+- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [erikrose/blessings](https://github.com/erikrose/blessings) - A thin, practical wrapper around terminal capabilities in Python
 - [irahorecka/youtube2audio](https://github.com/irahorecka/youtube2audio) - GUI application to download YouTube videos as annotated MP3 or MP4 files
 - [litl/backoff](https://github.com/litl/backoff) - Python library providing function decorators for configurable backoff and retry
@@ -3619,7 +3627,6 @@
 - [swansonk14/p_tqdm](https://github.com/swansonk14/p_tqdm) - Parallel processing with progress bars
 - [nvbn/anndi](https://github.com/nvbn/anndi) - Experimental dependency injection that uses annotations.
 - [hylang/hy](https://github.com/hylang/hy) - A dialect of Lisp that's embedded in Python
-- [rushter/selectolax](https://github.com/rushter/selectolax) - Python binding to Modest engine (fast HTML5 parser with CSS selectors).
 - [hzlmn/diy-async-web-framework](https://github.com/hzlmn/diy-async-web-framework) - Learn how modern async web frameworks work, by writing simple clone from scratch
 - [boydfd/tqdm_multi_thread](https://github.com/boydfd/tqdm_multi_thread) - A tqdm multi-thread helper
 - [Tencent/MedicalNet](https://github.com/Tencent/MedicalNet) - Many studies have shown that the performance on deep learning is significantly affected by volume of training data. The MedicalNet project provides a series of 3D-ResNet pre-trained models and relative code.
@@ -5775,7 +5782,6 @@
 - [openai/generating-reviews-discovering-sentiment](https://github.com/openai/generating-reviews-discovering-sentiment) - Code for "Learning to Generate Reviews and Discovering Sentiment"
 - [victorneo/Twitter-Sentimental-Analysis](https://github.com/victorneo/Twitter-Sentimental-Analysis) - 
 - [airbnb/streamalert](https://github.com/airbnb/streamalert) - StreamAlert is a serverless, realtime data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using datasources and alerting logic you define.
-- [MagicStack/uvloop](https://github.com/MagicStack/uvloop) - Ultra fast asyncio event loop.
 - [sanic-org/sanic](https://github.com/sanic-org/sanic) - Async Python 3.7+ web server/framework | Build fast. Run fast.
 - [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [Kyubyong/wordvectors](https://github.com/Kyubyong/wordvectors) - Pre-trained word vectors of 30+ languages
