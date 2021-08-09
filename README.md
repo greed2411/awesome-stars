@@ -5023,7 +5023,7 @@
 - [eyaler/word2vec-slim](https://github.com/eyaler/word2vec-slim) - word2vec Google News model slimmed down to 300k English words
 - [Scitator/Run-Skeleton-Run](https://github.com/Scitator/Run-Skeleton-Run) - Reason8.ai PyTorch solution for NIPS RL 2017 challenge
 - [tonysy/Deep-Feature-Flow-Segmentation](https://github.com/tonysy/Deep-Feature-Flow-Segmentation) - Deep Feature Flow for Video Semantic Segmentation
-- [ansleliu/LightNet](https://github.com/ansleliu/LightNet) - LightNet: Light-weight Networks for Semantic Image Segmentation (Cityscapes and Mapillary Vistas Dataset)
+- [linksense/LightNet](https://github.com/linksense/LightNet) - LightNet: Light-weight Networks for Semantic Image Segmentation (Cityscapes and Mapillary Vistas Dataset)
 - [autonomio/talos](https://github.com/autonomio/talos) - Hyperparameter Optimization for TensorFlow, Keras and PyTorch
 - [bloomsburyai/cape-webservices](https://github.com/bloomsburyai/cape-webservices) - Entrypoint for all backend cape webservices
 - [karthik4444/nn-trajectory-prediction](https://github.com/karthik4444/nn-trajectory-prediction) - 
