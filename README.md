@@ -1206,7 +1206,7 @@
 - [harrybrwn/apizza](https://github.com/harrybrwn/apizza) - Order Dominos pizza from the command line
 - [jondot/crunch](https://github.com/jondot/crunch) - A fast to develop, fast to run, Go based toolkit for ETL and feature extraction on Hadoop.
 - [chrislusf/vasto](https://github.com/chrislusf/vasto) - A distributed key-value store. On Disk. Able to grow or shrink without service interruption.
-- [chrislusf/seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a distributed storage system for blobs, objects, files, and data lake, to store and serve billions of files fast! Blob store has O(1) disk seek, local tiering, cloud tiering. Filer supports cross-cluster active-active replication, Kubernetes, POSIX, S3 API, encryption, Erasure Coding for warm storage, FUSE mount, Hadoop, WebDAV.
+- [chrislusf/seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, local tiering, cloud tiering. Filer supports cross-cluster active-active replication, Kubernetes, POSIX, S3 API, encryption, Erasure Coding for warm storage, FUSE mount, Hadoop, WebDAV, mount cloud storage.
 - [chrislusf/gleam](https://github.com/chrislusf/gleam) - Fast, efficient, and scalable distributed map/reduce system, DAG execution, in memory or on disk, written in pure Go, runs standalone or distributedly.
 - [chrislusf/glow](https://github.com/chrislusf/glow) - Glow is an easy-to-use distributed computation system written in Go, similar to Hadoop Map Reduce, Spark, Flink, Storm, etc. I am also working on another similar pure Go system, https://github.com/chrislusf/gleam , which is more flexible and more performant.
 - [gocql/gocql](https://github.com/gocql/gocql) - Package gocql implements a fast and robust Cassandra client for the Go programming language.
@@ -2468,6 +2468,7 @@
 
 ## Others 
 
+- [manuzhang/awesome-streaming](https://github.com/manuzhang/awesome-streaming) - a curated list of awesome streaming frameworks, applications, etc
 - [clvrai/awesome-rl-envs](https://github.com/clvrai/awesome-rl-envs) - 
 - [google-research-datasets/conceptual-12m](https://github.com/google-research-datasets/conceptual-12m) - Conceptual 12M is a dataset containing (image-URL, caption) pairs collected for vision-and-language pre-training.
 - [Open-Speech-EkStep/vakyansh-models](https://github.com/Open-Speech-EkStep/vakyansh-models) - Open source speech to text models for Indic Languages
@@ -2662,7 +2663,7 @@
 - [lw-lin/streaming-readings](https://github.com/lw-lin/streaming-readings) - Streaming System 相关的论文读物
 - [mmcgrana/services-engineering](https://github.com/mmcgrana/services-engineering) - A reading list for services engineering, with a focus on cloud infrastructure services
 - [xgrommx/awesome-functional-programming](https://github.com/xgrommx/awesome-functional-programming) - Yet another resource for collecting articles, videos etc. regarding functional programming
-- [sheqi/GAN_Review](https://github.com/sheqi/GAN_Review) - A Survey and Taxonomy of the Recent GANs Development & GAN-based Action Recognition Implementations
+- [sheqi/GAN_Review](https://github.com/sheqi/GAN_Review) - A Survey and Taxonomy of the Recent GANs Development，computer vision & time series
 - [vasanthk/how-web-works](https://github.com/vasanthk/how-web-works) - What happens behind the scenes when we type www.google.com in a browser?
 - [aphyr/distsys-class](https://github.com/aphyr/distsys-class) - Class materials for a distributed systems lecture series
 - [RadeonOpenCompute/ROCm](https://github.com/RadeonOpenCompute/ROCm) - ROCm -  Open Source Platform for HPC and Ultrascale GPU Computing
@@ -3353,7 +3354,7 @@
 - [kororo/excelcy](https://github.com/kororo/excelcy) - Excel Integration with spaCy. Training NER using Excel/XLSX from PDF, DOCX, PPT, PNG or JPG.
 - [Vin-itall/CloudArcade](https://github.com/Vin-itall/CloudArcade) - CloudArcade Let's You Play Retro Games On Web Browser. Scales In And Out As Required.
 - [google/pygtrie](https://github.com/google/pygtrie) - Python library implementing a trie data structure.
-- [TensorSpeech/TensorFlowTTS](https://github.com/TensorSpeech/TensorFlowTTS) - :stuck_out_tongue_closed_eyes: TensorFlowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2 (supported including English, Korean, Chinese, German and Easy to adapt for other languages)
+- [TensorSpeech/TensorFlowTTS](https://github.com/TensorSpeech/TensorFlowTTS) - :stuck_out_tongue_closed_eyes: TensorFlowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2 (supported including English, French, Korean, Chinese, German and Easy to adapt for other languages)
 - [jonasrauber/eagerpy](https://github.com/jonasrauber/eagerpy) - PyTorch, TensorFlow, JAX and NumPy — all of them natively using the same code
 - [bytedance/fedlearner](https://github.com/bytedance/fedlearner) - A multi-party collaborative machine learning framework
 - [larsmans/seqlearn](https://github.com/larsmans/seqlearn) - Sequence learning toolkit for Python
@@ -6158,6 +6159,7 @@
 
 ## Rust 
 
+- [estuary/flow](https://github.com/estuary/flow) - Continuously synchronize the systems where your data lives, to the systems where you _want_ it to live, with Estuary Flow.
 - [hora-search/hora](https://github.com/hora-search/hora) - 🚀  efficient approximate nearest neighbor search algorithm collections library written in Rust 🦀 .
 - [rustwasm/gloo](https://github.com/rustwasm/gloo) - A modular toolkit for building fast, reliable Web applications and libraries with Rust and Wasm
 - [smol-rs/smol](https://github.com/smol-rs/smol) - A small and fast async runtime for Rust
