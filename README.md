@@ -1217,7 +1217,7 @@
 - [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 - [nuclio/nuclio](https://github.com/nuclio/nuclio) - High-Performance Serverless event and data processing platform
-- [pion/ion](https://github.com/pion/ion) - Real-Distributed(non-cluster) RTC System by pure Go and Flutter
+- [pion/ion](https://github.com/pion/ion) - Real-Distributed  RTC System by pure Go and Flutter
 - [natefinch/lumberjack](https://github.com/natefinch/lumberjack) - lumberjack is a log rolling package for Go
 - [pachyderm/pachyderm](https://github.com/pachyderm/pachyderm) - Reproducible Data Science at Scale!
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
@@ -1352,7 +1352,6 @@
 - [robertness/causal_demon](https://github.com/robertness/causal_demon) - 
 - [solid/solid](https://github.com/solid/solid) - Solid - Re-decentralizing the web (project directory)
 - [Strange-AI/quantum_ml](https://github.com/Strange-AI/quantum_ml) - StrangeAI Youtube频道的量子机器学习代码
-- [scrapinghub/extruct](https://github.com/scrapinghub/extruct) - Extract embedded metadata from HTML markup
 - [switchablenorms/Switchable-Normalization](https://github.com/switchablenorms/Switchable-Normalization) - Code for Switchable Normalization from "Differentiable Learning-to-Normalize via Switchable Normalization", https://arxiv.org/abs/1806.10779
 - [deanmalmgren/textract](https://github.com/deanmalmgren/textract) - extract text from any document. no muss. no fuss.
 - [Smerity/trending_arxiv](https://github.com/Smerity/trending_arxiv) - Track trending arXiv papers on Twitter from within your circle
@@ -2468,6 +2467,7 @@
 
 ## Others 
 
+- [Huage001/PaintTransformer](https://github.com/Huage001/PaintTransformer) - Homepage of paper: Paint Transformer: Feed Forward Neural Painting with Stroke Prediction, ICCV 2021.
 - [manuzhang/awesome-streaming](https://github.com/manuzhang/awesome-streaming) - a curated list of awesome streaming frameworks, applications, etc
 - [clvrai/awesome-rl-envs](https://github.com/clvrai/awesome-rl-envs) - 
 - [google-research-datasets/conceptual-12m](https://github.com/google-research-datasets/conceptual-12m) - Conceptual 12M is a dataset containing (image-URL, caption) pairs collected for vision-and-language pre-training.
@@ -5059,6 +5059,7 @@
 - [jermwatt/machine_learning_refined](https://github.com/jermwatt/machine_learning_refined) - Notes, examples, and Python demos for the textbook "Machine Learning Refined" (published by Cambridge University Press).
 - [lxx1991/VS-ReID](https://github.com/lxx1991/VS-ReID) - Video Object Segmentation with Re-identification
 - [scaelles/DEXTR-PyTorch](https://github.com/scaelles/DEXTR-PyTorch) - Deep Extreme Cut http://www.vision.ee.ethz.ch/~cvlsegmentation/dextr
+- [scrapinghub/extruct](https://github.com/scrapinghub/extruct) - Extract embedded metadata from HTML markup
 - [riannevdberg/sylvester-flows](https://github.com/riannevdberg/sylvester-flows) - 
 - [ofirnachum/models](https://github.com/ofirnachum/models) - Models built with TensorFlow
 - [taki0112/ResNet-Tensorflow](https://github.com/taki0112/ResNet-Tensorflow) - Simple Tensorflow implementation of pre-activation ResNet18, 34, 50, 101, 152
@@ -5609,7 +5610,7 @@
 - [google/yapf](https://github.com/google/yapf) - A formatter for Python files
 - [Wizaron/deep-forecast-pytorch](https://github.com/Wizaron/deep-forecast-pytorch) - Wind Speed Prediction using LSTMs in PyTorch (https://arxiv.org/pdf/1707.08110.pdf)
 - [MonsieurV/py-findpeaks](https://github.com/MonsieurV/py-findpeaks) - Overview of the peaks dectection algorithms available in Python
-- [SALib/SALib](https://github.com/SALib/SALib) - Sensitivity Analysis Library in Python (Numpy). Contains Sobol, Morris, Fractional Factorial and FAST methods.
+- [SALib/SALib](https://github.com/SALib/SALib) - Sensitivity Analysis Library in Python. Contains Sobol, Morris, FAST, and other methods.
 - [sourcebots/robot-api](https://github.com/sourcebots/robot-api) - (Legacy) API to interface with robotd
 - [devendrachaplot/DeepRL-Grounding](https://github.com/devendrachaplot/DeepRL-Grounding) - Train an RL agent to execute natural language instructions in a 3D Environment (PyTorch)
 - [Uberi/speech_recognition](https://github.com/Uberi/speech_recognition) - Speech recognition module for Python, supporting several engines and APIs, online and offline.
