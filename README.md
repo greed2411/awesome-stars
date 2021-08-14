@@ -1444,6 +1444,7 @@
 
 ## Java 
 
+- [acoli-repo/conll-transform](https://github.com/acoli-repo/conll-transform) - seamless conversion between different CoNLL/TSV dialects
 - [RaiMan/SikuliX1](https://github.com/RaiMan/SikuliX1) - SikuliX version 2.0.0+ (2019+)
 - [jitsi/jitsi-webrtc-vad-wrapper](https://github.com/jitsi/jitsi-webrtc-vad-wrapper) - A java wrapper around the WebRTC Voice Activity Detection library
 - [VertaAI/modeldb](https://github.com/VertaAI/modeldb) - Open Source ML Model Versioning, Metadata, and Experiment Management
@@ -1518,7 +1519,7 @@
 - [google/live-transcribe-speech-engine](https://github.com/google/live-transcribe-speech-engine) - Live Transcribe is an Android application that provides real-time captioning for people who are deaf or hard of hearing. This repository contains the Android client libraries for communicating with Google's Cloud Speech API that are used in Live Transcribe.
 - [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system
 - [miguel-porto/flora-on-server](https://github.com/miguel-porto/flora-on-server) - A server to manage online biodiversity databases, including a graph-based taxonomy system, species traits and habitats, and species occurrences.
-- [linkedin/TonY](https://github.com/linkedin/TonY) - TonY is a framework to natively run deep learning frameworks on Apache Hadoop.
+- [tony-framework/TonY](https://github.com/tony-framework/TonY) - TonY is a framework to natively run deep learning frameworks on Apache Hadoop.
 - [linkedin/pygradle](https://github.com/linkedin/pygradle) - Using Gradle to build Python projects
 - [apache/hudi](https://github.com/apache/hudi) - Upserts, Deletes And Incremental Processing on Big Data.
 - [apache/druid](https://github.com/apache/druid) - Apache Druid: a high performance real-time analytics database.
@@ -1699,7 +1700,6 @@
 - [PiSimo/DeepChart](https://github.com/PiSimo/DeepChart) - Generate images of neural network achitectures.
 - [r-spacex/SpaceX-API](https://github.com/r-spacex/SpaceX-API) - :rocket: Open Source REST API for SpaceX launch, rocket, core, capsule, starlink, launchpad, and landing pad data.
 - [paschmann/rasa-ui](https://github.com/paschmann/rasa-ui) - Rasa UI is a frontend for the Rasa Framework
-- [tdurieux/anonymous_github](https://github.com/tdurieux/anonymous_github) - Anonymous Github is a proxy server to support anonymous  browsing of Github repositories for open-science code and data.
 - [mlutfy/hidetopbar](https://github.com/mlutfy/hidetopbar) - Gnome 3 extension to hide the top bar except in overview mode
 - [alephdata/aleph](https://github.com/alephdata/aleph) - Search and browse documents and data; find the people and companies you look for.
 - [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
@@ -3183,7 +3183,7 @@
 - [speechbrain/speechbrain](https://github.com/speechbrain/speechbrain) - A PyTorch-based Speech Toolkit
 - [lucidrains/deep-daze](https://github.com/lucidrains/deep-daze) - Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network). Technique was originally created by https://twitter.com/advadnoun
 - [mnschmit/unsupervised-graph-text-conversion](https://github.com/mnschmit/unsupervised-graph-text-conversion) - This is the code for the EMNLP 2020 paper "An Unsupervised Joint System for Text Generation from Knowledge Graphs and Semantic Parsing".
-- [maiot-io/zenml](https://github.com/maiot-io/zenml) - ZenML 🙏: MLOps framework to create reproducible ML pipelines for production machine learning.
+- [zenml-io/zenml](https://github.com/zenml-io/zenml) - ZenML 🙏: MLOps framework to create reproducible ML pipelines for production machine learning.
 - [ContinualAI/avalanche](https://github.com/ContinualAI/avalanche) - Avalanche: an End-to-End Library for Continual Learning.
 - [mit-han-lab/anycost-gan](https://github.com/mit-han-lab/anycost-gan) - [CVPR 2021] Anycost GANs for Interactive Image Synthesis and Editing
 - [lucidrains/perceiver-pytorch](https://github.com/lucidrains/perceiver-pytorch) - Implementation of Perceiver, General Perception with Iterative Attention, in Pytorch
@@ -3510,7 +3510,7 @@
 - [google-research/albert](https://github.com/google-research/albert) - ALBERT: A Lite BERT for Self-supervised Learning of Language Representations
 - [sergioburdisso/pyss3](https://github.com/sergioburdisso/pyss3) - A Python package implementing a new interpretable machine learning model for text classification (with visualization tools for Explainable AI :octocat:)
 - [f-prime/arcanevm](https://github.com/f-prime/arcanevm) - A Fully Homomorphic Encryption Brainfuck virtual machine
-- [hayesall/srlearn](https://github.com/hayesall/srlearn) - ☕ A Python library for gradient-boosted statistical relational models.
+- [srlearn/srlearn](https://github.com/srlearn/srlearn) - ☕ A Python library for gradient-boosted statistical relational models.
 - [tssm/up-to-date-real-world-haskell](https://github.com/tssm/up-to-date-real-world-haskell) - I'm trying to update the Real World Haskell book
 - [edgedb/edgedb](https://github.com/edgedb/edgedb) - The next generation relational database.
 - [Zhenye-Na/reinforcement-learning-stanford](https://github.com/Zhenye-Na/reinforcement-learning-stanford) - 🕹️ CS234: Reinforcement Learning, Winter 2019 | YouTube videos 👉
@@ -4168,7 +4168,7 @@
 - [benedekrozemberczki/GraphWaveletNeuralNetwork](https://github.com/benedekrozemberczki/GraphWaveletNeuralNetwork) - A PyTorch implementation of "Graph Wavelet Neural Network" (ICLR 2019)
 - [virajmavani/semi-auto-image-annotation-tool](https://github.com/virajmavani/semi-auto-image-annotation-tool) - Anno-Mage: A Semi Automatic Image Annotation Tool which helps you in annotating images by suggesting you annotations for 80 object classes using a pre-trained model
 - [BlueWinters/DeepWarp](https://github.com/BlueWinters/DeepWarp) - Tensorflow implement for DeepWarp: Photorealistic Image Resynthesis for Gaze Manipulation
-- [openseg-group/openseg.pytorch](https://github.com/openseg-group/openseg.pytorch) - The Pytorch code of OCNet series and SegFix.
+- [openseg-group/openseg.pytorch](https://github.com/openseg-group/openseg.pytorch) - The official Pytorch implementation of OCNet series and SegFix.
 - [SparkJiao/SLQA](https://github.com/SparkJiao/SLQA) - An Unofficial Pytorch Implementation of Multi-Granularity Hierarchical Attention Fusion Networks for Reading Comprehension and Question Answering
 - [microsoft/recommenders](https://github.com/microsoft/recommenders) - Best Practices on Recommendation Systems
 - [ekzhang/char-rnn-keras](https://github.com/ekzhang/char-rnn-keras) - TensorFlow implementation of multi-layer recurrent neural networks for training and sampling from texts
@@ -5699,7 +5699,7 @@
 - [analysiscenter/batchflow](https://github.com/analysiscenter/batchflow) - BatchFlow helps you conveniently work with random or sequential batches of your data and define data processing and machine learning workflows even for datasets that do not fit into memory.
 - [carpedm20/BEGAN-tensorflow](https://github.com/carpedm20/BEGAN-tensorflow) - Tensorflow implementation of "BEGAN: Boundary Equilibrium Generative Adversarial Networks"
 - [PrajitR/fast-pixel-cnn](https://github.com/PrajitR/fast-pixel-cnn) - Speed up PixelCNN++ image generation by up to a 183 times
-- [micahflee/onionshare](https://github.com/micahflee/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
+- [onionshare/onionshare](https://github.com/onionshare/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [microsoft/LMChallenge](https://github.com/microsoft/LMChallenge) - A library & tools to evaluate predictive language models.
 - [vi3k6i5/flashtext](https://github.com/vi3k6i5/flashtext) - Extract Keywords from sentence or Replace keywords in sentences.
 - [ajbrock/BoilerPlate](https://github.com/ajbrock/BoilerPlate) - Odds and Ends and Things I've implemented.
@@ -6214,7 +6214,7 @@
 - [rust-ndarray/ndarray](https://github.com/rust-ndarray/ndarray) - ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations
 - [Hirrolot/mux-stream](https://github.com/Hirrolot/mux-stream) - (De)multiplex asynchronous streams
 - [pemistahl/lingua-rs](https://github.com/pemistahl/lingua-rs) - 👄 The most accurate natural language detection library in the Rust ecosystem, suitable for long and short text alike
-- [Qovery/engine](https://github.com/Qovery/engine) - Deploy your apps on any Cloud providers in just a few seconds
+- [Qovery/engine](https://github.com/Qovery/engine) - Deploy your apps on any Cloud provider in just a few seconds
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [rabite0/hunter](https://github.com/rabite0/hunter) - The fastest file manager in the galaxy!
 - [lemunozm/message-io](https://github.com/lemunozm/message-io) - Fast and easy-to-use event-driven network library.
@@ -6634,6 +6634,7 @@
 - [microsoft/VoTT](https://github.com/microsoft/VoTT) - Visual Object Tagging Tool: An electron app for building end to end Object Detection Models from Images and Videos.
 - [tensorflow/tfjs-vis](https://github.com/tensorflow/tfjs-vis) - A set of utilities for in browser visualization with TensorFlow.js
 - [tensorflow/tensorboard](https://github.com/tensorflow/tensorboard) - TensorFlow's Visualization Toolkit
+- [tdurieux/anonymous_github](https://github.com/tdurieux/anonymous_github) - Anonymous Github is a proxy server to support anonymous browsing of Github repositories for open-science code and data.
 - [machinelearnjs/machinelearnjs](https://github.com/machinelearnjs/machinelearnjs) - Machine Learning library for the web and Node.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [openvinotoolkit/cvat](https://github.com/openvinotoolkit/cvat) - Powerful and efficient Computer Vision Annotation Tool (CVAT)
