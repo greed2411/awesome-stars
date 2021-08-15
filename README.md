@@ -263,6 +263,7 @@
 
 ## C++ 
 
+- [Hikari9/comfortable-swipe](https://github.com/Hikari9/comfortable-swipe) - Comfortable 3-finger and 4-finger swipe gesture using Xdotool in native C++
 - [scylladb/seastar](https://github.com/scylladb/seastar) - High performance server-side application framework
 - [scylladb/scylla](https://github.com/scylladb/scylla) - NoSQL data store using the seastar framework, compatible with Apache Cassandra
 - [typesense/typesense](https://github.com/typesense/typesense) - Fast, typo tolerant, fuzzy search engine for building delightful search experiences ⚡ 🔍 ✨ An Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch.
@@ -1818,7 +1819,7 @@
 - [open-mmlab/mmclassification](https://github.com/open-mmlab/mmclassification) - OpenMMLab Image Classification Toolbox and Benchmark
 - [facebookresearch/droidlet](https://github.com/facebookresearch/droidlet) - A modular embodied agent architecture and platform for building embodied agents
 - [tulasiram58827/TTS_TFLite](https://github.com/tulasiram58827/TTS_TFLite) - This repository is a collection of TTS Models in TFLite
-- [orpatashnik/StyleCLIP](https://github.com/orpatashnik/StyleCLIP) - 
+- [orpatashnik/StyleCLIP](https://github.com/orpatashnik/StyleCLIP) - Official Implementation for "StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery" (ICCV 2021 Oral)
 - [gordicaleksa/pytorch-deepdream](https://github.com/gordicaleksa/pytorch-deepdream) - PyTorch implementation of DeepDream algorithm (Mordvintsev et al.). Additionally I've included playground.py to help you better understand basic concepts behind the algo.
 - [lambdaclass/options_backtester](https://github.com/lambdaclass/options_backtester) - Simple backtesting software for options
 - [haltakov/natural-language-youtube-search](https://github.com/haltakov/natural-language-youtube-search) - Search inside YouTube videos using natural language
@@ -6357,7 +6358,7 @@
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
 - [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Powerful, fast, and an easy to use search engine
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
-- [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A fast, friendly, and functional language for building type-safe, scalable systems!
+- [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
 - [jauhien/iron-kaleidoscope](https://github.com/jauhien/iron-kaleidoscope) - LLVM tutorial in Rust language
 - [weld-project/weld](https://github.com/weld-project/weld) - High-performance runtime for data analytics applications
 - [mun-lang/mun](https://github.com/mun-lang/mun) - Source code for the Mun language and runtime.
