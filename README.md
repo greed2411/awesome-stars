@@ -24,7 +24,6 @@
   - [Erlang](#erlang)
   - [Fortran](#fortran)
   - [GDScript](#gdscript)
-  - [GLSL](#glsl)
   - [Gherkin](#gherkin)
   - [Gnuplot](#gnuplot)
   - [Go](#go)
@@ -743,6 +742,7 @@
 
 ## Cython 
 
+- [luvsound/pippi](https://github.com/luvsound/pippi) - computer music with python
 - [rushter/selectolax](https://github.com/rushter/selectolax) - Python binding to Modest and Lexbor engines (fast HTML5 parser with CSS selectors).
 - [MagicStack/uvloop](https://github.com/MagicStack/uvloop) - Ultra fast asyncio event loop.
 
@@ -791,10 +791,6 @@
 
 - [Bauxitedev/goltorus](https://github.com/Bauxitedev/goltorus) - Game of Life on the surface of a torus.
 
-## GLSL 
-
-- [bloc97/Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Upscaler for Anime Video
-
 ## Gherkin 
 
 - [Xe/when-then-zen](https://github.com/Xe/when-then-zen) - Meditation instructions from spiritual texts ripped out of the contexts of their spirituality and presented in the universal format of Gherkin
@@ -805,6 +801,7 @@
 
 ## Go 
 
+- [odpf/optimus](https://github.com/odpf/optimus) - Optimus is an easy-to-use, reliable, and performant workflow orchestrator for data transformation, data modeling, pipelines, and data quality management.
 - [TheYkk/git-switcher](https://github.com/TheYkk/git-switcher) - Switch between your git profiles easily
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀
 - [bchadwic/gh-graph](https://github.com/bchadwic/gh-graph) - An extension for the GitHub Cli application that displays your current contribution graph
@@ -1808,6 +1805,7 @@
 
 ## Jupyter Notebook 
 
+- [burstable-ai/burst](https://github.com/burstable-ai/burst) - Command-line tool to remotely execute code in the cloud
 - [bmabey/pyLDAvis](https://github.com/bmabey/pyLDAvis) - Python library for interactive topic model visualization. Port of the R LDAvis package.
 - [mindslab-ai/wavegrad2](https://github.com/mindslab-ai/wavegrad2) - Unofficial Pytorch Implementation of WaveGrad2
 - [rasbt/deeplearning-models](https://github.com/rasbt/deeplearning-models) - A collection of various deep learning architectures, models, and tips
@@ -1865,6 +1863,7 @@
 - [dsgiitr/d2l-pytorch](https://github.com/dsgiitr/d2l-pytorch) - This project reproduces the book Dive Into Deep Learning (https://d2l.ai/), adapting the code from MXNet into PyTorch.
 - [makcedward/nlpaug](https://github.com/makcedward/nlpaug) - Data augmentation for NLP
 - [firmai/machine-learning-asset-management](https://github.com/firmai/machine-learning-asset-management) - Machine Learning in Asset Management (by @firmai)
+- [bloc97/Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Upscaler for Anime Video
 - [hiredscorelabs/tamnun-ml](https://github.com/hiredscorelabs/tamnun-ml) - An easy to use open-source library for advanced Deep Learning and Natural Language Processing
 - [yandex/rep](https://github.com/yandex/rep) - Machine Learning toolbox for Humans
 - [stared/thinking-in-tensors-writing-in-pytorch](https://github.com/stared/thinking-in-tensors-writing-in-pytorch) - Thinking in tensors, writing in PyTorch (a hands-on deep learning intro)
@@ -3347,7 +3346,6 @@
 - [hirofumi0810/neural_sp](https://github.com/hirofumi0810/neural_sp) - End-to-end ASR/LM implementation with PyTorch
 - [SforAiDl/genrl](https://github.com/SforAiDl/genrl) - A PyTorch reinforcement learning library for generalizable and reproducible algorithm implementations with an aim to improve accessibility in RL
 - [SamStudio8/hansel](https://github.com/SamStudio8/hansel) - A graph-inspired data structure for determining likely chains of sequences from breadcrumbs of evidence
-- [luvsound/pippi](https://github.com/luvsound/pippi) - computer music with python
 - [endolith/waveform_analysis](https://github.com/endolith/waveform_analysis) - Functions and scripts for analyzing waveforms, primarily audio.  This is currently somewhat disorganized and unfinished.
 - [vinayak-mehta/present](https://github.com/vinayak-mehta/present) - A terminal-based presentation tool with colors and effects.
 - [KevinMusgrave/pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning) - The easiest way to use deep metric learning in your application. Modular, flexible, and extensible. Written in PyTorch.
@@ -6038,7 +6036,7 @@
 - [biopython/biopython](https://github.com/biopython/biopython) - Official git repository for Biopython (originally converted from CVS)
 - [cython/cython](https://github.com/cython/cython) - The most widely used Python to C compiler
 - [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
-- [scipy/scipy](https://github.com/scipy/scipy) - Scipy library main repository
+- [scipy/scipy](https://github.com/scipy/scipy) - SciPy library main repository
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
 - [scikit-image/scikit-image](https://github.com/scikit-image/scikit-image) - Image processing in Python
 - [biocore/scikit-bio](https://github.com/biocore/scikit-bio) - scikit-bio is an open-source, BSD-licensed, Python package providing data structures, algorithms, and educational resources for bioinformatics.
@@ -6162,6 +6160,7 @@
 
 ## Rust 
 
+- [cfsamson/examples-node-eventloop](https://github.com/cfsamson/examples-node-eventloop) - An example on implementing the interesting part of Nodes event loop and async story
 - [estuary/flow](https://github.com/estuary/flow) - Continuously synchronize the systems where your data lives, to the systems where you _want_ it to live, with Estuary Flow.
 - [hora-search/hora](https://github.com/hora-search/hora) - 🚀  efficient approximate nearest neighbor search algorithm collections library written in Rust 🦀 .
 - [rustwasm/gloo](https://github.com/rustwasm/gloo) - A modular toolkit for building fast, reliable Web applications and libraries with Rust and Wasm
