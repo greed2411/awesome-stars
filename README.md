@@ -802,6 +802,10 @@
 
 ## Go 
 
+- [alda-lang/alda](https://github.com/alda-lang/alda) - A music programming language for musicians. :notes:
+- [golang/groupcache](https://github.com/golang/groupcache) - groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
+- [sachaos/viddy](https://github.com/sachaos/viddy) - 👀  Modern watch command. Time machine and pager etc.
+- [mattn/go-generics-example](https://github.com/mattn/go-generics-example) - Example code for Go generics
 - [nwtgck/go-fakelish](https://github.com/nwtgck/go-fakelish) - Fake English word generator for Go and CLI
 - [uber-go/ratelimit](https://github.com/uber-go/ratelimit) - A Golang blocking leaky-bucket rate limit implementation
 - [odpf/optimus](https://github.com/odpf/optimus) - Optimus is an easy-to-use, reliable, and performant workflow orchestrator for data transformation, data modeling, pipelines, and data quality management.
@@ -1886,7 +1890,6 @@
 - [mosheman5/DNP](https://github.com/mosheman5/DNP) - Audio Denoising with Deep Network Priors
 - [google/neural-tangents](https://github.com/google/neural-tangents) - Fast and Easy Infinite Neural Networks in Python
 - [IDEA-NTHU-Taiwan/PatternTutorial](https://github.com/IDEA-NTHU-Taiwan/PatternTutorial) - A Graph-based Pattern Representations Tutorial
-- [probml/pyprobml](https://github.com/probml/pyprobml) - Python code for "Machine learning: a probabilistic perspective" (2nd edition)
 - [timnon/pyschedule](https://github.com/timnon/pyschedule) - pyschedule - resource scheduling in python
 - [successar/AttentionExplanation](https://github.com/successar/AttentionExplanation) - 
 - [jorwalk/data-engineering-gcp](https://github.com/jorwalk/data-engineering-gcp) - Data Engineering on Google Cloud Platform
@@ -2563,7 +2566,7 @@
 - [mr-karan/awesome-investing](https://github.com/mr-karan/awesome-investing) - 💸💸 Curated list of investment & finance related resources
 - [georgezouq/awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) - 🔬 A curated list of awesome machine learning strategies & tools in financial market.
 - [servo/servo](https://github.com/servo/servo) - The Servo Browser Engine
-- [gregsramblings/google-cloud-4-words](https://github.com/gregsramblings/google-cloud-4-words) - The Google Cloud Developer's Cheat Sheet
+- [priyankavergadia/google-cloud-4-words](https://github.com/priyankavergadia/google-cloud-4-words) - The Google Cloud Developer's Cheat Sheet
 - [madd86/awesome-system-design](https://github.com/madd86/awesome-system-design) - A curated list of awesome System Design (A.K.A. Distributed Systems) resources.
 - [OlegStotsky/go-monads](https://github.com/OlegStotsky/go-monads) - experimental implementation of basic monads based on go2 generics draft
 - [bbatsov/clojure-style-guide](https://github.com/bbatsov/clojure-style-guide) - A community coding style guide for the Clojure programming language
@@ -3901,6 +3904,7 @@
 - [facebookresearch/LAMA](https://github.com/facebookresearch/LAMA) - LAnguage Model Analysis
 - [Roulbac/GanSeg](https://github.com/Roulbac/GanSeg) - Framework for medical image segmentation using deep neural networks
 - [ets-labs/python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) - Dependency injection framework for Python
+- [probml/pyprobml](https://github.com/probml/pyprobml) - Python code for "Machine learning: a probabilistic perspective" (2nd edition)
 - [ruotianluo/Context-aware-ZSR](https://github.com/ruotianluo/Context-aware-ZSR) - Official code for paper Context-aware Zero-shot Recognition (https://arxiv.org/abs/1904.09320 to appear at AAAI2020)
 - [ethereum/py-solc](https://github.com/ethereum/py-solc) - Python wrapper around the solc Solidity compiler.
 - [eth-brownie/brownie](https://github.com/eth-brownie/brownie) - A Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.
