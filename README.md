@@ -63,7 +63,6 @@
   - [Racket](#racket)
   - [Reason](#reason)
   - [Ren'Py](#ren'py)
-  - [Roff](#roff)
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [SCSS](#scss)
@@ -802,6 +801,7 @@
 
 ## Go 
 
+- [bytedance/ns-x](https://github.com/bytedance/ns-x) - An easy-to-use, flexible network simulator library in Go.
 - [alda-lang/alda](https://github.com/alda-lang/alda) - A music programming language for musicians. :notes:
 - [golang/groupcache](https://github.com/golang/groupcache) - groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀  Modern watch command. Time machine and pager etc.
@@ -996,7 +996,7 @@
 - [ktr0731/evans](https://github.com/ktr0731/evans) - Evans: more expressive universal gRPC client
 - [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
 - [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) - A lightweight IoT edge analytics software
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Privately browse, organize, and share your photo collection. Free & Open Source. 🌈
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Privately hosted app for browsing, organizing, and sharing your photo collection. Say goodbye to uploading your memories to the cloud! 🌈
 - [vektra/mockery](https://github.com/vektra/mockery) - A mock code autogenerator for Golang
 - [bxcodec/go-clean-arch](https://github.com/bxcodec/go-clean-arch) - Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture
 - [ksimka/go-is-not-good](https://github.com/ksimka/go-is-not-good) - A curated list of articles complaining that go (golang) isn't good enough
@@ -2480,7 +2480,6 @@
 - [Open-Speech-EkStep/vakyansh-models](https://github.com/Open-Speech-EkStep/vakyansh-models) - Open source speech to text models for Indic Languages
 - [rakyll/awesome-spanner](https://github.com/rakyll/awesome-spanner) - A curated list of awesome Google Cloud Spanner references, tools, libraries and more.
 - [gdamdam/awesome-decentralized-web](https://github.com/gdamdam/awesome-decentralized-web) - an awesome list of decentralized services and technologies
-- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀
 - [heartexlabs/awesome-data-labeling](https://github.com/heartexlabs/awesome-data-labeling) - A curated list of awesome data labeling tools
 - [matthiasn/talk-transcripts](https://github.com/matthiasn/talk-transcripts) - Transcripts of Clojure-related talks
 - [mhadidg/software-architecture-books](https://github.com/mhadidg/software-architecture-books) - A comprehensive list of books on Software Architecture.
@@ -3083,6 +3082,7 @@
 - [yzhangcs/parser](https://github.com/yzhangcs/parser) - State-of-the-art Dependency, Constituency and Semantic Dependency Parsers, with pretrained models for more than 19 languages.
 - [google-research/byt5](https://github.com/google-research/byt5) - 
 - [BaguaSys/bagua](https://github.com/BaguaSys/bagua) - Bagua is a flexible and performant distributed training algorithm development framework.
+- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀
 - [deepmind/alphafold](https://github.com/deepmind/alphafold) - Open source code for AlphaFold.
 - [vturrisi/solo-learn](https://github.com/vturrisi/solo-learn) - solo-learn: a library of self-supervised methods for visual representation learning powered by Pytorch Lightning
 - [ben-hayes/neural-waveshaping-synthesis](https://github.com/ben-hayes/neural-waveshaping-synthesis) - efficient neural audio synthesis in the waveform domain
@@ -3334,7 +3334,7 @@
 - [Red5d/docker-autocompose](https://github.com/Red5d/docker-autocompose) - Generate a docker-compose yaml definition from a running container
 - [IBM/differential-privacy-library](https://github.com/IBM/differential-privacy-library) - Diffprivlib: The IBM Differential Privacy Library
 - [YashNita/sound-event-detection-winning-method](https://github.com/YashNita/sound-event-detection-winning-method) - 
-- [orchest/orchest](https://github.com/orchest/orchest) - A new kind of IDE for Data Science.
+- [orchest/orchest](https://github.com/orchest/orchest) - Build data pipelines, the easy way
 - [tradytics/eiten](https://github.com/tradytics/eiten) - Statistical and Algorithmic Investing Strategies for Everyone
 - [jfsantos/maracas](https://github.com/jfsantos/maracas) - maracas is a library for corrupting audio files with additive and convolutive noise.
 - [aiguofer/gspread-pandas](https://github.com/aiguofer/gspread-pandas) - A package to easily open an instance of a Google spreadsheet and interact with worksheets through Pandas DataFrames.
@@ -3738,7 +3738,7 @@
 - [mcfunley/pugsql](https://github.com/mcfunley/pugsql) - A HugSQL-inspired database library for Python
 - [Julian/jsonschema](https://github.com/Julian/jsonschema) - An(other) implementation of JSON Schema for Python
 - [eliben/pycparser](https://github.com/eliben/pycparser) - :snake: Complete C99 parser in pure Python
-- [davidjamesca/ctypesgen](https://github.com/davidjamesca/ctypesgen) - Pure-python wrapper generator for ctypes
+- [ctypesgen/ctypesgen](https://github.com/ctypesgen/ctypesgen) - Pure-python wrapper generator for ctypes
 - [wutianyiRosun/Segmentation.X](https://github.com/wutianyiRosun/Segmentation.X) - Papers and Benchmarks about semantic segmentation, instance segmentation, panoptic segmentation and video segmentation
 - [geyang/ml_logger](https://github.com/geyang/ml_logger) - A logger, server and visualization dashboard for ML projects
 - [biomag-lab/hypocotyl-UNet](https://github.com/biomag-lab/hypocotyl-UNet) - 
@@ -3770,7 +3770,7 @@
 - [hendrycks/robustness](https://github.com/hendrycks/robustness) - Corruption and Perturbation Robustness (ICLR 2019)
 - [STVIR/pysot](https://github.com/STVIR/pysot) - SenseTime Research platform for single object tracking, implementing algorithms like SiamRPN and SiamMask.
 - [barisgecer/facegan](https://github.com/barisgecer/facegan) - TF implementation of our ECCV 2018 paper:  Semi-supervised Adversarial Learning to Generate Photorealistic Face Images of New Identities from 3D Morphable Model
-- [TDAmeritrade/stumpy](https://github.com/TDAmeritrade/stumpy) - STUMPY is a powerful and scalable Python library for computing a Matrix Profile, which can be used for a variety of time series data mining tasks
+- [TDAmeritrade/stumpy](https://github.com/TDAmeritrade/stumpy) - STUMPY is a powerful and scalable Python library for modern time series analysis
 - [NVIDIA/MinkowskiEngine](https://github.com/NVIDIA/MinkowskiEngine) - Minkowski Engine is an auto-diff neural network library for high-dimensional sparse tensors
 - [evernote/evernote-sdk-python3](https://github.com/evernote/evernote-sdk-python3) - Testing the Evernote Cloud API for Python 3
 - [chaonan99/ppt_presenter](https://github.com/chaonan99/ppt_presenter) - Convert ppt to video with audio track, using text to speech synthesis
@@ -6144,10 +6144,6 @@
 
 - [renpy/renpy](https://github.com/renpy/renpy) - The Ren'Py Visual Novel Engine
 
-## Roff 
-
-- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
-
 ## Ruby 
 
 - [twilio/media-streams](https://github.com/twilio/media-streams) - Quick start guides for configuring and consuming Twilio Media Streams
@@ -6496,6 +6492,7 @@
 - [catalyst-team/classification](https://github.com/catalyst-team/classification) - Catalyst.Classification
 - [donnyyou/torchcv](https://github.com/donnyyou/torchcv) - A PyTorch-Based Framework for Deep Learning in Computer Vision
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [jwass/pep8-staged](https://github.com/jwass/pep8-staged) - Git pre-commit hook to run pep8 on staged files.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [s1341/pyenv-alias](https://github.com/s1341/pyenv-alias) - pyenv plugin to allow you to install python versions with user-specified 'aliases'.
@@ -6554,6 +6551,7 @@
 
 ## TypeScript 
 
+- [growthbook/growthbook](https://github.com/growthbook/growthbook) - The Open Source A/B Testing Platform
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [kubeflow/metadata](https://github.com/kubeflow/metadata) - Repository for assets related to Metadata.
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
