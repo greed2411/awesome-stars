@@ -996,7 +996,7 @@
 - [ktr0731/evans](https://github.com/ktr0731/evans) - Evans: more expressive universal gRPC client
 - [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
 - [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) - A lightweight IoT edge analytics software
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Privately hosted app for browsing, organizing, and sharing your photo collection. Say goodbye to uploading your memories to the cloud! 🌈
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Privately hosted app for browsing, organizing, and sharing your photo collection. Say goodbye to uploading your visual memories to the cloud! 🌈
 - [vektra/mockery](https://github.com/vektra/mockery) - A mock code autogenerator for Golang
 - [bxcodec/go-clean-arch](https://github.com/bxcodec/go-clean-arch) - Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture
 - [ksimka/go-is-not-good](https://github.com/ksimka/go-is-not-good) - A curated list of articles complaining that go (golang) isn't good enough
@@ -1540,7 +1540,7 @@
 - [apache/flink](https://github.com/apache/flink) - Apache Flink
 - [opennars/opennars](https://github.com/opennars/opennars) - OpenNARS for Research 3.0+
 - [apache/kafka](https://github.com/apache/kafka) - Mirror of Apache Kafka
-- [GDGAhmedabad/Learning-Resources](https://github.com/GDGAhmedabad/Learning-Resources) - "Technology Gold mine" to collect and share materials/resources
+- [GDGAhmedabad/Awesome-Learning-Resources](https://github.com/GDGAhmedabad/Awesome-Learning-Resources) - "Technology Gold mine" to collect and share materials/resources
 - [reneweb/react-native-tensorflow](https://github.com/reneweb/react-native-tensorflow) - A TensorFlow inference library for react native
 - [MINOSai/ResQ](https://github.com/MINOSai/ResQ) - An catalog and complaint lodging app for ResQ Technologies Pvt. Ltd.
 - [uber-archive/AthenaX](https://github.com/uber-archive/AthenaX) - SQL-based streaming analytics platform at scale
@@ -1816,7 +1816,7 @@
 - [bmabey/pyLDAvis](https://github.com/bmabey/pyLDAvis) - Python library for interactive topic model visualization. Port of the R LDAvis package.
 - [mindslab-ai/wavegrad2](https://github.com/mindslab-ai/wavegrad2) - Unofficial Pytorch Implementation of WaveGrad2
 - [rasbt/deeplearning-models](https://github.com/rasbt/deeplearning-models) - A collection of various deep learning architectures, models, and tips
-- [whylabs/whylogs](https://github.com/whylabs/whylogs) - Profile and monitor your ML data pipeline end-to-end
+- [whylabs/whylogs](https://github.com/whylabs/whylogs) - Profile and monitor your ML data pipeline end-to-end ,  Join us in slack @ http://join.slack.whylabs.ai/
 - [karpathy/cryptos](https://github.com/karpathy/cryptos) - Pure Python from-scratch zero-dependency implementation of Bitcoin for educational purposes
 - [scikit-learn-contrib/hdbscan](https://github.com/scikit-learn-contrib/hdbscan) - A high performance implementation of HDBSCAN clustering.
 - [jpartemis/cwarp](https://github.com/jpartemis/cwarp) - Streamlit App and Notebook For CWARP
