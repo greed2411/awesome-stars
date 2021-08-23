@@ -49,6 +49,7 @@
   - [NASL](#nasl)
   - [Nim](#nim)
   - [OCaml](#ocaml)
+  - [Odin](#odin)
   - [Others](#others)
   - [PHP](#php)
   - [PLpgSQL](#plpgsql)
@@ -267,7 +268,6 @@
 - [scylladb/scylla](https://github.com/scylladb/scylla) - NoSQL data store using the seastar framework, compatible with Apache Cassandra
 - [typesense/typesense](https://github.com/typesense/typesense) - Fast, typo tolerant, fuzzy search engine for building delightful search experiences ⚡ 🔍 ✨ An Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch.
 - [pedromvpg/Bitcoin-v0.1-A-Guided-Tour](https://github.com/pedromvpg/Bitcoin-v0.1-A-Guided-Tour) - Bitcoin v0.1 - A Guided Tour
-- [odin-lang/Odin](https://github.com/odin-lang/Odin) - Odin Programming Language
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
 - [MFatihMAR/Game-Networking-Resources](https://github.com/MFatihMAR/Game-Networking-Resources) - A Curated List of Game Network Programming Resources
 - [FidoProject/Fido](https://github.com/FidoProject/Fido) - A lightweight C++ machine learning library for embedded electronics and robotics.
@@ -1451,6 +1451,7 @@
 
 ## Java 
 
+- [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
 - [acoli-repo/conll-transform](https://github.com/acoli-repo/conll-transform) - seamless conversion between different CoNLL/TSV dialects
 - [RaiMan/SikuliX1](https://github.com/RaiMan/SikuliX1) - SikuliX version 2.0.0+ (2019+)
 - [jitsi/jitsi-webrtc-vad-wrapper](https://github.com/jitsi/jitsi-webrtc-vad-wrapper) - A java wrapper around the WebRTC Voice Activity Detection library
@@ -2473,6 +2474,10 @@
 - [andrejbauer/coop](https://github.com/andrejbauer/coop) - A prototype programming language for programming with runners
 - [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
 
+## Odin 
+
+- [odin-lang/Odin](https://github.com/odin-lang/Odin) - Odin Programming Language
+
 ## Others 
 
 - [Huage001/PaintTransformer](https://github.com/Huage001/PaintTransformer) - Homepage of paper: Paint Transformer: Feed Forward Neural Painting with Stroke Prediction, ICCV 2021.
@@ -2487,6 +2492,7 @@
 - [mhadidg/software-architecture-books](https://github.com/mhadidg/software-architecture-books) - A comprehensive list of books on Software Architecture.
 - [prasadgujar/low-level-design-primer](https://github.com/prasadgujar/low-level-design-primer) - Dedicated Resources for the Low-Level System Design. Learn how to design and implement large-scale systems. Prep for the system design interview.
 - [amit-davidson/awesome-golang-workshops](https://github.com/amit-davidson/awesome-golang-workshops) - A curated list of awesome golang workshops.
+- [GamestonkTerminal/GamestonkTerminal](https://github.com/GamestonkTerminal/GamestonkTerminal) - Investment Research for Everyone.
 - [mjhea0/awesome-fastapi](https://github.com/mjhea0/awesome-fastapi) - A curated list of awesome things related to FastAPI
 - [chaincodelabs/bitcoin-curriculum](https://github.com/chaincodelabs/bitcoin-curriculum) - Bitcoin Protocol Development Curriculum
 - [benthecoder/yt-channels-DS-AI-ML-CS](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS) - A comprehensive list of 180+ YouTube Channels for Data Science,  Data Engineering, Machine Learning, Deep learning, Computer Science, programming, software engineering, etc.
@@ -3106,7 +3112,6 @@
 - [kubeflow-kale/kale](https://github.com/kubeflow-kale/kale) - Kubeflow’s superfood for Data Scientists
 - [leohowell/redis-lru](https://github.com/leohowell/redis-lru) - LRU cache for Python. Use Redis as backend. Provides a dictionary-like object as well as a method decorator. pip install redis-lru
 - [chrislit/abydos](https://github.com/chrislit/abydos) - Abydos NLP/IR library for Python
-- [GamestonkTerminal/GamestonkTerminal](https://github.com/GamestonkTerminal/GamestonkTerminal) - Investment Research for Everyone.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [karlicoss/cachew](https://github.com/karlicoss/cachew) - Transparent and persistent cache/serialization powered by type hints
