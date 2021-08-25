@@ -801,6 +801,7 @@
 
 ## Go 
 
+- [pipe-cd/pipe](https://github.com/pipe-cd/pipe) - Continuous Delivery for Declarative Kubernetes, Serverless and Infrastructure Applications
 - [gitsrc/IceFireDB](https://github.com/gitsrc/IceFireDB) - Distributed disk storage database based on Raft and Redis protocol.
 - [facette/facette](https://github.com/facette/facette) - Time series data visualization software
 - [bytedance/ns-x](https://github.com/bytedance/ns-x) - An easy-to-use, flexible network simulator library in Go.
@@ -1168,7 +1169,7 @@
 - [nlpodyssey/spago](https://github.com/nlpodyssey/spago) - Self-contained Machine Learning and Natural Language Processing library in Go
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
 - [yahoo/vssh](https://github.com/yahoo/vssh) - Go Library to Execute Commands Over SSH at Scale
-- [asim/go-micro](https://github.com/asim/go-micro) - Go Micro is a framework for distributed systems development
+- [asim/go-micro](https://github.com/asim/go-micro) - A Go framework for distributed systems development
 - [danaugrs/go-tsne](https://github.com/danaugrs/go-tsne) - t-Distributed Stochastic Neighbor Embedding (t-SNE) in Go
 - [goplus/gop](https://github.com/goplus/gop) - GoPlus - The Go+ language for data science
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
@@ -1263,7 +1264,7 @@
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [lightningnetwork/lnd](https://github.com/lightningnetwork/lnd) - Lightning Network Daemon ⚡️
 - [joostjager/whatsat](https://github.com/joostjager/whatsat) - End-to-end encrypted, onion-routed, censorship-resistant, peer-to-peer instant messaging over Lightning
-- [milvus-io/milvus](https://github.com/milvus-io/milvus) - An open source vector database powered by Faiss, NMSLIB and Annoy
+- [milvus-io/milvus](https://github.com/milvus-io/milvus) - An open-source vector database for embedding similarity search and AI applications.
 - [miguelmota/cointop](https://github.com/miguelmota/cointop) - A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies 🚀
 - [bfenetworks/bfe](https://github.com/bfenetworks/bfe) - A modern layer 7 load balancer from baidu
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted newsletter and mailing list manager with a modern dashboard. Single binary app.
@@ -2481,6 +2482,7 @@
 
 ## Others 
 
+- [cs-books/influential-cs-books](https://github.com/cs-books/influential-cs-books) - Most influential books on Computer Science/programming
 - [Huage001/PaintTransformer](https://github.com/Huage001/PaintTransformer) - Homepage of paper: Paint Transformer: Feed Forward Neural Painting with Stroke Prediction, ICCV 2021.
 - [manuzhang/awesome-streaming](https://github.com/manuzhang/awesome-streaming) - a curated list of awesome streaming frameworks, applications, etc
 - [clvrai/awesome-rl-envs](https://github.com/clvrai/awesome-rl-envs) - 
@@ -3344,7 +3346,7 @@
 - [Red5d/docker-autocompose](https://github.com/Red5d/docker-autocompose) - Generate a docker-compose yaml definition from a running container
 - [IBM/differential-privacy-library](https://github.com/IBM/differential-privacy-library) - Diffprivlib: The IBM Differential Privacy Library
 - [YashNita/sound-event-detection-winning-method](https://github.com/YashNita/sound-event-detection-winning-method) - 
-- [orchest/orchest](https://github.com/orchest/orchest) - Build data pipelines, the easy way
+- [orchest/orchest](https://github.com/orchest/orchest) - Build data pipelines, the easy way 🛠️
 - [tradytics/eiten](https://github.com/tradytics/eiten) - Statistical and Algorithmic Investing Strategies for Everyone
 - [jfsantos/maracas](https://github.com/jfsantos/maracas) - maracas is a library for corrupting audio files with additive and convolutive noise.
 - [aiguofer/gspread-pandas](https://github.com/aiguofer/gspread-pandas) - A package to easily open an instance of a Google spreadsheet and interact with worksheets through Pandas DataFrames.
@@ -6173,6 +6175,8 @@
 
 ## Rust 
 
+- [zkat/miette](https://github.com/zkat/miette) - Fancy upgrade to std::error::Error.
+- [rust-db/refinery](https://github.com/rust-db/refinery) - Powerful SQL migration toolkit for Rust.
 - [losfair/RefineDB](https://github.com/losfair/RefineDB) - A strongly-typed document database that runs on any transactional key-value store.
 - [cfsamson/examples-node-eventloop](https://github.com/cfsamson/examples-node-eventloop) - An example on implementing the interesting part of Nodes event loop and async story
 - [estuary/flow](https://github.com/estuary/flow) - Continuously synchronize the systems where your data lives, to the systems where you _want_ it to live, with Estuary Flow.
@@ -6455,6 +6459,7 @@
 - [JohnSnowLabs/spark-nlp](https://github.com/JohnSnowLabs/spark-nlp) - State of the Art Natural Language Processing
 - [apache/spark](https://github.com/apache/spark) - Apache Spark - A unified analytics engine for large-scale data processing
 - [typelevel/fs2](https://github.com/typelevel/fs2) - Compositional, streaming I/O library for Scala
+- [polynote/polynote](https://github.com/polynote/polynote) - A better notebook for Scala (and more)
 - [lampepfl/dotty](https://github.com/lampepfl/dotty) - The Scala 3 compiler, also known as Dotty.
 - [awslabs/deequ](https://github.com/awslabs/deequ) - Deequ is a library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.
 - [Ldpe2G/DeepLearningForFun](https://github.com/Ldpe2G/DeepLearningForFun) - Implementation of some interesting ideas of deeplearning.
@@ -6631,7 +6636,6 @@
 - [uw-labs/bloomrpc](https://github.com/uw-labs/bloomrpc) - GUI Client for GRPC Services
 - [marbleprotocol/humanity](https://github.com/marbleprotocol/humanity) - Unique identity on Ethereum
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
-- [polynote/polynote](https://github.com/polynote/polynote) - A better notebook for Scala (and more)
 - [browserless/chrome](https://github.com/browserless/chrome) - Chrome as a service in docker. Run on our cloud, or bring your own
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [huggingface/Mongoku](https://github.com/huggingface/Mongoku) - 🔥The Web-scale GUI for MongoDB
