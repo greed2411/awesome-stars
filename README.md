@@ -658,6 +658,7 @@
 
 ## Clojure 
 
+- [smothers/cause](https://github.com/smothers/cause) - An EDN-like CRDT (Causal Tree) for Clojure & ClojureScript that automatically tracks history and resolves conflicts.
 - [jepsen-io/jepsen](https://github.com/jepsen-io/jepsen) - A framework for distributed systems verification, with fault injection
 - [edn-query-language/eql](https://github.com/edn-query-language/eql) - EQL is a declarative way to make hierarchical (and possibly nested) selections of information about data requirements. This repository contains the base specs and definitions for EQL parsing, AST, etc.
 - [clojurenlp/core](https://github.com/clojurenlp/core) - Clojure wrapper for the Stanford CoreNLP Java library
@@ -999,7 +1000,7 @@
 - [ktr0731/evans](https://github.com/ktr0731/evans) - Evans: more expressive universal gRPC client
 - [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
 - [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) - A lightweight IoT edge analytics software
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Browse, organize, and share your photo collection. Privacy-friendly, simple to use & open-source! 🌈
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Open-Source Photo Management. Powered by Go and Google TensorFlow! 🌈
 - [vektra/mockery](https://github.com/vektra/mockery) - A mock code autogenerator for Golang
 - [bxcodec/go-clean-arch](https://github.com/bxcodec/go-clean-arch) - Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture
 - [ksimka/go-is-not-good](https://github.com/ksimka/go-is-not-good) - A curated list of articles complaining that go (golang) isn't good enough
@@ -1214,7 +1215,7 @@
 - [harrybrwn/apizza](https://github.com/harrybrwn/apizza) - Order Dominos pizza from the command line
 - [jondot/crunch](https://github.com/jondot/crunch) - A fast to develop, fast to run, Go based toolkit for ETL and feature extraction on Hadoop.
 - [chrislusf/vasto](https://github.com/chrislusf/vasto) - A distributed key-value store. On Disk. Able to grow or shrink without service interruption.
-- [chrislusf/seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, local tiering, cloud tiering. Filer supports cross-cluster active-active replication, Kubernetes, POSIX, S3 API, encryption, Erasure Coding for warm storage, FUSE mount, Hadoop, WebDAV, Cloud Drive.
+- [chrislusf/seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, local tiering, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, Hadoop, WebDAV, encryption, Erasure Coding.
 - [chrislusf/gleam](https://github.com/chrislusf/gleam) - Fast, efficient, and scalable distributed map/reduce system, DAG execution, in memory or on disk, written in pure Go, runs standalone or distributedly.
 - [chrislusf/glow](https://github.com/chrislusf/glow) - Glow is an easy-to-use distributed computation system written in Go, similar to Hadoop Map Reduce, Spark, Flink, Storm, etc. I am also working on another similar pure Go system, https://github.com/chrislusf/gleam , which is more flexible and more performant.
 - [gocql/gocql](https://github.com/gocql/gocql) - Package gocql implements a fast and robust Cassandra client for the Go programming language.
@@ -1453,6 +1454,7 @@
 
 ## Java 
 
+- [Netflix/netflix-graph](https://github.com/Netflix/netflix-graph) - Compact in-memory representation of directed graph data
 - [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - Open source distributed and RESTful search engine.
 - [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
 - [acoli-repo/conll-transform](https://github.com/acoli-repo/conll-transform) - seamless conversion between different CoNLL/TSV dialects
@@ -3081,6 +3083,9 @@
 
 ## Python 
 
+- [lucidrains/ponder-transformer](https://github.com/lucidrains/ponder-transformer) - Implementation of a Transformer that Ponders, using the scheme from the PonderNet paper
+- [samuelcolvin/arq](https://github.com/samuelcolvin/arq) - Fast job queuing and RPC in python with asyncio and redis.
+- [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools and file-types to JSON or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.
 - [openvinotoolkit/datumaro](https://github.com/openvinotoolkit/datumaro) - Dataset Management Framework, a Python library and a CLI tool to build, analyze and manage Computer Vision datasets.
 - [facebookincubator/later](https://github.com/facebookincubator/later) - A framework for python asyncio with batteries included for people writing services in python asyncio
@@ -3368,7 +3373,7 @@
 - [vinayak-mehta/present](https://github.com/vinayak-mehta/present) - A terminal-based presentation tool with colors and effects.
 - [KevinMusgrave/pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning) - The easiest way to use deep metric learning in your application. Modular, flexible, and extensible. Written in PyTorch.
 - [lyft/l5kit](https://github.com/lyft/l5kit) - L5Kit - level5.lyft.com
-- [novnc/websockify](https://github.com/novnc/websockify) - Websockify is a WebSocket to TCP proxy/bridge. This allows a browser to connect  to any application/server/service. Implementations in Python, C, Node.js and Ruby.
+- [novnc/websockify](https://github.com/novnc/websockify) - Websockify is a WebSocket to TCP proxy/bridge. This allows a browser to connect  to any application/server/service.
 - [kororo/excelcy](https://github.com/kororo/excelcy) - Excel Integration with spaCy. Training NER using Excel/XLSX from PDF, DOCX, PPT, PNG or JPG.
 - [Vin-itall/CloudArcade](https://github.com/Vin-itall/CloudArcade) - CloudArcade Let's You Play Retro Games On Web Browser. Scales In And Out As Required.
 - [google/pygtrie](https://github.com/google/pygtrie) - Python library implementing a trie data structure.
@@ -6703,7 +6708,7 @@
 
 - [MasterQ32/asciitable](https://github.com/MasterQ32/asciitable) - A very basic tool that just prints the ascii table
 - [lithdew/rheia](https://github.com/lithdew/rheia) - A blockchain written in Zig.
-- [coilhq/tigerbeetle](https://github.com/coilhq/tigerbeetle) - A purpose-built financial accounting database, designed for high-throughput low-latency two-phase prepare/commit transfers between accounts.
+- [coilhq/tigerbeetle](https://github.com/coilhq/tigerbeetle) - A distributed financial accounting database designed for mission critical safety and performance to power the future of financial services.
 - [ratfactor/ziglings](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs.
 - [lithdew/snow](https://github.com/lithdew/snow) - A small, fast, cross-platform, async Zig networking framework built on top of lithdew/pike.
 - [prime31/zig-ecs](https://github.com/prime31/zig-ecs) - 
