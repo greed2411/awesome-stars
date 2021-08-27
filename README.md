@@ -1512,7 +1512,7 @@
 - [Flipkart/foxtrot](https://github.com/Flipkart/foxtrot) - A store abstraction and analytics system for real-time event data.
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [dropwizard/metrics](https://github.com/dropwizard/metrics) - :chart_with_upwards_trend: Capturing JVM- and application-level metrics. So you know what's going on.
-- [swimos/swim](https://github.com/swimos/swim) - Distributed software platform for building stateful, massively real-time streaming applications.
+- [swimos/swim](https://github.com/swimos/swim) - Full stack application platform for building stateful web services, streaming APIs, and real-time UIs
 - [doocs/advanced-java](https://github.com/doocs/advanced-java) - 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
 - [indeedeng/util](https://github.com/indeedeng/util) - Useful Java utilities
 - [confluentinc/ksql](https://github.com/confluentinc/ksql) - The database purpose-built for stream processing applications.
@@ -1596,7 +1596,6 @@
 - [stackshareio/awesome-stacks](https://github.com/stackshareio/awesome-stacks) - A curated list of tech stacks for building different applications & features
 - [zonetti/zonote](https://github.com/zonetti/zonote) - Cross-platform desktop note-taking app. Sticky notes with Markdown and Tabs. All in one .txt file.
 - [aeternity/aepp-sdk-js](https://github.com/aeternity/aepp-sdk-js) - Javascript SDK for the æternity blockchain
-- [chaskiq/chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp, etc ...
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly
 - [antonycourtney/tad](https://github.com/antonycourtney/tad) - A desktop application for viewing and analyzing tabular data
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
@@ -1768,7 +1767,7 @@
 - [trazyn/ieaseMusic](https://github.com/trazyn/ieaseMusic) - 网易云音乐第三方
 - [andreruffert/rangeslider.js](https://github.com/andreruffert/rangeslider.js) - 🎚 HTML5 input range slider element polyfill
 - [michalsnik/aos](https://github.com/michalsnik/aos) - Animate on scroll library
-- [alexmacarthur/typeit](https://github.com/alexmacarthur/typeit) - The most versatile JavaScript animated typing utility on the planet.
+- [alexmacarthur/typeit](https://github.com/alexmacarthur/typeit) - The most versatile JavaScript animated typewriter utility on the planet.
 - [jschr/textillate](https://github.com/jschr/textillate) - A jquery plugin for CSS3 text animations.
 - [google-ar/three.ar.js](https://github.com/google-ar/three.ar.js) - A helper three.js library for building AR web experiences that run in WebARonARKit and WebARonARCore
 - [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - :books: Books everyone should read!
@@ -1873,6 +1872,7 @@
 - [harvardnlp/pytorch-struct](https://github.com/harvardnlp/pytorch-struct) - Fast, general, and tested differentiable structured prediction in PyTorch
 - [shaoanlu/fewshot-face-translation-GAN](https://github.com/shaoanlu/fewshot-face-translation-GAN) - Generative adversarial networks integrating modules from FUNIT and SPADE for face-swapping.
 - [deepmind/deepmind-research](https://github.com/deepmind/deepmind-research) - This repository contains implementations and illustrative code to accompany DeepMind publications
+- [tensorflow/gan](https://github.com/tensorflow/gan) - Tooling for GANs in TensorFlow
 - [christophM/interpretable-ml-book](https://github.com/christophM/interpretable-ml-book) - Book about interpretable machine learning
 - [dsgiitr/d2l-pytorch](https://github.com/dsgiitr/d2l-pytorch) - This project reproduces the book Dive Into Deep Learning (https://d2l.ai/), adapting the code from MXNet into PyTorch.
 - [makcedward/nlpaug](https://github.com/makcedward/nlpaug) - Data augmentation for NLP
@@ -2544,7 +2544,7 @@
 - [zhenlohuang/awesome-distributed-systems](https://github.com/zhenlohuang/awesome-distributed-systems) - A curated list of awesome distributed systems books, papers, resources and shiny things.
 - [binance/binance-api-postman](https://github.com/binance/binance-api-postman) - Postman collection for Binance Public API, including spot, margin, futures, etc.
 - [microsoft/coax](https://github.com/microsoft/coax) - This project was moved to: https://github.com/coax-dev/coax
-- [p2panda/design-document](https://github.com/p2panda/design-document) - Architectural specification and design of p2:panda_face:
+- [p2panda/handbook](https://github.com/p2panda/handbook) - Architectural specification and design of p2:panda_face:
 - [kgryte/awesome-peer-to-peer](https://github.com/kgryte/awesome-peer-to-peer) - A list of peer-to-peer resources.
 - [msgpack/msgpack](https://github.com/msgpack/msgpack) - MessagePack is an extremely efficient object serialization library. It's like JSON, but very fast and small.
 - [jwiegley/git-from-the-bottom-up](https://github.com/jwiegley/git-from-the-bottom-up) - An introduction to the architecture and design of the Git content manager
@@ -2859,7 +2859,7 @@
 - [decrypto-org/blockchain-papers](https://github.com/decrypto-org/blockchain-papers) - A curated list of academic blockchain-related papers
 - [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
 - [gkamradt/Lessons-Learned-Data-Science-Interviews](https://github.com/gkamradt/Lessons-Learned-Data-Science-Interviews) - Lessons learned the hard way through over 30+ data science interviews
-- [lefticus/cppbestpractices](https://github.com/lefticus/cppbestpractices) - Collaborative Collection of C++ Best Practices. This online resource is part of Jason Turner's collection of C++ Best Practices resources. See README.md for more information.
+- [cpp-best-practices/cppbestpractices](https://github.com/cpp-best-practices/cppbestpractices) - Collaborative Collection of C++ Best Practices. This online resource is part of Jason Turner's collection of C++ Best Practices resources. See README.md for more information.
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [swapagarwal/awesome-eli5](https://github.com/swapagarwal/awesome-eli5) - 👶 Technical concepts explained in layman terms! git.io/eli5
 - [sekwiatkowski/awesome-capsule-networks](https://github.com/sekwiatkowski/awesome-capsule-networks) - A curated list of awesome resources related to capsule networks
@@ -3631,7 +3631,6 @@
 - [paulu/deepfeatinterp](https://github.com/paulu/deepfeatinterp) - Deep Feature Interpolation (CVPR 2017)
 - [tsproisl/SoMaJo](https://github.com/tsproisl/SoMaJo) - A tokenizer and sentence splitter for German and English web and social media texts.
 - [ICLRandD/Blackstone](https://github.com/ICLRandD/Blackstone) - :black_circle: A spaCy pipeline and model for NLP on unstructured legal text.
-- [tensorflow/gan](https://github.com/tensorflow/gan) - Tooling for GANs in TensorFlow
 - [nickmpaz/freereads](https://github.com/nickmpaz/freereads) - Command line application that provides a simple GUI for searching Library Genesis for books, downloading them, and emailing them to an Amazon Kindle.
 - [IDSIA/sacred](https://github.com/IDSIA/sacred) - Sacred is a tool to help you configure, organize, log and reproduce experiments developed at IDSIA.
 - [RameshAditya/scoper](https://github.com/RameshAditya/scoper) - Fuzzy and semantic search for captioned YouTube videos.
@@ -6597,6 +6596,7 @@
 - [microsoft/etcd3](https://github.com/microsoft/etcd3) - :bookmark: Node.js client for etcd3
 - [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
 - [ethers-io/ethers.js](https://github.com/ethers-io/ethers.js) - Complete Ethereum library and wallet implementation in JavaScript.
+- [chaskiq/chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp, etc ...
 - [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
 - [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
