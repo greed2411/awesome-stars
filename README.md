@@ -802,6 +802,7 @@
 
 ## Go 
 
+- [odpf/raccoon](https://github.com/odpf/raccoon) - Raccoon is a high-throughput, low-latency service to collect events in real-time from your web, mobile apps, and services using multiple network protocols.
 - [pipe-cd/pipe](https://github.com/pipe-cd/pipe) - Continuous Delivery for Declarative Kubernetes, Serverless and Infrastructure Applications
 - [gitsrc/IceFireDB](https://github.com/gitsrc/IceFireDB) - Distributed disk storage database based on Raft and Redis protocol.
 - [facette/facette](https://github.com/facette/facette) - Time series data visualization software
@@ -1746,7 +1747,7 @@
 - [riot/riot](https://github.com/riot/riot) - Simple and elegant component-based UI library
 - [alexmojaki/birdseye](https://github.com/alexmojaki/birdseye) - Graphical Python debugger which lets you easily view the values of all evaluated expressions
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
-- [BoostIO/Boostnote](https://github.com/BoostIO/Boostnote) - A markdown editor for developers on Mac, Windows and Linux.
+- [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - A markdown editor for developers on Mac, Windows and Linux.
 - [Rejectedus/rejected.us](https://github.com/Rejectedus/rejected.us) - :cry: The codebase for rejected.us
 - [jupyter/notebook](https://github.com/jupyter/notebook) - Jupyter Interactive Notebook
 - [mozilla/voicefill](https://github.com/mozilla/voicefill) - A WebExtension To Add Speech To Text Support to Web Pages
@@ -5660,7 +5661,7 @@
 - [Jessime/youtube_history](https://github.com/Jessime/youtube_history) - A quick analysis of all Youtube videos in a user's history.
 - [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 - [r9y9/deepvoice3_pytorch](https://github.com/r9y9/deepvoice3_pytorch) - PyTorch implementation of convolutional neural networks-based text-to-speech synthesis models
-- [gwik/geventhttpclient](https://github.com/gwik/geventhttpclient) - A high performance, concurrent http client library for python with gevent
+- [geventhttpclient/geventhttpclient](https://github.com/geventhttpclient/geventhttpclient) - A high performance, concurrent http client library for python with gevent
 - [Wizaron/reseg-pytorch](https://github.com/Wizaron/reseg-pytorch) - PyTorch Implementation of ReSeg (https://arxiv.org/pdf/1511.07053.pdf)
 - [Wizaron/binary-stochastic-neurons](https://github.com/Wizaron/binary-stochastic-neurons) - Binary Stochastic Neurons in PyTorch
 - [ruiminshen/yolo2-pytorch](https://github.com/ruiminshen/yolo2-pytorch) - PyTorch implementation of the YOLO (You Only Look Once) v2
@@ -6179,6 +6180,7 @@
 
 ## Rust 
 
+- [dylanede/cassowary-rs](https://github.com/dylanede/cassowary-rs) - A Rust implementation of the Cassowary constraint solving algorithm
 - [zkat/miette](https://github.com/zkat/miette) - Fancy upgrade to std::error::Error.
 - [rust-db/refinery](https://github.com/rust-db/refinery) - Powerful SQL migration toolkit for Rust.
 - [losfair/RefineDB](https://github.com/losfair/RefineDB) - A strongly-typed document database that runs on any transactional key-value store.
