@@ -1349,7 +1349,7 @@
 - [WebOfTrustInfo/rwot1-sf](https://github.com/WebOfTrustInfo/rwot1-sf) - RWOT1 in San Francisco, California (November 2015)
 - [dtan4/paus](https://github.com/dtan4/paus) - Docker Compose PaaS
 - [youngwoon/transition](https://github.com/youngwoon/transition) - Official code for the paper "Learning Transition Policies for Composing Complex Skills" (ICLR 2019)
-- [wowchemy/wowchemy-hugo-modules](https://github.com/wowchemy/wowchemy-hugo-modules) - 🔥 The website builder for Hugo. No code, build with widgets! 创建在线课程，学术简历或初创网站。
+- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 🔥 Hugo website builder, Hugo themes & Hugo CMS. No code, build with widgets! 创建在线课程，学术简历或初创网站。
 - [kkinder/templatemail](https://github.com/kkinder/templatemail) - Templated Email for Python
 - [suriyadeepan/SRM-NLP-Workshop-2019](https://github.com/suriyadeepan/SRM-NLP-Workshop-2019) - Code, Notes, Slides, Data
 - [seba-1511/dist_tuto.pth](https://github.com/seba-1511/dist_tuto.pth) - Official code for "Writing Distributed Applications with PyTorch", PyTorch Tutorial
@@ -3084,6 +3084,9 @@
 
 ## Python 
 
+- [facebookresearch/KILT](https://github.com/facebookresearch/KILT) - Library for Knowledge Intensive Language Tasks
+- [HumanCompatibleAI/imitation](https://github.com/HumanCompatibleAI/imitation) - Clean PyTorch implementations of imitation learning algorithms
+- [kevinzakka/learn-linalg](https://github.com/kevinzakka/learn-linalg) - Learning some numerical linear algebra.
 - [lucidrains/ponder-transformer](https://github.com/lucidrains/ponder-transformer) - Implementation of a Transformer that Ponders, using the scheme from the PonderNet paper
 - [samuelcolvin/arq](https://github.com/samuelcolvin/arq) - Fast job queuing and RPC in python with asyncio and redis.
 - [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
@@ -4920,7 +4923,7 @@
 - [RJT1990/gandecks](https://github.com/RJT1990/gandecks) - AI Generated Skateboard Decks
 - [amdegroot/ssd.pytorch](https://github.com/amdegroot/ssd.pytorch) - A PyTorch Implementation of Single Shot MultiBox Detector
 - [lzx1413/PytorchSSD](https://github.com/lzx1413/PytorchSSD) - pytorch version of SSD and it's enhanced methods such as RFBSSD,FSSD and RefineDet
-- [xinntao/BasicSR](https://github.com/xinntao/BasicSR) - Open Source Image and Video Restoration Toolbox for Super-resolution, Denoise, Deblurring, etc. Currently, it includes EDSR, RCAN, SRResNet, SRGAN, ESRGAN, EDVR, etc. Also support StyleGAN2, DFDNet.
+- [xinntao/BasicSR](https://github.com/xinntao/BasicSR) - Open Source Image and Video Restoration Toolbox for Super-resolution, Denoise, Deblurring, etc. Currently, it includes EDSR, RCAN, SRResNet, SRGAN, ESRGAN, EDVR, BasicVSR, etc. Also support StyleGAN2, DFDNet.
 - [cybertronai/imagenet18_old](https://github.com/cybertronai/imagenet18_old) - Code to reproduce "imagenet in 18 minutes" DAWN-benchmark entry
 - [fengju514/Face-Pose-Net](https://github.com/fengju514/Face-Pose-Net) - Estimate 3D face pose (6DoF) or 11 parameters of 3x4 projection matrix by a Convolutional Neural Network
 - [wangg12/intel-cervical-cancer](https://github.com/wangg12/intel-cervical-cancer) - Team GuYuShiJie~'s 15th (top 2%) solution of cervix type classification in Kaggle 2017 competition, using PyTorch.
