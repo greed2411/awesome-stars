@@ -104,7 +104,7 @@
 - [bitly/dablooms](https://github.com/bitly/dablooms) - scaling, counting, bloom filter library
 - [Legrandin/pycryptodome](https://github.com/Legrandin/pycryptodome) - A self-contained cryptographic library for Python
 - [FastFilter/xor_singleheader](https://github.com/FastFilter/xor_singleheader) - Header-only Xor Filter library
-- [alibaba/PolarDB-for-PostgreSQL](https://github.com/alibaba/PolarDB-for-PostgreSQL) - 
+- [alibaba/PolarDB-for-PostgreSQL](https://github.com/alibaba/PolarDB-for-PostgreSQL) - The default branch of PolarDB switched to “main” on 20210901, which supports compute-storage separation architecture. The “master” branch in the past switched to “distributed” branch, which supports distributed architecture.
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [nalgeon/sqlean](https://github.com/nalgeon/sqlean) - All the missing SQLite functions
 - [emikulic/darkhttpd](https://github.com/emikulic/darkhttpd) - When you need a web server in a hurry.
@@ -774,7 +774,7 @@
 ## Emacs Lisp 
 
 - [lepisma/org-books](https://github.com/lepisma/org-books) - Reading list management with org mode
-- [Vernacular-ai/tog](https://github.com/Vernacular-ai/tog) - A hackable Emacs based data-tagging framework
+- [skit-ai/tog](https://github.com/skit-ai/tog) - A hackable Emacs based data-tagging framework
 - [org-roam/org-roam](https://github.com/org-roam/org-roam) - Rudimentary Roam replica with Org-mode
 - [hlissner/doom-emacs](https://github.com/hlissner/doom-emacs) - An Emacs framework for the stubborn martian hacker
 
@@ -1563,7 +1563,7 @@
 
 ## JavaScript 
 
-- [Vernacular-ai/dagre-py](https://github.com/Vernacular-ai/dagre-py) - Thin python wrapper around dagre-d3
+- [skit-ai/dagre-py](https://github.com/skit-ai/dagre-py) - Thin python wrapper around dagre-d3
 - [laxyapahuja/bunken](https://github.com/laxyapahuja/bunken) - A chrome extension to download ebooks directly from Goodreads.
 - [serverless/serverless-kubeless](https://github.com/serverless/serverless-kubeless) - This plugin enables support for Kubeless within the Serverless Framework.
 - [google/bottery](https://github.com/google/bottery) - 
@@ -1748,7 +1748,7 @@
 - [riot/riot](https://github.com/riot/riot) - Simple and elegant component-based UI library
 - [alexmojaki/birdseye](https://github.com/alexmojaki/birdseye) - Graphical Python debugger which lets you easily view the values of all evaluated expressions
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
-- [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - A markdown editor for developers on Mac, Windows and Linux.
+- [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
 - [Rejectedus/rejected.us](https://github.com/Rejectedus/rejected.us) - :cry: The codebase for rejected.us
 - [jupyter/notebook](https://github.com/jupyter/notebook) - Jupyter Interactive Notebook
 - [mozilla/voicefill](https://github.com/mozilla/voicefill) - A WebExtension To Add Speech To Text Support to Web Pages
@@ -1808,7 +1808,7 @@
 
 ## Julia 
 
-- [Vernacular-ai/ml-katas](https://github.com/Vernacular-ai/ml-katas) - Katas for Machine Learning
+- [skit-ai/ml-katas](https://github.com/skit-ai/ml-katas) - Katas for Machine Learning
 - [fonsp/Pluto.jl](https://github.com/fonsp/Pluto.jl) - 🎈 Simple reactive notebooks for Julia
 - [jonathan-laurent/AlphaZero.jl](https://github.com/jonathan-laurent/AlphaZero.jl) - A generic, simple and fast implementation of Deepmind's AlphaZero algorithm.
 - [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl) - Relax! Flux is the ML library that doesn't make you tensor
@@ -3027,6 +3027,7 @@
 - [danielecook/Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) - A curated list of awesome Bioinformatics libraries and software.
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [checkcheckzz/python-github-projects](https://github.com/checkcheckzz/python-github-projects) - Collect and classify python projects on Github (deprecated)
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [datasciencemasters/capstone](https://github.com/datasciencemasters/capstone) - Capstone Projects, Requests, and Accolades Galore
 - [academic/awesome-datascience](https://github.com/academic/awesome-datascience) - :memo: An awesome Data Science repository to learn and apply for real world problems.
 - [datasciencemasters/go](https://github.com/datasciencemasters/go) - The Open Source Data Science Masters
@@ -3084,6 +3085,7 @@
 
 ## Python 
 
+- [rhasspy/rhasspy-silence](https://github.com/rhasspy/rhasspy-silence) - Silence detection in audio stream using webrtcvad
 - [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image Restoration.
 - [facebookresearch/KILT](https://github.com/facebookresearch/KILT) - Library for Knowledge Intensive Language Tasks
 - [HumanCompatibleAI/imitation](https://github.com/HumanCompatibleAI/imitation) - Clean PyTorch implementations of imitation learning algorithms
@@ -3235,7 +3237,7 @@
 - [celery/django-celery-beat](https://github.com/celery/django-celery-beat) - Celery Periodic Tasks backed by the Django ORM
 - [googleapis/google-api-python-client](https://github.com/googleapis/google-api-python-client) - 🐍 The official Python client library for Google's discovery based APIs.
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training easy, efficient, and effective.
-- [Vernacular-ai/N-Best-ASR-Transformer](https://github.com/Vernacular-ai/N-Best-ASR-Transformer) - Code for  ACL-IJCNLP 2021 paper "N-Best-ASR-Transformer: Enhancing SLU Performance using Multiple ASR Hypotheses."
+- [skit-ai/N-Best-ASR-Transformer](https://github.com/skit-ai/N-Best-ASR-Transformer) - Code for  ACL-IJCNLP 2021 paper "N-Best-ASR-Transformer: Enhancing SLU Performance using Multiple ASR Hypotheses."
 - [anhaidgroup/deepmatcher](https://github.com/anhaidgroup/deepmatcher) - Python package for performing Entity and Text Matching using Deep Learning.
 - [google/tf-quant-finance](https://github.com/google/tf-quant-finance) - High-performance TensorFlow library for quantitative finance.
 - [HLTCHKUST/Mem2Seq](https://github.com/HLTCHKUST/Mem2Seq) - Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems
@@ -5947,6 +5949,7 @@
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 - [wepe/MachineLearning](https://github.com/wepe/MachineLearning) - Basic Machine Learning and Deep Learning
 - [seqcode/miniMDS](https://github.com/seqcode/miniMDS) - 
+- [oppia/oppia](https://github.com/oppia/oppia) - A free, online learning platform to make quality education accessible for all.
 - [ewels/MultiQC](https://github.com/ewels/MultiQC) - Aggregate results from bioinformatics analyses across many samples into a single report.
 - [kragniz/anyprint](https://github.com/kragniz/anyprint) - Use any* language's print statements in Python
 - [pytorn/pytorn](https://github.com/pytorn/pytorn) - :cyclone: Tornado MVC framework, fully fledged
@@ -6543,7 +6546,6 @@
 - [ankitshah009/youtube-dl-with-aria](https://github.com/ankitshah009/youtube-dl-with-aria) - Wrapper to download faster youtube-dl with aria to support multi-threaded-output
 - [SchulzLab/EpigenomicsTutorial-ISMB2017](https://github.com/SchulzLab/EpigenomicsTutorial-ISMB2017) - Repository for the Epigenomics Tutorial hold at ISMB 2017 in Prague
 - [bioconda/bioconda-recipes](https://github.com/bioconda/bioconda-recipes) - Conda recipes for the bioconda channel.
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [squeaky-pl/portable-pypy](https://github.com/squeaky-pl/portable-pypy) - Portable 64 bit x86 PyPy binaries for many Linux distributions.
 - [crazyhottommy/getting-started-with-genomics-tools-and-resources](https://github.com/crazyhottommy/getting-started-with-genomics-tools-and-resources) - Unix, R and python tools for genomics and data science
 
@@ -6694,7 +6696,6 @@
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [williamngan/pts](https://github.com/williamngan/pts) - A library for visualization and creative-coding
 - [railsware/upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
-- [oppia/oppia](https://github.com/oppia/oppia) - A free, online learning platform to make quality education accessible for all.
 
 ## Vim script 
 
