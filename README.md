@@ -743,6 +743,7 @@
 
 ## Cython 
 
+- [mrjbq7/ta-lib](https://github.com/mrjbq7/ta-lib) - Python wrapper for TA-Lib (http://ta-lib.org/).
 - [luvsound/pippi](https://github.com/luvsound/pippi) - computer music with python
 - [rushter/selectolax](https://github.com/rushter/selectolax) - Python binding to Modest and Lexbor engines (fast HTML5 parser with CSS selectors).
 - [MagicStack/uvloop](https://github.com/MagicStack/uvloop) - Ultra fast asyncio event loop.
@@ -1440,6 +1441,7 @@
 - [therewillbecode/poker-maison](https://github.com/therewillbecode/poker-maison) - 🂺 A Multiplayer Poker App Crafted with Haskell and React
 - [jeltsch/incremental-computing](https://github.com/jeltsch/incremental-computing) - Incremental computing
 - [hasktorch/hasktorch](https://github.com/hasktorch/hasktorch) - Tensors and neural networks in Haskell
+- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
 
 ## Hy 
 
@@ -1527,7 +1529,7 @@
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
 - [prestodb/presto](https://github.com/prestodb/presto) - The official home of the Presto distributed SQL query engine for big data
 - [graphhopper/jsprit](https://github.com/graphhopper/jsprit) - jsprit is a java based, open source toolkit for solving rich vehicle routing problems
-- [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) - Apache DolphinScheduler is a distributed and extensible workflow scheduler platform with powerful DAG visual interfaces, dedicated to solving complex job dependencies in the data pipeline and providing various types of jobs available `out of the box`.
+- [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) - Apache DolphinScheduler is a distributed and extensible workflow scheduler platform with powerful DAG visual interfaces, dedicated to solving complex job dependencies in the data pipeline and providing various types of jobs available out of box.
 - [Tencent/TubeMQ](https://github.com/Tencent/TubeMQ) - TubeMQ focuses on high-performance storage and transmission of massive data in big data scenarios
 - [ambiverse-nlu/ambiverse-nlu](https://github.com/ambiverse-nlu/ambiverse-nlu) - AmbiverseNLU: A Natural Language Understanding suite by Max Planck Institute for Informatics
 - [OrderLab/leaseos_frameworks_base](https://github.com/OrderLab/leaseos_frameworks_base) - AOSP frameworks/base repo with Lease OS changes
@@ -3085,6 +3087,7 @@
 
 ## Python 
 
+- [philipperemy/n-beats](https://github.com/philipperemy/n-beats) - Keras/Pytorch implementation of N-BEATS: Neural basis expansion analysis for interpretable time series forecasting.
 - [rhasspy/rhasspy-silence](https://github.com/rhasspy/rhasspy-silence) - Silence detection in audio stream using webrtcvad
 - [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image Restoration.
 - [facebookresearch/KILT](https://github.com/facebookresearch/KILT) - Library for Knowledge Intensive Language Tasks
@@ -3336,7 +3339,6 @@
 - [dhaitz/mplcyberpunk](https://github.com/dhaitz/mplcyberpunk) - "Cyberpunk style" for matplotlib plots
 - [yiranran/Audio-driven-TalkingFace-HeadPose](https://github.com/yiranran/Audio-driven-TalkingFace-HeadPose) - Code for "Audio-driven Talking Face Video Generation with Learning-based Personalized Head Pose"
 - [YyzHarry/imbalanced-semi-self](https://github.com/YyzHarry/imbalanced-semi-self) - [NeurIPS 2020] Semi-Supervision (Unlabeled Data) & Self-Supervision Improve Class-Imbalanced / Long-Tailed Learning
-- [mrjbq7/ta-lib](https://github.com/mrjbq7/ta-lib) - Python wrapper for TA-Lib (http://ta-lib.org/).
 - [jinfagang/nb](https://github.com/jinfagang/nb) - Neural Network Blocks - Collect all kinds of fancy model blocks for you to build more powerful neural network model.
 - [kwotsin/mimicry](https://github.com/kwotsin/mimicry) - [CVPR 2020 Workshop] A PyTorch GAN library that reproduces research results for popular GANs.
 - [Netflix/dispatch](https://github.com/Netflix/dispatch) - All of the ad-hoc things you're doing to manage incidents today, done for you, and much more!
@@ -4926,7 +4928,7 @@
 - [RJT1990/gandecks](https://github.com/RJT1990/gandecks) - AI Generated Skateboard Decks
 - [amdegroot/ssd.pytorch](https://github.com/amdegroot/ssd.pytorch) - A PyTorch Implementation of Single Shot MultiBox Detector
 - [lzx1413/PytorchSSD](https://github.com/lzx1413/PytorchSSD) - pytorch version of SSD and it's enhanced methods such as RFBSSD,FSSD and RefineDet
-- [xinntao/BasicSR](https://github.com/xinntao/BasicSR) - Open Source Image and Video Restoration Toolbox for Super-resolution, Denoise, Deblurring, etc. Currently, it includes EDSR, RCAN, SRResNet, SRGAN, ESRGAN, EDVR, BasicVSR, etc. Also support StyleGAN2, DFDNet.
+- [xinntao/BasicSR](https://github.com/xinntao/BasicSR) - Open Source Image and Video Restoration Toolbox for Super-resolution, Denoise, Deblurring, etc. Currently, it includes EDSR, RCAN, SRResNet, SRGAN, ESRGAN, EDVR, BasicVSR, SwinIR, etc. Also support StyleGAN2, DFDNet.
 - [cybertronai/imagenet18_old](https://github.com/cybertronai/imagenet18_old) - Code to reproduce "imagenet in 18 minutes" DAWN-benchmark entry
 - [fengju514/Face-Pose-Net](https://github.com/fengju514/Face-Pose-Net) - Estimate 3D face pose (6DoF) or 11 parameters of 3x4 projection matrix by a Convolutional Neural Network
 - [wangg12/intel-cervical-cancer](https://github.com/wangg12/intel-cervical-cancer) - Team GuYuShiJie~'s 15th (top 2%) solution of cervix type classification in Kaggle 2017 competition, using PyTorch.
@@ -5907,7 +5909,6 @@
 - [RasaHQ/rasa](https://github.com/RasaHQ/rasa) - 💬   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants
 - [rougier/ASPP-2017](https://github.com/rougier/ASPP-2017) - Material for the Advanced Scientific Python Programming course, Nikiti, Greece, 2017
 - [zcyang/imageqa-san](https://github.com/zcyang/imageqa-san) - code for Stacked attention networks for image question answering
-- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
 - [flomlo/ntm_keras](https://github.com/flomlo/ntm_keras) - An implementation of the Neural Turing Machine as a keras recurrent layer.
 - [bplank/bilstm-aux](https://github.com/bplank/bilstm-aux) - Bidirectional Long-Short Term Memory tagger (bi-LSTM) (in DyNet) -- hierarchical (with word and character embeddings)
 - [petertodd/python-bitcoinlib](https://github.com/petertodd/python-bitcoinlib) - Python3 library providing an easy interface to the Bitcoin data structures and protocol.
