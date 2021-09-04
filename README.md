@@ -1565,6 +1565,7 @@
 
 ## JavaScript 
 
+- [foreversd/forever](https://github.com/foreversd/forever) - A simple CLI tool for ensuring that a given script runs continuously (i.e. forever)
 - [skit-ai/dagre-py](https://github.com/skit-ai/dagre-py) - Thin python wrapper around dagre-d3
 - [laxyapahuja/bunken](https://github.com/laxyapahuja/bunken) - A chrome extension to download ebooks directly from Goodreads.
 - [serverless/serverless-kubeless](https://github.com/serverless/serverless-kubeless) - This plugin enables support for Kubeless within the Serverless Framework.
@@ -5294,7 +5295,7 @@
 - [gregbanks/python-tabulate](https://github.com/gregbanks/python-tabulate) - fork of https://bitbucket.org/astanin/python-tabulate
 - [dalgu90/splitnet-imagenet22k](https://github.com/dalgu90/splitnet-imagenet22k) - SplitNet implemented based on ResNet-50 trained on ImageNet-22K
 - [allenai/scitail](https://github.com/allenai/scitail) - Given a pair of sentences (premise, hypothesis), the decomposed graph entailment model (DGEM) predicts whether the premise can be used to infer the hypothesis.
-- [rusty1s/pytorch_geometric](https://github.com/rusty1s/pytorch_geometric) - Geometric Deep Learning Extension Library for PyTorch
+- [rusty1s/pytorch_geometric](https://github.com/rusty1s/pytorch_geometric) - Graph Neural Network Library for PyTorch
 - [brandon-rhodes/python-sgp4](https://github.com/brandon-rhodes/python-sgp4) - Python version of the SGP4 satellite position library
 - [RLAgent/gated-path-planning-networks](https://github.com/RLAgent/gated-path-planning-networks) - Gated Path Planning Networks (ICML 2018)
 - [baidu-research/NCRF](https://github.com/baidu-research/NCRF) - Cancer metastasis detection with neural conditional random field (NCRF)
@@ -6189,6 +6190,8 @@
 
 ## Rust 
 
+- [IntrinsicLabs/osgood](https://github.com/IntrinsicLabs/osgood) - Osgood is a secure, fast, and simple platform for running JavaScript HTTP servers.
+- [yaa110/nomino](https://github.com/yaa110/nomino) - Batch rename utility for developers
 - [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 - [tangramdotdev/tangram](https://github.com/tangramdotdev/tangram) - Tangram makes it easy for programmers to train, deploy, and monitor machine learning models.
 - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
@@ -6586,6 +6589,7 @@
 
 ## TypeScript 
 
+- [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool
 - [growthbook/growthbook](https://github.com/growthbook/growthbook) - The Open Source A/B Testing Platform
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
