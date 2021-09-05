@@ -803,6 +803,7 @@
 
 ## Go 
 
+- [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [odpf/raccoon](https://github.com/odpf/raccoon) - Raccoon is a high-throughput, low-latency service to collect events in real-time from your web, mobile apps, and services using multiple network protocols.
 - [pipe-cd/pipe](https://github.com/pipe-cd/pipe) - Continuous Delivery for Declarative Kubernetes, Serverless and Infrastructure Applications
 - [gitsrc/IceFireDB](https://github.com/gitsrc/IceFireDB) - Distributed disk storage database based on Raft and Redis protocol.
@@ -865,7 +866,7 @@
 - [uber-go/gopatch](https://github.com/uber-go/gopatch) - Refactoring and code transformation tool for Go.
 - [wasmerio/wasmer-go](https://github.com/wasmerio/wasmer-go) - 🐹🕸️ WebAssembly runtime for Go
 - [sorenisanerd/gotty](https://github.com/sorenisanerd/gotty) - Share your terminal as a web application
-- [pressly/goose](https://github.com/pressly/goose) - Goose database migration tool - fork of https://bitbucket.org/liamstask/goose
+- [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.
 - [Clivern/Walrus](https://github.com/Clivern/Walrus) - 🔥 Fast, Secure and Reliable System Backup, Set up in Minutes.
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service and CLI
 - [weaveworks/eksctl](https://github.com/weaveworks/eksctl) - The official CLI for Amazon EKS
@@ -2349,7 +2350,6 @@
 - [lesley2958/machine-learning-series-python](https://github.com/lesley2958/machine-learning-series-python) - 
 - [llSourcell/Tensorflow-for-stock-prediction](https://github.com/llSourcell/Tensorflow-for-stock-prediction) - Use Tensorflow to run CNN for predict stock movement. Hope to find out which pattern will follow the price rising.
 - [yunjey/show-attend-and-tell](https://github.com/yunjey/show-attend-and-tell) - TensorFlow Implementation of "Show, Attend and Tell"
-- [Aniruddha-Tapas/Transfer-Learning-for-Animal-Classification-in-Tensorflow](https://github.com/Aniruddha-Tapas/Transfer-Learning-for-Animal-Classification-in-Tensorflow) - Siraj Raval's Weekly Challenge Accepted :sunglasses:
 - [lesley2958/cheatsheets](https://github.com/lesley2958/cheatsheets) - 
 - [udacity/deep-learning](https://github.com/udacity/deep-learning) - Repo for the Deep Learning Nanodegree Foundations program.
 - [y2ee201/Udacity-Deep-Learning-Nanodegree](https://github.com/y2ee201/Udacity-Deep-Learning-Nanodegree) - 
@@ -2488,6 +2488,7 @@
 
 ## Others 
 
+- [wuchong/awesome-flink](https://github.com/wuchong/awesome-flink) - 😎  A curated list of amazingly awesome Flink and Flink ecosystem resources
 - [cs-books/influential-cs-books](https://github.com/cs-books/influential-cs-books) - Most influential books on Computer Science/programming
 - [Huage001/PaintTransformer](https://github.com/Huage001/PaintTransformer) - Homepage of paper: Paint Transformer: Feed Forward Neural Painting with Stroke Prediction, ICCV 2021.
 - [manuzhang/awesome-streaming](https://github.com/manuzhang/awesome-streaming) - a curated list of awesome streaming frameworks, applications, etc
