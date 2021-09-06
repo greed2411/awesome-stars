@@ -1189,7 +1189,7 @@
 - [klauspost/compress](https://github.com/klauspost/compress) - Optimized Go Compression Packages
 - [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [coinbase/odin](https://github.com/coinbase/odin) - Archived: Odin deployer to AWS for 12 Factor applications.
-- [aler9/rtsp-simple-server](https://github.com/aler9/rtsp-simple-server) - ready-to-use RTSP / RTMP / HLS server and proxy that allows to read, publish and proxy video and audio streams
+- [aler9/rtsp-simple-server](https://github.com/aler9/rtsp-simple-server) - ready-to-use server and proxy that allows to read, publish and proxy video and audio streams with RTSP, RTMP, HLS
 - [smartystreets-prototypes/go-disruptor](https://github.com/smartystreets-prototypes/go-disruptor) - A port of the LMAX Disruptor to the Go language.
 - [urfave/negroni](https://github.com/urfave/negroni) - Idiomatic HTTP Middleware for Golang
 - [gorilla/mux](https://github.com/gorilla/mux) - A powerful HTTP router and URL matcher for building Go web servers with 🦍
@@ -3111,7 +3111,7 @@
 - [yzhangcs/parser](https://github.com/yzhangcs/parser) - State-of-the-art Dependency, Constituency and Semantic Dependency Parsers, with pretrained models for more than 19 languages.
 - [google-research/byt5](https://github.com/google-research/byt5) - 
 - [BaguaSys/bagua](https://github.com/BaguaSys/bagua) - Bagua is a performant and flexible distributed training framework for PyTorch, providing a faster alternative to PyTorch DDP and Horovod, with support for advanced distributed training algorithms such as quantization and decentralization.
-- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀
+- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀 (Clone of https://github.com/public-apis/public-apis)
 - [deepmind/alphafold](https://github.com/deepmind/alphafold) - Open source code for AlphaFold.
 - [vturrisi/solo-learn](https://github.com/vturrisi/solo-learn) - solo-learn: a library of self-supervised methods for visual representation learning powered by Pytorch Lightning
 - [ben-hayes/neural-waveshaping-synthesis](https://github.com/ben-hayes/neural-waveshaping-synthesis) - efficient neural audio synthesis in the waveform domain
