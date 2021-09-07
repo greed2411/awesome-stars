@@ -386,7 +386,6 @@
 - [emmjaykay/stanford_self_driving_car_code](https://github.com/emmjaykay/stanford_self_driving_car_code) - Stanford Code From Cars That Entered DARPA Grand Challenges
 - [epoupon/lms](https://github.com/epoupon/lms) - Lightweight Music Server. Access your self-hosted music using a web interface.
 - [apache/incubator-brpc](https://github.com/apache/incubator-brpc) - Industrial-grade RPC framework used throughout Baidu, with 1,000,000+ instances and thousands kinds of services. "brpc" means "better RPC".
-- [DMOJ/judge-server](https://github.com/DMOJ/judge-server) - Judging backend server for the DMOJ online judge.
 - [VKCOM/YouTokenToMe](https://github.com/VKCOM/YouTokenToMe) - Unsupervised text tokenizer focused on computational efficiency
 - [uber-research/jpeg2dct](https://github.com/uber-research/jpeg2dct) - 
 - [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
@@ -811,7 +810,7 @@
 - [bytedance/ns-x](https://github.com/bytedance/ns-x) - An easy-to-use, flexible network simulator library in Go.
 - [alda-lang/alda](https://github.com/alda-lang/alda) - A music programming language for musicians. :notes:
 - [golang/groupcache](https://github.com/golang/groupcache) - groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
-- [sachaos/viddy](https://github.com/sachaos/viddy) - 👀  Modern watch command. Time machine and pager etc.
+- [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 - [mattn/go-generics-example](https://github.com/mattn/go-generics-example) - Example code for Go generics
 - [nwtgck/go-fakelish](https://github.com/nwtgck/go-fakelish) - Fake English word generator for Go and CLI
 - [uber-go/ratelimit](https://github.com/uber-go/ratelimit) - A Golang blocking leaky-bucket rate limit implementation
@@ -1189,7 +1188,7 @@
 - [klauspost/compress](https://github.com/klauspost/compress) - Optimized Go Compression Packages
 - [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [coinbase/odin](https://github.com/coinbase/odin) - Archived: Odin deployer to AWS for 12 Factor applications.
-- [aler9/rtsp-simple-server](https://github.com/aler9/rtsp-simple-server) - ready-to-use server and proxy that allows to read, publish and proxy video and audio streams with RTSP, RTMP, HLS
+- [aler9/rtsp-simple-server](https://github.com/aler9/rtsp-simple-server) - ready-to-use RTSP / RTMP / HLS server and proxy that allows to read, publish and proxy video and audio streams
 - [smartystreets-prototypes/go-disruptor](https://github.com/smartystreets-prototypes/go-disruptor) - A port of the LMAX Disruptor to the Go language.
 - [urfave/negroni](https://github.com/urfave/negroni) - Idiomatic HTTP Middleware for Golang
 - [gorilla/mux](https://github.com/gorilla/mux) - A powerful HTTP router and URL matcher for building Go web servers with 🦍
@@ -1366,6 +1365,7 @@
 - [robertness/causal_demon](https://github.com/robertness/causal_demon) - 
 - [solid/solid](https://github.com/solid/solid) - Solid - Re-decentralizing the web (project directory)
 - [Strange-AI/quantum_ml](https://github.com/Strange-AI/quantum_ml) - StrangeAI Youtube频道的量子机器学习代码
+- [tdurieux/anonymous_github](https://github.com/tdurieux/anonymous_github) - Anonymous Github is a proxy server to support anonymous browsing of Github repositories for open-science code and data.
 - [switchablenorms/Switchable-Normalization](https://github.com/switchablenorms/Switchable-Normalization) - Code for Switchable Normalization from "Differentiable Learning-to-Normalize via Switchable Normalization", https://arxiv.org/abs/1806.10779
 - [deanmalmgren/textract](https://github.com/deanmalmgren/textract) - extract text from any document. no muss. no fuss.
 - [Smerity/trending_arxiv](https://github.com/Smerity/trending_arxiv) - Track trending arXiv papers on Twitter from within your circle
@@ -3689,6 +3689,7 @@
 - [vipstone/faceai](https://github.com/vipstone/faceai) - 一款入门级的人脸、视频、文字检测以及识别的项目.
 - [zllrunning/video-object-removal](https://github.com/zllrunning/video-object-removal) - Just draw a bounding box and you can remove the object you want to remove.
 - [DMOJ/online-judge](https://github.com/DMOJ/online-judge) - A modern open-source online judge and contest platform system.
+- [DMOJ/judge-server](https://github.com/DMOJ/judge-server) - Judging backend server for the DMOJ online judge.
 - [iver56/audiomentations](https://github.com/iver56/audiomentations) - A Python library for audio data augmentation. Inspired by albumentations. Useful for machine learning.
 - [awwong1/torchprof](https://github.com/awwong1/torchprof) - PyTorch layer-by-layer model profiler
 - [bndr/pycycle](https://github.com/bndr/pycycle) - Tool for pinpointing circular imports in Python. Find cyclic imports in any project
@@ -5227,7 +5228,7 @@
 - [mitmul/chainer-siamese](https://github.com/mitmul/chainer-siamese) - Siamese Network implementation using Chainer
 - [zijundeng/pytorch-semantic-segmentation](https://github.com/zijundeng/pytorch-semantic-segmentation) - PyTorch for Semantic Segmentation
 - [IssamLaradji/BlockCoordinateDescent](https://github.com/IssamLaradji/BlockCoordinateDescent) - Code for the paper "Let’s Make Block Coordinate Descent Go Fast"
-- [camus1337/Various-Attention-mechanisms](https://github.com/camus1337/Various-Attention-mechanisms) - This repository contain various types of attention mechanism like Bahdanau , Soft attention , Additive Attention , Hierarchical Attention etc
+- [monk1337/Various-Attention-mechanisms](https://github.com/monk1337/Various-Attention-mechanisms) - This repository contain various types of attention mechanism like Bahdanau , Soft attention , Additive Attention , Hierarchical Attention etc
 - [akirafukui/vqa-mcb](https://github.com/akirafukui/vqa-mcb) - 
 - [farizrahman4u/recurrentshop](https://github.com/farizrahman4u/recurrentshop) - Framework for building complex recurrent neural networks with Keras
 - [bhpfelix/Variational-Autoencoder-PyTorch](https://github.com/bhpfelix/Variational-Autoencoder-PyTorch) - Variational Autoencoder implemented with PyTorch, Trained over CelebA Dataset
@@ -6680,7 +6681,6 @@
 - [microsoft/VoTT](https://github.com/microsoft/VoTT) - Visual Object Tagging Tool: An electron app for building end to end Object Detection Models from Images and Videos.
 - [tensorflow/tfjs-vis](https://github.com/tensorflow/tfjs-vis) - A set of utilities for in browser visualization with TensorFlow.js
 - [tensorflow/tensorboard](https://github.com/tensorflow/tensorboard) - TensorFlow's Visualization Toolkit
-- [tdurieux/anonymous_github](https://github.com/tdurieux/anonymous_github) - Anonymous Github is a proxy server to support anonymous browsing of Github repositories for open-science code and data.
 - [machinelearnjs/machinelearnjs](https://github.com/machinelearnjs/machinelearnjs) - Machine Learning library for the web and Node.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [openvinotoolkit/cvat](https://github.com/openvinotoolkit/cvat) - Powerful and efficient Computer Vision Annotation Tool (CVAT)
