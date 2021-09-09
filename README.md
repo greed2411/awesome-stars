@@ -396,7 +396,7 @@
 - [KlugerLab/FIt-SNE](https://github.com/KlugerLab/FIt-SNE) - Fast Fourier Transform-accelerated Interpolation-based  t-SNE (FIt-SNE)
 - [meekrosoft/fff](https://github.com/meekrosoft/fff) - A testing micro framework for creating function test doubles
 - [pdziepak/codegen](https://github.com/pdziepak/codegen) - Experimental wrapper over LLVM for generating and compiling code at run-time.
-- [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive & portable programming language for high-performance, sparse & differentiable computing on CPUs & GPUs
+- [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Parallel programming for everyone.
 - [microsoft/SPTAG](https://github.com/microsoft/SPTAG) - A distributed approximate nearest neighborhood search (ANN) library which provides a high quality vector index build, search and distributed online serving toolkits for large scale vector search scenario.
 - [rmsalinas/fbow](https://github.com/rmsalinas/fbow) - FBOW (Fast Bag of Words) is an extremmely optimized version of the DBow2/DBow3 libraries.
 - [praveen-palanisamy/multiple-object-tracking-lidar](https://github.com/praveen-palanisamy/multiple-object-tracking-lidar) - C++ implementation to Detect, track and classify multiple objects using LIDAR scans or point cloud
@@ -693,7 +693,7 @@
 - [matthiasn/systems-toolbox](https://github.com/matthiasn/systems-toolbox) - Tools and building blocks for building Systems in Clojure and ClojureScript
 - [walmartlabs/lacinia](https://github.com/walmartlabs/lacinia) - GraphQL implementation in pure Clojure
 - [ptaoussanis/tufte](https://github.com/ptaoussanis/tufte) - Simple profiling and performance monitoring for Clojure/Script
-- [juxt/crux](https://github.com/juxt/crux) - General purpose bitemporal database for SQL, Datalog & graph queries
+- [xtdb/xtdb](https://github.com/xtdb/xtdb) - General purpose bitemporal database for SQL, Datalog & graph queries
 - [metosin/malli](https://github.com/metosin/malli) - Data-Driven Schemas for Clojure/Script.
 - [siclait/6.824-cljlabs-2020](https://github.com/siclait/6.824-cljlabs-2020) - Clojure ports for the Spring 2020 labs of MIT's 6.824: Distributed Systems
 - [clojure-clutch/clutch](https://github.com/clojure-clutch/clutch) - A Clojure library for Apache CouchDB.
@@ -805,7 +805,7 @@
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [odpf/raccoon](https://github.com/odpf/raccoon) - Raccoon is a high-throughput, low-latency service to collect events in real-time from your web, mobile apps, and services using multiple network protocols.
 - [pipe-cd/pipe](https://github.com/pipe-cd/pipe) - Continuous Delivery for Declarative Kubernetes, Serverless and Infrastructure Applications
-- [gitsrc/IceFireDB](https://github.com/gitsrc/IceFireDB) - Distributed disk storage database based on Raft and Redis protocol.
+- [IceFireDB/IceFireDB](https://github.com/IceFireDB/IceFireDB) - Distributed disk storage database based on Raft and Redis protocol.
 - [facette/facette](https://github.com/facette/facette) - Time series data visualization software
 - [bytedance/ns-x](https://github.com/bytedance/ns-x) - An easy-to-use, flexible network simulator library in Go.
 - [alda-lang/alda](https://github.com/alda-lang/alda) - A music programming language for musicians. :notes:
@@ -4182,7 +4182,7 @@
 - [yyuanad/Pytorch_C3D_Feature_Extractor](https://github.com/yyuanad/Pytorch_C3D_Feature_Extractor) - Pytorch C3D feature extractor
 - [andy-yun/pytorch-0.4-yolov3](https://github.com/andy-yun/pytorch-0.4-yolov3) - Yet Another Implimentation of Pytroch 0.4.1 and YoloV3 on python3
 - [sxhxliang/BigGAN-pytorch](https://github.com/sxhxliang/BigGAN-pytorch) - Pytorch implementation of LARGE SCALE GAN TRAINING FOR HIGH FIDELITY NATURAL IMAGE SYNTHESIS (BigGAN)
-- [xinghaochen/Pose-REN](https://github.com/xinghaochen/Pose-REN) - Demo code for "Pose Guided Structured Region Ensemble Network for Cascaded Hand Pose Estimation"
+- [xinghaochen/Pose-REN](https://github.com/xinghaochen/Pose-REN) - Demo code for "Pose Guided Structured Region Ensemble Network for Cascaded Hand Pose Estimation", Neurocomputing 2020
 - [d-li14/mobilenetv2.pytorch](https://github.com/d-li14/mobilenetv2.pytorch) - 72.8% MobileNetV2 1.0 model on ImageNet and a spectrum of pre-trained MobileNetV2 models
 - [xcyan/eccv18_mtvae](https://github.com/xcyan/eccv18_mtvae) - Tensorflow Implementation of ECCV'18 paper: Multimodal Human Motion Synthesis
 - [jinyu121/video2frame](https://github.com/jinyu121/video2frame) - Yet another easy-to-use tool to extract frames from videos, for deep learning and computer vision.
@@ -4812,7 +4812,7 @@
 - [zachwooddoughty/emnlp2018-causal](https://github.com/zachwooddoughty/emnlp2018-causal) - Code for "Challenges of Using Text Classifiers for Causal Inference," at EMNLP '18
 - [mikelane/SegNet](https://github.com/mikelane/SegNet) - Keras and TF implementation of the U-Net semantic segmentation network
 - [iwasaki-kenta/keita](https://github.com/iwasaki-kenta/keita) - My personal toolkit for PyTorch development.
-- [kornia/kornia](https://github.com/kornia/kornia) - Open Source Differentiable Computer Vision Library for PyTorch
+- [kornia/kornia](https://github.com/kornia/kornia) - Open Source Differentiable Computer Vision Library
 - [MasterOdin/crayons](https://github.com/MasterOdin/crayons) - Text UI colors for Python.
 - [hotpotqa/hotpot](https://github.com/hotpotqa/hotpot) - 
 - [hill-a/stable-baselines](https://github.com/hill-a/stable-baselines) - A fork of OpenAI Baselines, implementations of reinforcement learning algorithms
