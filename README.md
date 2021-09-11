@@ -1594,7 +1594,7 @@
 - [feross/safe-buffer](https://github.com/feross/safe-buffer) - Safer Node.js Buffer API
 - [felixpalmer/procedural-gl-js](https://github.com/felixpalmer/procedural-gl-js) - Mobile-first 3D mapping engine with emphasis on user experience
 - [ulid/javascript](https://github.com/ulid/javascript) - Universally Unique Lexicographically Sortable Identifier
-- [tnfe/FFCreator](https://github.com/tnfe/FFCreator) - 一个基于node.js的高速短视频加工库  A fast short video processing library based on node.js
+- [tnfe/FFCreator](https://github.com/tnfe/FFCreator) - 一个基于node.js的高速短视频制作库  A fast short video processing library based on node.js
 - [ethereum/devp2p](https://github.com/ethereum/devp2p) - Ethereum peer-to-peer networking specifications
 - [libp2p/js-libp2p](https://github.com/libp2p/js-libp2p) - The JavaScript Implementation of libp2p networking stack.
 - [LearnBoost/cluster](https://github.com/LearnBoost/cluster) - Node.JS multi-core server manager with plugins support.
@@ -1969,6 +1969,7 @@
 - [ageron/tf2_course](https://github.com/ageron/tf2_course) - Notebooks for my "Deep Learning with TensorFlow 2 and Keras" course
 - [naganandy/graph-based-deep-learning-literature](https://github.com/naganandy/graph-based-deep-learning-literature) - links to conference publications in graph-based deep learning
 - [harvardnlp/namedtensor](https://github.com/harvardnlp/namedtensor) - Named Tensor implementation for Torch
+- [Lyken17/pytorch-OpCounter](https://github.com/Lyken17/pytorch-OpCounter) - Count the MACs / FLOPs of your PyTorch model.
 - [yulinliu101/DeepTP](https://github.com/yulinliu101/DeepTP) - A deep generative model to predict aircraft actual trajectories using high dimensional weather data
 - [timothyb0912/check-yourself](https://github.com/timothyb0912/check-yourself) - A case study in discrete choice model assessment with predictive simulations.
 - [trekhleb/homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
@@ -2487,6 +2488,7 @@
 
 ## Others 
 
+- [styfeng/DataAug4NLP](https://github.com/styfeng/DataAug4NLP) - Collection of papers and resources for data augmentation for NLP.
 - [wuchong/awesome-flink](https://github.com/wuchong/awesome-flink) - 😎  A curated list of amazingly awesome Flink and Flink ecosystem resources
 - [cs-books/influential-cs-books](https://github.com/cs-books/influential-cs-books) - Most influential books on Computer Science/programming
 - [Huage001/PaintTransformer](https://github.com/Huage001/PaintTransformer) - Homepage of paper: Paint Transformer: Feed Forward Neural Painting with Stroke Prediction, ICCV 2021.
@@ -4316,7 +4318,6 @@
 - [rail-berkeley/softlearning](https://github.com/rail-berkeley/softlearning) - Softlearning is a reinforcement learning framework for training maximum entropy policies in continuous domains. Includes the official implementation of the Soft Actor-Critic algorithm.
 - [taki0112/BigGAN-Tensorflow](https://github.com/taki0112/BigGAN-Tensorflow) - Simple Tensorflow implementation of "Large Scale GAN Training for High Fidelity Natural Image Synthesis" (BigGAN)
 - [vanangamudi/tamil-news-classification](https://github.com/vanangamudi/tamil-news-classification) - Classification of tamil news headlines - experimental
-- [Lyken17/pytorch-OpCounter](https://github.com/Lyken17/pytorch-OpCounter) - Count the MACs / FLOPs of your PyTorch model.
 - [imatge-upc/3D-GAN-superresolution](https://github.com/imatge-upc/3D-GAN-superresolution) - 3D super-resolution using Generative Adversarial Networks
 - [thunlp/OpenKE](https://github.com/thunlp/OpenKE) - An Open-Source Package for Knowledge Embedding (KE)
 - [SpinachXPasta/PythonSamples](https://github.com/SpinachXPasta/PythonSamples) - 
@@ -6192,6 +6193,7 @@
 
 ## Rust 
 
+- [tokio-rs/console](https://github.com/tokio-rs/console) - tokio-console prototypes
 - [IntrinsicLabs/osgood](https://github.com/IntrinsicLabs/osgood) - Osgood is a secure, fast, and simple platform for running JavaScript HTTP servers.
 - [yaa110/nomino](https://github.com/yaa110/nomino) - Batch rename utility for developers
 - [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
