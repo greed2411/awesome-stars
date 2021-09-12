@@ -802,6 +802,7 @@
 
 ## Go 
 
+- [hashicorp/memberlist](https://github.com/hashicorp/memberlist) - Golang package for gossip based membership and failure detection
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [odpf/raccoon](https://github.com/odpf/raccoon) - Raccoon is a high-throughput, low-latency service to collect events in real-time from your web, mobile apps, and services using multiple network protocols.
 - [pipe-cd/pipe](https://github.com/pipe-cd/pipe) - Continuous Delivery for Declarative Kubernetes, Serverless and Infrastructure Applications
@@ -2310,6 +2311,7 @@
 - [benjaminwilson/python-hierarchical-clustering-exercises](https://github.com/benjaminwilson/python-hierarchical-clustering-exercises) - Exercises for hierarchical clustering with Python 3 and scipy as Jupyter Notebooks
 - [DSKSD/DeepNLP-models-Pytorch](https://github.com/DSKSD/DeepNLP-models-Pytorch) - Pytorch implementations of various Deep NLP models in cs-224n(Stanford Univ)
 - [hse-aml/competitive-data-science](https://github.com/hse-aml/competitive-data-science) - Materials for "How to Win a Data Science Competition: Learn from Top Kagglers" course
+- [dempfi/ayu](https://github.com/dempfi/ayu) - 🎨🖌 Modern Sublime Text theme
 - [tatsuyah/vehicle-detection](https://github.com/tatsuyah/vehicle-detection) - Vehicle detection using machine learning and computer vision techniques for Udacity's Self-Driving Car Engineer Nanodegree.
 - [emunsing/tutorials](https://github.com/emunsing/tutorials) - Tutorials on optimization and coding skills
 - [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library
@@ -6700,7 +6702,6 @@
 - [nhn/tui.chart](https://github.com/nhn/tui.chart) - 🍞📊  Beautiful chart for data visualization.
 - [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [jupyter/jupyter-drive](https://github.com/jupyter/jupyter-drive) - Google drive for jupyter notebooks
-- [dempfi/ayu](https://github.com/dempfi/ayu) - 🎨🖌 Modern Sublime Text theme
 - [reiinakano/fast-style-transfer-deeplearnjs](https://github.com/reiinakano/fast-style-transfer-deeplearnjs) - Demo of in-browser Fast Neural Style Transfer with deeplearn.js library
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [williamngan/pts](https://github.com/williamngan/pts) - A library for visualization and creative-coding
