@@ -4521,7 +4521,6 @@
 - [cbfinn/maml_rl](https://github.com/cbfinn/maml_rl) - Code for RL experiments in "Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks"
 - [rll/rllab](https://github.com/rll/rllab) - rllab is a framework for developing and evaluating reinforcement learning algorithms, fully compatible with OpenAI Gym.
 - [MartinThoma/clana](https://github.com/MartinThoma/clana) - CLANA is a toolkit for classifier analysis.
-- [aaronpenne/generative_art](https://github.com/aaronpenne/generative_art) - A collection of my *old* generative artwork, mostly with Processing in Python mode
 - [rtqichen/torchdiffeq](https://github.com/rtqichen/torchdiffeq) - Differentiable ODE solvers with full GPU support and O(1)-memory backpropagation.
 - [dmlc/gluon-nlp](https://github.com/dmlc/gluon-nlp) - NLP made easy
 - [enthought/mayavi](https://github.com/enthought/mayavi) - 3D visualization of scientific data in Python
@@ -5300,7 +5299,7 @@
 - [gregbanks/python-tabulate](https://github.com/gregbanks/python-tabulate) - fork of https://bitbucket.org/astanin/python-tabulate
 - [dalgu90/splitnet-imagenet22k](https://github.com/dalgu90/splitnet-imagenet22k) - SplitNet implemented based on ResNet-50 trained on ImageNet-22K
 - [allenai/scitail](https://github.com/allenai/scitail) - Given a pair of sentences (premise, hypothesis), the decomposed graph entailment model (DGEM) predicts whether the premise can be used to infer the hypothesis.
-- [rusty1s/pytorch_geometric](https://github.com/rusty1s/pytorch_geometric) - Graph Neural Network Library for PyTorch
+- [pyg-team/pytorch_geometric](https://github.com/pyg-team/pytorch_geometric) - Graph Neural Network Library for PyTorch
 - [brandon-rhodes/python-sgp4](https://github.com/brandon-rhodes/python-sgp4) - Python version of the SGP4 satellite position library
 - [RLAgent/gated-path-planning-networks](https://github.com/RLAgent/gated-path-planning-networks) - Gated Path Planning Networks (ICML 2018)
 - [baidu-research/NCRF](https://github.com/baidu-research/NCRF) - Cancer metastasis detection with neural conditional random field (NCRF)
