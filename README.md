@@ -802,6 +802,7 @@
 
 ## Go 
 
+- [zmwangx/ets](https://github.com/zmwangx/ets) - Command output timestamper
 - [hashicorp/memberlist](https://github.com/hashicorp/memberlist) - Golang package for gossip based membership and failure detection
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [odpf/raccoon](https://github.com/odpf/raccoon) - Raccoon is a high-throughput, low-latency service to collect events in real-time from your web, mobile apps, and services using multiple network protocols.
@@ -1356,6 +1357,7 @@
 - [kkinder/templatemail](https://github.com/kkinder/templatemail) - Templated Email for Python
 - [suriyadeepan/SRM-NLP-Workshop-2019](https://github.com/suriyadeepan/SRM-NLP-Workshop-2019) - Code, Notes, Slides, Data
 - [seba-1511/dist_tuto.pth](https://github.com/seba-1511/dist_tuto.pth) - Official code for "Writing Distributed Applications with PyTorch", PyTorch Tutorial
+- [kmario23/deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle) - Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!
 - [yanfengliu/turkey](https://github.com/yanfengliu/turkey) - Easily create a web UI on Amazon Mechanical Turk to crowd-source instance segmentation data
 - [umpirsky/country-list](https://github.com/umpirsky/country-list) - :globe_with_meridians: List of all countries with names and ISO 3166-1 codes in all languages and data formats.
 - [Kyubyong/css10](https://github.com/Kyubyong/css10) - CSS10: A Collection of Single Speaker Speech Datasets for 10 Languages
@@ -2738,7 +2740,6 @@
 - [adityathakker/awesome-rl-nlp](https://github.com/adityathakker/awesome-rl-nlp) - Curated Reinforcement Learning Resources for Natural Language Processing
 - [Guocode/SlowFast-Networks](https://github.com/Guocode/SlowFast-Networks) - implement of slowfast networks
 - [Ir1d/image-processing-datasets](https://github.com/Ir1d/image-processing-datasets) - image-processing-datasets
-- [kmario23/deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle) - Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!
 - [artix41/awesome-transfer-learning](https://github.com/artix41/awesome-transfer-learning) - Best transfer learning and domain adaptation resources (papers, tutorials, datasets, etc.)
 - [naver/biobert-pretrained](https://github.com/naver/biobert-pretrained) - BioBERT: a pre-trained biomedical language representation model for biomedical text mining
 - [kweonwooj/papers](https://github.com/kweonwooj/papers) - summary of ML papers I've read
