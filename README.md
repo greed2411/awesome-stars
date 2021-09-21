@@ -940,7 +940,7 @@
 - [minio/minio](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage
 - [dghubble/go-twitter](https://github.com/dghubble/go-twitter) - Go Twitter REST and Streaming API v1.1
 - [Bytom/bytom](https://github.com/Bytom/bytom) - Official Go implementation of the Bytom protocol
-- [awslabs/karpenter](https://github.com/awslabs/karpenter) - Kubernetes Node Autoscaling: built for flexibility, performance, and scalability.
+- [awslabs/karpenter](https://github.com/awslabs/karpenter) - Kubernetes Node Autoscaling: built for flexibility, performance, and scalability. https://karpenter.sh/
 - [RussellLuo/slidingwindow](https://github.com/RussellLuo/slidingwindow) - Golang implementation of Sliding Window Algorithm for distributed rate limiting.
 - [peer-calls/peer-calls](https://github.com/peer-calls/peer-calls) - Group peer to peer video calls for everyone written in Go and TypeScript
 - [fluxcd/flux](https://github.com/fluxcd/flux) - The GitOps Kubernetes operator
