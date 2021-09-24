@@ -263,7 +263,7 @@
 
 ## C++ 
 
-- [awwbees/BespokeSynth](https://github.com/awwbees/BespokeSynth) - Software modular synth
+- [BespokeSynth/BespokeSynth](https://github.com/BespokeSynth/BespokeSynth) - Software modular synth
 - [PlatformLab/NanoLog](https://github.com/PlatformLab/NanoLog) - Nanolog is an extremely performant nanosecond scale logging system for C++ that exposes a simple printf-like API.
 - [Hikari9/comfortable-swipe](https://github.com/Hikari9/comfortable-swipe) - Comfortable 3-finger and 4-finger swipe gesture using Xdotool in native C++
 - [scylladb/seastar](https://github.com/scylladb/seastar) - High performance server-side application framework
@@ -803,6 +803,7 @@
 
 ## Go 
 
+- [reugn/go-quartz](https://github.com/reugn/go-quartz) - Simple, zero-dependency scheduling library for Go
 - [zmwangx/ets](https://github.com/zmwangx/ets) - Command output timestamper
 - [hashicorp/memberlist](https://github.com/hashicorp/memberlist) - Golang package for gossip based membership and failure detection
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
@@ -1369,6 +1370,7 @@
 - [robertness/causal_demon](https://github.com/robertness/causal_demon) - 
 - [solid/solid](https://github.com/solid/solid) - Solid - Re-decentralizing the web (project directory)
 - [Strange-AI/quantum_ml](https://github.com/Strange-AI/quantum_ml) - StrangeAI Youtube频道的量子机器学习代码
+- [tdurieux/anonymous_github](https://github.com/tdurieux/anonymous_github) - Anonymous Github is a proxy server to support anonymous browsing of Github repositories for open-science code and data.
 - [switchablenorms/Switchable-Normalization](https://github.com/switchablenorms/Switchable-Normalization) - Code for Switchable Normalization from "Differentiable Learning-to-Normalize via Switchable Normalization", https://arxiv.org/abs/1806.10779
 - [deanmalmgren/textract](https://github.com/deanmalmgren/textract) - extract text from any document. no muss. no fuss.
 - [Smerity/trending_arxiv](https://github.com/Smerity/trending_arxiv) - Track trending arXiv papers on Twitter from within your circle
@@ -5232,7 +5234,7 @@
 - [mitmul/chainer-siamese](https://github.com/mitmul/chainer-siamese) - Siamese Network implementation using Chainer
 - [zijundeng/pytorch-semantic-segmentation](https://github.com/zijundeng/pytorch-semantic-segmentation) - PyTorch for Semantic Segmentation
 - [IssamLaradji/BlockCoordinateDescent](https://github.com/IssamLaradji/BlockCoordinateDescent) - Code for the paper "Let’s Make Block Coordinate Descent Go Fast"
-- [monk1337/Various-Attention-mechanisms](https://github.com/monk1337/Various-Attention-mechanisms) - This repository contain various types of attention mechanism like Bahdanau , Soft attention , Additive Attention , Hierarchical Attention etc
+- [monk1337/Various-Attention-mechanisms](https://github.com/monk1337/Various-Attention-mechanisms) - This repository contain various types of attention mechanism like Bahdanau , Soft attention , Additive Attention , Hierarchical Attention etc in Pytorch, Tensorflow, Keras
 - [akirafukui/vqa-mcb](https://github.com/akirafukui/vqa-mcb) - 
 - [farizrahman4u/recurrentshop](https://github.com/farizrahman4u/recurrentshop) - Framework for building complex recurrent neural networks with Keras
 - [bhpfelix/Variational-Autoencoder-PyTorch](https://github.com/bhpfelix/Variational-Autoencoder-PyTorch) - Variational Autoencoder implemented with PyTorch, Trained over CelebA Dataset
@@ -6398,7 +6400,7 @@
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [TimelyDataflow/timely-dataflow](https://github.com/TimelyDataflow/timely-dataflow) - A modular implementation of timely dataflow in Rust
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
-- [dandavison/delta](https://github.com/dandavison/delta) - A viewer for git and diff output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git
 - [conundrumer/audioscope](https://github.com/conundrumer/audioscope) - audio visualizers true to the sound
 - [bayard-search/bayard](https://github.com/bayard-search/bayard) - A full-text search and indexing server written in Rust.
 - [cloud-hypervisor/cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) - A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.
@@ -6688,7 +6690,6 @@
 - [microsoft/VoTT](https://github.com/microsoft/VoTT) - Visual Object Tagging Tool: An electron app for building end to end Object Detection Models from Images and Videos.
 - [tensorflow/tfjs-vis](https://github.com/tensorflow/tfjs-vis) - A set of utilities for in browser visualization with TensorFlow.js
 - [tensorflow/tensorboard](https://github.com/tensorflow/tensorboard) - TensorFlow's Visualization Toolkit
-- [tdurieux/anonymous_github](https://github.com/tdurieux/anonymous_github) - Anonymous Github is a proxy server to support anonymous browsing of Github repositories for open-science code and data.
 - [machinelearnjs/machinelearnjs](https://github.com/machinelearnjs/machinelearnjs) - Machine Learning library for the web and Node.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [openvinotoolkit/cvat](https://github.com/openvinotoolkit/cvat) - Powerful and efficient Computer Vision Annotation Tool (CVAT)
