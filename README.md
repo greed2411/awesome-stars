@@ -263,6 +263,7 @@
 
 ## C++ 
 
+- [openai/triton](https://github.com/openai/triton) - Development repository for the Triton language and compiler
 - [BespokeSynth/BespokeSynth](https://github.com/BespokeSynth/BespokeSynth) - Software modular synth
 - [PlatformLab/NanoLog](https://github.com/PlatformLab/NanoLog) - Nanolog is an extremely performant nanosecond scale logging system for C++ that exposes a simple printf-like API.
 - [Hikari9/comfortable-swipe](https://github.com/Hikari9/comfortable-swipe) - Comfortable 3-finger and 4-finger swipe gesture using Xdotool in native C++
@@ -787,7 +788,7 @@
 
 ## Fortran 
 
-- [pymc-devs/pymc](https://github.com/pymc-devs/pymc) - THIS IS THE **OLD** PYMC PROJECT. PLEASE USE PYMC3 INSTEAD:
+- [pymc-devs/pymc2](https://github.com/pymc-devs/pymc2) - THIS IS THE **OLD** PYMC PROJECT. PLEASE USE PYMC3 INSTEAD:
 
 ## GDScript 
 
@@ -803,6 +804,7 @@
 
 ## Go 
 
+- [coreos/go-systemd](https://github.com/coreos/go-systemd) - Go bindings to systemd socket activation, journal, D-Bus, and unit files
 - [reugn/go-quartz](https://github.com/reugn/go-quartz) - Simple, zero-dependency scheduling library for Go
 - [zmwangx/ets](https://github.com/zmwangx/ets) - Command output timestamper
 - [hashicorp/memberlist](https://github.com/hashicorp/memberlist) - Golang package for gossip based membership and failure detection
@@ -1178,7 +1180,7 @@
 - [yahoo/vssh](https://github.com/yahoo/vssh) - Go Library to Execute Commands Over SSH at Scale
 - [asim/go-micro](https://github.com/asim/go-micro) - A Go framework for distributed systems development
 - [danaugrs/go-tsne](https://github.com/danaugrs/go-tsne) - t-Distributed Stochastic Neighbor Embedding (t-SNE) in Go
-- [goplus/gop](https://github.com/goplus/gop) - GoPlus - The Go+ language for data science
+- [goplus/gop](https://github.com/goplus/gop) - GoPlus - The Go+ language for engineering, STEM education, and data science
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
@@ -1728,7 +1730,7 @@
 - [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
 - [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning, and machine learning models
 - [keplergl/kepler.gl](https://github.com/keplergl/kepler.gl) - Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.
-- [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered geospatial visualization layers
+- [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework
 - [marcotcr/lime](https://github.com/marcotcr/lime) - Lime: Explaining the predictions of any machine learning classifier
 - [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2) - The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser.
 - [aviaryan/chattt](https://github.com/aviaryan/chattt) - ❯❯❯ Chat without leaving your terminal
@@ -1830,6 +1832,7 @@
 
 ## Jupyter Notebook 
 
+- [oracle/macest](https://github.com/oracle/macest) - Model Agnostic Confidence Estimator (MACEST) - A Python library for calibrating Machine Learning models' confidence scores
 - [burstable-ai/burst](https://github.com/burstable-ai/burst) - Command-line tool to remotely execute code in the cloud
 - [bmabey/pyLDAvis](https://github.com/bmabey/pyLDAvis) - Python library for interactive topic model visualization. Port of the R LDAvis package.
 - [mindslab-ai/wavegrad2](https://github.com/mindslab-ai/wavegrad2) - Unofficial Pytorch Implementation of WaveGrad2
@@ -2344,7 +2347,6 @@
 - [awjuliani/DeepRL-Agents](https://github.com/awjuliani/DeepRL-Agents) - A set of Deep Reinforcement Learning Agents implemented in Tensorflow.
 - [mortendahl/privateml](https://github.com/mortendahl/privateml) - Various material around private machine learning, some associated with blog
 - [anoff/deep-emoji-gan](https://github.com/anoff/deep-emoji-gan) - being creative with AI and emojis 🙂 🤖
-- [QuantScientist/Deep-Learning-Boot-Camp](https://github.com/QuantScientist/Deep-Learning-Boot-Camp) - A  community run, 5-day PyTorch Deep Learning Bootcamp
 - [CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)
 - [pkmital/tensorflow_tutorials](https://github.com/pkmital/tensorflow_tutorials) - From the basics to slightly more interesting applications of Tensorflow
 - [fchollet/deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks) - Jupyter notebooks for the code samples of the book "Deep Learning with Python"
@@ -3095,6 +3097,9 @@
 
 ## Python 
 
+- [yoshitomo-matsubara/torchdistill](https://github.com/yoshitomo-matsubara/torchdistill) - A coding-free framework built on PyTorch for reproducible deep learning studies. 🏆20 knowledge distillation methods presented at CVPR, ICLR, ECCV, NeurIPS, ICCV, etc are implemented so far. 🎁 Trained models, training logs and configurations are available for ensuring the reproducibiliy and benchmark.
+- [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0) - Manipulate JSON-like data with NumPy-like idioms.
+- [PaddlePaddle/Parakeet](https://github.com/PaddlePaddle/Parakeet) - PAddle PARAllel text-to-speech toolKIT (supporting Tacotron2, Transformer TTS, FastSpeech2/FastPitch, SpeedySpeech, WaveFlow  and Parallel WaveGAN)
 - [dateutil/dateutil](https://github.com/dateutil/dateutil) - Useful extensions to the standard Python datetime features
 - [philipperemy/n-beats](https://github.com/philipperemy/n-beats) - Keras/Pytorch implementation of N-BEATS: Neural basis expansion analysis for interpretable time series forecasting.
 - [rhasspy/rhasspy-silence](https://github.com/rhasspy/rhasspy-silence) - Silence detection in audio stream using webrtcvad
