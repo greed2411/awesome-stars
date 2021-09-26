@@ -805,7 +805,7 @@
 ## Go 
 
 - [coreos/go-systemd](https://github.com/coreos/go-systemd) - Go bindings to systemd socket activation, journal, D-Bus, and unit files
-- [reugn/go-quartz](https://github.com/reugn/go-quartz) - Simple, zero-dependency scheduling library for Go
+- [reugn/go-quartz](https://github.com/reugn/go-quartz) - Minimalist and zero-dependency scheduling library for Go
 - [zmwangx/ets](https://github.com/zmwangx/ets) - Command output timestamper
 - [hashicorp/memberlist](https://github.com/hashicorp/memberlist) - Golang package for gossip based membership and failure detection
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
