@@ -5973,7 +5973,7 @@
 - [PierreQuentel/PyDbLite](https://github.com/PierreQuentel/PyDbLite) - A fast, pure Python in-memory database engine
 - [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
 - [giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
-- [benediktschmitt/py-filelock](https://github.com/benediktschmitt/py-filelock) - A platform independent file lock for Python
+- [gaborbernat/py-filelock](https://github.com/gaborbernat/py-filelock) - A platform independent file lock for Python
 - [NeuralEnsemble/NeuroinformaticsTutorial](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial) - A tutorial on neuroinformatics resources for computational modellers
 - [the4thdoctor/pg_chameleon](https://github.com/the4thdoctor/pg_chameleon) - MySQL to PostgreSQL replica system
 - [lisa-lab/DeepLearningTutorials](https://github.com/lisa-lab/DeepLearningTutorials) - Deep Learning Tutorial notes and code. See the wiki for more info.
