@@ -1255,7 +1255,7 @@
 - [rkt/rkt](https://github.com/rkt/rkt) - [Project ended] rkt is a pod-native container engine for Linux. It is composable, secure, and built on standards.
 - [ConsenSys/quorum](https://github.com/ConsenSys/quorum) - A permissioned implementation of Ethereum supporting data privacy
 - [xuperchain/xuperchain](https://github.com/xuperchain/xuperchain) - A highly flexible blockchain architecture with great transaction performance.
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) - NFPM is Not FPM - a simple deb, rpm and apk packager written in Go
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) - nFPM is Not FPM - a simple deb, rpm and apk packager written in Go
 - [perlin-network/noise](https://github.com/perlin-network/noise) - A decentralized P2P networking stack written in Go.
 - [perlin-network/wavelet](https://github.com/perlin-network/wavelet) - Write once, run forever. Deploy robust, scalable, decentralized WebAssembly applications on Wavelet.
 - [cayleygraph/cayley](https://github.com/cayleygraph/cayley) - An open-source graph database
@@ -1299,6 +1299,7 @@
 - [fanpei91/torsniff](https://github.com/fanpei91/torsniff) - torsniff - a sniffer that sniffs torrents from BitTorrent network
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [uber/prototool](https://github.com/uber/prototool) - Your Swiss Army Knife for Protocol Buffers
+- [kubeflow/katib](https://github.com/kubeflow/katib) - Repository for hyperparameter tuning
 - [IBM/FfDL](https://github.com/IBM/FfDL) - Fabric for Deep Learning (FfDL, pronounced fiddle) is a Deep Learning Platform offering TensorFlow, Caffe, PyTorch etc. as a Service on Kubernetes
 - [go-ego/riot](https://github.com/go-ego/riot) - Go Open Source, Distributed, Simple and efficient Search Engine
 - [thought-machine/please](https://github.com/thought-machine/please) - High-performance extensible build system for reproducible multi-language builds.
@@ -1814,7 +1815,6 @@
 
 - [kubeflow/examples](https://github.com/kubeflow/examples) - A repository to host extended examples and tutorials
 - [kserve/kserve](https://github.com/kserve/kserve) - Serverless Inferencing on Kubernetes
-- [kubeflow/katib](https://github.com/kubeflow/katib) - Repository for hyperparameter tuning
 - [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
 
 ## Julia 
@@ -2822,7 +2822,6 @@
 - [Kyubyong/mtp](https://github.com/Kyubyong/mtp) - Multi-lingual Text Processing
 - [jamesroutley/write-a-hash-table](https://github.com/jamesroutley/write-a-hash-table) - ✏️ Learn how to write a hash table in C
 - [afshinea/stanford-cs-229-machine-learning](https://github.com/afshinea/stanford-cs-229-machine-learning) - VIP cheatsheets for Stanford's CS 229 Machine Learning
-- [GilLevi/awesome-deep-vision](https://github.com/GilLevi/awesome-deep-vision) - A curated list of deep learning resources for computer vision
 - [williamFalcon/tensorflow-gpu-install-ubuntu-16.04](https://github.com/williamFalcon/tensorflow-gpu-install-ubuntu-16.04) - Tensorflow GPU install instructions for ubuntu 16.04 - Deep learning
 - [ZumingHuang/awesome-ocr-resources](https://github.com/ZumingHuang/awesome-ocr-resources) - A collection of resources (including the papers and datasets) of OCR (Optical Character Recognition).
 - [JonasCz/How-To-Prevent-Scraping](https://github.com/JonasCz/How-To-Prevent-Scraping) - The ultimate guide on preventing Website Scraping
@@ -3122,7 +3121,7 @@
 - [tunib-ai/parallelformers](https://github.com/tunib-ai/parallelformers) - Parallelformers: An Efficient Model Parallelization Toolkit for Deployment
 - [yzhangcs/parser](https://github.com/yzhangcs/parser) - State-of-the-art Dependency, Constituency and Semantic Dependency Parsers, with pretrained models for more than 19 languages.
 - [google-research/byt5](https://github.com/google-research/byt5) - 
-- [BaguaSys/bagua](https://github.com/BaguaSys/bagua) - Bagua is a performant and flexible distributed training framework for PyTorch, providing a faster alternative to PyTorch DDP and Horovod, with support for advanced distributed training algorithms such as quantization and decentralization.
+- [BaguaSys/bagua](https://github.com/BaguaSys/bagua) - Bagua is a deep learning training acceleration framework for PyTorch. It provides a one-stop training acceleration solution, including faster distributed training compared to PyTorch DDP, faster dataloader, kernel fusion, and more.
 - [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀 (Clone of https://github.com/public-apis/public-apis)
 - [deepmind/alphafold](https://github.com/deepmind/alphafold) - Open source code for AlphaFold.
 - [vturrisi/solo-learn](https://github.com/vturrisi/solo-learn) - solo-learn: a library of self-supervised methods for visual representation learning powered by Pytorch Lightning
@@ -4549,7 +4548,7 @@
 - [sepandhaghighi/pycm](https://github.com/sepandhaghighi/pycm) - Multi-class confusion matrix library in Python
 - [scientifichackers/zproc](https://github.com/scientifichackers/zproc) - Process on steroids
 - [numba/llvmlite](https://github.com/numba/llvmlite) - A lightweight LLVM python binding for writing JIT compilers
-- [dabeaz/curio](https://github.com/dabeaz/curio) - Get that harness ready and hold on tight--Curio is gonna take YOU for a walk.
+- [dabeaz/curio](https://github.com/dabeaz/curio) - Good Curio!
 - [dabeaz/thredo](https://github.com/dabeaz/thredo) - Thredo was an experiment - It's dead.  Feel free to look around.
 - [google/uis-rnn](https://github.com/google/uis-rnn) - This is the library for the Unbounded Interleaved-State Recurrent Neural Network (UIS-RNN) algorithm, corresponding to the paper Fully Supervised Speaker Diarization.
 - [iesl/dilated-cnn-ner](https://github.com/iesl/dilated-cnn-ner) - Dilated CNNs for NER in TensorFlow
@@ -5973,7 +5972,7 @@
 - [PierreQuentel/PyDbLite](https://github.com/PierreQuentel/PyDbLite) - A fast, pure Python in-memory database engine
 - [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
 - [giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
-- [gaborbernat/py-filelock](https://github.com/gaborbernat/py-filelock) - A platform independent file lock for Python
+- [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock) - A platform independent file lock for Python
 - [NeuralEnsemble/NeuroinformaticsTutorial](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial) - A tutorial on neuroinformatics resources for computational modellers
 - [the4thdoctor/pg_chameleon](https://github.com/the4thdoctor/pg_chameleon) - MySQL to PostgreSQL replica system
 - [lisa-lab/DeepLearningTutorials](https://github.com/lisa-lab/DeepLearningTutorials) - Deep Learning Tutorial notes and code. See the wiki for more info.
