@@ -196,7 +196,6 @@
 - [pytorch/QNNPACK](https://github.com/pytorch/QNNPACK) - Quantized Neural Network PACKage - mobile-optimized implementation of quantized neural network operators
 - [SamyPesse/How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - How to Make a Computer Operating System in C++
 - [Meituan-Dianping/Logan](https://github.com/Meituan-Dianping/Logan) - Logan is a lightweight case logging system based on mobile platform.
-- [erpc-io/eRPC](https://github.com/erpc-io/eRPC) - Efficient RPCs for datacenter networks
 - [googleprojectzero/halfempty](https://github.com/googleprojectzero/halfempty) - A fast, parallel test case minimization tool.
 - [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) - The high-performance distributed SQL database for global, internet-scale apps.
 - [StanfordVL/GibsonEnv](https://github.com/StanfordVL/GibsonEnv) - Gibson Environments: Real-World Perception for Embodied Agents
@@ -522,6 +521,7 @@
 - [zeusees/License-Plate-Detector](https://github.com/zeusees/License-Plate-Detector) - 基于Retinaface车牌检测,全新模型仅1.8MB.
 - [EOSIO/eos](https://github.com/EOSIO/eos) - An open source smart contract platform
 - [xtaci/algorithms](https://github.com/xtaci/algorithms) - Algorithms & Data structures in C++.
+- [erpc-io/eRPC](https://github.com/erpc-io/eRPC) - Efficient RPCs for datacenter networks
 - [rusty1s/pytorch_cluster](https://github.com/rusty1s/pytorch_cluster) - PyTorch Extension Library of Optimized Graph Cluster Algorithms
 - [cgtuebingen/Flex-Convolution](https://github.com/cgtuebingen/Flex-Convolution) - Source code for: Flex-Convolution (Million-Scale Point-Cloud Learning Beyond Grid-Worlds), accepted at ACCV 2018
 - [gperftools/gperftools](https://github.com/gperftools/gperftools) - Main gperftools repository
@@ -1468,6 +1468,7 @@
 
 ## Java 
 
+- [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - The open big data serving engine. https://vespa.ai
 - [Netflix/netflix-graph](https://github.com/Netflix/netflix-graph) - Compact in-memory representation of directed graph data
 - [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - Open source distributed and RESTful search engine.
 - [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
@@ -6220,7 +6221,7 @@
 - [rustwasm/gloo](https://github.com/rustwasm/gloo) - A modular toolkit for building fast, reliable Web applications and libraries with Rust and Wasm
 - [smol-rs/smol](https://github.com/smol-rs/smol) - A small and fast async runtime for Rust
 - [ringbahn/ringbahn](https://github.com/ringbahn/ringbahn) - safe bindings to io-uring
-- [DataDog/glommio](https://github.com/DataDog/glommio) - Glommio is a thread-per-core framework that aims to make the task of writing highly parallel asynchronous application in a thread-per-core architecture easier for rustaceans
+- [DataDog/glommio](https://github.com/DataDog/glommio) - Glommio is a thread-per-core framework that aims to make the task of writing highly parallel asynchronous applications in a thread-per-core architecture easier for rustaceans.
 - [tokio-rs/io-uring](https://github.com/tokio-rs/io-uring) - The `io_uring` library for Rust
 - [spacejam/rio](https://github.com/spacejam/rio) - pure rust io_uring library, built on libc, thread & async friendly, misuse resistant
 - [tower-rs/tower](https://github.com/tower-rs/tower) - async fn(Request) -&gt; Result&lt;Response, Error&gt;
