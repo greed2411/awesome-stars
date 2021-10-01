@@ -5,6 +5,7 @@
 
 ## Contents
 
+  - [AsciiDoc](#asciidoc)
   - [Assembly](#assembly)
   - [Awk](#awk)
   - [Batchfile](#batchfile)
@@ -78,6 +79,10 @@
   - [Vim script](#vim-script)
   - [Vue](#vue)
   - [Zig](#zig)
+
+## AsciiDoc 
+
+- [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 2nd Edition - Programming the Open Blockchain
 
 ## Assembly 
 
@@ -788,7 +793,7 @@
 
 ## Fortran 
 
-- [pymc-devs/pymc2](https://github.com/pymc-devs/pymc2) - THIS IS THE **OLD** PYMC PROJECT. PLEASE USE PYMC3 INSTEAD:
+- [pymc-devs/pymc2](https://github.com/pymc-devs/pymc2) - THIS IS THE **OLD** PYMC PROJECT (VERSION 2). PLEASE USE PYMC INSTEAD:
 
 ## GDScript 
 
@@ -1274,7 +1279,7 @@
 - [lightningnetwork/lnd](https://github.com/lightningnetwork/lnd) - Lightning Network Daemon ⚡️
 - [joostjager/whatsat](https://github.com/joostjager/whatsat) - End-to-end encrypted, onion-routed, censorship-resistant, peer-to-peer instant messaging over Lightning
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - An open-source vector database for embedding similarity search and AI applications.
-- [miguelmota/cointop](https://github.com/miguelmota/cointop) - A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies 🚀
+- [cointop-sh/cointop](https://github.com/cointop-sh/cointop) - A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies 🚀
 - [bfenetworks/bfe](https://github.com/bfenetworks/bfe) - A modern layer 7 load balancer from baidu
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
@@ -2123,7 +2128,7 @@
 - [osh/KerasGAN](https://github.com/osh/KerasGAN) - A couple of simple GANs in Keras
 - [rdempsey/pyspark-for-data-processing](https://github.com/rdempsey/pyspark-for-data-processing) - Code for my presentation: Using PySpark to Process Boat Loads of Data
 - [chenyuntc/pytorch-book](https://github.com/chenyuntc/pytorch-book) - PyTorch tutorials and fun projects including neural talk, neural style, poem writing, anime generation (《深度学习框架PyTorch：入门与实战》)
-- [danielhanchen/hyperlearn](https://github.com/danielhanchen/hyperlearn) - 50% faster, 50% less RAM Machine Learning. Numba rewritten Sklearn. SVD, NNMF, PCA, LinearReg, RidgeReg, Randomized, Truncated SVD/PCA, CSR Matrices all 50+% faster
+- [danielhanchen/hyperlearn](https://github.com/danielhanchen/hyperlearn) - Waiting hours for a future prediction is unacceptable. You would rather wait for the future to come. Hyperlearn aims to make machine learning faster and greener.
 - [chitrang6/planet-kaggle](https://github.com/chitrang6/planet-kaggle) - This repo contains the implementation of the Planet Amazon forest deep learning challenge on Kaggle
 - [harshitahluwalia7895/Loan_Prediction](https://github.com/harshitahluwalia7895/Loan_Prediction) - 
 - [AaronYALai/Seq2seqAttn_ECM](https://github.com/AaronYALai/Seq2seqAttn_ECM) - (TensorFlow) Sequence to sequence with attention model, emotion regressor, and Emotional Chatting Machine.
@@ -4174,7 +4179,7 @@
 - [HazyResearch/metal](https://github.com/HazyResearch/metal) - Snorkel MeTaL: A framework for training models with multi-task weak supervision
 - [salu133445/dan](https://github.com/salu133445/dan) - Source code for "Towards a Deeper Understanding of Adversarial Losses under a Discriminative Adversarial Network Setting"
 - [google/revisiting-self-supervised](https://github.com/google/revisiting-self-supervised) - 
-- [dmis-lab/biobert](https://github.com/dmis-lab/biobert) - BioBERT: a pre-trained biomedical language representation model
+- [dmis-lab/biobert](https://github.com/dmis-lab/biobert) - Bioinformatics'2020: BioBERT: a pre-trained biomedical language representation model for biomedical text mining
 - [kylefox/python-image-orientation-patch](https://github.com/kylefox/python-image-orientation-patch) - Rotates image according to orientation EXIF data so image displays correctly (requires Python Imaging Library).
 - [ZhaoJ9014/face.evoLVe](https://github.com/ZhaoJ9014/face.evoLVe) - 🔥🔥High-Performance Face Recognition Library on PaddlePaddle & PyTorch🔥🔥
 - [fredrik-corneliusson/click-web](https://github.com/fredrik-corneliusson/click-web) - Serve click scripts over the web
@@ -5495,7 +5500,7 @@
 - [maciejkula/spotlight](https://github.com/maciejkula/spotlight) - Deep recommender models using PyTorch.
 - [hhsecond/HandsOnDeepLearningWithPytorch](https://github.com/hhsecond/HandsOnDeepLearningWithPytorch) - Code snippets and applications explained in the book - HandsOnDeepLearningWithPytorch
 - [tensorflow/hub](https://github.com/tensorflow/hub) - A library for transfer learning by reusing parts of TensorFlow models.
-- [pymc-devs/pymc3](https://github.com/pymc-devs/pymc3) - Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Aesara
+- [pymc-devs/pymc](https://github.com/pymc-devs/pymc) - Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Aesara
 - [jazzsaxmafia/examples](https://github.com/jazzsaxmafia/examples) - A set of examples around pytorch in Vision, Text, Reinforcement Learning, etc.
 - [RedaOps/ann-visualizer](https://github.com/RedaOps/ann-visualizer) - A python library for visualizing Artificial Neural Networks (ANN)
 - [Kyubyong/expressive_tacotron](https://github.com/Kyubyong/expressive_tacotron) - Tensorflow Implementation of Expressive Tacotron
@@ -5799,7 +5804,6 @@
 - [jupyterhub/repo2docker](https://github.com/jupyterhub/repo2docker) - Turn repositories into Jupyter-enabled Docker images
 - [mattwaite/JOUR491-Storybots](https://github.com/mattwaite/JOUR491-Storybots) - A repository of materials for a proposed class on automated story bots.
 - [jcjohnson/pytorch-examples](https://github.com/jcjohnson/pytorch-examples) - Simple examples to introduce PyTorch
-- [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 2nd Edition - Programming the Open Blockchain
 - [tamim/intro_ds_algo_py](https://github.com/tamim/intro_ds_algo_py) - Programs from my upcoming book, introduction to data structures and algorithms in Python
 - [ChenglongChen/pytorch-DRL](https://github.com/ChenglongChen/pytorch-DRL) - PyTorch implementations of various Deep Reinforcement Learning (DRL) algorithms for both single agent and multi-agent.
 - [arxiv-vanity/arxiv-vanity](https://github.com/arxiv-vanity/arxiv-vanity) - Renders papers from arXiv as responsive web pages so you don't have to squint at a PDF.
