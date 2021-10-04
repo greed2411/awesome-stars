@@ -2128,7 +2128,7 @@
 - [osh/KerasGAN](https://github.com/osh/KerasGAN) - A couple of simple GANs in Keras
 - [rdempsey/pyspark-for-data-processing](https://github.com/rdempsey/pyspark-for-data-processing) - Code for my presentation: Using PySpark to Process Boat Loads of Data
 - [chenyuntc/pytorch-book](https://github.com/chenyuntc/pytorch-book) - PyTorch tutorials and fun projects including neural talk, neural style, poem writing, anime generation (《深度学习框架PyTorch：入门与实战》)
-- [danielhanchen/hyperlearn](https://github.com/danielhanchen/hyperlearn) - Waiting hours for a future prediction is unacceptable. You would rather wait for the future to come. Hyperlearn aims to make machine learning faster and greener.
+- [danielhanchen/hyperlearn](https://github.com/danielhanchen/hyperlearn) - Waiting hours for a future prediction is unacceptable. Hyperlearn makes AI and ML algorithms 50% faster, use 90% less memory and doesn't require you to use new hardware! ML Algorithms like PCA, Linear Regression, NMF are all faster!
 - [chitrang6/planet-kaggle](https://github.com/chitrang6/planet-kaggle) - This repo contains the implementation of the Planet Amazon forest deep learning challenge on Kaggle
 - [harshitahluwalia7895/Loan_Prediction](https://github.com/harshitahluwalia7895/Loan_Prediction) - 
 - [AaronYALai/Seq2seqAttn_ECM](https://github.com/AaronYALai/Seq2seqAttn_ECM) - (TensorFlow) Sequence to sequence with attention model, emotion regressor, and Emotional Chatting Machine.
@@ -5336,7 +5336,7 @@
 - [dmlc/tensorboard](https://github.com/dmlc/tensorboard) - Standalone TensorBoard for visualizing in deep learning
 - [carpedm20/ENAS-pytorch](https://github.com/carpedm20/ENAS-pytorch) - PyTorch implementation of "Efficient Neural Architecture Search via Parameters Sharing"
 - [keras-team/keras-contrib](https://github.com/keras-team/keras-contrib) - Keras community contributions
-- [yzhao062/pyod](https://github.com/yzhao062/pyod) - (JMLR'19) A Python Toolbox for Scalable Outlier Detection (Anomaly Detection)
+- [yzhao062/pyod](https://github.com/yzhao062/pyod) - A Python Toolbox for Scalable Outlier Detection (Anomaly Detection)
 - [brightmart/text_classification](https://github.com/brightmart/text_classification) - all kinds of text classification models and more with deep learning
 - [f90/Wave-U-Net](https://github.com/f90/Wave-U-Net) - Implementation of the Wave-U-Net for audio source separation
 - [jadore801120/attention-is-all-you-need-pytorch](https://github.com/jadore801120/attention-is-all-you-need-pytorch) - A PyTorch implementation of the Transformer model in "Attention is All You Need".
