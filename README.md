@@ -196,7 +196,6 @@
 - [microsoft/jericho](https://github.com/microsoft/jericho) - A learning environment for man-made Interactive Fiction games.
 - [BluewhaleRobot/xiaoqiang_tts](https://github.com/BluewhaleRobot/xiaoqiang_tts) - xiaoqiang tts and asr package, using baidu and xunfei as backend
 - [spencertipping/jit-tutorial](https://github.com/spencertipping/jit-tutorial) - How to write a very simple JIT compiler
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.
 - [mozilla/LPCNet](https://github.com/mozilla/LPCNet) - Efficient neural speech synthesis
 - [pytorch/QNNPACK](https://github.com/pytorch/QNNPACK) - Quantized Neural Network PACKage - mobile-optimized implementation of quantized neural network operators
 - [SamyPesse/How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - How to Make a Computer Operating System in C++
@@ -810,6 +809,7 @@
 
 ## Go 
 
+- [aws/eks-anywhere](https://github.com/aws/eks-anywhere) - Run Amazon EKS on your own infrastructure 🚀
 - [coreos/go-systemd](https://github.com/coreos/go-systemd) - Go bindings to systemd socket activation, journal, D-Bus, and unit files
 - [reugn/go-quartz](https://github.com/reugn/go-quartz) - Minimalist and zero-dependency scheduling library for Go
 - [zmwangx/ets](https://github.com/zmwangx/ets) - Command output timestamper
@@ -2671,7 +2671,7 @@
 - [firmai/data-science-career](https://github.com/firmai/data-science-career) - Career Resources for Data Science, Machine Learning, Big Data and Business Analytics Career Repository
 - [brohrer/academic_advisory](https://github.com/brohrer/academic_advisory) - Collected opinions and advice for academic programs focused on data science skills.
 - [saurabhkukade/Haskell_Study](https://github.com/saurabhkukade/Haskell_Study) - Collections of papers and books about Haskell, Type Theory and Category Theory
-- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - MOVED/ARCHIVED A curated list of amazingly awesome open source sysadmin resources.
+- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources.
 - [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 - [aikho/awesome-feature-engineering](https://github.com/aikho/awesome-feature-engineering) - A curated list of resources dedicated to Feature Engineering Techniques for Machine Learning
 - [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
@@ -4531,6 +4531,7 @@
 - [dvingerh/PyInstaLive](https://github.com/dvingerh/PyInstaLive) - Python script to download Instagram livestreams and replays.
 - [IndexedConv/IndexedConv](https://github.com/IndexedConv/IndexedConv) - Code for the indexed convolution
 - [arogozhnikov/einops](https://github.com/arogozhnikov/einops) - Deep learning operations reinvented (for pytorch, tensorflow, jax and others)
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.
 - [flow-project/flow](https://github.com/flow-project/flow) - Computational framework for reinforcement learning in traffic control
 - [joshua-wu/deepfakes_faceswap](https://github.com/joshua-wu/deepfakes_faceswap) - from deekfakes' faceswap: https://www.reddit.com/user/deepfakes/
 - [cbfinn/maml](https://github.com/cbfinn/maml) - Code for "Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks"
@@ -5153,7 +5154,6 @@
 - [tlkh/rhh-2017-crowd-tracking](https://github.com/tlkh/rhh-2017-crowd-tracking) - Red Hat Hackathon Singapore 2017 - Camera-based Crowd Tracking Solution
 - [jendrikseipp/vulture](https://github.com/jendrikseipp/vulture) - Find dead Python code
 - [tristandeleu/pytorch-maml-rl](https://github.com/tristandeleu/pytorch-maml-rl) - Reinforcement Learning with Model-Agnostic Meta-Learning in Pytorch
-- [kgrm/NALU](https://github.com/kgrm/NALU) - Keras Implementation of: "Neural Arithmetic Logic Units", Trask et al., ArXiV, 2018
 - [RaRe-Technologies/smart_open](https://github.com/RaRe-Technologies/smart_open) - Utils for streaming large files (S3, HDFS, gzip, bz2...)
 - [sashahart/vex](https://github.com/sashahart/vex) - Run a command in the named virtualenv.
 - [lopuhin/kaggle-dstl](https://github.com/lopuhin/kaggle-dstl) - Kaggle DSTL Satellite Imagery Feature Detection
@@ -6645,7 +6645,7 @@
 - [aws/jsii](https://github.com/aws/jsii) - jsii allows code in any language to naturally interact with JavaScript classes. It is the technology that enables the AWS Cloud Development Kit to deliver polyglot libraries from a single codebase!
 - [aimhubio/aim](https://github.com/aimhubio/aim) - Aim — a super-easy way to record, search and compare 1000s of ML training runs
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite & MongoDB (Preview)
-- [inkandswitch/cambria](https://github.com/inkandswitch/cambria) - Schema evolution with bi-directional lenses.
+- [inkandswitch/cambria-project](https://github.com/inkandswitch/cambria-project) - Schema evolution with bi-directional lenses.
 - [quasilyte/gopherkon](https://github.com/quasilyte/gopherkon) - Go mascot image constructor. Create your cute own gopher.
 - [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
 - [elsaland/elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal, fast and secure runtime for JavaScript and TypeScript written in Go
