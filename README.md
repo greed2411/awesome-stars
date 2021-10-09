@@ -3374,7 +3374,7 @@
 - [enigmampc/catalyst](https://github.com/enigmampc/catalyst) - An Algorithmic Trading Library for Crypto-Assets in Python
 - [alan-turing-institute/sktime](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series
 - [quodlibet/mutagen](https://github.com/quodlibet/mutagen) - Python module for handling audio metadata
-- [dbt-labs/dbt](https://github.com/dbt-labs/dbt) - dbt (data build tool) enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
+- [dbt-labs/dbt](https://github.com/dbt-labs/dbt) - dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
 - [facebookincubator/submitit](https://github.com/facebookincubator/submitit) - Python 3.6+ toolbox for submitting jobs to Slurm
 - [DataBrewery/cubes](https://github.com/DataBrewery/cubes) - Light-weight Python OLAP framework for multi-dimensional data analysis
 - [blackjack4494/youtube-dlc](https://github.com/blackjack4494/youtube-dlc) - Command-line program to download various media from YouTube.com and other sites
@@ -4585,7 +4585,7 @@
 - [stanfordnlp/cocoa](https://github.com/stanfordnlp/cocoa) - Framework for learning dialogue agents in a two-player game setting.
 - [jinfagang/fusion](https://github.com/jinfagang/fusion) - Fusion package with transformation between camera and lidar, IMU etc. Autonomous and robot helper.
 - [rfelixmg/frwgan-eccv18](https://github.com/rfelixmg/frwgan-eccv18) - Code for model presented on our paper accepted on European Conference on Computer Vision 2018.
-- [yngtodd/hyperspace](https://github.com/yngtodd/hyperspace) - Distributed Bayesian Optimization
+- [yngtdd/hyperspace](https://github.com/yngtdd/hyperspace) - Distributed Bayesian Optimization
 - [npuichigo/waveglow](https://github.com/npuichigo/waveglow) - A PyTorch implementation of the WaveGlow: A Flow-based Generative Network for Speech Synthesis
 - [andrewekhalel/sewar](https://github.com/andrewekhalel/sewar) - All image quality metrics you need in one package.
 - [andrewekhalel/edafa](https://github.com/andrewekhalel/edafa) - Test Time Augmentation (TTA) wrapper for computer vision tasks: segmentation, classification, super-resolution, ... etc.
@@ -6677,7 +6677,7 @@
 - [vega/vega-lite](https://github.com/vega/vega-lite) - A concise grammar of interactive graphics, built on Vega.
 - [APIs-guru/graphql-voyager](https://github.com/APIs-guru/graphql-voyager) - 🛰️ Represent any GraphQL API as an interactive graph
 - [jupyterlab/debugger](https://github.com/jupyterlab/debugger) - A visual debugger for Jupyter notebooks, consoles, and source files
-- [eamodio/vscode-gitlens](https://github.com/eamodio/vscode-gitlens) - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more
+- [Axosoft/vscode-gitlens](https://github.com/Axosoft/vscode-gitlens) - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more
 - [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
