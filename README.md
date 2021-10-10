@@ -983,7 +983,7 @@
 - [eclipse/paho.mqtt.golang](https://github.com/eclipse/paho.mqtt.golang) - 
 - [hashicorp/boundary](https://github.com/hashicorp/boundary) - Boundary enables identity-based access management for dynamic infrastructure.
 - [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
-- [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - world’s fastest immutable database
+- [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - world’s fastest immutable database, built on a zero trust model
 - [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) - Swagger 2.0 implementation for go
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
 - [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
@@ -2310,6 +2310,7 @@
 - [happycube/kaggle2017](https://github.com/happycube/kaggle2017) - Code, notes, etc of completed Kaggle competitions
 - [lium-lst/nmtpytorch](https://github.com/lium-lst/nmtpytorch) - Sequence-to-Sequence Framework in PyTorch
 - [HarshTrivedi/nmn-pytorch](https://github.com/HarshTrivedi/nmn-pytorch) - Neural Module Network for VQA in Pytorch
+- [skorch-dev/skorch](https://github.com/skorch-dev/skorch) - A scikit-learn compatible neural network library that wraps PyTorch
 - [czbiohub/hermione](https://github.com/czbiohub/hermione) - Horizon plots and more for single cells
 - [slundberg/shap](https://github.com/slundberg/shap) - A game theoretic approach to explain the output of any machine learning model.
 - [norvig/pytudes](https://github.com/norvig/pytudes) - Python programs, usually short, of considerable difficulty, to perfect particular skills.
@@ -3784,7 +3785,7 @@
 - [videoflow/videoflow](https://github.com/videoflow/videoflow) - Python framework that facilitates the quick development of complex video analysis applications and other series-processing based applications in a multiprocessing environment.
 - [tomgrek/zincbase](https://github.com/tomgrek/zincbase) - A batteries-included kit for knowledge graphs
 - [mcfunley/pugsql](https://github.com/mcfunley/pugsql) - A HugSQL-inspired database library for Python
-- [Julian/jsonschema](https://github.com/Julian/jsonschema) - An(other) implementation of JSON Schema for Python
+- [Julian/jsonschema](https://github.com/Julian/jsonschema) - An implementation of the JSON Schema specification for Python
 - [eliben/pycparser](https://github.com/eliben/pycparser) - :snake: Complete C99 parser in pure Python
 - [ctypesgen/ctypesgen](https://github.com/ctypesgen/ctypesgen) - Pure-python wrapper generator for ctypes
 - [wutianyiRosun/Segmentation.X](https://github.com/wutianyiRosun/Segmentation.X) - Papers and Benchmarks about semantic segmentation, instance segmentation, panoptic segmentation and video segmentation
@@ -5514,7 +5515,7 @@
 - [cydonia999/Tiny_Faces_in_Tensorflow](https://github.com/cydonia999/Tiny_Faces_in_Tensorflow) - A Tensorflow Tiny Face Detector, implementing "Finding Tiny Faces"
 - [pytorch/text](https://github.com/pytorch/text) - Data loaders and abstractions for text and NLP
 - [ftramer/Steal-ML](https://github.com/ftramer/Steal-ML) - Model extraction attacks on Machine-Learning-as-a-Service platforms.
-- [psf/requests](https://github.com/psf/requests) - A simple, yet elegant HTTP library.
+- [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
 - [plotly/dash](https://github.com/plotly/dash) - Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.
 - [minimaxir/person-blocker](https://github.com/minimaxir/person-blocker) - Automatically "block" people in images (like Black Mirror) using a pretrained neural network.
 - [Ceruleanacg/Personae](https://github.com/Ceruleanacg/Personae) - 📈 Personae is a repo of implements and environment of Deep Reinforcement Learning & Supervised Learning for Quantitative Trading.
@@ -5718,7 +5719,6 @@
 - [xingyizhou/pytorch-pose-hg-3d](https://github.com/xingyizhou/pytorch-pose-hg-3d) - PyTorch implementation for 3D human pose estimation
 - [danieljl/keras-image-captioning](https://github.com/danieljl/keras-image-captioning) - An implementation of image captioning in Keras
 - [leehomyc/mixup_pytorch](https://github.com/leehomyc/mixup_pytorch) - A PyTorch implementation of the paper Mixup: Beyond Empirical Risk Minimization in PyTorch
-- [skorch-dev/skorch](https://github.com/skorch-dev/skorch) - A scikit-learn compatible neural network library that wraps PyTorch
 - [crowdAI/crowdai-ai-generate-music-starter-kit](https://github.com/crowdAI/crowdai-ai-generate-music-starter-kit) - 
 - [jsuarez5341/Recurrent-Highway-Hypernetworks-NIPS](https://github.com/jsuarez5341/Recurrent-Highway-Hypernetworks-NIPS) - Cleaned original source code from my NIPS publication
 - [c0nn3r/RetinaNet](https://github.com/c0nn3r/RetinaNet) - An implementation of RetinaNet in PyTorch.
