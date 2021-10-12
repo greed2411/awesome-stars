@@ -1090,7 +1090,6 @@
 - [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
 - [jart/gosip](https://github.com/jart/gosip) - Public Switched Telecommunications Network Unleashed
 - [meshbird/meshbird](https://github.com/meshbird/meshbird) - Distributed private networking
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [libp2p/go-libp2p-kad-dht](https://github.com/libp2p/go-libp2p-kad-dht) - A Kademlia DHT implementation on go-libp2p
 - [cretz/bine](https://github.com/cretz/bine) - Go library for accessing and embedding Tor clients and servers
 - [cretz/tor-dht-poc](https://github.com/cretz/tor-dht-poc) - Anonymous DHT Accessible from Executable or Tor-Enabled Browser
@@ -1353,6 +1352,7 @@
 - [abhivaikar/howtheytest](https://github.com/abhivaikar/howtheytest) - A collection of public resources about how software companies test their software
 - [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre) - At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.
 - [vadootvpeer/p2p-cdn-sdk-javascript](https://github.com/vadootvpeer/p2p-cdn-sdk-javascript) - Free p2p cdn github javascript sdk to reduce video streaming costs of live and on demand video using webrtc by upto 90% and improve scalability by 6x - 🚀 Vadootv 🚀
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [w3c/webtransport](https://github.com/w3c/webtransport) - WebTransport is a web API for flexible data transport
 - [hjacobs/kube-resource-report](https://github.com/hjacobs/kube-resource-report) - Report Kubernetes cluster and pod resource requests vs usage and generate static HTML
 - [orangeduck/BuildYourOwnLisp](https://github.com/orangeduck/BuildYourOwnLisp) - Learn C and build your own programming language in under 1000 lines of code!
@@ -2508,7 +2508,6 @@
 - [styfeng/DataAug4NLP](https://github.com/styfeng/DataAug4NLP) - Collection of papers and resources for data augmentation for NLP.
 - [wuchong/awesome-flink](https://github.com/wuchong/awesome-flink) - 😎  A curated list of amazingly awesome Flink and Flink ecosystem resources
 - [cs-books/influential-cs-books](https://github.com/cs-books/influential-cs-books) - Most influential books on Computer Science/programming
-- [Huage001/PaintTransformer](https://github.com/Huage001/PaintTransformer) - Homepage of paper: Paint Transformer: Feed Forward Neural Painting with Stroke Prediction, ICCV 2021.
 - [manuzhang/awesome-streaming](https://github.com/manuzhang/awesome-streaming) - a curated list of awesome streaming frameworks, applications, etc
 - [clvrai/awesome-rl-envs](https://github.com/clvrai/awesome-rl-envs) - 
 - [google-research-datasets/conceptual-12m](https://github.com/google-research-datasets/conceptual-12m) - Conceptual 12M is a dataset containing (image-URL, caption) pairs collected for vision-and-language pre-training.
@@ -3105,6 +3104,7 @@
 
 ## Python 
 
+- [Mayukhdeb/torch-dreams](https://github.com/Mayukhdeb/torch-dreams) - Making neural networks more interpretable, for research and art :mag_right: :computer: :brain: :art:
 - [yoshitomo-matsubara/torchdistill](https://github.com/yoshitomo-matsubara/torchdistill) - A coding-free framework built on PyTorch for reproducible deep learning studies. 🏆20 knowledge distillation methods presented at CVPR, ICLR, ECCV, NeurIPS, ICCV, etc are implemented so far. 🎁 Trained models, training logs and configurations are available for ensuring the reproducibiliy and benchmark.
 - [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0) - Manipulate JSON-like data with NumPy-like idioms.
 - [PaddlePaddle/Parakeet](https://github.com/PaddlePaddle/Parakeet) - PAddle PARAllel text-to-speech toolKIT (supporting Tacotron2, Transformer TTS, FastSpeech2/FastPitch, SpeedySpeech, WaveFlow  and Parallel WaveGAN)
@@ -3121,6 +3121,7 @@
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools and file-types to JSON or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.
 - [openvinotoolkit/datumaro](https://github.com/openvinotoolkit/datumaro) - Dataset Management Framework, a Python library and a CLI tool to build, analyze and manage Computer Vision datasets.
 - [facebookincubator/later](https://github.com/facebookincubator/later) - A framework for python asyncio with batteries included for people writing services in python asyncio
+- [Huage001/PaintTransformer](https://github.com/Huage001/PaintTransformer) - Officially unofficial re-implementation of paper: Paint Transformer: Feed Forward Neural Painting with Stroke Prediction, ICCV 2021.
 - [TylerYep/torchinfo](https://github.com/TylerYep/torchinfo) - View model summaries in PyTorch!
 - [ermongroup/dail](https://github.com/ermongroup/dail) - The Official Implementation of Domain Adaptive Imitation Learning (DAIL)
 - [XuehaiPan/nvitop](https://github.com/XuehaiPan/nvitop) - An interactive NVIDIA-GPU process viewer, the one-stop solution for GPU process management.
@@ -4966,7 +4967,7 @@
 - [xinntao/ESRGAN](https://github.com/xinntao/ESRGAN) - ECCV18 Workshops - Enhanced SRGAN. Champion PIRM Challenge on Perceptual Super-Resolution. The training codes are in BasicSR.
 - [asyml/texar](https://github.com/asyml/texar) - Toolkit for Machine Learning, Natural Language Processing, and Text Generation, in TensorFlow.  This is part of the CASL project: http://casl-project.ai/
 - [panushri25/emrQA](https://github.com/panushri25/emrQA) - Code for the emrQA question answering dataset
-- [OceanskySun/GraftNet](https://github.com/OceanskySun/GraftNet) - 
+- [haitian-sun/GraftNet](https://github.com/haitian-sun/GraftNet) - 
 - [ShuLiu1993/PANet](https://github.com/ShuLiu1993/PANet) - PANet for Instance Segmentation and Object Detection
 - [mpastell/Pweave](https://github.com/mpastell/Pweave) - Pweave is a scientific report generator and a literate programming tool for Python. It can capture the results and plots from data analysis and works well with numpy, scipy and matplotlib.
 - [crossbario/autobahn-python](https://github.com/crossbario/autobahn-python) - WebSocket and WAMP in Python for Twisted and asyncio
@@ -6064,7 +6065,7 @@
 - [apeeyush/machine-learning](https://github.com/apeeyush/machine-learning) - Demonstrates data munging, analysis and visualization techniques
 - [cigroup-ol/windml](https://github.com/cigroup-ol/windml) - The windML framework provides an easy-to-use access to wind data sources within the Python world, building upon numpy, scipy, sklearn, and matplotlib. Renewable Wind Energy, Forecasting, Prediction
 - [boto/boto](https://github.com/boto/boto) - For the latest version of boto, see https://github.com/boto/boto3 -- Python interface to Amazon Web Services
-- [andymccurdy/redis-py](https://github.com/andymccurdy/redis-py) - Redis Python Client
+- [redis/redis-py](https://github.com/redis/redis-py) - Redis Python Client
 - [os/slacker](https://github.com/os/slacker) - Full-featured Python interface for the Slack API
 - [wal-e/wal-e](https://github.com/wal-e/wal-e) - Continuous Archiving for Postgres
 - [reddit-archive/reddit](https://github.com/reddit-archive/reddit) - historical code from reddit.com
