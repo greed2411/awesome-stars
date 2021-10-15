@@ -4614,7 +4614,7 @@
 - [tensorflow/mesh](https://github.com/tensorflow/mesh) - Mesh TensorFlow: Model Parallelism Made Easier
 - [pythonguis/15-minute-apps](https://github.com/pythonguis/15-minute-apps) - 15 minute (small) desktop apps built with PyQt
 - [mahasak/pytorch-deploy-model](https://github.com/mahasak/pytorch-deploy-model) - 
-- [qijiezhao/M2Det](https://github.com/qijiezhao/M2Det) - M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network
+- [VDIGPKU/M2Det](https://github.com/VDIGPKU/M2Det) - M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network
 - [ppwwyyxx/SoPaper](https://github.com/ppwwyyxx/SoPaper) - Automatically Search and Download Papers
 - [wolegechu/ShuffleNetV2.Caffe2](https://github.com/wolegechu/ShuffleNetV2.Caffe2) - A Caffe2 implementation of ShuffleNet V2.
 - [pypa/linehaul](https://github.com/pypa/linehaul) - Statistics Collection for PyPI
@@ -6210,6 +6210,7 @@
 
 ## Rust 
 
+- [KuiBaDB/KuiBaDB](https://github.com/KuiBaDB/KuiBaDB) - Another OLAP database
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust
 - [willcrichton/flowistry](https://github.com/willcrichton/flowistry) - Flowistry is a VSCode extension that helps you understand Rust programs with program analysis.
 - [tokio-rs/console](https://github.com/tokio-rs/console) - tokio-console prototypes
