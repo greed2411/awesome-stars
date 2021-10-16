@@ -1855,7 +1855,7 @@
 - [gordicaleksa/pytorch-deepdream](https://github.com/gordicaleksa/pytorch-deepdream) - PyTorch implementation of DeepDream algorithm (Mordvintsev et al.). Additionally I've included playground.py to help you better understand basic concepts behind the algo.
 - [lambdaclass/options_backtester](https://github.com/lambdaclass/options_backtester) - Simple backtesting software for options
 - [haltakov/natural-language-youtube-search](https://github.com/haltakov/natural-language-youtube-search) - Search inside YouTube videos using natural language
-- [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 47 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠
+- [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 50! Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠
 - [kaesve/muzero](https://github.com/kaesve/muzero) - A clean implementation of MuZero and AlphaZero following the AlphaZero General framework. Train and Pit both algorithms against each other, and investigate reliability of learned MuZero MDP models.
 - [studio-ousia/luke](https://github.com/studio-ousia/luke) - LUKE -- Language Understanding with Knowledge-based Embeddings
 - [jmschrei/pomegranate](https://github.com/jmschrei/pomegranate) - Fast, flexible and easy to use probabilistic modelling in Python.
@@ -1914,7 +1914,6 @@
 - [Ranlot/single-parameter-fit](https://github.com/Ranlot/single-parameter-fit) - Real numbers, data science and chaos: How to fit any dataset with a single parameter
 - [EmilienDupont/neural-processes](https://github.com/EmilienDupont/neural-processes) - Pytorch implementation of Neural Processes for functions and images :fireworks:
 - [limingcv/Photorealistic-Style-Transfer](https://github.com/limingcv/Photorealistic-Style-Transfer) - High-Resolution Network for Photorealistic Style Transfer
-- [NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - Deep Learning Examples
 - [mosheman5/DNP](https://github.com/mosheman5/DNP) - Audio Denoising with Deep Network Priors
 - [mathLab/PyDMD](https://github.com/mathLab/PyDMD) - Python Dynamic Mode Decomposition
 - [google/neural-tangents](https://github.com/google/neural-tangents) - Fast and Easy Infinite Neural Networks in Python
@@ -2264,7 +2263,6 @@
 - [dalmia/David-Silver-Reinforcement-learning](https://github.com/dalmia/David-Silver-Reinforcement-learning) - Notes for the Reinforcement Learning course by David Silver along with implementation of various algorithms.
 - [higgsfield/RL-Adventure](https://github.com/higgsfield/RL-Adventure) - Pytorch Implementation of DQN / DDQN / Prioritized replay/ noisy networks/ distributional values/ Rainbow/ hierarchical RL
 - [suriyadeepan/practical_seq2seq](https://github.com/suriyadeepan/practical_seq2seq) - A simple, minimal wrapper for tensorflow's seq2seq module, for experimenting with datasets rapidly
-- [mdbloice/Augmentor](https://github.com/mdbloice/Augmentor) - Image augmentation library in Python for machine learning.
 - [warmspringwinds/tensorflow_notes](https://github.com/warmspringwinds/tensorflow_notes) - Tensorflow notes
 - [experiencor/self-driving-toy-car](https://github.com/experiencor/self-driving-toy-car) - A self driving toy car using end-to-end learning
 - [21eleven/math-of-intelligence](https://github.com/21eleven/math-of-intelligence) - my submissions for Siraj Raval's weekly challenges from The Math of Intelligence course.
@@ -3131,7 +3129,7 @@
 - [tunib-ai/parallelformers](https://github.com/tunib-ai/parallelformers) - Parallelformers: An Efficient Model Parallelization Toolkit for Deployment
 - [yzhangcs/parser](https://github.com/yzhangcs/parser) - State-of-the-art Dependency, Constituency and Semantic Dependency Parsers, with pretrained models for more than 19 languages.
 - [google-research/byt5](https://github.com/google-research/byt5) - 
-- [BaguaSys/bagua](https://github.com/BaguaSys/bagua) - Bagua is a deep learning training acceleration framework for PyTorch. It provides a one-stop training acceleration solution, including faster distributed training compared to PyTorch DDP, faster dataloader, kernel fusion, and more.
+- [BaguaSys/bagua](https://github.com/BaguaSys/bagua) - Bagua Speeds up PyTorch
 - [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀 (Clone of https://github.com/public-apis/public-apis)
 - [deepmind/alphafold](https://github.com/deepmind/alphafold) - Open source code for AlphaFold.
 - [vturrisi/solo-learn](https://github.com/vturrisi/solo-learn) - solo-learn: a library of self-supervised methods for visual representation learning powered by Pytorch Lightning
@@ -3893,6 +3891,7 @@
 - [r9y9/wavenet_vocoder](https://github.com/r9y9/wavenet_vocoder) - WaveNet vocoder
 - [goldsborough/ig](https://github.com/goldsborough/ig) - :fireworks: Include graph visualization for C++
 - [tengteng95/Pose-Transfer](https://github.com/tengteng95/Pose-Transfer) - Code for the paper Progressive Pose Attention for Person Image Generation in CVPR19 (Oral).
+- [NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - Deep Learning Examples
 - [switchablenorms/CelebAMask-HQ](https://github.com/switchablenorms/CelebAMask-HQ) - A large-scale face dataset for face parsing, recognition, generation and editing.
 - [dephell/dephell](https://github.com/dephell/dephell) - :package: :fire: Python project management. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump version.
 - [socialpoint-labs/sheetfu](https://github.com/socialpoint-labs/sheetfu) - Python library to interact with Google Sheets V4 API
@@ -5537,6 +5536,7 @@
 - [iwasaki-kenta/scent-classification](https://github.com/iwasaki-kenta/scent-classification) - Aromeo: classifying scent through images.
 - [hirofumi0810/tensorflow_end2end_speech_recognition](https://github.com/hirofumi0810/tensorflow_end2end_speech_recognition) - End-to-End speech recognition implementation base on TensorFlow (CTC, Attention, and MTL training)
 - [knmkr/api-example-python](https://github.com/knmkr/api-example-python) - 
+- [mdbloice/Augmentor](https://github.com/mdbloice/Augmentor) - Image augmentation library in Python for machine learning.
 - [magenta/magenta](https://github.com/magenta/magenta) - Magenta: Music and Art Generation with Machine Intelligence
 - [deepdrive/deepdrive](https://github.com/deepdrive/deepdrive) - Deepdrive is a simulator that allows anyone with a PC to push the state-of-the-art in self-driving
 - [shinseung428/gan_numpy](https://github.com/shinseung428/gan_numpy) - 
