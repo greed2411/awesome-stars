@@ -3575,7 +3575,7 @@
 - [TokenChingy/pytasking](https://github.com/TokenChingy/pytasking) - A simple Python 3.5+ multitasking library.
 - [mardix/assembly](https://github.com/mardix/assembly) - Assembly is a Pythonic Object-Oriented Web Framework built on Flask, that groups your routes by class
 - [mardix/active-alchemy](https://github.com/mardix/active-alchemy) - Active-Alchemy is a framework agnostic wrapper for SQLAlchemy that makes it really easy to use by implementing a simple active record like api, while it still uses the db.session underneath. Inspired by Flask-SQLAlchemy
-- [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life data science projects with ease
+- [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life data science projects with ease!
 - [MMcintire96/python_TinderAPI](https://github.com/MMcintire96/python_TinderAPI) - Tinder API 2019 - Python bindings
 - [dropbox/hydra](https://github.com/dropbox/hydra) - A multi-process MongoDB collection copier.
 - [facebookresearch/demucs](https://github.com/facebookresearch/demucs) - Code for the paper Music Source Separation in the Waveform Domain
