@@ -265,6 +265,7 @@
 
 ## C++ 
 
+- [flink-extended/flink-ai-extended](https://github.com/flink-extended/flink-ai-extended) - 
 - [google/language-resources](https://github.com/google/language-resources) - Datasets and tools for basic natural language processing.
 - [openai/triton](https://github.com/openai/triton) - Development repository for the Triton language and compiler
 - [BespokeSynth/BespokeSynth](https://github.com/BespokeSynth/BespokeSynth) - Software modular synth
@@ -954,7 +955,7 @@
 - [awslabs/karpenter](https://github.com/awslabs/karpenter) - Kubernetes Node Autoscaling: built for flexibility, performance, and scalability. https://karpenter.sh
 - [RussellLuo/slidingwindow](https://github.com/RussellLuo/slidingwindow) - Golang implementation of Sliding Window Algorithm for distributed rate limiting.
 - [peer-calls/peer-calls](https://github.com/peer-calls/peer-calls) - Group peer to peer video calls for everyone written in Go and TypeScript
-- [fluxcd/flux](https://github.com/fluxcd/flux) - The GitOps Kubernetes operator
+- [fluxcd/flux](https://github.com/fluxcd/flux) - Successor: https://github.com/fluxcd/flux2 — The GitOps Kubernetes operator
 - [throttled/throttled](https://github.com/throttled/throttled) - Package throttled implements rate limiting access to resources such as HTTP endpoints.
 - [galeone/tfgo](https://github.com/galeone/tfgo) - Tensorflow + Go, the gopher way
 - [uber/aresdb](https://github.com/uber/aresdb) - A GPU-powered real-time analytics storage and query engine.
@@ -3102,7 +3103,7 @@
 
 ## Python 
 
-- [flink-extended/flink-ai-extended](https://github.com/flink-extended/flink-ai-extended) - 
+- [facebookresearch/xformers](https://github.com/facebookresearch/xformers) - Hackable and optimized Transformers building blocks, supporting a composable construction.
 - [Mayukhdeb/torch-dreams](https://github.com/Mayukhdeb/torch-dreams) - Making neural networks more interpretable, for research and art :mag_right: :computer: :brain: :art:
 - [yoshitomo-matsubara/torchdistill](https://github.com/yoshitomo-matsubara/torchdistill) - A coding-free framework built on PyTorch for reproducible deep learning studies. 🏆20 knowledge distillation methods presented at CVPR, ICLR, ECCV, NeurIPS, ICCV, etc are implemented so far. 🎁 Trained models, training logs and configurations are available for ensuring the reproducibiliy and benchmark.
 - [scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0) - Manipulate JSON-like data with NumPy-like idioms.
