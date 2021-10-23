@@ -3741,7 +3741,7 @@
 - [altair-viz/altair](https://github.com/altair-viz/altair) - Declarative statistical visualization library for Python
 - [bytedance/byteps](https://github.com/bytedance/byteps) - A high performance and generic framework for distributed DNN training
 - [microsoft/MASS](https://github.com/microsoft/MASS) - MASS: Masked Sequence to Sequence Pre-training for Language Generation
-- [allegroai/clearml](https://github.com/allegroai/clearml) - ClearML - Auto-Magical Suite of tools to streamline your ML workflow. Experiment Manager, ML-Ops and Data-Management
+- [allegroai/clearml](https://github.com/allegroai/clearml) - ClearML - Auto-Magical Suite of tools to streamline your ML workflow. Experiment Manager, MLOps and Data-Management
 - [transceptor-technology/pyleri](https://github.com/transceptor-technology/pyleri) - Python Parser
 - [thunlp/ERNIE](https://github.com/thunlp/ERNIE) - Source code and dataset for ACL 2019 paper "ERNIE: Enhanced Language Representation with Informative Entities"
 - [leoshine/Spherical_Regression](https://github.com/leoshine/Spherical_Regression) - PyTorch implementation of cvpr2019 paper "Spherical Regression: Learning Viewpoints, Surface Normals and 3D Rotations on n-Spheres".
@@ -3930,7 +3930,7 @@
 - [princeton-vl/CornerNet-Lite](https://github.com/princeton-vl/CornerNet-Lite) - 
 - [Megvii-Nanjing/ML-GCN](https://github.com/Megvii-Nanjing/ML-GCN) - PyTorch implementation of Multi-Label Image Recognition with Graph Convolutional Networks, CVPR 2019.
 - [benkrause/dynamiceval-transformer](https://github.com/benkrause/dynamiceval-transformer) - 
-- [Tinche/cattrs](https://github.com/Tinche/cattrs) - Complex custom class converters for attrs.
+- [python-attrs/cattrs](https://github.com/python-attrs/cattrs) - Complex custom class converters for attrs.
 - [Tinche/aiofiles](https://github.com/Tinche/aiofiles) - File support for asyncio
 - [titu1994/keras-octconv](https://github.com/titu1994/keras-octconv) - Keras implementation of Octave Convolutions
 - [ines/spacy-course](https://github.com/ines/spacy-course) - 👩‍🏫 Advanced NLP with spaCy: A free online course
