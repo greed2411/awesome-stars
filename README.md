@@ -1695,7 +1695,7 @@
 - [mankadronit/Automated-Essay--Scoring](https://github.com/mankadronit/Automated-Essay--Scoring) - Automatically Score essays using Deep Learning
 - [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.06
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
-- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - convert curl commands to Python, JavaScript, PHP, R, Go, Rust, Dart, JSON, Ansible, Elixir
+- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - convert curl commands to Python, JavaScript, Go, PHP, R, Dart, Java, MATLAB, Rust, Elixir and more
 - [mariusbrataas/flowpoints_ml](https://github.com/mariusbrataas/flowpoints_ml) - An intuitive approach to creating deep learning models
 - [Schachte/Mermrender](https://github.com/Schachte/Mermrender) - 🧜‍♀️ RESTful rendering pipeline for generating sequence and UML diagrams using Mermaid for Markdown docs (Diagrams as a Service)
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -2167,7 +2167,7 @@
 - [kulikovv/DeepColoring](https://github.com/kulikovv/DeepColoring) - Instance Segmentation by Deep Coloring
 - [Atcold/pytorch-Deep-Learning](https://github.com/Atcold/pytorch-Deep-Learning) - Deep Learning (with PyTorch)
 - [h2oai/mli-resources](https://github.com/h2oai/mli-resources) - H2O.ai Machine Learning Interpretability Resources
-- [supervisely/supervisely](https://github.com/supervisely/supervisely) - AI for everyone! :tada: Neural networks, tools and a library we use in Supervisely
+- [supervisely/supervisely](https://github.com/supervisely/supervisely) - Supervisely SDK for Python - convenient way to automate, customize and extend Supervisely Platform for your computer vision task
 - [killthekitten/kaggle-ds-bowl-2018-baseline](https://github.com/killthekitten/kaggle-ds-bowl-2018-baseline) - Full train/inference/submission pipeline adapted to the competition from https://github.com/matterport/Mask_RCNN
 - [phmagic/Lyft-Perception-Challenge](https://github.com/phmagic/Lyft-Perception-Challenge) - Semantic segmentation of roads and cars for Udacity  / Lyft challenge
 - [ternaus/robot-surgery-segmentation](https://github.com/ternaus/robot-surgery-segmentation) - Wining solution and its improvement for MICCAI 2017 Robotic Instrument Segmentation Sub-Challenge
