@@ -3189,7 +3189,7 @@
 - [madkote/fastapi-plugins](https://github.com/madkote/fastapi-plugins) - FastAPI framework plugins
 - [encode/broadcaster](https://github.com/encode/broadcaster) - Broadcast channels for async web apps. 📢
 - [lucidrains/se3-transformer-pytorch](https://github.com/lucidrains/se3-transformer-pytorch) - Implementation of SE3-Transformers for Equivariant Self-Attention, in Pytorch. This specific repository is geared towards integration with eventual Alphafold2 replication.
-- [lux-org/lux](https://github.com/lux-org/lux) - Python API for Intelligent Visual Data Discovery
+- [lux-org/lux](https://github.com/lux-org/lux) - Automatically visualize your pandas dataframe via a single print! 📊 💡
 - [capitalone/DataProfiler](https://github.com/capitalone/DataProfiler) - What's in your data? Extract schema, statistics and entities from datasets
 - [bayesiains/nflows](https://github.com/bayesiains/nflows) - Normalizing flows in PyTorch
 - [lucidrains/mlp-mixer-pytorch](https://github.com/lucidrains/mlp-mixer-pytorch) - An All-MLP solution for Vision, from Google AI
@@ -5445,7 +5445,7 @@
 - [kaushalshetty/Structured-Self-Attention](https://github.com/kaushalshetty/Structured-Self-Attention) - A Structured Self-attentive Sentence Embedding
 - [awesome-davian/Text2Colors](https://github.com/awesome-davian/Text2Colors) - Code for "Coloring with Words: Guiding Image Colorization through Text-based Palette Generation" - ECCV 2018
 - [google/pytype](https://github.com/google/pytype) - A static type analyzer for Python code
-- [PaddlePaddle/DeepSpeech](https://github.com/PaddlePaddle/DeepSpeech) - A PaddlePaddle Speech toolkit.
+- [PaddlePaddle/DeepSpeech](https://github.com/PaddlePaddle/DeepSpeech) - A Speech Toolkit based on PaddlePaddle.
 - [OlegYurchik/pyInstagram](https://github.com/OlegYurchik/pyInstagram) - This is a simple and easy-to-use library for interacting with the Instagram. The library works through the web interface of the Instagram and does not depend on the official API
 - [cs1707/tldr-alfred](https://github.com/cs1707/tldr-alfred) - tldr alfred workflow
 - [MLBazaar/BTB](https://github.com/MLBazaar/BTB) - A simple, extensible library for developing AutoML systems
