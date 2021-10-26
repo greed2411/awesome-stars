@@ -893,7 +893,7 @@
 - [treeverse/lakeFS](https://github.com/treeverse/lakeFS) - Git-like capabilities for your object storage
 - [teh-cmc/go-internals](https://github.com/teh-cmc/go-internals) - A book about the internals of the Go programming language.
 - [kha7iq/pingme](https://github.com/kha7iq/pingme) - PingMe is a CLI tool which provides the ability to send messages or alerts to multiple messaging platforms & email.
-- [encoredev/encore](https://github.com/encoredev/encore) - The Cloud Native Development Platform built for Go
+- [encoredev/encore](https://github.com/encoredev/encore) - The Backend Development Engine built for Go
 - [N0MoreSecr3ts/wraith](https://github.com/N0MoreSecr3ts/wraith) - Uncover forgotten secrets and bring them back to life, haunting security and operations teams.
 - [RedisLabs/redis-recommend](https://github.com/RedisLabs/redis-recommend) - Simple Redis Go recommendation engine
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose
@@ -969,7 +969,7 @@
 - [stellar/go](https://github.com/stellar/go) - Stellar's public monorepo of go code
 - [RTradeLtd/go-libp2p-pubsub-grpc](https://github.com/RTradeLtd/go-libp2p-pubsub-grpc) - 🗣️ libp2p pubsub with controls exposed via a gRPC API
 - [yjjnls/awesome-blockchain](https://github.com/yjjnls/awesome-blockchain) - ⚡️Curated list of resources for the development and applications of blockchain.
-- [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - A multi-service dev environment for teams on Kubernetes
+- [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Standardize how your microservices run in dev. Run tilt up to work in a complete dev environment that automates all the steps from code change to a new process.
 - [vdaas/vald](https://github.com/vdaas/vald) - Vald.  A Highly Scalable Distributed Vector Search Engine
 - [mosn/holmes](https://github.com/mosn/holmes) - self-aware Golang profile dumper
 - [openfaas/faasd](https://github.com/openfaas/faasd) - A lightweight & portable faas engine
@@ -3281,7 +3281,7 @@
 - [spulec/moto](https://github.com/spulec/moto) - A library that allows you to easily mock out tests based on AWS infrastructure.
 - [bytedance/neurst](https://github.com/bytedance/neurst) - Neural end-to-end Speech Translation Toolkit
 - [tencent-ailab/pika](https://github.com/tencent-ailab/pika) - a lightweight speech processing toolkit based on Pytorch and (Py)Kaldi
-- [fepegar/torchio](https://github.com/fepegar/torchio) - Medical image preprocessing and augmentation toolkit for deep learning. Part of the PyTorch Ecosystem.
+- [fepegar/torchio](https://github.com/fepegar/torchio) - TorchIO: medical imaging for deep learning.
 - [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.3, 3.4, 3.5, 3.6, 3.7, 3.8, and 3.9.  You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module.
 - [facebookresearch/hydra](https://github.com/facebookresearch/hydra) - Hydra is a framework for elegantly configuring complex applications
 - [akshaynagpal/w2n](https://github.com/akshaynagpal/w2n) - Convert number words (eg. twenty one) to numeric digits (21)
@@ -3343,7 +3343,7 @@
 - [py2neo-org/py2neo](https://github.com/py2neo-org/py2neo) - Py2neo is a comprehensive Neo4j driver library and toolkit for Python.
 - [lucidrains/lambda-networks](https://github.com/lucidrains/lambda-networks) - Implementation of LambdaNetworks, a new approach to image recognition that reaches SOTA with less compute
 - [freepn/fpnd](https://github.com/freepn/fpnd) - Python package for freepn network daemon
-- [grammarly/gector](https://github.com/grammarly/gector) - Official implementation of the paper “GECToR – Grammatical Error Correction: Tag, Not Rewrite” // Published on BEA15 Workshop (co-located with ACL 2020) https://www.aclweb.org/anthology/2020.bea-1.16.pdf
+- [grammarly/gector](https://github.com/grammarly/gector) - Official implementation of the papers "GECToR – Grammatical Error Correction: Tag, Not Rewrite" (BEA-20) and "Text Simplification by Tagging" (BEA-21)
 - [clovaai/length-adaptive-transformer](https://github.com/clovaai/length-adaptive-transformer) - Official Pytorch Implementation of Length-Adaptive Transformer (ACL 2021)
 - [didi/MEEP](https://github.com/didi/MEEP) - End-to-end framework to build automatic agents (chatbots) for task-oriented dialogs
 - [stanfordnlp/stanza](https://github.com/stanfordnlp/stanza) - Official Stanford NLP Python Library for Many Human Languages
