@@ -833,7 +833,7 @@
 - [bchadwic/gh-graph](https://github.com/bchadwic/gh-graph) - An extension for the GitHub Cli application that displays your current contribution graph
 - [platoneko/tinykv](https://github.com/platoneko/tinykv) - Talent Plan 2.0
 - [lesismal/arpc](https://github.com/lesismal/arpc) - More effective network communication, two-way calling, notify and broadcast supported.
-- [lesismal/nbio](https://github.com/lesismal/nbio) - High-performance, non-blocking, event-driven, easy-to-use networking framework written in Go, support tls/http1.x/websocket.
+- [lesismal/nbio](https://github.com/lesismal/nbio) - Pure Go 1000k+ connections solution, with high-performance and low memory cost, non-blocking, event-driven, easy-to-use, support tls/http1.x/websocket.
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 - [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie.
 - [boltdb/bolt](https://github.com/boltdb/bolt) - An embedded key/value database for Go.
@@ -3300,7 +3300,7 @@
 - [vyperlang/vyper](https://github.com/vyperlang/vyper) - Pythonic Smart Contract Language for the EVM
 - [Introduction-to-Tornado/Introduction-to-Tornado](https://github.com/Introduction-to-Tornado/Introduction-to-Tornado) - This is the sample code for the Introduction to Tornado book, published by O'Reilly Media.
 - [benoitc/offset](https://github.com/benoitc/offset) - 
-- [dbrgn/result](https://github.com/dbrgn/result) - A simple Rust like Result type for Python 3. Fully type annotated.
+- [rustedpy/result](https://github.com/rustedpy/result) - A simple Rust like Result type for Python 3. Fully type annotated.
 - [JordanAsh/badge](https://github.com/JordanAsh/badge) - An implementation of the BADGE batch active learning algorithm.
 - [rlgraph/rlgraph](https://github.com/rlgraph/rlgraph) - RLgraph: Modular computation graphs for deep reinforcement learning
 - [jplana/python-etcd](https://github.com/jplana/python-etcd) - A python client for etcd
@@ -3500,7 +3500,6 @@
 - [guildai/guildai](https://github.com/guildai/guildai) - Experiment tracking, ML developer tools
 - [garyelephant/pygrok](https://github.com/garyelephant/pygrok) - python implementation of jordansissel's grok regular expression library
 - [deepmind/bsuite](https://github.com/deepmind/bsuite) - bsuite is a collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics that you can self host.
 - [automl/auto-sklearn](https://github.com/automl/auto-sklearn) - Automated Machine Learning with scikit-learn
 - [quantumblacklabs/kedro](https://github.com/quantumblacklabs/kedro) - A Python framework for creating reproducible, maintainable and modular data science code.
 - [trondhindenes/Traefik-Flask-Opentracing-Blogpost](https://github.com/trondhindenes/Traefik-Flask-Opentracing-Blogpost) - Code for blog post
@@ -6681,6 +6680,7 @@
 - [APIs-guru/graphql-voyager](https://github.com/APIs-guru/graphql-voyager) - 🛰️ Represent any GraphQL API as an interactive graph
 - [jupyterlab/debugger](https://github.com/jupyterlab/debugger) - A visual debugger for Jupyter notebooks, consoles, and source files
 - [Axosoft/vscode-gitlens](https://github.com/Axosoft/vscode-gitlens) - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more
+- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics that you can self host.
 - [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
