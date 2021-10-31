@@ -718,7 +718,7 @@
 - [uncomplicate/fluokitten](https://github.com/uncomplicate/fluokitten) - Category theory concepts in Clojure - Functors, Applicatives, Monads, Monoids and more.
 - [leonoel/cloroutine](https://github.com/leonoel/cloroutine) - Coroutine support for clojure
 - [funcool/cats](https://github.com/funcool/cats) - Category Theory and Algebraic abstractions for Clojure and ClojureScript.
-- [clj-commons/aleph](https://github.com/clj-commons/aleph) - asynchronous communication for clojure
+- [clj-commons/aleph](https://github.com/clj-commons/aleph) - Asynchronous communication for Clojure
 - [LightTable/LightTable](https://github.com/LightTable/LightTable) - The Light Table IDE ⛺
 - [venantius/ultra](https://github.com/venantius/ultra) - A Leiningen plugin for a superior development environment
 - [Netflix/PigPen](https://github.com/Netflix/PigPen) - Map-Reduce for Clojure
@@ -3128,7 +3128,7 @@
 - [rkern/line_profiler](https://github.com/rkern/line_profiler) - (OLD REPO) Line-by-line profiling for Python - Current repo -&gt;
 - [facebookresearch/PAQ](https://github.com/facebookresearch/PAQ) - Code and data to support the paper "PAQ 65 Million Probably-Asked Questions andWhat You Can Do With Them"
 - [tunib-ai/parallelformers](https://github.com/tunib-ai/parallelformers) - Parallelformers: An Efficient Model Parallelization Toolkit for Deployment
-- [yzhangcs/parser](https://github.com/yzhangcs/parser) - State-of-the-art Dependency, Constituency and Semantic Dependency Parsers, with pretrained models for more than 19 languages.
+- [yzhangcs/parser](https://github.com/yzhangcs/parser) - :rocket: State-of-the-art Dependency, Constituency and Semantic Dependency Parsers, with pretrained models for more than 19 languages.
 - [google-research/byt5](https://github.com/google-research/byt5) - 
 - [BaguaSys/bagua](https://github.com/BaguaSys/bagua) - Bagua Speeds up PyTorch
 - [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀 (Clone of https://github.com/public-apis/public-apis)
@@ -6070,7 +6070,7 @@
 - [wal-e/wal-e](https://github.com/wal-e/wal-e) - Continuous Archiving for Postgres
 - [reddit-archive/reddit](https://github.com/reddit-archive/reddit) - historical code from reddit.com
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
-- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
+- [httpie/httpie](https://github.com/httpie/httpie) - 🥧 As easy as /aitch-tee-tee-pie/. Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [seatgeek/fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy String Matching in Python
 - [coala/coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
 - [rougier/numpy-tutorial](https://github.com/rougier/numpy-tutorial) - Numpy beginner tutorial
