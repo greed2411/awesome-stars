@@ -1631,7 +1631,7 @@
 - [open-webrtc-toolkit/owt-server](https://github.com/open-webrtc-toolkit/owt-server) - General server (streaming/conference/transcoding/anayltics) for OWT. (A.k.a. MediaServer)
 - [tedconf/fessonia](https://github.com/tedconf/fessonia) - A node module easing the burden of automating FFmpeg from Node.js
 - [timhutton/GravityIsNotAForce](https://github.com/timhutton/GravityIsNotAForce) - Visualising the spacetime geodesics of general relativity
-- [fonoster/fonos](https://github.com/fonoster/fonos) - 🚀 An open-source alternative to Twilio.
+- [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 An open-source alternative to Twilio.
 - [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
 - [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [blenderskool/untab](https://github.com/blenderskool/untab) - 🔍 A productivity tool to boost your browser workflow!
@@ -3102,6 +3102,7 @@
 
 ## Python 
 
+- [Tencent/PatrickStar](https://github.com/Tencent/PatrickStar) - PatrickStar enables Larger, Faster, Greener Pretrained Models for NLP. Democratize AI for everyone.
 - [facebookresearch/xformers](https://github.com/facebookresearch/xformers) - Hackable and optimized Transformers building blocks, supporting a composable construction.
 - [Mayukhdeb/torch-dreams](https://github.com/Mayukhdeb/torch-dreams) - Making neural networks more interpretable, for research and art :mag_right: :computer: :brain: :art:
 - [yoshitomo-matsubara/torchdistill](https://github.com/yoshitomo-matsubara/torchdistill) - A coding-free framework built on PyTorch for reproducible deep learning studies. 🏆20 knowledge distillation methods presented at CVPR, ICLR, ECCV, NeurIPS, ICCV, etc are implemented so far. 🎁 Trained models, training logs and configurations are available for ensuring the reproducibiliy and benchmark.
