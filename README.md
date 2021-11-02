@@ -101,6 +101,7 @@
 
 ## C 
 
+- [deepmind/mujoco](https://github.com/deepmind/mujoco) - Multi-Joint dynamics with Contact. A general purpose physics simulator.
 - [satori-com/tcpkali](https://github.com/satori-com/tcpkali) - Fast multi-core TCP and WebSockets load generator.
 - [axboe/liburing](https://github.com/axboe/liburing) - 
 - [patrykstefanski/libfev](https://github.com/patrykstefanski/libfev) - A library for events and fibers
@@ -396,7 +397,7 @@
 - [apache/incubator-brpc](https://github.com/apache/incubator-brpc) - Industrial-grade RPC framework used throughout Baidu, with 1,000,000+ instances and thousands kinds of services. "brpc" means "better RPC".
 - [VKCOM/YouTokenToMe](https://github.com/VKCOM/YouTokenToMe) - Unsupervised text tokenizer focused on computational efficiency
 - [uber-research/jpeg2dct](https://github.com/uber-research/jpeg2dct) - 
-- [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
+- [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
 - [xbpeng/DeepMimic](https://github.com/xbpeng/DeepMimic) - Motion imitation with deep reinforcement learning.
 - [facebookincubator/oomd](https://github.com/facebookincubator/oomd) - A userspace out-of-memory killer
 - [jinfagang/hdl_graph_slam](https://github.com/jinfagang/hdl_graph_slam) - Graph slam using lidar
@@ -810,6 +811,7 @@
 
 ## Go 
 
+- [DiscoRiver/massh](https://github.com/DiscoRiver/massh) - Go package for running Linux distributed shell commands via SSH.
 - [aws/eks-anywhere](https://github.com/aws/eks-anywhere) - Run Amazon EKS on your own infrastructure 🚀
 - [coreos/go-systemd](https://github.com/coreos/go-systemd) - Go bindings to systemd socket activation, journal, D-Bus, and unit files
 - [reugn/go-quartz](https://github.com/reugn/go-quartz) - Minimalist and zero-dependency scheduling library for Go
@@ -1302,7 +1304,7 @@
 - [metrue/fx](https://github.com/metrue/fx) - A Function as a Service tool makes a function as a  container-based service in seconds.
 - [qri-io/qri](https://github.com/qri-io/qri) - you're invited to a data party!
 - [google/syzkaller](https://github.com/google/syzkaller) - syzkaller is an unsupervised coverage-guided kernel fuzzer
-- [cortexlabs/cortex](https://github.com/cortexlabs/cortex) - Containers as a service on AWS
+- [cortexlabs/cortex](https://github.com/cortexlabs/cortex) - Production infrastructure for machine learning at scale
 - [fanpei91/torsniff](https://github.com/fanpei91/torsniff) - torsniff - a sniffer that sniffs torrents from BitTorrent network
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [uber/prototool](https://github.com/uber/prototool) - Your Swiss Army Knife for Protocol Buffers
@@ -1631,7 +1633,7 @@
 - [open-webrtc-toolkit/owt-server](https://github.com/open-webrtc-toolkit/owt-server) - General server (streaming/conference/transcoding/anayltics) for OWT. (A.k.a. MediaServer)
 - [tedconf/fessonia](https://github.com/tedconf/fessonia) - A node module easing the burden of automating FFmpeg from Node.js
 - [timhutton/GravityIsNotAForce](https://github.com/timhutton/GravityIsNotAForce) - Visualising the spacetime geodesics of general relativity
-- [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 An open-source alternative to Twilio.
+- [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 The open-source alternative to Twilio.
 - [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
 - [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [blenderskool/untab](https://github.com/blenderskool/untab) - 🔍 A productivity tool to boost your browser workflow!
@@ -2435,9 +2437,9 @@
 - [MohsenFayyaz89/C3DSegmentation](https://github.com/MohsenFayyaz89/C3DSegmentation) - Video Semantic Segmentation using 3D CNNs in Torch
 - [junyanz/CycleGAN](https://github.com/junyanz/CycleGAN) - Software that can generate photos from paintings,  turn horses into zebras,  perform style transfer, and more.
 - [facebookarchive/bAbI-tasks](https://github.com/facebookarchive/bAbI-tasks) - Task generation for testing text understanding and reasoning
-- [twitter/torch-decisiontree](https://github.com/twitter/torch-decisiontree) - This project implements random forests and gradient boosted decision trees (GBDT). The latter uses gradient tree boosting. Both use ensemble learning to produce ensembles of decision trees (that is, forests).
+- [twitter-archive/torch-decisiontree](https://github.com/twitter-archive/torch-decisiontree) - This project implements random forests and gradient boosted decision trees (GBDT). The latter uses gradient tree boosting. Both use ensemble learning to produce ensembles of decision trees (that is, forests).
 - [stanfordnlp/treelstm](https://github.com/stanfordnlp/treelstm) - Tree-structured Long Short-Term Memory networks (http://arxiv.org/abs/1503.00075)
-- [twitter/torch-twrl](https://github.com/twitter/torch-twrl) - Torch-twrl is a package that enables reinforcement learning in Torch.
+- [twitter-archive/torch-twrl](https://github.com/twitter-archive/torch-twrl) - Torch-twrl is a package that enables reinforcement learning in Torch.
 - [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
 - [satoshiiizuka/siggraph2017_inpainting](https://github.com/satoshiiizuka/siggraph2017_inpainting) - Code for the paper 'Globally and Locally Consistent Image Completion'. http://iizuka.cs.tsukuba.ac.jp/projects/completion/
 - [SeungjunNah/DeepDeblur_release](https://github.com/SeungjunNah/DeepDeblur_release) - Deep Multi-scale CNN for Dynamic Scene Deblurring
@@ -3102,6 +3104,8 @@
 
 ## Python 
 
+- [MrS0m30n3/youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
+- [lucidrains/big-sleep](https://github.com/lucidrains/big-sleep) - A simple command line tool for text to image generation, using OpenAI's CLIP and a BigGAN. Technique was originally created by https://twitter.com/advadnoun
 - [Tencent/PatrickStar](https://github.com/Tencent/PatrickStar) - PatrickStar enables Larger, Faster, Greener Pretrained Models for NLP. Democratize AI for everyone.
 - [facebookresearch/xformers](https://github.com/facebookresearch/xformers) - Hackable and optimized Transformers building blocks, supporting a composable construction.
 - [Mayukhdeb/torch-dreams](https://github.com/Mayukhdeb/torch-dreams) - Making neural networks more interpretable, for research and art :mag_right: :computer: :brain: :art:
@@ -3167,7 +3171,7 @@
 - [mosquito/aiormq](https://github.com/mosquito/aiormq) - Pure python AMQP 0.9.1 asynchronous client library
 - [aio-libs/aiozmq](https://github.com/aio-libs/aiozmq) - Asyncio (pep 3156) integration with ZeroMQ
 - [aio-libs/aioredis-py](https://github.com/aio-libs/aioredis-py) - asyncio (PEP 3156) Redis support
-- [nats-io/nats.py](https://github.com/nats-io/nats.py) - Python3 client for NATS.io
+- [nats-io/nats.py](https://github.com/nats-io/nats.py) - Python3 client for NATS
 - [authorizon/fastapi_websocket_pubsub](https://github.com/authorizon/fastapi_websocket_pubsub) - A fast and durable Pub/Sub channel over Websockets. FastAPI + WebSockets + PubSub ==  ⚡ 💪 ❤️
 - [authorizon/fastapi_websocket_rpc](https://github.com/authorizon/fastapi_websocket_rpc) - ⚡ FASTAPI Websocket RPC- A fast and durable bidirectional JSON RPC channel over Websockets.
 - [nikitadurasov/masksembles](https://github.com/nikitadurasov/masksembles) - Official repository for the paper "Masksembles for Uncertainty Estimation" (CVPR2021).
@@ -3373,7 +3377,7 @@
 - [Qiskit/retworkx](https://github.com/Qiskit/retworkx) - A high performance Python graph library implemented in Rust.
 - [peerchemist/finta](https://github.com/peerchemist/finta) - Common financial technical indicators implemented in Pandas.
 - [twopirllc/pandas-ta](https://github.com/twopirllc/pandas-ta) - Technical Analysis Indicators - Pandas TA is an easy to use Python 3 Pandas Extension with 130+ Indicators
-- [enigmampc/catalyst](https://github.com/enigmampc/catalyst) - An Algorithmic Trading Library for Crypto-Assets in Python
+- [scrtlabs/catalyst](https://github.com/scrtlabs/catalyst) - An Algorithmic Trading Library for Crypto-Assets in Python
 - [alan-turing-institute/sktime](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series
 - [quodlibet/mutagen](https://github.com/quodlibet/mutagen) - Python module for handling audio metadata
 - [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) - dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
