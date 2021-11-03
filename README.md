@@ -1371,6 +1371,7 @@
 - [kkinder/templatemail](https://github.com/kkinder/templatemail) - Templated Email for Python
 - [suriyadeepan/SRM-NLP-Workshop-2019](https://github.com/suriyadeepan/SRM-NLP-Workshop-2019) - Code, Notes, Slides, Data
 - [seba-1511/dist_tuto.pth](https://github.com/seba-1511/dist_tuto.pth) - Official code for "Writing Distributed Applications with PyTorch", PyTorch Tutorial
+- [unit8co/vegans](https://github.com/unit8co/vegans) - A library providing various existing GANs in PyTorch.
 - [kmario23/deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle) - Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!
 - [yanfengliu/turkey](https://github.com/yanfengliu/turkey) - Easily create a web UI on Amazon Mechanical Turk to crowd-source instance segmentation data
 - [umpirsky/country-list](https://github.com/umpirsky/country-list) - :globe_with_meridians: List of all countries with names and ISO 3166-1 codes in all languages and data formats.
@@ -1960,7 +1961,6 @@
 - [graykode/nlp-tutorial](https://github.com/graykode/nlp-tutorial) - Natural Language Processing Tutorial for Deep Learning Researchers
 - [shaoanlu/AdamW-and-SGDW](https://github.com/shaoanlu/AdamW-and-SGDW) - keras implementation of AdamW from Fixing Weight Decay Regularization in Adam (https://arxiv.org/abs/1711.05101)
 - [fastai/course-v3](https://github.com/fastai/course-v3) - The 3rd edition of course.fast.ai
-- [unit8co/vegans](https://github.com/unit8co/vegans) - A library providing various existing GANs in PyTorch.
 - [faizankshaikh/kaggle_right_whale](https://github.com/faizankshaikh/kaggle_right_whale) - Project on Pattern Detection and Recognition using Deep Learning
 - [switchablenorms/DeepFashion2](https://github.com/switchablenorms/DeepFashion2) - DeepFashion2 Dataset https://arxiv.org/pdf/1901.07973.pdf
 - [shaoanlu/faceswap-GAN](https://github.com/shaoanlu/faceswap-GAN) - A denoising autoencoder + adversarial losses and attention mechanisms for face swapping.
@@ -6075,7 +6075,7 @@
 - [wal-e/wal-e](https://github.com/wal-e/wal-e) - Continuous Archiving for Postgres
 - [reddit-archive/reddit](https://github.com/reddit-archive/reddit) - historical code from reddit.com
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
-- [httpie/httpie](https://github.com/httpie/httpie) - 🥧 As easy as /aitch-tee-tee-pie/. Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
+- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [seatgeek/fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy String Matching in Python
 - [coala/coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
 - [rougier/numpy-tutorial](https://github.com/rougier/numpy-tutorial) - Numpy beginner tutorial
@@ -6215,6 +6215,7 @@
 
 ## Rust 
 
+- [facebookexperimental/eden](https://github.com/facebookexperimental/eden) - EdenSCM is a cross-platform, highly scalable source control management system.
 - [facebookincubator/below](https://github.com/facebookincubator/below) - A time traveling resource monitor for modern Linux systems
 - [KuiBaDB/KuiBaDB](https://github.com/KuiBaDB/KuiBaDB) - Another OLAP database
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust
