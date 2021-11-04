@@ -811,6 +811,7 @@
 
 ## Go 
 
+- [MangoDB-io/MangoDB](https://github.com/MangoDB-io/MangoDB) - A truly Open Source MongoDB alternative
 - [DiscoRiver/massh](https://github.com/DiscoRiver/massh) - Go package for running Linux distributed shell commands via SSH.
 - [aws/eks-anywhere](https://github.com/aws/eks-anywhere) - Run Amazon EKS on your own infrastructure 🚀
 - [coreos/go-systemd](https://github.com/coreos/go-systemd) - Go bindings to systemd socket activation, journal, D-Bus, and unit files
@@ -1292,6 +1293,7 @@
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite
 - [libp2p/go-libp2p-pubsub](https://github.com/libp2p/go-libp2p-pubsub) - The PubSub implementation for go-libp2p
 - [muesli/gitomatic](https://github.com/muesli/gitomatic) - A tool to monitor git repositories and automatically pull & push changes
+- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes
 - [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
 - [sql-machine-learning/sqlflow](https://github.com/sql-machine-learning/sqlflow) - Brings SQL and AI together.
 - [soundcloud/roshi](https://github.com/soundcloud/roshi) - Roshi is a large-scale CRDT set implementation for timestamped events.
@@ -1602,7 +1604,7 @@
 - [clio-lang/clio](https://github.com/clio-lang/clio) - Clio is a functional, parallel, distributed programming language.
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 - [jozsefsallai/insomnia-documenter](https://github.com/jozsefsallai/insomnia-documenter) - Tool to create minimalist and beautiful API documentation pages using your Insomnia workspace export file.
-- [knex/knex](https://github.com/knex/knex) - A query builder for PostgreSQL, MySQL, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
+- [knex/knex](https://github.com/knex/knex) - A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
 - [publicdomaincompany/scroll](https://github.com/publicdomaincompany/scroll) - The extensible alternative to Markdown.
 - [statsd/statsd](https://github.com/statsd/statsd) - Daemon for easy but powerful stats aggregation
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, and gRPC.
@@ -3602,7 +3604,7 @@
 - [deepjyoti30/ytmdl](https://github.com/deepjyoti30/ytmdl) - A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, Spotify, LastFM, Deezer, Gaana etc.
 - [nschloe/meshio](https://github.com/nschloe/meshio) - :spider_web: input/output for many mesh formats
 - [Kayzaks/HackingNeuralNetworks](https://github.com/Kayzaks/HackingNeuralNetworks) - A small course on exploiting and defending neural networks
-- [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) - The standard package for machine learning with noisy labels and finding mislabeled data. Works with most datasets and models.
+- [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) - The standard package for machine learning with noisy labels, finding mislabeled data, and uncertainty quantification. Works with most datasets and models.
 - [alegonz/baikal](https://github.com/alegonz/baikal) - A graph-based functional API for building complex scikit-learn pipelines.
 - [coleifer/huey](https://github.com/coleifer/huey) - a little task queue for python
 - [manatlan/guy](https://github.com/manatlan/guy) - Graphics User Ynterface : a simple module for making GUI applications (with html/js) for py3 ... to target windows, linux, mac & android
@@ -3710,7 +3712,6 @@
 - [joeynmt/joeynmt](https://github.com/joeynmt/joeynmt) - Minimalist NMT for educational purposes
 - [grapheneX/grapheneX](https://github.com/grapheneX/grapheneX) - Automated System Hardening Framework
 - [ethereum/lahja](https://github.com/ethereum/lahja) - Lahja is a generic multi process event bus implementation written in Python 3.6+ to enable lightweight inter-process communication, based on non-blocking asyncio
-- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes
 - [uber-research/EvoGrad](https://github.com/uber-research/EvoGrad) - 
 - [vipstone/faceai](https://github.com/vipstone/faceai) - 一款入门级的人脸、视频、文字检测以及识别的项目.
 - [zllrunning/video-object-removal](https://github.com/zllrunning/video-object-removal) - Just draw a bounding box and you can remove the object you want to remove.
