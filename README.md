@@ -222,7 +222,7 @@
 - [openai/retro](https://github.com/openai/retro) - Retro Games in Gym
 - [madhav-datt/spell-check](https://github.com/madhav-datt/spell-check) - :mortar_board: High-performance program to spell-check and auto-correct large documents
 - [explosion/lightnet](https://github.com/explosion/lightnet) - 🌓 Bringing pjreddie's DarkNet out of the shadows #yolo
-- [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
+- [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 - [addy-dclxvi/almighty-dotfiles](https://github.com/addy-dclxvi/almighty-dotfiles) - A dump repository of my dotfiles since the first time I learned ricing. So everything is really messy here.
 - [catboost/catboost](https://github.com/catboost/catboost) - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.
 - [twitter/twemproxy](https://github.com/twitter/twemproxy) - A fast, light-weight proxy for memcached and redis
@@ -886,12 +886,11 @@
 - [Clivern/Walrus](https://github.com/Clivern/Walrus) - 🔥 Fast, Secure and Reliable System Backup, Set up in Minutes.
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service and CLI
 - [weaveworks/eksctl](https://github.com/weaveworks/eksctl) - The official CLI for Amazon EKS
-- [HotPotatoC/kvstore](https://github.com/HotPotatoC/kvstore) - kvstore is an experimental in-memory database server with AOF data persistence support (Toy project)
+- [HotPotatoC/kvstore](https://github.com/HotPotatoC/kvstore) - kvstore is an experimental in-memory database server compatible with the redis protocol (RESP). (Toy project)
 - [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
 - [xyproto/algernon](https://github.com/xyproto/algernon) - :tophat: Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support
 - [vulcand/oxy](https://github.com/vulcand/oxy) - Go middlewares for HTTP servers & proxies
 - [sony/gobreaker](https://github.com/sony/gobreaker) - Circuit Breaker implemented in Go
-- [golang/vulndb](https://github.com/golang/vulndb) - [mirror] The Go Vulnerability Database
 - [knadh/sql-jobber](https://github.com/knadh/sql-jobber) - A highly opinionated, distributed job-queue built specifically for queuing and executing heavy SQL read jobs asynchronously. Supports MySQL, Postgres, ClickHouse.
 - [treeverse/lakeFS](https://github.com/treeverse/lakeFS) - Git-like capabilities for your object storage
 - [teh-cmc/go-internals](https://github.com/teh-cmc/go-internals) - A book about the internals of the Go programming language.
@@ -1638,7 +1637,7 @@
 - [open-webrtc-toolkit/owt-server](https://github.com/open-webrtc-toolkit/owt-server) - General server (streaming/conference/transcoding/anayltics) for OWT. (A.k.a. MediaServer)
 - [tedconf/fessonia](https://github.com/tedconf/fessonia) - A node module easing the burden of automating FFmpeg from Node.js
 - [timhutton/GravityIsNotAForce](https://github.com/timhutton/GravityIsNotAForce) - Visualising the spacetime geodesics of general relativity
-- [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 The open-source alternative to Twilio.
+- [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 The open-source alternative to Twilio
 - [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
 - [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [blenderskool/untab](https://github.com/blenderskool/untab) - 🔍 A productivity tool to boost your browser workflow!
@@ -1923,6 +1922,7 @@
 - [Ranlot/single-parameter-fit](https://github.com/Ranlot/single-parameter-fit) - Real numbers, data science and chaos: How to fit any dataset with a single parameter
 - [EmilienDupont/neural-processes](https://github.com/EmilienDupont/neural-processes) - Pytorch implementation of Neural Processes for functions and images :fireworks:
 - [limingcv/Photorealistic-Style-Transfer](https://github.com/limingcv/Photorealistic-Style-Transfer) - High-Resolution Network for Photorealistic Style Transfer
+- [NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - Deep Learning Examples
 - [mosheman5/DNP](https://github.com/mosheman5/DNP) - Audio Denoising with Deep Network Priors
 - [mathLab/PyDMD](https://github.com/mathLab/PyDMD) - Python Dynamic Mode Decomposition
 - [google/neural-tangents](https://github.com/google/neural-tangents) - Fast and Easy Infinite Neural Networks in Python
@@ -2080,7 +2080,7 @@
 - [pukkapies/dl-imperial-maths](https://github.com/pukkapies/dl-imperial-maths) - Code and assignment repository for the Imperial College Mathematics department Deep Learning course
 - [jonasz/progressive_infogan](https://github.com/jonasz/progressive_infogan) - Progressive training of GANs with Mutual Information Penalty
 - [last-one/Pytorch_Realtime_Multi-Person_Pose_Estimation](https://github.com/last-one/Pytorch_Realtime_Multi-Person_Pose_Estimation) - Pytorch version of Realtime Multi-Person Pose Estimation project
-- [YuliangXiu/MobilePose-pytorch](https://github.com/YuliangXiu/MobilePose-pytorch) - Light-weight Single Person Pose Estimator
+- [YuliangXiu/MobilePose](https://github.com/YuliangXiu/MobilePose) - Light-weight Single Person Pose Estimator
 - [ToniCreswell/attribute-cVAEGAN](https://github.com/ToniCreswell/attribute-cVAEGAN) - Conditional Autoencoders with Adversarial Information Factorization
 - [aishoot/LSTM_PIT_Speech_Separation](https://github.com/aishoot/LSTM_PIT_Speech_Separation) - Two-talker Speech Separation with LSTM/BLSTM by Permutation Invariant Training method.
 - [hutec/UncertaintyNN](https://github.com/hutec/UncertaintyNN) - Implementation and evaluation of different approaches to get uncertainty in neural networks
@@ -2511,6 +2511,7 @@
 
 ## Others 
 
+- [natethinks/jog](https://github.com/natethinks/jog) - Simple script to print the last 10 commands you ran in the current directory
 - [styfeng/DataAug4NLP](https://github.com/styfeng/DataAug4NLP) - Collection of papers and resources for data augmentation for NLP.
 - [wuchong/awesome-flink](https://github.com/wuchong/awesome-flink) - 😎  A curated list of amazingly awesome Flink and Flink ecosystem resources
 - [cs-books/influential-cs-books](https://github.com/cs-books/influential-cs-books) - Most influential books on Computer Science/programming
@@ -3420,6 +3421,7 @@
 - [novnc/websockify](https://github.com/novnc/websockify) - Websockify is a WebSocket to TCP proxy/bridge. This allows a browser to connect  to any application/server/service.
 - [kororo/excelcy](https://github.com/kororo/excelcy) - Excel Integration with spaCy. Training NER using Excel/XLSX from PDF, DOCX, PPT, PNG or JPG.
 - [Vin-itall/CloudArcade](https://github.com/Vin-itall/CloudArcade) - CloudArcade Let's You Play Retro Games On  A Web Browser.
+- [PAIR-code/lit](https://github.com/PAIR-code/lit) - The Language Interpretability Tool: Interactively analyze NLP models for model understanding in an extensible and framework agnostic interface.
 - [google/pygtrie](https://github.com/google/pygtrie) - Python library implementing a trie data structure.
 - [TensorSpeech/TensorFlowTTS](https://github.com/TensorSpeech/TensorFlowTTS) - :stuck_out_tongue_closed_eyes: TensorFlowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2 (supported including English, French, Korean, Chinese, German and Easy to adapt for other languages)
 - [jonasrauber/eagerpy](https://github.com/jonasrauber/eagerpy) - PyTorch, TensorFlow, JAX and NumPy — all of them natively using the same code
@@ -3904,7 +3906,6 @@
 - [r9y9/wavenet_vocoder](https://github.com/r9y9/wavenet_vocoder) - WaveNet vocoder
 - [goldsborough/ig](https://github.com/goldsborough/ig) - :fireworks: Include graph visualization for C++
 - [tengteng95/Pose-Transfer](https://github.com/tengteng95/Pose-Transfer) - Code for the paper Progressive Pose Attention for Person Image Generation in CVPR19 (Oral).
-- [NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - Deep Learning Examples
 - [switchablenorms/CelebAMask-HQ](https://github.com/switchablenorms/CelebAMask-HQ) - A large-scale face dataset for face parsing, recognition, generation and editing.
 - [dephell/dephell](https://github.com/dephell/dephell) - :package: :fire: Python project management. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump version.
 - [socialpoint-labs/sheetfu](https://github.com/socialpoint-labs/sheetfu) - Python library to interact with Google Sheets V4 API
@@ -5457,7 +5458,7 @@
 - [kaushalshetty/Structured-Self-Attention](https://github.com/kaushalshetty/Structured-Self-Attention) - A Structured Self-attentive Sentence Embedding
 - [awesome-davian/Text2Colors](https://github.com/awesome-davian/Text2Colors) - Code for "Coloring with Words: Guiding Image Colorization through Text-based Palette Generation" - ECCV 2018
 - [google/pytype](https://github.com/google/pytype) - A static type analyzer for Python code
-- [PaddlePaddle/DeepSpeech](https://github.com/PaddlePaddle/DeepSpeech) - A Speech Toolkit based on PaddlePaddle.
+- [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - A Speech Toolkit based on PaddlePaddle.
 - [OlegYurchik/pyInstagram](https://github.com/OlegYurchik/pyInstagram) - This is a simple and easy-to-use library for interacting with the Instagram. The library works through the web interface of the Instagram and does not depend on the official API
 - [cs1707/tldr-alfred](https://github.com/cs1707/tldr-alfred) - tldr alfred workflow
 - [MLBazaar/BTB](https://github.com/MLBazaar/BTB) - A simple, extensible library for developing AutoML systems
@@ -6541,6 +6542,7 @@
 ## Shell 
 
 - [pyenv/pyenv-installer](https://github.com/pyenv/pyenv-installer) - This tool is used to install `pyenv` and friends.
+- [golang/vulndb](https://github.com/golang/vulndb) - [mirror] The Go Vulnerability Database
 - [Dhghomon/easy_rust](https://github.com/Dhghomon/easy_rust) - Rust explained using easy English
 - [stellar/docker-stellar-core-horizon](https://github.com/stellar/docker-stellar-core-horizon) - Home of the stellar/quickstart docker image
 - [apple/tensorflow_macos](https://github.com/apple/tensorflow_macos) - TensorFlow for macOS 11.0+ accelerated using Apple's ML Compute framework.
@@ -6674,7 +6676,6 @@
 - [arwes/arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework
 - [colyseus/colyseus](https://github.com/colyseus/colyseus) - ⚔ Multiplayer Framework for Node.js
 - [graphile/postgraphile](https://github.com/graphile/postgraphile) - Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database!
-- [PAIR-code/lit](https://github.com/PAIR-code/lit) - The Language Interpretability Tool: Interactively analyze NLP models for model understanding in an extensible and framework agnostic interface.
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [github/stable-socket](https://github.com/github/stable-socket) - A web socket that reconnects.
 - [Novage/p2p-media-loader](https://github.com/Novage/p2p-media-loader) - An open-source engine for P2P streaming of live and on demand video directly in a web browser HTML page
@@ -6694,7 +6695,7 @@
 - [APIs-guru/graphql-voyager](https://github.com/APIs-guru/graphql-voyager) - 🛰️ Represent any GraphQL API as an interactive graph
 - [jupyterlab/debugger](https://github.com/jupyterlab/debugger) - A visual debugger for Jupyter notebooks, consoles, and source files
 - [Axosoft/vscode-gitlens](https://github.com/Axosoft/vscode-gitlens) - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics that you can self host.
+- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics that you can self-host.
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
 - [bloomrpc/bloomrpc](https://github.com/bloomrpc/bloomrpc) - GUI Client for GRPC Services
