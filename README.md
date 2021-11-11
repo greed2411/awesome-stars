@@ -222,7 +222,7 @@
 - [openai/retro](https://github.com/openai/retro) - Retro Games in Gym
 - [madhav-datt/spell-check](https://github.com/madhav-datt/spell-check) - :mortar_board: High-performance program to spell-check and auto-correct large documents
 - [explosion/lightnet](https://github.com/explosion/lightnet) - 🌓 Bringing pjreddie's DarkNet out of the shadows #yolo
-- [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
+- [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 - [addy-dclxvi/almighty-dotfiles](https://github.com/addy-dclxvi/almighty-dotfiles) - A dump repository of my dotfiles since the first time I learned ricing. So everything is really messy here.
 - [catboost/catboost](https://github.com/catboost/catboost) - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.
 - [twitter/twemproxy](https://github.com/twitter/twemproxy) - A fast, light-weight proxy for memcached and redis
@@ -836,7 +836,7 @@
 - [bchadwic/gh-graph](https://github.com/bchadwic/gh-graph) - An extension for the GitHub Cli application that displays your current contribution graph
 - [platoneko/tinykv](https://github.com/platoneko/tinykv) - Talent Plan 2.0
 - [lesismal/arpc](https://github.com/lesismal/arpc) - More effective network communication, two-way calling, notify and broadcast supported.
-- [lesismal/nbio](https://github.com/lesismal/nbio) - Pure Go 1000k+ connections solution, with high-performance and low memory cost, non-blocking, event-driven, easy-to-use, support tls/http1.x/websocket.
+- [lesismal/nbio](https://github.com/lesismal/nbio) - Pure Go 1000k+ connections solution, support tls/http1.x/websocket and basically compatible with net/http, with high-performance and low memory cost, non-blocking, event-driven, easy-to-use.
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 - [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie.
 - [boltdb/bolt](https://github.com/boltdb/bolt) - An embedded key/value database for Go.
@@ -1845,6 +1845,7 @@
 
 ## Jupyter Notebook 
 
+- [aashrafh/Mozart](https://github.com/aashrafh/Mozart) - An optical music recognition (OMR) system. Converts sheet music to a machine-readable version.
 - [mchong6/GANsNRoses](https://github.com/mchong6/GANsNRoses) - Official PyTorch repo for GAN's N' Roses. Diverse im2im and vid2vid selfie to anime translation.
 - [mchong6/SOAT](https://github.com/mchong6/SOAT) - Official PyTorch repo for StyleGAN of All Trades: Image Manipulation with Only Pretrained StyleGAN.
 - [oracle/macest](https://github.com/oracle/macest) - Model Agnostic Confidence Estimator (MACEST) - A Python library for calibrating Machine Learning models' confidence scores
@@ -2511,6 +2512,7 @@
 
 ## Others 
 
+- [ulid/spec](https://github.com/ulid/spec) - The canonical spec for ulid
 - [natethinks/jog](https://github.com/natethinks/jog) - Simple script to print the last 10 commands you ran in the current directory
 - [styfeng/DataAug4NLP](https://github.com/styfeng/DataAug4NLP) - Collection of papers and resources for data augmentation for NLP.
 - [wuchong/awesome-flink](https://github.com/wuchong/awesome-flink) - 😎  A curated list of amazingly awesome Flink and Flink ecosystem resources
@@ -3110,12 +3112,13 @@
 
 ## Python 
 
+- [fugue-project/fugue](https://github.com/fugue-project/fugue) - A unified interface for distributed computing. Fugue executes SQL, Python, and Pandas code on Spark and Dask without any rewrites.
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
 - [boltgolt/howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux
 - [antofuller/configaformers](https://github.com/antofuller/configaformers) - A python library for highly configurable transformers - easing model architecture search and experimentation.
 - [MrS0m30n3/youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
 - [lucidrains/big-sleep](https://github.com/lucidrains/big-sleep) - A simple command line tool for text to image generation, using OpenAI's CLIP and a BigGAN. Technique was originally created by https://twitter.com/advadnoun
-- [Tencent/PatrickStar](https://github.com/Tencent/PatrickStar) - PatrickStar enables Larger, Faster, Greener Pretrained Models for NLP. Democratize AI for everyone.
+- [Tencent/PatrickStar](https://github.com/Tencent/PatrickStar) - PatrickStar enables Larger, Faster, Greener Pretrained Models for NLP and democratizes AI for everyone.
 - [facebookresearch/xformers](https://github.com/facebookresearch/xformers) - Hackable and optimized Transformers building blocks, supporting a composable construction.
 - [Mayukhdeb/torch-dreams](https://github.com/Mayukhdeb/torch-dreams) - Making neural networks more interpretable, for research and art :mag_right: :computer: :brain: :art:
 - [yoshitomo-matsubara/torchdistill](https://github.com/yoshitomo-matsubara/torchdistill) - A coding-free framework built on PyTorch for reproducible deep learning studies. 🏆20 knowledge distillation methods presented at CVPR, ICLR, ECCV, NeurIPS, ICCV, etc are implemented so far. 🎁 Trained models, training logs and configurations are available for ensuring the reproducibiliy and benchmark.
@@ -3593,7 +3596,7 @@
 - [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life data science projects with ease!
 - [MMcintire96/python_TinderAPI](https://github.com/MMcintire96/python_TinderAPI) - Tinder API 2019 - Python bindings
 - [dropbox/hydra](https://github.com/dropbox/hydra) - A multi-process MongoDB collection copier.
-- [facebookresearch/demucs](https://github.com/facebookresearch/demucs) - Code for the paper Music Source Separation in the Waveform Domain
+- [facebookresearch/demucs](https://github.com/facebookresearch/demucs) - Code for the paper Hybrid Spectrogram and Waveform Source Separation
 - [google-research/augmix](https://github.com/google-research/augmix) - AugMix: A Simple Data Processing Method to Improve Robustness and Uncertainty
 - [google/trax](https://github.com/google/trax) - Trax — Deep Learning with Clear Code and Speed
 - [joerick/pyinstrument](https://github.com/joerick/pyinstrument) - 🚴 Call stack profiler for Python. Shows you why your code is slow!
@@ -6224,6 +6227,7 @@
 
 ## Rust 
 
+- [dylanhart/ulid-rs](https://github.com/dylanhart/ulid-rs) - This is a Rust implementation of the ulid project
 - [facebookexperimental/eden](https://github.com/facebookexperimental/eden) - EdenSCM is a cross-platform, highly scalable source control management system.
 - [facebookincubator/below](https://github.com/facebookincubator/below) - A time traveling resource monitor for modern Linux systems
 - [KuiBaDB/KuiBaDB](https://github.com/KuiBaDB/KuiBaDB) - Another OLAP database
@@ -6753,7 +6757,7 @@
 
 ## Vue 
 
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire: :fire: :fire: Open Source Airtable Alternative - powered by Vue.js :heart:
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire: Open Source Airtable Alternative
 - [HotPotatoC/twitter-clone](https://github.com/HotPotatoC/twitter-clone) - 🕊 Twitter Clone developed using Go + Vue 3 + Vite + TailwindCSS + PostgreSQL + Redis
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem https://hoppscotch.io
 - [Requarks/wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
