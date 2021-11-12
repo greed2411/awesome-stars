@@ -399,6 +399,7 @@
 - [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
 - [xbpeng/DeepMimic](https://github.com/xbpeng/DeepMimic) - Motion imitation with deep reinforcement learning.
 - [facebookincubator/oomd](https://github.com/facebookincubator/oomd) - A userspace out-of-memory killer
+- [tensorflow/text](https://github.com/tensorflow/text) - Making text a first-class citizen in TensorFlow.
 - [jinfagang/hdl_graph_slam](https://github.com/jinfagang/hdl_graph_slam) - Graph slam using lidar
 - [google/zetasql](https://github.com/google/zetasql) - ZetaSQL - Analyzer Framework for SQL
 - [KlugerLab/FIt-SNE](https://github.com/KlugerLab/FIt-SNE) - Fast Fourier Transform-accelerated Interpolation-based  t-SNE (FIt-SNE)
@@ -811,6 +812,7 @@
 
 ## Go 
 
+- [mr-karan/nomad-events-sink](https://github.com/mr-karan/nomad-events-sink) - An events collection agent which processes Nomad Events and dumps to external sink providers like HTTP
 - [MangoDB-io/MangoDB](https://github.com/MangoDB-io/MangoDB) - A truly Open Source MongoDB alternative
 - [DiscoRiver/massh](https://github.com/DiscoRiver/massh) - Go package for running Linux distributed shell commands via SSH.
 - [aws/eks-anywhere](https://github.com/aws/eks-anywhere) - Run Amazon EKS on your own infrastructure 🚀
@@ -1188,7 +1190,7 @@
 - [nlpodyssey/spago](https://github.com/nlpodyssey/spago) - Self-contained Machine Learning and Natural Language Processing library in Go
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
 - [yahoo/vssh](https://github.com/yahoo/vssh) - Go Library to Execute Commands Over SSH at Scale
-- [asim/go-micro](https://github.com/asim/go-micro) - A Go framework for distributed systems development
+- [asim/go-micro](https://github.com/asim/go-micro) - A pluggable Go framework for distributed systems development
 - [danaugrs/go-tsne](https://github.com/danaugrs/go-tsne) - t-Distributed Stochastic Neighbor Embedding (t-SNE) in Go
 - [goplus/gop](https://github.com/goplus/gop) - GoPlus - The Go+ language for engineering, STEM education, and data science
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
@@ -2181,6 +2183,7 @@
 - [ternaus/robot-surgery-segmentation](https://github.com/ternaus/robot-surgery-segmentation) - Wining solution and its improvement for MICCAI 2017 Robotic Instrument Segmentation Sub-Challenge
 - [pandeykartikey/Hierarchical-Attention-Network](https://github.com/pandeykartikey/Hierarchical-Attention-Network) - Implementation of Hierarchical Attention Networks in PyTorch
 - [jacobkimmel/pytorch_modelsize](https://github.com/jacobkimmel/pytorch_modelsize) - Estimates the size of a PyTorch model in memory
+- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - A library for answering questions using data you cannot see
 - [ahirner/pytorch-retraining](https://github.com/ahirner/pytorch-retraining) - Transfer Learning Shootout for PyTorch's model zoo (torchvision)
 - [LMescheder/GAN_stability](https://github.com/LMescheder/GAN_stability) - Code for paper "Which Training Methods for GANs do actually Converge? (ICML 2018)"
 - [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Python sample codes for robotics algorithms.
@@ -2704,7 +2707,7 @@
 - [gkiril/oie-resources](https://github.com/gkiril/oie-resources) - A curated list of Open Information Extraction (OIE) resources: papers, code, data, etc.
 - [sger/RustBooks](https://github.com/sger/RustBooks) - List of Rust books
 - [brunohenrique/DistributedSystems](https://github.com/brunohenrique/DistributedSystems) - My Distributed Systems references
-- [laynH/Anime-Girls-Holding-Programming-Books](https://github.com/laynH/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
+- [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
 - [ericsnowcurrently/multi-core-python](https://github.com/ericsnowcurrently/multi-core-python) - Enabling CPython multi-core parallelism via subinterpreters.
 - [Gabriel439/post-rfc](https://github.com/Gabriel439/post-rfc) - Blog post previews in need of peer review
 - [JiayongO-O/3D_DepthFusion](https://github.com/JiayongO-O/3D_DepthFusion) - This is the collection of 3D reconstruction and depth fusion methods
@@ -3112,6 +3115,7 @@
 
 ## Python 
 
+- [google-research/ibc](https://github.com/google-research/ibc) - 
 - [fugue-project/fugue](https://github.com/fugue-project/fugue) - A unified interface for distributed computing. Fugue executes SQL, Python, and Pandas code on Spark and Dask without any rewrites.
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
 - [boltgolt/howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux
@@ -3457,7 +3461,7 @@
 - [egehatirnaz/auto-zoom-meetings](https://github.com/egehatirnaz/auto-zoom-meetings) - This project is written in response to the Covid-19 crisis and the decisions made by Bilkent University regarding the continuity of education ensured by online classroom meetings from Zoom application. The script will automatically join any meeting with a provided Zoom ID.
 - [BigchillRK/Zoom-Meeting-and-Recording](https://github.com/BigchillRK/Zoom-Meeting-and-Recording) - The python scripts lets you join and record a zoom meeting automatically (this is my first project, any feedback and help is appreciated)
 - [prschmid/zoomus](https://github.com/prschmid/zoomus) - Python client library for the Zoom.us REST API v1 and v2
-- [QData/TextAttack](https://github.com/QData/TextAttack) - TextAttack 🐙  is a Python framework for adversarial attacks, data augmentation, and model training in NLP https://textattack.readthedocs.io/en/latest/
+- [QData/TextAttack](https://github.com/QData/TextAttack) - TextAttack 🐙  is a Python framework for adversarial attacks, data augmentation, and model training in NLP https://textattack.readthedocs.io/en/master/
 - [schenkd/nginx-ui](https://github.com/schenkd/nginx-ui) - Nginx UI allows you to access and modify the nginx configurations files without cli.
 - [ubuntu/microk8s](https://github.com/ubuntu/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge.
 - [alexmojaki/instant_api](https://github.com/alexmojaki/instant_api) - Instantly create an HTTP API with automatic type conversions, JSON RPC, and a Swagger UI. Just add methods!
@@ -3780,7 +3784,6 @@
 - [googlemaps/google-maps-services-python](https://github.com/googlemaps/google-maps-services-python) - Python client library for Google Maps API Web Services
 - [pytorch/hub](https://github.com/pytorch/hub) - Submission to https://pytorch.org/hub/
 - [realsirjoe/instagram-scraper](https://github.com/realsirjoe/instagram-scraper) - scrapes medias, likes, followers, tags and all metadata. Inspired by instagram-php-scraper,bot
-- [tensorflow/text](https://github.com/tensorflow/text) - Making text a first-class citizen in TensorFlow.
 - [dry-python/returns](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe!
 - [Netflix/flamescope](https://github.com/Netflix/flamescope) - FlameScope is a visualization tool for exploring different time ranges as Flame Graphs.
 - [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
@@ -5240,7 +5243,6 @@
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [harvardnlp/var-attn](https://github.com/harvardnlp/var-attn) - Latent Alignment and Variational Attention
 - [wiseodd/generative-models](https://github.com/wiseodd/generative-models) - Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow.
-- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - A library for answering questions using data you cannot see
 - [mozilla/agithub](https://github.com/mozilla/agithub) - Agnostic Github client API -- An EDSL for connecting to REST servers
 - [jmtomczak/vae_vpflows](https://github.com/jmtomczak/vae_vpflows) - Code in PyTorch for the convex combination linear IAF and the Householder Flow, J.M. Tomczak & M. Welling
 - [pytorch/contrib](https://github.com/pytorch/contrib) - Implementations of ideas from recent papers
@@ -6461,7 +6463,7 @@
 - [actix/actix](https://github.com/actix/actix) - Actor framework for Rust.
 - [Aloxaf/silicon](https://github.com/Aloxaf/silicon) - Create beautiful image of your source code.
 - [JasonShin/fp-core.rs](https://github.com/JasonShin/fp-core.rs) - A library for functional programming in Rust
-- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) - Build high performance observability data pipelines.
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [async-rs/async-log](https://github.com/async-rs/async-log) - Async tracing capabilities for the log crate
 - [Geal/nom](https://github.com/Geal/nom) - Rust parser combinator framework
@@ -6757,7 +6759,7 @@
 
 ## Vue 
 
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire: Open Source Airtable Alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire: :fire: :fire: Open Source Airtable Alternative
 - [HotPotatoC/twitter-clone](https://github.com/HotPotatoC/twitter-clone) - 🕊 Twitter Clone developed using Go + Vue 3 + Vite + TailwindCSS + PostgreSQL + Redis
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem https://hoppscotch.io
 - [Requarks/wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
@@ -6768,6 +6770,7 @@
 
 ## Zig 
 
+- [Jarred-Sumner/hop](https://github.com/Jarred-Sumner/hop) - 
 - [hexops/fastfilter](https://github.com/hexops/fastfilter) - xorfilter: Binary fuse & xor filters for Zig (faster and smaller than bloom filters)
 - [MasterQ32/asciitable](https://github.com/MasterQ32/asciitable) - A very basic tool that just prints the ascii table
 - [lithdew/rheia](https://github.com/lithdew/rheia) - A blockchain written in Zig.
