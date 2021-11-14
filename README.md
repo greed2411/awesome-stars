@@ -265,6 +265,7 @@
 
 ## C++ 
 
+- [lewissbaker/cppcoro](https://github.com/lewissbaker/cppcoro) - A library of C++ coroutine abstractions for the coroutines TS
 - [flink-extended/flink-ai-extended](https://github.com/flink-extended/flink-ai-extended) - 
 - [google/language-resources](https://github.com/google/language-resources) - Datasets and tools for basic natural language processing.
 - [openai/triton](https://github.com/openai/triton) - Development repository for the Triton language and compiler
@@ -812,6 +813,7 @@
 
 ## Go 
 
+- [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang.
 - [skit-ai/trail](https://github.com/skit-ai/trail) - CLI to run your dataframes against SLU service and generated labeled dataframe.
 - [mr-karan/nomad-events-sink](https://github.com/mr-karan/nomad-events-sink) - An events collection agent which processes Nomad Events and dumps to external sink providers like HTTP
 - [MangoDB-io/MangoDB](https://github.com/MangoDB-io/MangoDB) - A truly Open Source MongoDB alternative
@@ -6551,6 +6553,7 @@
 
 ## Shell 
 
+- [hexive/sunpaper](https://github.com/hexive/sunpaper) - Dynamic wallpaper changes based on the sun.
 - [pyenv/pyenv-installer](https://github.com/pyenv/pyenv-installer) - This tool is used to install `pyenv` and friends.
 - [golang/vulndb](https://github.com/golang/vulndb) - [mirror] The Go Vulnerability Database
 - [Dhghomon/easy_rust](https://github.com/Dhghomon/easy_rust) - Rust explained using easy English
