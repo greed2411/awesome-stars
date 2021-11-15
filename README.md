@@ -3120,6 +3120,8 @@
 
 ## Python 
 
+- [koaning/doubtlab](https://github.com/koaning/doubtlab) - Doubt your data, find bad labels.
+- [mvrozanti/dte](https://github.com/mvrozanti/dte) - 🕟 date and time processing language
 - [skit-ai/sentinel](https://github.com/skit-ai/sentinel) - Skit's call monitoring and filtering framework.
 - [google-research/ibc](https://github.com/google-research/ibc) - Official implementation of Implicit Behavioral Cloning, as described in our CoRL 2021 paper, see more at https://implicitbc.github.io/
 - [fugue-project/fugue](https://github.com/fugue-project/fugue) - A unified interface for distributed computing. Fugue executes SQL, Python, and Pandas code on Spark and Dask without any rewrites.
@@ -6427,7 +6429,7 @@
 - [antoyo/relm](https://github.com/antoyo/relm) - Idiomatic, GTK+-based, GUI library, inspired by Elm, written in Rust
 - [constellation-rs/constellation](https://github.com/constellation-rs/constellation) - Distributed programming for Rust.
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
-- [a-b-street/abstreet](https://github.com/a-b-street/abstreet) - A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.
+- [a-b-street/abstreet](https://github.com/a-b-street/abstreet) - Transportation planning and traffic simulation software for creating cities friendlier to walking, biking, and public transit
 - [bastion-rs/artillery](https://github.com/bastion-rs/artillery) - Fire-forged cluster management & Distributed data protocol
 - [tailhook/vagga](https://github.com/tailhook/vagga) - Vagga is a containerization tool without daemons
 - [redox-os/orbtk](https://github.com/redox-os/orbtk) - The Rust UI-Toolkit.
