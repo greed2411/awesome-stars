@@ -54,7 +54,6 @@
   - [Others](#others)
   - [PHP](#php)
   - [PLpgSQL](#plpgsql)
-  - [POV-Ray SDL](#pov-ray-sdl)
   - [Perl](#perl)
   - [Pony](#pony)
   - [PostScript](#postscript)
@@ -566,6 +565,7 @@
 - [microsoft/LightGBM](https://github.com/microsoft/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
 - [microsoft/CNTK](https://github.com/microsoft/CNTK) - Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit
 - [NVIDIA/DALI](https://github.com/NVIDIA/DALI) - A GPU-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications.
+- [projectchrono/chrono](https://github.com/projectchrono/chrono) - C++ library for multi-physics simulation
 - [amazon-archives/amazon-dsstne](https://github.com/amazon-archives/amazon-dsstne) - Deep Scalable Sparse Tensor Network Engine (DSSTNE) is an Amazon developed library for building Deep Learning (DL) machine learning (ML) models
 - [nickgillian/grt](https://github.com/nickgillian/grt) - gesture recognition toolkit
 - [longcw/RoIAlign.pytorch](https://github.com/longcw/RoIAlign.pytorch) - RoIAlign & crop_and_resize for PyTorch
@@ -916,7 +916,7 @@
 - [storj/storj](https://github.com/storj/storj) - Ongoing Storj v3 development. Decentralized cloud object storage that is affordable, easy to use, private, and secure.
 - [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
 - [vugu/vugu](https://github.com/vugu/vugu) - Vugu: A modern UI library for Go+WebAssembly (experimental)
-- [drone/drone](https://github.com/drone/drone) - Drone is a Container-Native, Continuous Delivery Platform
+- [harness/drone](https://github.com/harness/drone) - Drone is a Container-Native, Continuous Delivery Platform
 - [ericlagergren/go-coreutils](https://github.com/ericlagergren/go-coreutils) - A cross-platform port of GNU's coreutils to Go
 - [birchb1024/frangipanni](https://github.com/birchb1024/frangipanni) - Program to convert lines of text into a tree structure.
 - [poonai/diffrential_privacy](https://github.com/poonai/diffrential_privacy) - Apple's count-min-sketch algorithm for diffrential privacy
@@ -1154,7 +1154,7 @@
 - [rhu1/fgg](https://github.com/rhu1/fgg) - Mini prototype of FG/FGG/FGR in Go.
 - [syndtr/goleveldb](https://github.com/syndtr/goleveldb) - LevelDB key/value database in Go.
 - [lyft/clutch](https://github.com/lyft/clutch) - Extensible platform for infrastructure management
-- [zgoat/goatcounter](https://github.com/zgoat/goatcounter) - Easy web analytics. No tracking of personal data.
+- [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data.
 - [justone/dockviz](https://github.com/justone/dockviz) - Visualizing Docker data
 - [umputun/remark42](https://github.com/umputun/remark42) - comment engine
 - [go-ozzo/ozzo-validation](https://github.com/go-ozzo/ozzo-validation) - An idiomatic Go (golang) validation package. Supports configurable and extensible validation rules (validators) using normal language constructs instead of error-prone struct tags.
@@ -3088,10 +3088,6 @@
 
 - [zombodb/zombodb](https://github.com/zombodb/zombodb) - Making Postgres and Elasticsearch work together like it's 2021
 
-## POV-Ray SDL 
-
-- [projectchrono/chrono](https://github.com/projectchrono/chrono) - C++ library for multi-physics simulation
-
 ## Perl 
 
 - [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer
@@ -3120,6 +3116,7 @@
 
 ## Python 
 
+- [microsoft/torchgeo](https://github.com/microsoft/torchgeo) - TorchGeo: datasets, transforms, and models for geospatial data
 - [koaning/doubtlab](https://github.com/koaning/doubtlab) - Doubt your data, find bad labels.
 - [mvrozanti/dte](https://github.com/mvrozanti/dte) - 🕟 date and time processing language
 - [skit-ai/sentinel](https://github.com/skit-ai/sentinel) - Skit's call monitoring and filtering framework.
@@ -4129,7 +4126,7 @@
 - [linjx-ustc1106/DosGAN-PyTorch](https://github.com/linjx-ustc1106/DosGAN-PyTorch) - PyTorch Implementation of "Exploring Explicit Domain Supervision for Latent Space Disentanglement in Unpaired Image-to-Image Translation"
 - [grey-area/modular-loss-experiments](https://github.com/grey-area/modular-loss-experiments) - Repository for code associated with modular loss paper
 - [vanangamudi/tamil-lm2](https://github.com/vanangamudi/tamil-lm2) - language model for tamil
-- [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Ludwig is a toolbox that allows to train and evaluate deep learning models without the need to write code.
+- [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Data-centric declarative deep learning framework
 - [justusschock/shapenet](https://github.com/justusschock/shapenet) - PyTorch implementation of "Super-Realtime Facial Landmark Detection and Shape Fitting by Deep Regression of Shape Model Parameters" predicting facial landmarks with up to 400 FPS
 - [ruotianluo/zsl-gcn-pth](https://github.com/ruotianluo/zsl-gcn-pth) - zero-shot-gcn in pytorch
 - [neulab/compare-mt](https://github.com/neulab/compare-mt) - A tool for holistic analysis of language generations systems
