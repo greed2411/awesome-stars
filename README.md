@@ -264,6 +264,7 @@
 
 ## C++ 
 
+- [couchbase/phosphor](https://github.com/couchbase/phosphor) - High performance event tracing
 - [lewissbaker/cppcoro](https://github.com/lewissbaker/cppcoro) - A library of C++ coroutine abstractions for the coroutines TS
 - [flink-extended/flink-ai-extended](https://github.com/flink-extended/flink-ai-extended) - 
 - [google/language-resources](https://github.com/google/language-resources) - Datasets and tools for basic natural language processing.
@@ -812,6 +813,9 @@
 
 ## Go 
 
+- [goinggo/work](https://github.com/goinggo/work) - Implements a dynamic work pool of goroutines to perform tasks.
+- [gocassa/gocassa](https://github.com/gocassa/gocassa) - A high level Cassandra library in Go, on top of gocql
+- [mmcgrana/gobyexample](https://github.com/mmcgrana/gobyexample) - Go by Example
 - [Jeffail/gabs](https://github.com/Jeffail/gabs) - For parsing, creating and editing unknown or dynamic JSON in Go
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang.
 - [skit-ai/trail](https://github.com/skit-ai/trail) - CLI to run your dataframes against SLU service and generated labeled dataframe.
@@ -1596,7 +1600,7 @@
 
 ## JavaScript 
 
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low-code platform and the easiest way to build beautiful business apps  🚀
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀
 - [foreversd/forever](https://github.com/foreversd/forever) - A simple CLI tool for ensuring that a given script runs continuously (i.e. forever)
 - [skit-ai/dagre-py](https://github.com/skit-ai/dagre-py) - Thin python wrapper around dagre-d3
 - [laxyapahuja/bunken](https://github.com/laxyapahuja/bunken) - A chrome extension to download ebooks directly from Goodreads.
@@ -3229,7 +3233,7 @@
 - [oap-project/raydp](https://github.com/oap-project/raydp) - RayDP: Distributed data processing library that provides simple APIs for running Spark on Ray and integrating Spark with distributed deep learning and machine learning frameworks.
 - [awslabs/python-deequ](https://github.com/awslabs/python-deequ) - Python API for Deequ
 - [PyTorchLightning/lightning-transformers](https://github.com/PyTorchLightning/lightning-transformers) - Flexible interface for high-performance research using SOTA Transformers leveraging Pytorch Lightning, Transformers, and Hydra.
-- [mljar/mljar-supervised](https://github.com/mljar/mljar-supervised) - Automated Machine Learning Pipeline with Feature Engineering and Hyper-Parameters Tuning :rocket:
+- [mljar/mljar-supervised](https://github.com/mljar/mljar-supervised) - Python package for AutoML on Tabular Data with Feature Engineering, Hyper-Parameters Tuning, Explanations and Automatic Documentation
 - [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
 - [huggingface/accelerate](https://github.com/huggingface/accelerate) - 🚀 A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision
 - [facebookresearch/TimeSformer](https://github.com/facebookresearch/TimeSformer) - The official pytorch implementation of our paper "Is Space-Time Attention All You Need for Video Understanding?"
@@ -4392,7 +4396,7 @@
 - [pathak22/noreward-rl](https://github.com/pathak22/noreward-rl) - [ICML 2017] TensorFlow code for Curiosity-driven Exploration for Deep Reinforcement Learning
 - [torchgan/torchgan](https://github.com/torchgan/torchgan) - Research Framework for easy and efficient training of GANs based on Pytorch
 - [ufoym/imbalanced-dataset-sampler](https://github.com/ufoym/imbalanced-dataset-sampler) - A (PyTorch) imbalanced dataset sampler for oversampling low frequent classes and undersampling high frequent ones.
-- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 300 universities.
+- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 300 universities from 55 countries including Stanford, MIT, Harvard, and Cambridge.
 - [Chakazul/Lenia](https://github.com/Chakazul/Lenia) - Lenia - Mathematical Life Forms
 - [obskyr/colorgram.py](https://github.com/obskyr/colorgram.py) - A Python module for extracting colors from images. Get a palette of any picture!
 - [thinkingmachines/christmAIs](https://github.com/thinkingmachines/christmAIs) - Text to abstract art generation for the holidays!
@@ -6560,7 +6564,7 @@
 - [pyenv/pyenv-installer](https://github.com/pyenv/pyenv-installer) - This tool is used to install `pyenv` and friends.
 - [golang/vulndb](https://github.com/golang/vulndb) - [mirror] The Go Vulnerability Database
 - [Dhghomon/easy_rust](https://github.com/Dhghomon/easy_rust) - Rust explained using easy English
-- [stellar/docker-stellar-core-horizon](https://github.com/stellar/docker-stellar-core-horizon) - Home of the stellar/quickstart docker image
+- [stellar/quickstart](https://github.com/stellar/quickstart) - Home of the stellar/quickstart docker image for development and testing
 - [apple/tensorflow_macos](https://github.com/apple/tensorflow_macos) - TensorFlow for macOS 11.0+ accelerated using Apple's ML Compute framework.
 - [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns) - A catalogue of Rust design patterns, anti-patterns and idioms
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
