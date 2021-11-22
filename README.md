@@ -527,7 +527,6 @@
 - [anhttran/3dmm_cnn](https://github.com/anhttran/3dmm_cnn) - Regressing Robust and Discriminative 3D Morphable Models with a very Deep Neural Network
 - [laurentkneip/opengv](https://github.com/laurentkneip/opengv) - OpenGV is a collection of computer vision methods for solving geometric vision problems. It is hosted and maintained by the Mobile Perception Lab of ShanghaiTech.
 - [google/oboe](https://github.com/google/oboe) - Oboe is a C++ library that makes it easy to build high-performance audio apps on Android.
-- [zeusees/License-Plate-Detector](https://github.com/zeusees/License-Plate-Detector) - 基于Retinaface车牌检测,全新模型仅1.8MB.
 - [EOSIO/eos](https://github.com/EOSIO/eos) - An open source smart contract platform
 - [xtaci/algorithms](https://github.com/xtaci/algorithms) - Algorithms & Data structures in C++.
 - [erpc-io/eRPC](https://github.com/erpc-io/eRPC) - Efficient RPCs for datacenter networks
@@ -814,6 +813,7 @@
 
 ## Go 
 
+- [arnauddri/algorithms](https://github.com/arnauddri/algorithms) - Algorithms & Data Structures in Go
 - [mwitkow/go-proto-validators](https://github.com/mwitkow/go-proto-validators) - Generate message validators from .proto annotations.
 - [mwitkow/go-flagz](https://github.com/mwitkow/go-flagz) - Dynamic flag management for Go.
 - [mwitkow/grpc-proxy](https://github.com/mwitkow/grpc-proxy) - gRPC proxy is a Go reverse proxy that allows for rich routing of gRPC calls with minimum overhead.
@@ -1273,7 +1273,7 @@
 - [dinedal/textql](https://github.com/dinedal/textql) - Execute SQL against structured text like CSV or TSV
 - [brigadecore/brigade](https://github.com/brigadecore/brigade) - Event-driven scripting for Kubernetes
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
-- [skeema/skeema](https://github.com/skeema/skeema) - Schema management CLI for MySQL
+- [skeema/skeema](https://github.com/skeema/skeema) - Declarative pure-SQL schema management for MySQL and MariaDB
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open source distributed HTAP database compatible with the MySQL protocol
@@ -1368,7 +1368,6 @@
 - [whylabs/whylogs](https://github.com/whylabs/whylogs) - Profile and monitor your ML data pipeline end-to-end ,  Join us in slack @ http://join.slack.whylabs.ai/
 - [chiphuyen/ml-interviews-book](https://github.com/chiphuyen/ml-interviews-book) - https://huyenchip.com/ml-interviews-book/
 - [asatarin/testing-distributed-systems](https://github.com/asatarin/testing-distributed-systems) - Curated list of resources on testing distributed systems
-- [websocket-client/websocket-client](https://github.com/websocket-client/websocket-client) - WebSocket client for Python
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 - [abhivaikar/howtheytest](https://github.com/abhivaikar/howtheytest) - A collection of public resources about how software companies test their software
 - [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre) - At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.
@@ -2201,7 +2200,6 @@
 - [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - A library for answering questions using data you cannot see
 - [ahirner/pytorch-retraining](https://github.com/ahirner/pytorch-retraining) - Transfer Learning Shootout for PyTorch's model zoo (torchvision)
 - [LMescheder/GAN_stability](https://github.com/LMescheder/GAN_stability) - Code for paper "Which Training Methods for GANs do actually Converge? (ICML 2018)"
-- [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Python sample codes for robotics algorithms.
 - [udacity/deep-reinforcement-learning](https://github.com/udacity/deep-reinforcement-learning) - Repo for the Deep Reinforcement Learning Nanodegree program
 - [harveyslash/Facial-Similarity-with-Siamese-Networks-in-Pytorch](https://github.com/harveyslash/Facial-Similarity-with-Siamese-Networks-in-Pytorch) - Implementing Siamese networks with a contrastive loss for similarity learning
 - [onnx/tutorials](https://github.com/onnx/tutorials) - Tutorials for creating and using ONNX models
@@ -3127,6 +3125,7 @@
 
 ## Python 
 
+- [Exa-Networks/exabgp](https://github.com/Exa-Networks/exabgp) - The BGP swiss army knife of networking
 - [antiboredom/audiogrep](https://github.com/antiboredom/audiogrep) - Creates audio supercuts.
 - [google/budoux](https://github.com/google/budoux) - 
 - [rish-16/CycleGANsformer](https://github.com/rish-16/CycleGANsformer) - Unpaired Image-to-Image Translation with Transformer-based GANs in PyTorch [WIP]
@@ -3226,6 +3225,7 @@
 - [omoindrot/simple_casper](https://github.com/omoindrot/simple_casper) - A simple implementation of Casper in python
 - [nackjicholson/aiosql](https://github.com/nackjicholson/aiosql) - Simple SQL in Python
 - [madkote/fastapi-plugins](https://github.com/madkote/fastapi-plugins) - FastAPI framework plugins
+- [websocket-client/websocket-client](https://github.com/websocket-client/websocket-client) - WebSocket client for Python
 - [encode/broadcaster](https://github.com/encode/broadcaster) - Broadcast channels for async web apps. 📢
 - [lucidrains/se3-transformer-pytorch](https://github.com/lucidrains/se3-transformer-pytorch) - Implementation of SE3-Transformers for Equivariant Self-Attention, in Pytorch. This specific repository is geared towards integration with eventual Alphafold2 replication.
 - [lux-org/lux](https://github.com/lux-org/lux) - Automatically visualize your pandas dataframe via a single print! 📊 💡
@@ -4816,6 +4816,7 @@
 - [mjpost/sacrebleu](https://github.com/mjpost/sacrebleu) - Reference BLEU implementation that auto-downloads test sets and reports a version string to facilitate cross-lab comparisons
 - [luannd/MinutiaeNet](https://github.com/luannd/MinutiaeNet) - Code and models for paper "Robust Minutiae Extractor: Integrating Deep Networks and Fingerprint Domain Knowledge" at International Conference on Biometrics (ICB) 2018
 - [brain-research/self-attention-gan](https://github.com/brain-research/self-attention-gan) - 
+- [zeusees/License-Plate-Detector](https://github.com/zeusees/License-Plate-Detector) - 基于Retinaface车牌检测,全新模型仅1.8MB.
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Predictive AI layer for existing databases.
 - [minosworld/minos](https://github.com/minosworld/minos) - MINOS: Multimodal Indoor Simulator
 - [leonardblier/alrao](https://github.com/leonardblier/alrao) - Implementation of "Learning with Random Learning Rates" in PyTorch.
@@ -5285,6 +5286,7 @@
 - [albumentations-team/albumentations](https://github.com/albumentations-team/albumentations) - Fast image augmentation library and an easy-to-use wrapper around other libraries. Documentation:  https://albumentations.ai/docs/ Paper about the library: https://www.mdpi.com/2078-2489/11/2/125
 - [nwojke/deep_sort](https://github.com/nwojke/deep_sort) - Simple Online Realtime Tracking with a Deep Association Metric
 - [taki0112/RelativisticGAN-Tensorflow](https://github.com/taki0112/RelativisticGAN-Tensorflow) - Simple Tensorflow implementation of RelativisticGAN
+- [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Python sample codes for robotics algorithms.
 - [mitmul/chainer-siamese](https://github.com/mitmul/chainer-siamese) - Siamese Network implementation using Chainer
 - [zijundeng/pytorch-semantic-segmentation](https://github.com/zijundeng/pytorch-semantic-segmentation) - PyTorch for Semantic Segmentation
 - [IssamLaradji/BlockCoordinateDescent](https://github.com/IssamLaradji/BlockCoordinateDescent) - Code for the paper "Let’s Make Block Coordinate Descent Go Fast"
