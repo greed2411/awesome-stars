@@ -204,7 +204,6 @@
 - [vishnubob/python-midi](https://github.com/vishnubob/python-midi) - Python MIDI library
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 - [dav/word2vec](https://github.com/dav/word2vec) - This tool provides an efficient implementation of the continuous bag-of-words and skip-gram architectures for computing vector representations of words. These representations can be subsequently used in many natural language processing applications and for further research.
-- [Tencent/ncnn](https://github.com/Tencent/ncnn) - ncnn is a high-performance neural network inference framework optimized for the mobile platform
 - [chrisjmccormick/word2vec_commented](https://github.com/chrisjmccormick/word2vec_commented) - Commented (but unaltered) version of original word2vec C implementation.
 - [mopemope/meinheld](https://github.com/mopemope/meinheld) - Meinheld is a high performance asynchronous WSGI Web Server (based on picoev)
 - [symisc/sod](https://github.com/symisc/sod) - An Embedded Computer Vision & Machine Learning Library (CPU Optimized & IoT Capable)
@@ -562,6 +561,7 @@
 - [Dobiasd/frugally-deep](https://github.com/Dobiasd/frugally-deep) - Header-only library for using Keras models in C++.
 - [JoeyDeVries/LearnOpenGL](https://github.com/JoeyDeVries/LearnOpenGL) - Code repository of all OpenGL chapters from the book and its accompanying website https://learnopengl.com
 - [Tencent/FeatherCNN](https://github.com/Tencent/FeatherCNN) - FeatherCNN is a high performance inference engine for convolutional neural networks.
+- [Tencent/ncnn](https://github.com/Tencent/ncnn) - ncnn is a high-performance neural network inference framework optimized for the mobile platform
 - [GValiente/pocket-tensor](https://github.com/GValiente/pocket-tensor) - Run Keras models from a C++ application on embedded devices
 - [microsoft/LightGBM](https://github.com/microsoft/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
 - [microsoft/CNTK](https://github.com/microsoft/CNTK) - Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit
@@ -913,7 +913,7 @@
 - [encoredev/encore](https://github.com/encoredev/encore) - The Backend Development Engine built for Go
 - [N0MoreSecr3ts/wraith](https://github.com/N0MoreSecr3ts/wraith) - Uncover forgotten secrets and bring them back to life, haunting security and operations teams.
 - [RedisLabs/redis-recommend](https://github.com/RedisLabs/redis-recommend) - Simple Redis Go recommendation engine
-- [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose
+- [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
 - [ory/keto](https://github.com/ory/keto) - Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models.
 - [drone/drone-gc](https://github.com/drone/drone-gc) - Garbage collection of unused docker resources
 - [hibiken/asynq](https://github.com/hibiken/asynq) - Asynq: simple, reliable, and efficient distributed task queue in Go
@@ -1914,6 +1914,7 @@
 - [mchengny/RWF2000-Video-Database-for-Violence-Detection](https://github.com/mchengny/RWF2000-Video-Database-for-Violence-Detection) - A large scale video database for violence detection, which has 2,000 video clips containing violent or non-violent behaviours.
 - [Horea94/Fruit-Images-Dataset](https://github.com/Horea94/Fruit-Images-Dataset) - Fruits-360: A dataset of images containing fruits and vegetables
 - [calico/basenji](https://github.com/calico/basenji) - Sequential regulatory activity predictions with deep convolutional neural networks.
+- [polynote/polynote](https://github.com/polynote/polynote) - A better notebook for Scala (and more)
 - [Qwicen/node](https://github.com/Qwicen/node) - Neural Oblivious Decision Ensembles for Deep Learning on Tabular Data
 - [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) - NeMo: a toolkit for conversational AI
 - [aiXander/StyleGAN-Resolution-Convertor](https://github.com/aiXander/StyleGAN-Resolution-Convertor) - A Google Colab notebook to convert your low-resolution StyleGAN models into higher-resolution checkpoints so you can continue training!
@@ -2528,7 +2529,7 @@
 
 ## Others 
 
-- [amilajack/vc-list](https://github.com/amilajack/vc-list) - A list of VC firms and angels
+- [amilajack/vc-list](https://github.com/amilajack/vc-list) - Everything you need to know to start a startup
 - [faster-cpython/ideas](https://github.com/faster-cpython/ideas) - 
 - [ulid/spec](https://github.com/ulid/spec) - The canonical spec for ulid
 - [natethinks/jog](https://github.com/natethinks/jog) - Simple script to print the last 10 commands you ran in the current directory
@@ -4607,7 +4608,7 @@
 - [spro/pytorch-seq2seq-intent-parsing](https://github.com/spro/pytorch-seq2seq-intent-parsing) - Intent parsing and slot filling in PyTorch with seq2seq + attention
 - [SummitKwan/transparent_latent_gan](https://github.com/SummitKwan/transparent_latent_gan) - Use supervised learning to illuminate the latent space of GAN for controlled generation and edit
 - [jacobandreas/l3](https://github.com/jacobandreas/l3) - Learning with latent language
-- [JannerM/spatial-reasoning](https://github.com/JannerM/spatial-reasoning) - Code for the paper "Representation Learning for Grounded Spatial Reasoning"
+- [jannerm/spatial-reasoning](https://github.com/jannerm/spatial-reasoning) - Code for the paper "Representation Learning for Grounded Spatial Reasoning"
 - [danielgordon10/thor-iqa-cvpr-2018](https://github.com/danielgordon10/thor-iqa-cvpr-2018) - Repository containing code for the paper "IQA: Visual Question Answering in Interactive Environments"
 - [yinboc/prototypical-network-pytorch](https://github.com/yinboc/prototypical-network-pytorch) - A re-implementation of "Prototypical Networks for Few-shot Learning"
 - [keithito/tacotron](https://github.com/keithito/tacotron) - A TensorFlow implementation of Google's Tacotron speech synthesis with pre-trained model (unofficial)
@@ -4816,7 +4817,7 @@
 - [mjpost/sacrebleu](https://github.com/mjpost/sacrebleu) - Reference BLEU implementation that auto-downloads test sets and reports a version string to facilitate cross-lab comparisons
 - [luannd/MinutiaeNet](https://github.com/luannd/MinutiaeNet) - Code and models for paper "Robust Minutiae Extractor: Integrating Deep Networks and Fingerprint Domain Knowledge" at International Conference on Biometrics (ICB) 2018
 - [brain-research/self-attention-gan](https://github.com/brain-research/self-attention-gan) - 
-- [zeusees/License-Plate-Detector](https://github.com/zeusees/License-Plate-Detector) - 基于Retinaface车牌检测,全新模型仅1.8MB.
+- [zeusees/License-Plate-Detector](https://github.com/zeusees/License-Plate-Detector) - 基于Yolov5车牌检测,更快更准.
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Predictive AI layer for existing databases.
 - [minosworld/minos](https://github.com/minosworld/minos) - MINOS: Multimodal Indoor Simulator
 - [leonardblier/alrao](https://github.com/leonardblier/alrao) - Implementation of "Learning with Random Learning Rates" in PyTorch.
@@ -6554,7 +6555,6 @@
 - [JohnSnowLabs/spark-nlp](https://github.com/JohnSnowLabs/spark-nlp) - State of the Art Natural Language Processing
 - [apache/spark](https://github.com/apache/spark) - Apache Spark - A unified analytics engine for large-scale data processing
 - [typelevel/fs2](https://github.com/typelevel/fs2) - Compositional, streaming I/O library for Scala
-- [polynote/polynote](https://github.com/polynote/polynote) - A better notebook for Scala (and more)
 - [lampepfl/dotty](https://github.com/lampepfl/dotty) - The Scala 3 compiler, also known as Dotty.
 - [awslabs/deequ](https://github.com/awslabs/deequ) - Deequ is a library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.
 - [Ldpe2G/DeepLearningForFun](https://github.com/Ldpe2G/DeepLearningForFun) - Implementation of some interesting ideas of deeplearning.
