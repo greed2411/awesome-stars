@@ -813,6 +813,7 @@
 
 ## Go 
 
+- [ishanjain28/pluto](https://github.com/ishanjain28/pluto) - A CLI tool and Library for lightning fast downloads.
 - [arnauddri/algorithms](https://github.com/arnauddri/algorithms) - Algorithms & Data Structures in Go
 - [mwitkow/go-proto-validators](https://github.com/mwitkow/go-proto-validators) - Generate message validators from .proto annotations.
 - [mwitkow/go-flagz](https://github.com/mwitkow/go-flagz) - Dynamic flag management for Go.
@@ -2927,7 +2928,7 @@
 - [prichemond/introdeeprl](https://github.com/prichemond/introdeeprl) - Slides for my intro to deep reinforcement learning at Imperial College
 - [hgrif/airflow-tutorial](https://github.com/hgrif/airflow-tutorial) - Airflow basics tutorial
 - [benstew/blockchain-for-software-engineers](https://github.com/benstew/blockchain-for-software-engineers) - A curated list of resources for blockchain engineers
-- [jonathandinu/cracking-the-data-science-interview](https://github.com/jonathandinu/cracking-the-data-science-interview) - Resources for Oreilly's "Cracking the Data Science Interview" video series.
+- [psychothan/cracking-the-data-science-interview](https://github.com/psychothan/cracking-the-data-science-interview) - Resources for Oreilly's "Cracking the Data Science Interview" video series.
 - [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts
 - [ramnes/awesome-mongodb](https://github.com/ramnes/awesome-mongodb) - :leaves: A curated list of awesome MongoDB resources, libraries, tools and applications
 - [NirantK/awesome-project-ideas](https://github.com/NirantK/awesome-project-ideas) - Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas
@@ -3126,6 +3127,8 @@
 
 ## Python 
 
+- [astanin/python-tabulate](https://github.com/astanin/python-tabulate) - Pretty-print tabular data in Python, a library and a command-line utility. Repository migrated from bitbucket.org/astanin/python-tabulate.
+- [MartinPyka/financial_life](https://github.com/MartinPyka/financial_life) - A framework for analysing financial products in personalized contexts
 - [Exa-Networks/exabgp](https://github.com/Exa-Networks/exabgp) - The BGP swiss army knife of networking
 - [antiboredom/audiogrep](https://github.com/antiboredom/audiogrep) - Creates audio supercuts.
 - [google/budoux](https://github.com/google/budoux) - 
@@ -3471,7 +3474,6 @@
 - [robinhood/thorn](https://github.com/robinhood/thorn) - Easy Webhooks for Python
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [facebookresearch/WavAugment](https://github.com/facebookresearch/WavAugment) - A library for speech data augmentation in time-domain
-- [bentrevett/notes](https://github.com/bentrevett/notes) - 
 - [thu-ml/tianshou](https://github.com/thu-ml/tianshou) - An elegant PyTorch deep reinforcement learning library.
 - [ThilinaRajapakse/simpletransformers](https://github.com/ThilinaRajapakse/simpletransformers) - Transformers for Classification, NER, QA, Language Modelling, Language Generation, T5, Multi-Modal, and Conversational AI
 - [plizonczyk/noiseprotocol](https://github.com/plizonczyk/noiseprotocol) - Noise Protocol Framework - Python 3 implementation
