@@ -4283,7 +4283,6 @@
 - [schollz/howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound) - Count the number of people around you :family_man_man_boy: by monitoring wifi signals :satellite:
 - [j96w/DenseFusion](https://github.com/j96w/DenseFusion) - "DenseFusion: 6D Object Pose Estimation by Iterative Dense Fusion" code repository
 - [google/textfsm](https://github.com/google/textfsm) - Python module for parsing semi-structured text into python tables.
-- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [simonmeister/pytorch-mono-depth](https://github.com/simonmeister/pytorch-mono-depth) - Monocular depth prediction with PyTorch
 - [hangzhaomit/HACS-dataset](https://github.com/hangzhaomit/HACS-dataset) - HACS: Human Action Clips and Segments Dataset
 - [salaniz/pytorch-gve-lrcn](https://github.com/salaniz/pytorch-gve-lrcn) - PyTorch implementations for "Generating Visual Explanations" (GVE) and "Long-term Recurrent Convolutional Networks" (LRCN)
@@ -6747,6 +6746,7 @@
 - [hastic-zzz/hastic-server](https://github.com/hastic-zzz/hastic-server) - Hastic data management server for analyzing patterns and anomalies from Grafana
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [TimoStaudinger/sprite](https://github.com/TimoStaudinger/sprite) - 🖌 Draw charts in code. Render in real-time. Embed anywhere as .png.
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [maartenbreddels/ipyvolume](https://github.com/maartenbreddels/ipyvolume) - 3d plotting for Python in the Jupyter notebook based on IPython widgets using WebGL
 - [microsoft/onnxjs](https://github.com/microsoft/onnxjs) - ONNX.js: run ONNX models using JavaScript
 - [BeTomorrow/ReImproveJS](https://github.com/BeTomorrow/ReImproveJS) - A framework using TensorFlow.js for Deep Reinforcement Learning
