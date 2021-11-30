@@ -686,7 +686,7 @@
 - [cljfx/cljfx](https://github.com/cljfx/cljfx) - Declarative, functional and extensible wrapper of JavaFX inspired by better parts of react and re-frame
 - [replikativ/konserve](https://github.com/replikativ/konserve) - A clojuresque key-value/document store protocol with core.async.
 - [Factual/clj-leveldb](https://github.com/Factual/clj-leveldb) - Clojure bindings for LevelDB
-- [athensresearch/athens](https://github.com/athensresearch/athens) - Free self-hosted desktop app: https://github.com/athensresearch/athens/releases; Try the demo at https://athensresearch.github.io/athens; Docs viewable at https://handbook.athensresearch.org/
+- [athensresearch/athens](https://github.com/athensresearch/athens) - Free self-hosted desktop app: https://github.com/athensresearch/athens/releases; Try the demo at https://athensresearch.github.io/athens; Docs viewable at https://athensresearch.github.io/docs/
 - [runopsio/sequence](https://github.com/runopsio/sequence) - Immutable, scalable, and easy to use ledger service.
 - [mikub/titanoboa](https://github.com/mikub/titanoboa) - Titanoboa makes complex workflows easy. It is a low-code workflow orchestration platform for JVM - distributed, highly scalable and fault tolerant.
 - [overtone/overtone](https://github.com/overtone/overtone) - Collaborative Programmable Music
@@ -1690,7 +1690,6 @@
 - [airbnb/bossbat](https://github.com/airbnb/bossbat) - Stupid simple distributed job scheduling in node, backed by redis.
 - [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
 - [muaz-khan/RecordRTC](https://github.com/muaz-khan/RecordRTC) - RecordRTC is WebRTC JavaScript library for audio/video as well as screen activity recording. It supports Chrome, Firefox, Opera, Android, and Microsoft Edge. Platforms: Linux, Mac and Windows.
-- [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
 - [twitterdev/remote-dev-jobs-streamer](https://github.com/twitterdev/remote-dev-jobs-streamer) - Match Tweets containing remote developer jobs using Filtered Stream and Tweet Annotations
 - [knrt10/kubernetes-basicLearning](https://github.com/knrt10/kubernetes-basicLearning) - Understand kubernetes step by step. A simple repo for beginners :fire:
 - [midas-research/audino](https://github.com/midas-research/audino) - Open source audio annotation tool for humans™
@@ -3130,6 +3129,7 @@
 
 ## Python 
 
+- [facebookresearch/denoiser](https://github.com/facebookresearch/denoiser) - Real Time Speech Enhancement in the Waveform Domain (Interspeech 2020)We provide a PyTorch implementation of the paper Real Time Speech Enhancement in the Waveform Domain. In which, we present a causal speech enhancement model working on the raw waveform that runs in real-time on a laptop CPU. The proposed model is based on an encoder-decoder architecture with skip-connections. It is optimized on both time and frequency domains, using multiple loss functions. Empirical evidence shows that it is capable of removing various kinds of background noise including stationary and non-stationary noises, as well as room reverb. Additionally, we suggest a set of data augmentation techniques applied directly on the raw waveform which further improve model performance and its generalization abilities.
 - [astanin/python-tabulate](https://github.com/astanin/python-tabulate) - Pretty-print tabular data in Python, a library and a command-line utility. Repository migrated from bitbucket.org/astanin/python-tabulate.
 - [MartinPyka/financial_life](https://github.com/MartinPyka/financial_life) - A framework for analysing financial products in personalized contexts
 - [Exa-Networks/exabgp](https://github.com/Exa-Networks/exabgp) - The BGP swiss army knife of networking
@@ -5304,7 +5304,7 @@
 - [ektormak/Lyssandra](https://github.com/ektormak/Lyssandra) - A collection of Python tools for feature extraction and image classification using Sparse Coding algorithms.
 - [ragulpr/wtte-rnn](https://github.com/ragulpr/wtte-rnn) - WTTE-RNN a framework for churn and time to event prediction
 - [DLTK/DLTK](https://github.com/DLTK/DLTK) - Deep Learning Toolkit for Medical Image Analysis
-- [akanimax/pro_gan_pytorch](https://github.com/akanimax/pro_gan_pytorch) - ProGAN package implemented as an extension of PyTorch nn.Module
+- [akanimax/pro_gan_pytorch](https://github.com/akanimax/pro_gan_pytorch) - Unofficial PyTorch implementation of the paper titled "Progressive growing of GANs for improved Quality, Stability, and Variation"
 - [jingweiz/pytorch-distributed](https://github.com/jingweiz/pytorch-distributed) - Ape-X DQN & DDPG with pytorch & tensorboard
 - [scrapy/scurl](https://github.com/scrapy/scurl) - Performance-focused replacement for Python urllib
 - [AlexiaJM/RelativisticGAN](https://github.com/AlexiaJM/RelativisticGAN) - Code for replication of the paper "The relativistic discriminator: a key element missing from standard GAN"
@@ -6722,6 +6722,7 @@
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [amzn/ion-js](https://github.com/amzn/ion-js) - A JavaScript implementation of Amazon Ion.
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
+- [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
 - [lithdew/flatend](https://github.com/lithdew/flatend) - Quickly build microservices using p2p networking in NodeJS/Go.
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - 🔄 A realtime Database for JavaScript Applications
 - [codewing-dev/codewing](https://github.com/codewing-dev/codewing) - Next level code navigation for Java and Go on GitHub.
