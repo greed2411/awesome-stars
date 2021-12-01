@@ -965,7 +965,7 @@
 - [banzaicloud/pipeline](https://github.com/banzaicloud/pipeline) - Banzai Cloud Pipeline is a solution-oriented application platform which allows enterprises to develop, deploy and securely scale container-based applications in multi- and hybrid-cloud environments.
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
 - [purpleidea/mgmt](https://github.com/purpleidea/mgmt) - Next generation distributed, event-driven, parallel config management!
-- [hpcng/singularity](https://github.com/hpcng/singularity) - Singularity: Application containers for Linux
+- [apptainer/singularity](https://github.com/apptainer/singularity) - Singularity: Application containers for Linux
 - [cri-o/cri-o](https://github.com/cri-o/cri-o) - Open Container Initiative-based implementation of Kubernetes Container Runtime Interface
 - [0xProject/0x-mesh](https://github.com/0xProject/0x-mesh) - A peer-to-peer network for sharing 0x orders
 - [minio/minio](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage
@@ -1521,7 +1521,7 @@
 - [flipkart-incubator/ranger](https://github.com/flipkart-incubator/ranger) - Feature rich service discovery on ZooKeeper
 - [JanusGraph/janusgraph](https://github.com/JanusGraph/janusgraph) - JanusGraph: an open-source, distributed graph database
 - [apache/calcite](https://github.com/apache/calcite) - Apache Calcite
-- [braisdom/ObjectiveSql](https://github.com/braisdom/ObjectiveSql) - ObjectiveSQL is an ORM framework in Java based on ActiveRecord pattern, which encourages rapid development and clean, codes with the least and convention over configuration.
+- [braisdom/ObjectiveSql](https://github.com/braisdom/ObjectiveSql) - Writing SQL using Java syntax
 - [JetBrains/skija](https://github.com/JetBrains/skija) - Java bindings for Skia
 - [apache/asterixdb](https://github.com/apache/asterixdb) - Mirror of Apache AsterixDB
 - [apache/incubator-tuweni](https://github.com/apache/incubator-tuweni) - Apache Tuweni is a set of libraries and other tools to aid development of blockchain and other decentralized software in Java and other JVM languages. It includes a low-level bytes library, serialization and deserialization codecs (e.g. RLP), various cryptography functions and primatives, and lots of other helpful utilities.
@@ -1607,6 +1607,7 @@
 
 ## JavaScript 
 
+- [weinberg/SQLToy](https://github.com/weinberg/SQLToy) - An in-memory SQL database written in Javascript to demonstrate how SQL works.
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀
 - [foreversd/forever](https://github.com/foreversd/forever) - A simple CLI tool for ensuring that a given script runs continuously (i.e. forever)
 - [skit-ai/dagre-py](https://github.com/skit-ai/dagre-py) - Thin python wrapper around dagre-d3
@@ -1943,6 +1944,7 @@
 - [Ranlot/single-parameter-fit](https://github.com/Ranlot/single-parameter-fit) - Real numbers, data science and chaos: How to fit any dataset with a single parameter
 - [EmilienDupont/neural-processes](https://github.com/EmilienDupont/neural-processes) - Pytorch implementation of Neural Processes for functions and images :fireworks:
 - [limingcv/Photorealistic-Style-Transfer](https://github.com/limingcv/Photorealistic-Style-Transfer) - High-Resolution Network for Photorealistic Style Transfer
+- [NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - Deep Learning Examples
 - [mosheman5/DNP](https://github.com/mosheman5/DNP) - Audio Denoising with Deep Network Priors
 - [google/neural-tangents](https://github.com/google/neural-tangents) - Fast and Easy Infinite Neural Networks in Python
 - [IDEA-NTHU-Taiwan/PatternTutorial](https://github.com/IDEA-NTHU-Taiwan/PatternTutorial) - A Graph-based Pattern Representations Tutorial
@@ -2530,6 +2532,7 @@
 
 ## Others 
 
+- [thoughtworks/mlops-platforms](https://github.com/thoughtworks/mlops-platforms) - Compare MLOps Platforms. Breakdowns of SageMaker, VertexAI, AzureML, Dataiku, Databricks, h2o, kubeflow, mlflow...
 - [dreamhead/patterns-of-distributed-systems](https://github.com/dreamhead/patterns-of-distributed-systems) - 《Patterns of Distributed Systems》中文版
 - [vsitzmann/phd-master-application-docs](https://github.com/vsitzmann/phd-master-application-docs) - A collection of the application documents I used to apply to universities in the US.
 - [amilajack/vc-list](https://github.com/amilajack/vc-list) - Everything you need to know to start a startup
@@ -3296,7 +3299,7 @@
 - [hcmlab/vadnet](https://github.com/hcmlab/vadnet) - Real-time Voice Activity Detection in Noisy Eniviroments using Deep Neural Networks
 - [FederatedAI/FATE](https://github.com/FederatedAI/FATE) - An Industrial Grade Federated Learning Framework
 - [zhouhaoyi/Informer2020](https://github.com/zhouhaoyi/Informer2020) - The GitHub repository for the paper "Informer" accepted by AAAI 2021.
-- [ivy-dl/ivy](https://github.com/ivy-dl/ivy) - The templated deep learning framework, enabling framework-agnostic functions, layers and libraries.
+- [ivy-dl/ivy](https://github.com/ivy-dl/ivy) - The Unified Machine Learning Framework
 - [gvanrossum/patma](https://github.com/gvanrossum/patma) - Pattern Matching
 - [cvxgrp/pymde](https://github.com/cvxgrp/pymde) - Minimum-distortion embedding with PyTorch
 - [sumanbanerjee1/Code-Mixed-Dialog](https://github.com/sumanbanerjee1/Code-Mixed-Dialog) - 
@@ -3937,7 +3940,6 @@
 - [r9y9/wavenet_vocoder](https://github.com/r9y9/wavenet_vocoder) - WaveNet vocoder
 - [goldsborough/ig](https://github.com/goldsborough/ig) - :fireworks: Include graph visualization for C++
 - [tengteng95/Pose-Transfer](https://github.com/tengteng95/Pose-Transfer) - Code for the paper Progressive Pose Attention for Person Image Generation in CVPR19 (Oral).
-- [NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - Deep Learning Examples
 - [switchablenorms/CelebAMask-HQ](https://github.com/switchablenorms/CelebAMask-HQ) - A large-scale face dataset for face parsing, recognition, generation and editing.
 - [dephell/dephell](https://github.com/dephell/dephell) - :package: :fire: Python project management. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump version.
 - [socialpoint-labs/sheetfu](https://github.com/socialpoint-labs/sheetfu) - Python library to interact with Google Sheets V4 API
@@ -4194,7 +4196,7 @@
 - [FenTechSolutions/CausalDiscoveryToolbox](https://github.com/FenTechSolutions/CausalDiscoveryToolbox) - Package for causal inference in graphs and in the pairwise settings. Tools for graph structure recovery and dependencies are included.
 - [akelleh/causality](https://github.com/akelleh/causality) - Tools for causal analysis
 - [MedChaabane/deepRAM](https://github.com/MedChaabane/deepRAM) - End-to-end deep learning toolkit for predicting protein binding sites and motifs.
-- [awslabs/sockeye](https://github.com/awslabs/sockeye) - Sequence-to-sequence framework with a focus on Neural Machine Translation based on Apache MXNet
+- [awslabs/sockeye](https://github.com/awslabs/sockeye) - Sequence-to-sequence framework with a focus on Neural Machine Translation based on PyTorch
 - [vuptran/graph-representation-learning](https://github.com/vuptran/graph-representation-learning) - Autoencoders for Link Prediction and Semi-Supervised Node Classification (DSAA 2018)
 - [karlnapf/kernel_hmc](https://github.com/karlnapf/kernel_hmc) - Code for NIPS 2015 "Gradient-Free Hamiltonian Monte Carlo via Effecient Kernel Exponential Families"
 - [explosion/spacy-stanza](https://github.com/explosion/spacy-stanza) - 💥 Use the latest Stanza (StanfordNLP) research models directly in spaCy
@@ -4662,7 +4664,7 @@
 - [VDIGPKU/M2Det](https://github.com/VDIGPKU/M2Det) - M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network
 - [ppwwyyxx/SoPaper](https://github.com/ppwwyyxx/SoPaper) - Automatically Search and Download Papers
 - [wolegechu/ShuffleNetV2.Caffe2](https://github.com/wolegechu/ShuffleNetV2.Caffe2) - A Caffe2 implementation of ShuffleNet V2.
-- [pypa/linehaul](https://github.com/pypa/linehaul) - Statistics Collection for PyPI
+- [pypa/linehaul](https://github.com/pypa/linehaul) - ARCHIVED, replaced by https://github.com/pypa/linehaul-cloud-function/
 - [kenjewu/CRF](https://github.com/kenjewu/CRF) - Linear chain conditional random fields are implemented using Numpy and Mxnet/Gluon, and batch training is supported, not limited to training the data one by one.
 - [tonysy/CapsuleNet-Gluon](https://github.com/tonysy/CapsuleNet-Gluon) - Implemention of Capsule Net from the paper Dynamic Routing Between Capsules
 - [openai/random-network-distillation](https://github.com/openai/random-network-distillation) - Code for the paper "Exploration by Random Network Distillation"
@@ -6331,7 +6333,6 @@
 - [rust-ndarray/ndarray](https://github.com/rust-ndarray/ndarray) - ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations
 - [Hirrolot/mux-stream](https://github.com/Hirrolot/mux-stream) - (De)multiplex asynchronous streams
 - [pemistahl/lingua-rs](https://github.com/pemistahl/lingua-rs) - 👄 The most accurate natural language detection library in the Rust ecosystem, suitable for long and short text alike
-- [Qovery/engine](https://github.com/Qovery/engine) - Deploy your apps on any Cloud provider in just a few seconds
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [rabite0/hunter](https://github.com/rabite0/hunter) - The fastest file manager in the galaxy!
 - [lemunozm/message-io](https://github.com/lemunozm/message-io) - Fast and easy-to-use event-driven network library.
@@ -6467,7 +6468,7 @@
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [TimelyDataflow/timely-dataflow](https://github.com/TimelyDataflow/timely-dataflow) - A modular implementation of timely dataflow in Rust
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git and diff output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
 - [conundrumer/audioscope](https://github.com/conundrumer/audioscope) - audio visualizers true to the sound
 - [bayard-search/bayard](https://github.com/bayard-search/bayard) - A full-text search and indexing server written in Rust.
 - [cloud-hypervisor/cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) - A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.
