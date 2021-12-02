@@ -383,7 +383,6 @@
 - [facebookresearch/minirts](https://github.com/facebookresearch/minirts) - We release dataset collected for our research, code that implement neural network models described in the paper, and scripts to reproduce all of our results, and visualization tool for visualize dataset.
 - [igushev/IgushArray](https://github.com/igushev/IgushArray) - 
 - [vesoft-inc/nebula](https://github.com/vesoft-inc/nebula) - A distributed, fast open-source graph database featuring horizontal scalability and high availability
-- [google/differential-privacy](https://github.com/google/differential-privacy) - Google's differential privacy libraries.
 - [google/bloaty](https://github.com/google/bloaty) - Bloaty McBloatface: a size profiler for binaries
 - [eBay/NuRaft](https://github.com/eBay/NuRaft) - C++ implementation of Raft core logic as a replication library
 - [mitsuba-renderer/enoki](https://github.com/mitsuba-renderer/enoki) - Enoki: structured vectorization and differentiation on modern processor architectures
@@ -828,7 +827,7 @@
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang.
 - [skit-ai/trail](https://github.com/skit-ai/trail) - CLI to run your dataframes against SLU service and generated labeled dataframe.
 - [mr-karan/nomad-events-sink](https://github.com/mr-karan/nomad-events-sink) - An events collection agent which processes Nomad Events and dumps to external sink providers like HTTP
-- [MangoDB-io/MangoDB](https://github.com/MangoDB-io/MangoDB) - A truly Open Source MongoDB alternative
+- [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [DiscoRiver/massh](https://github.com/DiscoRiver/massh) - Go package for running Linux distributed shell commands via SSH.
 - [aws/eks-anywhere](https://github.com/aws/eks-anywhere) - Run Amazon EKS on your own infrastructure 🚀
 - [coreos/go-systemd](https://github.com/coreos/go-systemd) - Go bindings to systemd socket activation, journal, D-Bus, and unit files
@@ -1306,6 +1305,7 @@
 - [bfenetworks/bfe](https://github.com/bfenetworks/bfe) - A modern layer 7 load balancer from baidu
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
+- [google/differential-privacy](https://github.com/google/differential-privacy) - Google's differential privacy libraries.
 - [logrange/logrange](https://github.com/logrange/logrange) - High performance data aggregating storage
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite
 - [libp2p/go-libp2p-pubsub](https://github.com/libp2p/go-libp2p-pubsub) - The PubSub implementation for go-libp2p
@@ -1864,6 +1864,7 @@
 
 ## Jupyter Notebook 
 
+- [rentruewang/learning-machine](https://github.com/rentruewang/learning-machine) - A handbook for ML built on answers.
 - [mrdbourke/tensorflow-deep-learning](https://github.com/mrdbourke/tensorflow-deep-learning) - All course materials for the Zero to Mastery Deep Learning with TensorFlow course.
 - [aashrafh/Mozart](https://github.com/aashrafh/Mozart) - An optical music recognition (OMR) system. Converts sheet music to a machine-readable version.
 - [mchong6/GANsNRoses](https://github.com/mchong6/GANsNRoses) - Official PyTorch repo for GAN's N' Roses. Diverse im2im and vid2vid selfie to anime translation.
@@ -2535,7 +2536,7 @@
 - [thoughtworks/mlops-platforms](https://github.com/thoughtworks/mlops-platforms) - Compare MLOps Platforms. Breakdowns of SageMaker, VertexAI, AzureML, Dataiku, Databricks, h2o, kubeflow, mlflow...
 - [dreamhead/patterns-of-distributed-systems](https://github.com/dreamhead/patterns-of-distributed-systems) - 《Patterns of Distributed Systems》中文版
 - [vsitzmann/phd-master-application-docs](https://github.com/vsitzmann/phd-master-application-docs) - A collection of the application documents I used to apply to universities in the US.
-- [amilajack/vc-list](https://github.com/amilajack/vc-list) - Everything you need to know to start a startup
+- [amilajack/startups-101](https://github.com/amilajack/startups-101) - Everything you need to know to start a startup
 - [faster-cpython/ideas](https://github.com/faster-cpython/ideas) - 
 - [ulid/spec](https://github.com/ulid/spec) - The canonical spec for ulid
 - [natethinks/jog](https://github.com/natethinks/jog) - Simple script to print the last 10 commands you ran in the current directory
@@ -3132,6 +3133,8 @@
 
 ## Python 
 
+- [rentruewang/cant-hear](https://github.com/rentruewang/cant-hear) - This is the source code repository for unsupervised noise reduction research.
+- [rentruewang/koila](https://github.com/rentruewang/koila) - Prevent `CUDA error: out of memory` in just 1 line of code.
 - [facebookresearch/denoiser](https://github.com/facebookresearch/denoiser) - Real Time Speech Enhancement in the Waveform Domain (Interspeech 2020)We provide a PyTorch implementation of the paper Real Time Speech Enhancement in the Waveform Domain. In which, we present a causal speech enhancement model working on the raw waveform that runs in real-time on a laptop CPU. The proposed model is based on an encoder-decoder architecture with skip-connections. It is optimized on both time and frequency domains, using multiple loss functions. Empirical evidence shows that it is capable of removing various kinds of background noise including stationary and non-stationary noises, as well as room reverb. Additionally, we suggest a set of data augmentation techniques applied directly on the raw waveform which further improve model performance and its generalization abilities.
 - [astanin/python-tabulate](https://github.com/astanin/python-tabulate) - Pretty-print tabular data in Python, a library and a command-line utility. Repository migrated from bitbucket.org/astanin/python-tabulate.
 - [MartinPyka/financial_life](https://github.com/MartinPyka/financial_life) - A framework for analysing financial products in personalized contexts
@@ -3640,7 +3643,7 @@
 - [mfarragher/appelpy](https://github.com/mfarragher/appelpy) - Applied Econometrics Library for Python
 - [kensho-technologies/bubs](https://github.com/kensho-technologies/bubs) - Keras Implementation of Flair's Contextualized Embeddings
 - [aliyun/alibabacloud-quantization-networks](https://github.com/aliyun/alibabacloud-quantization-networks) - alibabacloud-quantization-networks
-- [ruinmessi/ASFF](https://github.com/ruinmessi/ASFF) - yolov3 with mobilenet v2 and ASFF
+- [GOATmessi7/ASFF](https://github.com/GOATmessi7/ASFF) - yolov3 with mobilenet v2 and ASFF
 - [gdikov/hypertunity](https://github.com/gdikov/hypertunity) - A toolset for black-box hyperparameter optimisation.
 - [hendrycks/natural-adv-examples](https://github.com/hendrycks/natural-adv-examples) - A Harder ImageNet Test Set (CVPR 2021)
 - [python-gino/gino](https://github.com/python-gino/gino) - GINO Is Not ORM - a Python asyncio ORM on SQLAlchemy core.
@@ -4579,7 +4582,7 @@
 - [dvingerh/PyInstaLive](https://github.com/dvingerh/PyInstaLive) - Python script to download Instagram livestreams and replays.
 - [IndexedConv/IndexedConv](https://github.com/IndexedConv/IndexedConv) - Code for the indexed convolution
 - [arogozhnikov/einops](https://github.com/arogozhnikov/einops) - Deep learning operations reinvented (for pytorch, tensorflow, jax and others)
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models.
 - [flow-project/flow](https://github.com/flow-project/flow) - Computational framework for reinforcement learning in traffic control
 - [joshua-wu/deepfakes_faceswap](https://github.com/joshua-wu/deepfakes_faceswap) - from deekfakes' faceswap: https://www.reddit.com/user/deepfakes/
 - [cbfinn/maml](https://github.com/cbfinn/maml) - Code for "Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks"
@@ -4936,7 +4939,7 @@
 - [cmsflash/beauty-net](https://github.com/cmsflash/beauty-net) - A simple, flexible, and extensible template for PyTorch. It's beautiful.
 - [shawnwun/NNDIAL](https://github.com/shawnwun/NNDIAL) - NNDial is an open source toolkit for building end-to-end trainable task-oriented dialogue models. It is released by Tsung-Hsien (Shawn) Wen from Cambridge Dialogue Systems Group under Apache License 2.0.
 - [vithursant/VAE-Gumbel-Softmax](https://github.com/vithursant/VAE-Gumbel-Softmax) - An implementation of a Variational-Autoencoder using the Gumbel-Softmax reparametrization trick in TensorFlow (tested on r1.5 CPU and GPU) in ICLR 2017.
-- [ruinmessi/RFBNet](https://github.com/ruinmessi/RFBNet) - Receptive Field Block Net for Accurate and Fast Object Detection, ECCV 2018
+- [GOATmessi7/RFBNet](https://github.com/GOATmessi7/RFBNet) - Receptive Field Block Net for Accurate and Fast Object Detection, ECCV 2018
 - [Anjum48/rl-examples](https://github.com/Anjum48/rl-examples) - Examples of published reinforcement learning algorithms in recent literature implemented in TensorFlow
 - [commonsense/conceptnet-numberbatch](https://github.com/commonsense/conceptnet-numberbatch) - 
 - [anthony-dipofi/ChaoticAttractors](https://github.com/anthony-dipofi/ChaoticAttractors) - 
@@ -6725,7 +6728,7 @@
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
 - [lithdew/flatend](https://github.com/lithdew/flatend) - Quickly build microservices using p2p networking in NodeJS/Go.
-- [pubkey/rxdb](https://github.com/pubkey/rxdb) - 🔄 A realtime Database for JavaScript Applications
+- [pubkey/rxdb](https://github.com/pubkey/rxdb) - 🔄 A client side, offline-first, reactive database for JavaScript Applications
 - [codewing-dev/codewing](https://github.com/codewing-dev/codewing) - Next level code navigation for Java and Go on GitHub.
 - [deepkit/deepkit-ml](https://github.com/deepkit/deepkit-ml) - The collaborative real-time open-source machine learning devtool and training suite: Experiment execution, tracking, and debugging. With server and project management tools.
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
