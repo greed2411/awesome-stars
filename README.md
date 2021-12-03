@@ -812,6 +812,8 @@
 
 ## Go 
 
+- [kubecost/kubectl-cost](https://github.com/kubecost/kubectl-cost) - CLI for determining the cost of Kubernetes workloads
+- [NVIDIA/aistore](https://github.com/NVIDIA/aistore) - AIStore: scalable storage for AI applications
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
 - [ishanjain28/pluto](https://github.com/ishanjain28/pluto) - A CLI tool and Library for lightning fast downloads.
 - [arnauddri/algorithms](https://github.com/arnauddri/algorithms) - Algorithms & Data Structures in Go
@@ -900,7 +902,7 @@
 - [sorenisanerd/gotty](https://github.com/sorenisanerd/gotty) - Share your terminal as a web application
 - [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.
 - [Clivern/Walrus](https://github.com/Clivern/Walrus) - 🔥 Fast, Secure and Reliable System Backup, Set up in Minutes.
-- [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service and CLI
+- [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [weaveworks/eksctl](https://github.com/weaveworks/eksctl) - The official CLI for Amazon EKS
 - [HotPotatoC/kvstore](https://github.com/HotPotatoC/kvstore) - kvstore is an experimental in-memory database server compatible with the redis protocol (RESP).
 - [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
@@ -2967,7 +2969,6 @@
 - [google/inception](https://github.com/google/inception) - 
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [deepmind/AQuA](https://github.com/deepmind/AQuA) - A algebraic word problem dataset, with multiple choice questions annotated with rationales.
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
 - [trananhkma/fucking-awesome-python](https://github.com/trananhkma/fucking-awesome-python) - awesome-python with :octocat: :star: and :fork_and_knife:
 - [Tgaaly/pytorch-cheatsheet](https://github.com/Tgaaly/pytorch-cheatsheet) - Pytorch Cheatsheet
 - [xuewei4d/KaggleSolutions](https://github.com/xuewei4d/KaggleSolutions) - Kaggle Competition Past Solutions
@@ -3133,8 +3134,11 @@
 
 ## Python 
 
+- [benedekrozemberczki/awesome-monte-carlo-tree-search-papers](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers) - A curated list of Monte Carlo tree search papers with implementations.
+- [benedekrozemberczki/awesome-gradient-boosting-papers](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) - A curated list of gradient boosting research papers with implementations.
+- [benedekrozemberczki/awesome-decision-tree-papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) - A collection of research papers on decision, classification and regression trees with implementations.
 - [rentruewang/cant-hear](https://github.com/rentruewang/cant-hear) - This is the source code repository for unsupervised noise reduction research.
-- [rentruewang/koila](https://github.com/rentruewang/koila) - Prevent `CUDA error: out of memory` in just 1 line of code.
+- [rentruewang/koila](https://github.com/rentruewang/koila) - Prevent PyTorch's `CUDA error: out of memory` in just 1 line of code.
 - [facebookresearch/denoiser](https://github.com/facebookresearch/denoiser) - Real Time Speech Enhancement in the Waveform Domain (Interspeech 2020)We provide a PyTorch implementation of the paper Real Time Speech Enhancement in the Waveform Domain. In which, we present a causal speech enhancement model working on the raw waveform that runs in real-time on a laptop CPU. The proposed model is based on an encoder-decoder architecture with skip-connections. It is optimized on both time and frequency domains, using multiple loss functions. Empirical evidence shows that it is capable of removing various kinds of background noise including stationary and non-stationary noises, as well as room reverb. Additionally, we suggest a set of data augmentation techniques applied directly on the raw waveform which further improve model performance and its generalization abilities.
 - [astanin/python-tabulate](https://github.com/astanin/python-tabulate) - Pretty-print tabular data in Python, a library and a command-line utility. Repository migrated from bitbucket.org/astanin/python-tabulate.
 - [MartinPyka/financial_life](https://github.com/MartinPyka/financial_life) - A framework for analysing financial products in personalized contexts
@@ -6777,6 +6781,7 @@
 - [tensorflow/tfjs-converter](https://github.com/tensorflow/tfjs-converter) - Convert TensorFlow SavedModel and Keras models to TensorFlow.js
 - [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
 - [nhn/tui.chart](https://github.com/nhn/tui.chart) - 🍞📊  Beautiful chart for data visualization.
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
 - [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [jupyter/jupyter-drive](https://github.com/jupyter/jupyter-drive) - Google drive for jupyter notebooks
 - [reiinakano/fast-style-transfer-deeplearnjs](https://github.com/reiinakano/fast-style-transfer-deeplearnjs) - Demo of in-browser Fast Neural Style Transfer with deeplearn.js library
