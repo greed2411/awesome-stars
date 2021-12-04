@@ -100,6 +100,7 @@
 
 ## C 
 
+- [openSUSE/libsolv](https://github.com/openSUSE/libsolv) - Library for solving packages and reading repositories
 - [deepmind/mujoco](https://github.com/deepmind/mujoco) - Multi-Joint dynamics with Contact. A general purpose physics simulator.
 - [satori-com/tcpkali](https://github.com/satori-com/tcpkali) - Fast multi-core TCP and WebSockets load generator.
 - [axboe/liburing](https://github.com/axboe/liburing) - 
@@ -643,6 +644,7 @@
 - [meiji-bioinf/heap](https://github.com/meiji-bioinf/heap) - 
 - [gpertea/stringtie](https://github.com/gpertea/stringtie) - Transcript assembly and quantification for RNA-Seq
 - [DaehwanKimLab/hisat2](https://github.com/DaehwanKimLab/hisat2) - Graph-based alignment (Hierarchical Graph FM index)
+- [arangodb/arangodb](https://github.com/arangodb/arangodb) - 🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.
 
 ## CSS 
 
@@ -850,7 +852,7 @@
 - [uber-go/ratelimit](https://github.com/uber-go/ratelimit) - A Golang blocking leaky-bucket rate limit implementation
 - [odpf/optimus](https://github.com/odpf/optimus) - Optimus is an easy-to-use, reliable, and performant workflow orchestrator for data transformation, data modeling, pipelines, and data quality management.
 - [TheYkk/git-switcher](https://github.com/TheYkk/git-switcher) - Switch between your git profiles easily
-- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀
+- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Developer-First Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
 - [bchadwic/gh-graph](https://github.com/bchadwic/gh-graph) - An extension for the GitHub Cli application that displays your current contribution graph
 - [platoneko/tinykv](https://github.com/platoneko/tinykv) - Talent Plan 2.0
 - [lesismal/arpc](https://github.com/lesismal/arpc) - More effective network communication, two-way calling, notify and broadcast supported.
@@ -1838,7 +1840,6 @@
 - [veltman/flubber](https://github.com/veltman/flubber) - Tools for smoother shape animations.
 - [MariaNattestad/Assemblytics](https://github.com/MariaNattestad/Assemblytics) - Assemblytics is a bioinformatics tool to detect and analyze structural variants from a genome assembly by comparing it to a reference genome.
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
-- [arangodb/arangodb](https://github.com/arangodb/arangodb) - 🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.
 - [git-tips/tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
 
 ## Jinja 
@@ -2744,7 +2745,6 @@
 - [aphyr/distsys-class](https://github.com/aphyr/distsys-class) - Class materials for a distributed systems lecture series
 - [RadeonOpenCompute/ROCm](https://github.com/RadeonOpenCompute/ROCm) - ROCm -  Open Source Platform for HPC and Ultrascale GPU Computing
 - [YiChenCityU/Recent_SLAM_Research](https://github.com/YiChenCityU/Recent_SLAM_Research) - Track Advancement of SLAM 跟踪SLAM前沿动态【2021 version】
-- [AnthonyCalandra/modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features) - A cheatsheet of modern C++ language and library features.
 - [joho/awesome-code-review](https://github.com/joho/awesome-code-review) - An "Awesome" list of code review resources - articles, papers, tools, etc
 - [lorin/resilience-engineering](https://github.com/lorin/resilience-engineering) - Resilience engineering papers
 - [xiaoketongxue/AI-News](https://github.com/xiaoketongxue/AI-News) - Summarize the paper and code in AI(Semantic Segmentation, Medical Segmentation,REID,Super-Resolution,Registration,CVPR,ECCV,ICCV,AAAI,MICCAI)
@@ -3099,7 +3099,7 @@
 ## PHP 
 
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
-- [cookie-monstar/star-tracker](https://github.com/cookie-monstar/star-tracker) - CNN implementation to detect constellations in sky
+- [fs4k/star-tracker](https://github.com/fs4k/star-tracker) - CNN implementation to detect constellations in sky
 - [openml/OpenML](https://github.com/openml/OpenML) - Open Machine Learning
 
 ## PLpgSQL 
@@ -3827,6 +3827,7 @@
 - [awslabs/gluon-ts](https://github.com/awslabs/gluon-ts) - Probabilistic time series modeling in Python
 - [kakaobrain/torchgpipe](https://github.com/kakaobrain/torchgpipe) - A GPipe implementation in PyTorch
 - [danielfm/pybreaker](https://github.com/danielfm/pybreaker) - Python implementation of the Circuit Breaker pattern.
+- [AnthonyCalandra/modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features) - A cheatsheet of modern C++ language and library features.
 - [titu1994/keras-efficientnets](https://github.com/titu1994/keras-efficientnets) - Keras Implementation of EfficientNets
 - [lukemelas/EfficientNet-PyTorch](https://github.com/lukemelas/EfficientNet-PyTorch) - A PyTorch implementation of EfficientNet and EfficientNetV2 (coming soon!)
 - [jab/bidict](https://github.com/jab/bidict) - The bidirectional mapping library for Python.
@@ -4634,7 +4635,7 @@
 - [sbarratt/inception-score-pytorch](https://github.com/sbarratt/inception-score-pytorch) - Inception Score for GANs in Pytorch
 - [ctr4si/MMN](https://github.com/ctr4si/MMN) - :memo: Abstractive Summarization of Reddit Posts with Multi-level Memory Networks. In NAACL-HLT, 2019 (oral).
 - [Zheng222/PPCN](https://github.com/Zheng222/PPCN) - Tensorflow implementation of Perception-Preserving Convolutional Networks for Image Enhancement on Smartphones (ECCV 2018 Workshop PIRM)
-- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX.
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [seomoz/reppy](https://github.com/seomoz/reppy) - Modern robots.txt Parser for Python
 - [MingtaoGuo/Conditional-Instance-Norm-for-n-Style-Transfer](https://github.com/MingtaoGuo/Conditional-Instance-Norm-for-n-Style-Transfer) - Implementation of the paper A Learned Representation for Artistic Style (Conditional instance  normalization)
 - [tcassou/causal_impact](https://github.com/tcassou/causal_impact) - Python package for causal inference using Bayesian structural time-series models.
@@ -5616,7 +5617,7 @@
 - [philipperemy/my-first-bitcoin-miner](https://github.com/philipperemy/my-first-bitcoin-miner) - For the curious minds who want to understand how Bitcoin Blockchain works!
 - [elleryqueenhomels/arbitrary_style_transfer](https://github.com/elleryqueenhomels/arbitrary_style_transfer) - Fast Neural Style Transfer with Arbitrary Style using AdaIN Layer - Based on Huang et al. "Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization"
 - [aws/chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
-- [tensorlayer/tensorlayer](https://github.com/tensorlayer/tensorlayer) - Deep Learning and Reinforcement Learning Library for Scientists and Engineers 🔥
+- [tensorlayer/TensorLayer](https://github.com/tensorlayer/TensorLayer) - Deep Learning and Reinforcement Learning Library for Scientists and Engineers 🔥
 - [conda/conda](https://github.com/conda/conda) - OS-agnostic, system-level binary package manager and ecosystem
 - [docker/docker-py](https://github.com/docker/docker-py) - A Python library for the Docker Engine API
 - [BiometricVox/zAI](https://github.com/BiometricVox/zAI) - Easy-to-use Artificial Intelligence
@@ -6266,6 +6267,7 @@
 
 ## Rust 
 
+- [Qovery/engine](https://github.com/Qovery/engine) - Deploy your apps on any Cloud provider in just a few seconds
 - [losfair/blueboat](https://github.com/losfair/blueboat) - Blueboat is an open-source alternative to Cloudflare Workers. The monolithic engine for serverless web apps.
 - [AppFlowy-IO/appflowy](https://github.com/AppFlowy-IO/appflowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - High-velocity, monorepo-scale workflow for Git
