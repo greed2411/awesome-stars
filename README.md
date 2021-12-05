@@ -814,6 +814,8 @@
 
 ## Go 
 
+- [egoist/bget](https://github.com/egoist/bget) - Download and install binaries from GitHub Releases, interactively.
+- [jftuga/geodist](https://github.com/jftuga/geodist) - Golang package to compute the distance between two geographic latitude, longitude coordinates
 - [kubecost/kubectl-cost](https://github.com/kubecost/kubectl-cost) - CLI for determining the cost of Kubernetes workloads
 - [NVIDIA/aistore](https://github.com/NVIDIA/aistore) - AIStore: scalable storage for AI applications
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
@@ -6504,7 +6506,7 @@
 - [actix/actix](https://github.com/actix/actix) - Actor framework for Rust.
 - [Aloxaf/silicon](https://github.com/Aloxaf/silicon) - Create beautiful image of your source code.
 - [JasonShin/fp-core.rs](https://github.com/JasonShin/fp-core.rs) - A library for functional programming in Rust
-- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A reliable, high-performance tool for building observability data pipelines.
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [async-rs/async-log](https://github.com/async-rs/async-log) - Async tracing capabilities for the log crate
 - [Geal/nom](https://github.com/Geal/nom) - Rust parser combinator framework
@@ -6676,6 +6678,7 @@
 
 ## TypeScript 
 
+- [egoist/bina](https://github.com/egoist/bina) - An installer for self-contained, single-file binaries, no additional CLI needed.
 - [tokiedokie/reveal-markdown](https://github.com/tokiedokie/reveal-markdown) - Revealjs vsCode extension
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool
