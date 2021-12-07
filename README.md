@@ -28,6 +28,7 @@
   - [Gherkin](#gherkin)
   - [Gnuplot](#gnuplot)
   - [Go](#go)
+  - [HCL](#hcl)
   - [HTML](#html)
   - [Handlebars](#handlebars)
   - [Haskell](#haskell)
@@ -1367,6 +1368,10 @@
 - [wallix/awless](https://github.com/wallix/awless) - A Mighty CLI for AWS
 - [pbenner/gonetics](https://github.com/pbenner/gonetics) - Go / Golang Bioinformatics Library
 
+## HCL 
+
+- [datarevenue-berlin/OpenMLOps](https://github.com/datarevenue-berlin/OpenMLOps) - 
+
 ## HTML 
 
 - [YerevaNN/A-Guide-to-Deep-Learning](https://github.com/YerevaNN/A-Guide-to-Deep-Learning) - 📚 A detailed guide to deep learning: http://yerevann.com/a-guide-to-deep-learning/
@@ -2564,7 +2569,7 @@
 - [chaincodelabs/bitcoin-curriculum](https://github.com/chaincodelabs/bitcoin-curriculum) - Bitcoin Protocol Development Curriculum
 - [benthecoder/yt-channels-DS-AI-ML-CS](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS) - A comprehensive list of 180+ YouTube Channels for Data Science,  Data Engineering, Machine Learning, Deep learning, Computer Science, programming, software engineering, etc.
 - [codersguild/System-Design](https://github.com/codersguild/System-Design) - System Design Bytes for Software Enthusiasts❤️. How is modern software designed? 🤔 Some design-level considerations for scalability, maintainability eventual consistency, availability & reliability. 👨‍💻 Interview Prep. 👨‍💻
-- [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles and resources to learn and practice about software architecture, patterns, and principles.
+- [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles, videos, and other resources to learn and practice about software architecture, patterns, and principles.
 - [freereadorg/awesome-libgen](https://github.com/freereadorg/awesome-libgen) - 😎 Awesome list of Library Genesis, the world's largest free library.
 - [fuzhenxin/Style-Transfer-in-Text](https://github.com/fuzhenxin/Style-Transfer-in-Text) - Paper List for Style Transfer in Text
 - [nrdmn/awesome-zig](https://github.com/nrdmn/awesome-zig) - 
@@ -3136,6 +3141,8 @@
 
 ## Python 
 
+- [intoli/exodus](https://github.com/intoli/exodus) - Painless relocation of Linux binaries–and all of their dependencies–without containers.
+- [dask/dask-ml](https://github.com/dask/dask-ml) - Scalable Machine Learning with Dask
 - [benedekrozemberczki/awesome-monte-carlo-tree-search-papers](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers) - A curated list of Monte Carlo tree search papers with implementations.
 - [benedekrozemberczki/awesome-gradient-boosting-papers](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) - A curated list of gradient boosting research papers with implementations.
 - [benedekrozemberczki/awesome-decision-tree-papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) - A collection of research papers on decision, classification and regression trees with implementations.
@@ -6269,6 +6276,7 @@
 
 ## Rust 
 
+- [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [Qovery/engine](https://github.com/Qovery/engine) - Deploy your apps on any Cloud provider in just a few seconds
 - [losfair/blueboat](https://github.com/losfair/blueboat) - Blueboat is an open-source alternative to Cloudflare Workers. The monolithic engine for serverless web apps.
 - [AppFlowy-IO/appflowy](https://github.com/AppFlowy-IO/appflowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
