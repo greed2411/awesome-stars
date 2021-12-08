@@ -1889,7 +1889,6 @@
 - [scikit-learn-contrib/hdbscan](https://github.com/scikit-learn-contrib/hdbscan) - A high performance implementation of HDBSCAN clustering.
 - [jpartemis/cwarp](https://github.com/jpartemis/cwarp) - Streamlit App and Notebook For CWARP
 - [wilson1yan/VideoGPT](https://github.com/wilson1yan/VideoGPT) - 
-- [open-mmlab/mmclassification](https://github.com/open-mmlab/mmclassification) - OpenMMLab Image Classification Toolbox and Benchmark
 - [facebookresearch/fairo](https://github.com/facebookresearch/fairo) - A modular embodied agent architecture and platform for building embodied agents
 - [tulasiram58827/TTS_TFLite](https://github.com/tulasiram58827/TTS_TFLite) - This repository is a collection of TTS Models in TFLite
 - [orpatashnik/StyleCLIP](https://github.com/orpatashnik/StyleCLIP) - Official Implementation for "StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery" (ICCV 2021 Oral)
@@ -3278,6 +3277,7 @@
 - [huggingface/autonlp](https://github.com/huggingface/autonlp) - 🤗 AutoNLP: train state-of-the-art natural language processing models and deploy them in a scalable environment automatically
 - [modoboa/modoboa](https://github.com/modoboa/modoboa) - Mail hosting made simple
 - [bexxmodd/vizex](https://github.com/bexxmodd/vizex) - Visualize disk space and disk usage in your UNIX\Linux terminal
+- [open-mmlab/mmclassification](https://github.com/open-mmlab/mmclassification) - OpenMMLab Image Classification Toolbox and Benchmark
 - [patrick-kidger/torchtyping](https://github.com/patrick-kidger/torchtyping) - Type annotations and dynamic checking for a tensor's shape, dtype, names, etc.
 - [ucinlp/autoprompt](https://github.com/ucinlp/autoprompt) - AutoPrompt: Automatic Prompt Construction for Masked Language Models.
 - [jina-ai/jina](https://github.com/jina-ai/jina) - Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data
