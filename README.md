@@ -401,7 +401,6 @@
 - [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
 - [xbpeng/DeepMimic](https://github.com/xbpeng/DeepMimic) - Motion imitation with deep reinforcement learning.
 - [facebookincubator/oomd](https://github.com/facebookincubator/oomd) - A userspace out-of-memory killer
-- [tensorflow/text](https://github.com/tensorflow/text) - Making text a first-class citizen in TensorFlow.
 - [jinfagang/hdl_graph_slam](https://github.com/jinfagang/hdl_graph_slam) - Graph slam using lidar
 - [google/zetasql](https://github.com/google/zetasql) - ZetaSQL - Analyzer Framework for SQL
 - [KlugerLab/FIt-SNE](https://github.com/KlugerLab/FIt-SNE) - Fast Fourier Transform-accelerated Interpolation-based  t-SNE (FIt-SNE)
@@ -3759,7 +3758,7 @@
 - [benedekrozemberczki/EgoSplitting](https://github.com/benedekrozemberczki/EgoSplitting) - A NetworkX implementation of "Ego-splitting Framework: from Non-Overlapping to Overlapping Clusters" (KDD 2017).
 - [danijar/handout](https://github.com/danijar/handout) - Turn Python scripts into handouts with Markdown and figures
 - [getkeops/keops](https://github.com/getkeops/keops) - KErnel OPerationS, on CPUs and GPUs, with autodiff and without memory overflows
-- [lululxvi/deepxde](https://github.com/lululxvi/deepxde) - Deep learning library for solving differential equations and more
+- [lululxvi/deepxde](https://github.com/lululxvi/deepxde) - A library for scientific machine learning
 - [bchao1/Anime-Face-Dataset](https://github.com/bchao1/Anime-Face-Dataset) - 🖼 A collection of high-quality anime faces.
 - [shijx12/XNM-Net](https://github.com/shijx12/XNM-Net) - Pytorch implementation of "Explainable and Explicit Visual Reasoning over Scene Graphs "
 - [keras-team/keras-tuner](https://github.com/keras-team/keras-tuner) - Hyperparameter tuning for humans
@@ -3828,6 +3827,7 @@
 - [googlemaps/google-maps-services-python](https://github.com/googlemaps/google-maps-services-python) - Python client library for Google Maps API Web Services
 - [pytorch/hub](https://github.com/pytorch/hub) - Submission to https://pytorch.org/hub/
 - [realsirjoe/instagram-scraper](https://github.com/realsirjoe/instagram-scraper) - scrapes medias, likes, followers, tags and all metadata. Inspired by instagram-php-scraper,bot
+- [tensorflow/text](https://github.com/tensorflow/text) - Making text a first-class citizen in TensorFlow.
 - [dry-python/returns](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe!
 - [Netflix/flamescope](https://github.com/Netflix/flamescope) - FlameScope is a visualization tool for exploring different time ranges as Flame Graphs.
 - [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
@@ -5669,7 +5669,7 @@
 - [smoqadam/PyFladesk](https://github.com/smoqadam/PyFladesk) - create desktop application by using Flask and QtWebKit
 - [bisguzar/twitter-scraper](https://github.com/bisguzar/twitter-scraper) - Scrape the Twitter Frontend API without authentication.
 - [llSourcell/Landing-a-SpaceX-Falcon-Heavy-Rocket](https://github.com/llSourcell/Landing-a-SpaceX-Falcon-Heavy-Rocket) - This is the code for "Landing a SpaceX Falcon Heavy Rocket" By Siraj Raval on Youtube
-- [hzwer/NIPS2017-LearningToRun](https://github.com/hzwer/NIPS2017-LearningToRun) - NIPS2017 - Learning to Run Challenge ---&gt; https://arxiv.org/abs/1712.08987
+- [hzwer/NIPS2017-LearningToRunACE](https://github.com/hzwer/NIPS2017-LearningToRunACE) - 2nd solution of NIPS 2017 Learning to Run Competition.
 - [shekkizh/ImageProcessingProjects](https://github.com/shekkizh/ImageProcessingProjects) - Image processing using python and opencv
 - [miguelgrinberg/python-socketio](https://github.com/miguelgrinberg/python-socketio) - Python Socket.IO server and client
 - [hhsecond/PyTorchDemystified](https://github.com/hhsecond/PyTorchDemystified) - Introduction to PyTorch and dynamic computation graph
@@ -6753,7 +6753,7 @@
 - [vega/vega-lite](https://github.com/vega/vega-lite) - A concise grammar of interactive graphics, built on Vega.
 - [APIs-guru/graphql-voyager](https://github.com/APIs-guru/graphql-voyager) - 🛰️ Represent any GraphQL API as an interactive graph
 - [jupyterlab/debugger](https://github.com/jupyterlab/debugger) - A visual debugger for Jupyter notebooks, consoles, and source files
-- [Axosoft/vscode-gitlens](https://github.com/Axosoft/vscode-gitlens) - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more
+- [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens) - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics that you can self-host.
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
