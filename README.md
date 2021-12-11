@@ -843,7 +843,7 @@
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [odpf/raccoon](https://github.com/odpf/raccoon) - Raccoon is a high-throughput, low-latency service to collect events in real-time from your web, mobile apps, and services using multiple network protocols.
 - [pipe-cd/pipe](https://github.com/pipe-cd/pipe) - Continuous Delivery for Declarative Kubernetes, Serverless and Infrastructure Applications
-- [IceFireDB/IceFireDB](https://github.com/IceFireDB/IceFireDB) - Distributed disk storage database based on Raft and Redis protocol.
+- [IceFireDB/IceFireDB](https://github.com/IceFireDB/IceFireDB) - Decentralized distributed nosql database, Web3 world access point, based on RESP, RAFT and blockchain.
 - [facette/facette](https://github.com/facette/facette) - Time series data visualization software
 - [bytedance/ns-x](https://github.com/bytedance/ns-x) - An easy-to-use, flexible network simulator library in Go.
 - [alda-lang/alda](https://github.com/alda-lang/alda) - A music programming language for musicians. :notes:
@@ -3230,8 +3230,8 @@
 - [aio-libs/aiozmq](https://github.com/aio-libs/aiozmq) - Asyncio (pep 3156) integration with ZeroMQ
 - [aio-libs/aioredis-py](https://github.com/aio-libs/aioredis-py) - asyncio (PEP 3156) Redis support
 - [nats-io/nats.py](https://github.com/nats-io/nats.py) - Python3 client for NATS
-- [authorizon/fastapi_websocket_pubsub](https://github.com/authorizon/fastapi_websocket_pubsub) - A fast and durable Pub/Sub channel over Websockets. FastAPI + WebSockets + PubSub ==  ⚡ 💪 ❤️
-- [authorizon/fastapi_websocket_rpc](https://github.com/authorizon/fastapi_websocket_rpc) - ⚡ FASTAPI Websocket RPC- A fast and durable bidirectional JSON RPC channel over Websockets.
+- [permitio/fastapi_websocket_pubsub](https://github.com/permitio/fastapi_websocket_pubsub) - A fast and durable Pub/Sub channel over Websockets. FastAPI + WebSockets + PubSub ==  ⚡ 💪 ❤️
+- [permitio/fastapi_websocket_rpc](https://github.com/permitio/fastapi_websocket_rpc) - ⚡ FASTAPI Websocket RPC- A fast and durable bidirectional JSON RPC channel over Websockets.
 - [nikitadurasov/masksembles](https://github.com/nikitadurasov/masksembles) - Official repository for the paper "Masksembles for Uncertainty Estimation" (CVPR2021).
 - [cosmicpython/code](https://github.com/cosmicpython/code) - Example application code for the python architecture book
 - [facebookresearch/AugLy](https://github.com/facebookresearch/AugLy) - A data augmentations library for audio, image, text, and video.
@@ -5669,7 +5669,7 @@
 - [smoqadam/PyFladesk](https://github.com/smoqadam/PyFladesk) - create desktop application by using Flask and QtWebKit
 - [bisguzar/twitter-scraper](https://github.com/bisguzar/twitter-scraper) - Scrape the Twitter Frontend API without authentication.
 - [llSourcell/Landing-a-SpaceX-Falcon-Heavy-Rocket](https://github.com/llSourcell/Landing-a-SpaceX-Falcon-Heavy-Rocket) - This is the code for "Landing a SpaceX Falcon Heavy Rocket" By Siraj Raval on Youtube
-- [hzwer/NIPS2017-LearningToRunACE](https://github.com/hzwer/NIPS2017-LearningToRunACE) - 2nd solution of NIPS 2017 Learning to Run Competition.
+- [megvii-research/NIPS2017-LearningToRunACE](https://github.com/megvii-research/NIPS2017-LearningToRunACE) - 2nd solution of NIPS2017 LearningToRun Competition.
 - [shekkizh/ImageProcessingProjects](https://github.com/shekkizh/ImageProcessingProjects) - Image processing using python and opencv
 - [miguelgrinberg/python-socketio](https://github.com/miguelgrinberg/python-socketio) - Python Socket.IO server and client
 - [hhsecond/PyTorchDemystified](https://github.com/hhsecond/PyTorchDemystified) - Introduction to PyTorch and dynamic computation graph
