@@ -550,7 +550,6 @@
 - [mikeroberts3000/EfficientHierarchicalGraphBasedVideoSegmentationExporter](https://github.com/mikeroberts3000/EfficientHierarchicalGraphBasedVideoSegmentationExporter) - This repository contains C++ code to export the video segmentations from the system described in the paper Efficient Hierarchical Graph-Based Video Segmentation.
 - [marian-nmt/marian](https://github.com/marian-nmt/marian) - Fast Neural Machine Translation in C++
 - [google/filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [zhaoweicai/cascade-rcnn](https://github.com/zhaoweicai/cascade-rcnn) - Caffe implementation of multiple popular object detection frameworks
 - [lysukhin/tensorflow-object-detection-cpp](https://github.com/lysukhin/tensorflow-object-detection-cpp) - A C++ example of running TensorFlow Object Detection model in live mode.
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
@@ -3011,7 +3010,7 @@
 - [pemami4911/awesome-hyperparams](https://github.com/pemami4911/awesome-hyperparams) - A curated list of awesome hyperparameters for deep learning
 - [DopplerHQ/awesome-bots](https://github.com/DopplerHQ/awesome-bots) - The most awesome list about bots ⭐️🤖
 - [GKalliatakis/Delving-deep-into-GANs](https://github.com/GKalliatakis/Delving-deep-into-GANs) - Generative Adversarial Networks (GANs) resources sorted by citations
-- [fasouto/awesome-dataviz](https://github.com/fasouto/awesome-dataviz) - :chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.
+- [javierluraschi/awesome-dataviz](https://github.com/javierluraschi/awesome-dataviz) - :chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.
 - [DeepSpaceHarbor/Awesome-AI-Security](https://github.com/DeepSpaceHarbor/Awesome-AI-Security) - :file_folder: #AISecurity
 - [nightrome/really-awesome-gan](https://github.com/nightrome/really-awesome-gan) - A list of papers on Generative Adversarial (Neural) Networks
 - [savan77/The-GAN-World](https://github.com/savan77/The-GAN-World) - Everything about Generative Adversarial Networks
@@ -3804,7 +3803,7 @@
 - [altair-viz/altair](https://github.com/altair-viz/altair) - Declarative statistical visualization library for Python
 - [bytedance/byteps](https://github.com/bytedance/byteps) - A high performance and generic framework for distributed DNN training
 - [microsoft/MASS](https://github.com/microsoft/MASS) - MASS: Masked Sequence to Sequence Pre-training for Language Generation
-- [allegroai/clearml](https://github.com/allegroai/clearml) - ClearML - Auto-Magical Suite of tools to streamline your ML workflow. Experiment Manager, MLOps and Data-Management
+- [allegroai/clearml](https://github.com/allegroai/clearml) - ClearML - Auto-Magical CI/CD to streamline your ML workflow. Experiment Manager, MLOps and Data-Management
 - [transceptor-technology/pyleri](https://github.com/transceptor-technology/pyleri) - Python Parser
 - [thunlp/ERNIE](https://github.com/thunlp/ERNIE) - Source code and dataset for ACL 2019 paper "ERNIE: Enhanced Language Representation with Informative Entities"
 - [leoshine/Spherical_Regression](https://github.com/leoshine/Spherical_Regression) - PyTorch implementation of cvpr2019 paper "Spherical Regression: Learning Viewpoints, Surface Normals and 3D Rotations on n-Spheres".
@@ -5878,7 +5877,7 @@
 - [arxiv-vanity/arxiv-vanity](https://github.com/arxiv-vanity/arxiv-vanity) - Renders papers from arXiv as responsive web pages so you don't have to squint at a PDF.
 - [tkarras/progressive_growing_of_gans](https://github.com/tkarras/progressive_growing_of_gans) - Progressive Growing of GANs for Improved Quality, Stability, and Variation
 - [jgorset/facepy](https://github.com/jgorset/facepy) - Facepy makes it really easy to use Facebook's Graph API with Python
-- [ufoym/deepo](https://github.com/ufoym/deepo) - Set up deep learning environment in a single command line.
+- [ufoym/deepo](https://github.com/ufoym/deepo) - Setup and customize deep learning environment in seconds.
 - [facebookresearch/ReAgent](https://github.com/facebookresearch/ReAgent) - A platform for Reasoning systems (Reinforcement Learning, Contextual Bandits, etc.)
 - [neubig/nn4nlp-code](https://github.com/neubig/nn4nlp-code) - Code Samples from Neural Networks for NLP
 - [mobolic/facebook-sdk](https://github.com/mobolic/facebook-sdk) - Python SDK for Facebook's Graph API
@@ -6543,6 +6542,7 @@
 - [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
 - [cswinter/LocustDB](https://github.com/cswinter/LocustDB) - Massively parallel, high performance analytics database that will rapidly devour all of your data.
 - [atom-archive/xray](https://github.com/atom-archive/xray) - An experimental next-generation Electron-based text editor
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [jrmuizel/pdf-extract](https://github.com/jrmuizel/pdf-extract) - A rust library for extracting content from pdfs
 - [stevedonovan/gentle-intro](https://github.com/stevedonovan/gentle-intro) - A gentle Rust tutorial
 
@@ -6795,7 +6795,7 @@
 - [tensorflow/tfjs-converter](https://github.com/tensorflow/tfjs-converter) - Convert TensorFlow SavedModel and Keras models to TensorFlow.js
 - [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
 - [nhn/tui.chart](https://github.com/nhn/tui.chart) - 🍞📊  Beautiful chart for data visualization.
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2021
 - [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [jupyter/jupyter-drive](https://github.com/jupyter/jupyter-drive) - Google drive for jupyter notebooks
 - [reiinakano/fast-style-transfer-deeplearnjs](https://github.com/reiinakano/fast-style-transfer-deeplearnjs) - Demo of in-browser Fast Neural Style Transfer with deeplearn.js library
