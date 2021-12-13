@@ -2736,7 +2736,7 @@
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
 - [gkiril/oie-resources](https://github.com/gkiril/oie-resources) - A curated list of Open Information Extraction (OIE) resources: papers, code, data, etc.
 - [sger/RustBooks](https://github.com/sger/RustBooks) - List of Rust books
-- [brunohenrique/DistributedSystems](https://github.com/brunohenrique/DistributedSystems) - My Distributed Systems references
+- [brunohenrique/distributed-systems](https://github.com/brunohenrique/distributed-systems) - My Distributed Systems references
 - [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
 - [ericsnowcurrently/multi-core-python](https://github.com/ericsnowcurrently/multi-core-python) - Enabling CPython multi-core parallelism via subinterpreters.
 - [Gabriel439/post-rfc](https://github.com/Gabriel439/post-rfc) - Blog post previews in need of peer review
@@ -3138,6 +3138,7 @@
 
 ## Python 
 
+- [facebookresearch/torchrec](https://github.com/facebookresearch/torchrec) - Pytorch domain library for recommendation systems
 - [intoli/exodus](https://github.com/intoli/exodus) - Painless relocation of Linux binaries–and all of their dependencies–without containers.
 - [dask/dask-ml](https://github.com/dask/dask-ml) - Scalable Machine Learning with Dask
 - [benedekrozemberczki/awesome-monte-carlo-tree-search-papers](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers) - A curated list of Monte Carlo tree search papers with implementations.
