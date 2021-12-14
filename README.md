@@ -14,6 +14,7 @@
   - [C++](#c++)
   - [CSS](#css)
   - [Clojure](#clojure)
+  - [Common Lisp](#common-lisp)
   - [Coq](#coq)
   - [Cuda](#cuda)
   - [Cython](#cython)
@@ -268,7 +269,7 @@
 - [facebook/proxygen](https://github.com/facebook/proxygen) - A collection of C++ HTTP libraries including an easy to use HTTP server.
 - [couchbase/phosphor](https://github.com/couchbase/phosphor) - High performance event tracing
 - [lewissbaker/cppcoro](https://github.com/lewissbaker/cppcoro) - A library of C++ coroutine abstractions for the coroutines TS
-- [flink-extended/flink-ai-extended](https://github.com/flink-extended/flink-ai-extended) - 
+- [flink-extended/dl-on-flink](https://github.com/flink-extended/dl-on-flink) - 
 - [google/language-resources](https://github.com/google/language-resources) - Datasets and tools for basic natural language processing.
 - [openai/triton](https://github.com/openai/triton) - Development repository for the Triton language and compiler
 - [BespokeSynth/BespokeSynth](https://github.com/BespokeSynth/BespokeSynth) - Software modular synth
@@ -643,7 +644,6 @@
 - [meiji-bioinf/heap](https://github.com/meiji-bioinf/heap) - 
 - [gpertea/stringtie](https://github.com/gpertea/stringtie) - Transcript assembly and quantification for RNA-Seq
 - [DaehwanKimLab/hisat2](https://github.com/DaehwanKimLab/hisat2) - Graph-based alignment (Hierarchical Graph FM index)
-- [arangodb/arangodb](https://github.com/arangodb/arangodb) - 🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.
 
 ## CSS 
 
@@ -730,6 +730,12 @@
 - [damballa/parkour](https://github.com/damballa/parkour) - Hadoop MapReduce in idiomatic Clojure.
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
 
+## Common Lisp 
+
+- [inconvergent/weir](https://github.com/inconvergent/weir) - (deprecated) A system for making generative systems
+- [inconvergent/snek](https://github.com/inconvergent/snek) - See https://github.com/inconvergent/weir instead
+- [inconvergent/weird](https://github.com/inconvergent/weird) - Generative art in Common Lisp
+
 ## Coq 
 
 - [mit-pdos/perennial](https://github.com/mit-pdos/perennial) - Verifying concurrent crash-safe systems
@@ -813,6 +819,7 @@
 
 ## Go 
 
+- [Jeffail/tunny](https://github.com/Jeffail/tunny) - A goroutine pool for Go
 - [egoist/bget](https://github.com/egoist/bget) - Download and install binaries from GitHub Releases, interactively.
 - [jftuga/geodist](https://github.com/jftuga/geodist) - Golang package to compute the distance between two geographic latitude, longitude coordinates
 - [kubecost/kubectl-cost](https://github.com/kubecost/kubectl-cost) - CLI for determining the cost of Kubernetes workloads
@@ -842,7 +849,7 @@
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [odpf/raccoon](https://github.com/odpf/raccoon) - Raccoon is a high-throughput, low-latency service to collect events in real-time from your web, mobile apps, and services using multiple network protocols.
 - [pipe-cd/pipe](https://github.com/pipe-cd/pipe) - Continuous Delivery for Declarative Kubernetes, Serverless and Infrastructure Applications
-- [IceFireDB/IceFireDB](https://github.com/IceFireDB/IceFireDB) - Decentralized distributed nosql database, Web3 world access point, based on RESP, RAFT and blockchain.
+- [IceFireDB/IceFireDB](https://github.com/IceFireDB/IceFireDB) - Decentralized distributed nosql database, Web3 world access point, based on RESP,RAFT,IPFS and blockchain.
 - [facette/facette](https://github.com/facette/facette) - Time series data visualization software
 - [bytedance/ns-x](https://github.com/bytedance/ns-x) - An easy-to-use, flexible network simulator library in Go.
 - [alda-lang/alda](https://github.com/alda-lang/alda) - A music programming language for musicians. :notes:
@@ -1846,6 +1853,7 @@
 - [veltman/flubber](https://github.com/veltman/flubber) - Tools for smoother shape animations.
 - [MariaNattestad/Assemblytics](https://github.com/MariaNattestad/Assemblytics) - Assemblytics is a bioinformatics tool to detect and analyze structural variants from a genome assembly by comparing it to a reference genome.
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
+- [arangodb/arangodb](https://github.com/arangodb/arangodb) - 🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.
 - [git-tips/tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
 
 ## Jinja 
@@ -4000,7 +4008,7 @@
 - [titu1994/keras-octconv](https://github.com/titu1994/keras-octconv) - Keras implementation of Octave Convolutions
 - [ines/spacy-course](https://github.com/ines/spacy-course) - 👩‍🏫 Advanced NLP with spaCy: A free online course
 - [dimenwarper/chainlearn](https://github.com/dimenwarper/chainlearn) - Mini module with syntax sugar for pandas/sklearn
-- [pyodide/pyodide](https://github.com/pyodide/pyodide) - Python with the scientific stack, compiled to WebAssembly.
+- [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly.
 - [google-research-datasets/paws](https://github.com/google-research-datasets/paws) - This dataset contains 108,463 human-labeled and 656k noisily labeled pairs that feature the importance of modeling structure, context, and word order information for the problem of paraphrase identification.
 - [HIT-SCIR/ELMoForManyLangs](https://github.com/HIT-SCIR/ELMoForManyLangs) - Pre-trained ELMo Representations for Many Languages
 - [PolyAI-LDN/conversational-datasets](https://github.com/PolyAI-LDN/conversational-datasets) - Large datasets for conversational AI
@@ -5790,7 +5798,7 @@
 - [jsuarez5341/Recurrent-Highway-Hypernetworks-NIPS](https://github.com/jsuarez5341/Recurrent-Highway-Hypernetworks-NIPS) - Cleaned original source code from my NIPS publication
 - [c0nn3r/RetinaNet](https://github.com/c0nn3r/RetinaNet) - An implementation of RetinaNet in PyTorch.
 - [misokg/NIPS2017](https://github.com/misokg/NIPS2017) - Multi-Information Source Optimization
-- [hs2k/pytorch-smoothgrad](https://github.com/hs2k/pytorch-smoothgrad) - SmoothGrad implementation in PyTorch
+- [pikahhh/pytorch-smoothgrad](https://github.com/pikahhh/pytorch-smoothgrad) - SmoothGrad implementation in PyTorch
 - [NVIDIA/sentiment-discovery](https://github.com/NVIDIA/sentiment-discovery) - Unsupervised Language Modeling at scale for robust sentiment classification
 - [google/deepvariant](https://github.com/google/deepvariant) - DeepVariant is an analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA sequencing data.
 - [bigchaindb/bigchaindb](https://github.com/bigchaindb/bigchaindb) - Meet BigchainDB. The blockchain database.
