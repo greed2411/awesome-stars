@@ -102,6 +102,7 @@
 
 ## C 
 
+- [shuveb/io_uring-by-example](https://github.com/shuveb/io_uring-by-example) - A companion repository for the io_uring by Example article series
 - [openSUSE/libsolv](https://github.com/openSUSE/libsolv) - Library for solving packages and reading repositories
 - [deepmind/mujoco](https://github.com/deepmind/mujoco) - Multi-Joint dynamics with Contact. A general purpose physics simulator.
 - [satori-com/tcpkali](https://github.com/satori-com/tcpkali) - Fast multi-core TCP and WebSockets load generator.
@@ -644,6 +645,7 @@
 - [meiji-bioinf/heap](https://github.com/meiji-bioinf/heap) - 
 - [gpertea/stringtie](https://github.com/gpertea/stringtie) - Transcript assembly and quantification for RNA-Seq
 - [DaehwanKimLab/hisat2](https://github.com/DaehwanKimLab/hisat2) - Graph-based alignment (Hierarchical Graph FM index)
+- [arangodb/arangodb](https://github.com/arangodb/arangodb) - 🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.
 
 ## CSS 
 
@@ -1357,7 +1359,7 @@
 - [schollz/find3](https://github.com/schollz/find3) - High-precision indoor positioning framework, version 3.
 - [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
 - [hasura/gitkube](https://github.com/hasura/gitkube) - Build and deploy docker images to Kubernetes using git push
-- [gravitational/teleport](https://github.com/gravitational/teleport) - Certificate authority and access plane for SSH, Kubernetes, web applications, and databases
+- [gravitational/teleport](https://github.com/gravitational/teleport) - Certificate authority and access plane for SSH, Kubernetes, web apps, databases and desktops
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
 - [cristaloleg/go-advice](https://github.com/cristaloleg/go-advice) - List of advice and tricks for Go  ʕ◔ϖ◔ʔ
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
@@ -1589,7 +1591,6 @@
 - [prestodb/presto](https://github.com/prestodb/presto) - The official home of the Presto distributed SQL query engine for big data
 - [graphhopper/jsprit](https://github.com/graphhopper/jsprit) - jsprit is a java based, open source toolkit for solving rich vehicle routing problems
 - [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) - Apache DolphinScheduler is a distributed and extensible workflow scheduler platform with powerful DAG visual interfaces, dedicated to solving complex job dependencies in the data pipeline and providing various types of jobs available out of box.
-- [Tencent/TubeMQ](https://github.com/Tencent/TubeMQ) - TubeMQ focuses on high-performance storage and transmission of massive data in big data scenarios
 - [ambiverse-nlu/ambiverse-nlu](https://github.com/ambiverse-nlu/ambiverse-nlu) - AmbiverseNLU: A Natural Language Understanding suite by Max Planck Institute for Informatics
 - [OrderLab/leaseos_frameworks_base](https://github.com/OrderLab/leaseos_frameworks_base) - AOSP frameworks/base repo with Lease OS changes
 - [google/live-transcribe-speech-engine](https://github.com/google/live-transcribe-speech-engine) - Live Transcribe is an Android application that provides real-time captioning for people who are deaf or hard of hearing. This repository contains the Android client libraries for communicating with Google's Cloud Speech API that are used in Live Transcribe.
@@ -1853,7 +1854,6 @@
 - [veltman/flubber](https://github.com/veltman/flubber) - Tools for smoother shape animations.
 - [MariaNattestad/Assemblytics](https://github.com/MariaNattestad/Assemblytics) - Assemblytics is a bioinformatics tool to detect and analyze structural variants from a genome assembly by comparing it to a reference genome.
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
-- [arangodb/arangodb](https://github.com/arangodb/arangodb) - 🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.
 - [git-tips/tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
 
 ## Jinja 
@@ -2738,6 +2738,7 @@
 - [jozefg/learn-tt](https://github.com/jozefg/learn-tt) - A collection of resources for learning type theory and type theory adjacent fields.
 - [bor0/gidti](https://github.com/bor0/gidti) - Book: Gentle Introduction to Dependent Types with Idris
 - [typeddjango/awesome-python-typing](https://github.com/typeddjango/awesome-python-typing) - Collection of awesome Python types, stubs, plugins, and tools to work with them.
+- [Tencent/TubeMQ](https://github.com/Tencent/TubeMQ) - TubeMQ has been donated to the Apache Software Foundation and renamed to InLong, please visit the new Apache repository: https://github.com/apache/incubator-inlong
 - [hwalsuklee/awesome-deep-text-detection-recognition](https://github.com/hwalsuklee/awesome-deep-text-detection-recognition) - A curated list of resources for text detection/recognition (optical character recognition ) with deep learning methods.
 - [chongyangtao/Awesome-Scene-Text-Recognition](https://github.com/chongyangtao/Awesome-Scene-Text-Recognition) - A curated list of resources dedicated to scene text localization and recognition
 - [gjy3035/Awesome-Crowd-Counting](https://github.com/gjy3035/Awesome-Crowd-Counting) - Awesome Crowd Counting
@@ -2763,7 +2764,7 @@
 - [cbsudux/Human-Pose-Estimation-101](https://github.com/cbsudux/Human-Pose-Estimation-101) - Basics of 2D and 3D Human Pose Estimation.
 - [aloisdg/awesome-regex](https://github.com/aloisdg/awesome-regex) - A curated collection of awesome Regex libraries, tools, frameworks and software
 - [secfigo/Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) - A curated list of fuzzing resources ( Books, courses - free and paid, videos, tools, tutorials and vulnerable applications to practice on ) for learning Fuzzing and initial phases of Exploit Development like root cause analysis.
-- [MingSun-Tse/EfficientDNNs](https://github.com/MingSun-Tse/EfficientDNNs) - Collection of recent methods on DNN compression and acceleration
+- [MingSun-Tse/EfficientDNNs](https://github.com/MingSun-Tse/EfficientDNNs) - Collection of recent methods on (deep) neural network compression and acceleration.
 - [bnb/awesome-developer-streams](https://github.com/bnb/awesome-developer-streams) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
 - [duducheng/oxford-cs-deepnlp-2017-lectures](https://github.com/duducheng/oxford-cs-deepnlp-2017-lectures) - Oxford Deep NLP 2017 course
 - [duducheng/Learning-Notes](https://github.com/duducheng/Learning-Notes) - Notes and resources on Machine Learning
@@ -3146,6 +3147,8 @@
 
 ## Python 
 
+- [aio-libs/aiojobs](https://github.com/aio-libs/aiojobs) - Jobs scheduler for managing background task (asyncio)
+- [achimnol/aiotools](https://github.com/achimnol/aiotools) - Idiomatic asyncio utilties
 - [facebookresearch/torchrec](https://github.com/facebookresearch/torchrec) - Pytorch domain library for recommendation systems
 - [intoli/exodus](https://github.com/intoli/exodus) - Painless relocation of Linux binaries–and all of their dependencies–without containers.
 - [dask/dask-ml](https://github.com/dask/dask-ml) - Scalable Machine Learning with Dask
@@ -4008,7 +4011,7 @@
 - [titu1994/keras-octconv](https://github.com/titu1994/keras-octconv) - Keras implementation of Octave Convolutions
 - [ines/spacy-course](https://github.com/ines/spacy-course) - 👩‍🏫 Advanced NLP with spaCy: A free online course
 - [dimenwarper/chainlearn](https://github.com/dimenwarper/chainlearn) - Mini module with syntax sugar for pandas/sklearn
-- [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly.
+- [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
 - [google-research-datasets/paws](https://github.com/google-research-datasets/paws) - This dataset contains 108,463 human-labeled and 656k noisily labeled pairs that feature the importance of modeling structure, context, and word order information for the problem of paraphrase identification.
 - [HIT-SCIR/ELMoForManyLangs](https://github.com/HIT-SCIR/ELMoForManyLangs) - Pre-trained ELMo Representations for Many Languages
 - [PolyAI-LDN/conversational-datasets](https://github.com/PolyAI-LDN/conversational-datasets) - Large datasets for conversational AI
@@ -6284,6 +6287,8 @@
 
 ## Rust 
 
+- [tokio-rs/tokio-uring](https://github.com/tokio-rs/tokio-uring) - An io_uring backed runtime for Rust
+- [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
 - [bytedance/monoio](https://github.com/bytedance/monoio) - Rust async runtime based on io-uring.
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [Qovery/engine](https://github.com/Qovery/engine) - Deploy your apps on any Cloud provider in just a few seconds
