@@ -671,6 +671,7 @@
 
 ## Clojure 
 
+- [mikera/core.matrix](https://github.com/mikera/core.matrix) - core.matrix : Multi-dimensional array programming API for Clojure
 - [smothers/cause](https://github.com/smothers/cause) - An EDN-like CRDT (Causal Tree) for Clojure & ClojureScript that automatically tracks history and resolves conflicts.
 - [jepsen-io/jepsen](https://github.com/jepsen-io/jepsen) - A framework for distributed systems verification, with fault injection
 - [edn-query-language/eql](https://github.com/edn-query-language/eql) - EQL is a declarative way to make hierarchical (and possibly nested) selections of information about data requirements. This repository contains the base specs and definitions for EQL parsing, AST, etc.
@@ -1370,7 +1371,7 @@
 - [mmatczuk/go-http-tunnel](https://github.com/mmatczuk/go-http-tunnel) - Fast and secure tunnels over HTTP/2
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [kevin-cantwell/dotmatrix](https://github.com/kevin-cantwell/dotmatrix) - Encodes images to a "dot matrix" pattern using braille unicode characters.
-- [briandowns/spinner](https://github.com/briandowns/spinner) - Go (golang) package with 80 configurable terminal spinner/progress indicators.
+- [briandowns/spinner](https://github.com/briandowns/spinner) - Go (golang) package with 90 configurable terminal spinner/progress indicators.
 - [apex/up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.
 - [unixpickle/weakai](https://github.com/unixpickle/weakai) - AI algorithms implemented in Go
 - [absolute8511/nsq](https://github.com/absolute8511/nsq) - A realtime distributed messaging platform. This fork has been moved to https://github.com/youzan/nsq
@@ -3154,6 +3155,7 @@
 
 ## Python 
 
+- [encode/databases](https://github.com/encode/databases) - Async database support for Python. 🗄
 - [tlc-pack/relax](https://github.com/tlc-pack/relax) - Temp repo for prototyping relax(relay next), the effort will be upstreamed. We use the wiki pages on this repo to host design docs.
 - [paramiko/paramiko](https://github.com/paramiko/paramiko) - The leading native Python SSHv2 protocol library.
 - [omnilib/aiosqlite](https://github.com/omnilib/aiosqlite) - asyncio bridge to the standard sqlite3 module
