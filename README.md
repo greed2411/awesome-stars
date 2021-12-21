@@ -66,6 +66,7 @@
   - [Racket](#racket)
   - [Reason](#reason)
   - [Ren'Py](#ren'py)
+  - [Roff](#roff)
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [SCSS](#scss)
@@ -926,6 +927,7 @@
 - [xyproto/algernon](https://github.com/xyproto/algernon) - :tophat: Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support
 - [vulcand/oxy](https://github.com/vulcand/oxy) - Go middlewares for HTTP servers & proxies
 - [sony/gobreaker](https://github.com/sony/gobreaker) - Circuit Breaker implemented in Go
+- [golang/vulndb](https://github.com/golang/vulndb) - [mirror] The Go Vulnerability Database
 - [knadh/sql-jobber](https://github.com/knadh/sql-jobber) - A highly opinionated, distributed job-queue built specifically for queuing and executing heavy SQL read jobs asynchronously. Supports MySQL, Postgres, ClickHouse.
 - [treeverse/lakeFS](https://github.com/treeverse/lakeFS) - Git-like capabilities for your object storage
 - [teh-cmc/go-internals](https://github.com/teh-cmc/go-internals) - A book about the internals of the Go programming language.
@@ -1053,7 +1055,7 @@
 - [ktr0731/evans](https://github.com/ktr0731/evans) - Evans: more expressive universal gRPC client
 - [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
 - [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) - A lightweight IoT edge analytics software
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Photos App powered by Go and Google TensorFlow 🌈
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Photos App powered by Go and Google TensorFlow 🌈 🎄
 - [vektra/mockery](https://github.com/vektra/mockery) - A mock code autogenerator for Golang
 - [bxcodec/go-clean-arch](https://github.com/bxcodec/go-clean-arch) - Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture
 - [ksimka/go-is-not-good](https://github.com/ksimka/go-is-not-good) - A curated list of articles complaining that go (golang) isn't good enough
@@ -1631,6 +1633,7 @@
 
 ## JavaScript 
 
+- [igrigorik/videospeed](https://github.com/igrigorik/videospeed) - HTML5 video speed controller (for Google Chrome)
 - [weinberg/SQLToy](https://github.com/weinberg/SQLToy) - An in-memory SQL database written in Javascript to demonstrate how SQL works.
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀
 - [foreversd/forever](https://github.com/foreversd/forever) - A simple CLI tool for ensuring that a given script runs continuously (i.e. forever)
@@ -3328,7 +3331,7 @@
 - [speechbrain/speechbrain](https://github.com/speechbrain/speechbrain) - A PyTorch-based Speech Toolkit
 - [lucidrains/deep-daze](https://github.com/lucidrains/deep-daze) - Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network). Technique was originally created by https://twitter.com/advadnoun
 - [mnschmit/unsupervised-graph-text-conversion](https://github.com/mnschmit/unsupervised-graph-text-conversion) - This is the code for the EMNLP 2020 paper "An Unsupervised Joint System for Text Generation from Knowledge Graphs and Semantic Parsing".
-- [zenml-io/zenml](https://github.com/zenml-io/zenml) - ZenML 🙏: MLOps framework to create reproducible ML pipelines for production machine learning.
+- [zenml-io/zenml](https://github.com/zenml-io/zenml) - ZenML 🙏: MLOps framework to create reproducible pipelines.
 - [ContinualAI/avalanche](https://github.com/ContinualAI/avalanche) - Avalanche: an End-to-End Library for Continual Learning.
 - [mit-han-lab/anycost-gan](https://github.com/mit-han-lab/anycost-gan) - [CVPR 2021] Anycost GANs for Interactive Image Synthesis and Editing
 - [lucidrains/perceiver-pytorch](https://github.com/lucidrains/perceiver-pytorch) - Implementation of Perceiver, General Perception with Iterative Attention, in Pytorch
@@ -3577,7 +3580,7 @@
 - [koursaros-ai/nboost](https://github.com/koursaros-ai/nboost) - NBoost is a scalable, search-api-boosting platform for deploying transformer models to improve the relevance of search results on different platforms (i.e. Elasticsearch)
 - [golemfactory/clay](https://github.com/golemfactory/clay) - Golem is creating a global market for computing power.
 - [cjrh/aiorun](https://github.com/cjrh/aiorun) - A "run" function for asyncio-based apps that does all the boilerplate.
-- [Instagram/MonkeyType](https://github.com/Instagram/MonkeyType) - A system for Python that generates static type annotations by collecting runtime types
+- [Instagram/MonkeyType](https://github.com/Instagram/MonkeyType) - A Python library that generates static type annotations by collecting runtime types
 - [quay/quay](https://github.com/quay/quay) - Build, Store, and Distribute your Applications and Containers
 - [Jittor/jittor](https://github.com/Jittor/jittor) - Jittor is a high-performance deep learning framework based on JIT compiling and meta-operators.
 - [RJT1990/pyflux](https://github.com/RJT1990/pyflux) - Open source time series library for Python
@@ -5933,7 +5936,7 @@
 - [openai/generating-reviews-discovering-sentiment](https://github.com/openai/generating-reviews-discovering-sentiment) - Code for "Learning to Generate Reviews and Discovering Sentiment"
 - [victorneo/Twitter-Sentimental-Analysis](https://github.com/victorneo/Twitter-Sentimental-Analysis) - 
 - [airbnb/streamalert](https://github.com/airbnb/streamalert) - StreamAlert is a serverless, realtime data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using datasources and alerting logic you define.
-- [sanic-org/sanic](https://github.com/sanic-org/sanic) - Async Python 3.7+ web server/framework | Build fast. Run fast.
+- [sanic-org/sanic](https://github.com/sanic-org/sanic) - Next generation Python web server/framework | Build fast. Run fast.
 - [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [Kyubyong/wordvectors](https://github.com/Kyubyong/wordvectors) - Pre-trained word vectors of 30+ languages
 - [tensorflow/fold](https://github.com/tensorflow/fold) - Deep learning with dynamic computation graphs in TensorFlow
@@ -6282,6 +6285,10 @@
 
 - [renpy/renpy](https://github.com/renpy/renpy) - The Ren'Py Visual Novel Engine
 
+## Roff 
+
+- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
+
 ## Ruby 
 
 - [twilio/media-streams](https://github.com/twilio/media-streams) - Quick start guides for configuring and consuming Twilio Media Streams
@@ -6301,6 +6308,7 @@
 
 ## Rust 
 
+- [mgattozzi/curryrs](https://github.com/mgattozzi/curryrs) - Bridge the gap between Haskell and Rust
 - [google/mosaic](https://github.com/google/mosaic) - A C++ bindings generator for Rust.
 - [andreev-io/little-raft](https://github.com/andreev-io/little-raft) - The lightest distributed consensus library. Run your own replicated state machine! ❤️
 - [memc-rs/memc-rs](https://github.com/memc-rs/memc-rs) - A general-purpose distributed memory cache system compatible with Memcached
@@ -6609,7 +6617,7 @@
 - [bigdatagenomics/adam](https://github.com/bigdatagenomics/adam) - ADAM is a genomics analysis platform with specialized file formats built using Apache Avro, Apache Spark, and Apache Parquet. Apache 2 licensed.
 - [bigdatagenomics/mango](https://github.com/bigdatagenomics/mango) - A scalable genome browser. Apache 2 licensed.
 - [foundweekends/giter8](https://github.com/foundweekends/giter8) - a command line tool to apply templates defined on GitHub
-- [getquill/quill](https://github.com/getquill/quill) - Compile-time Language Integrated Queries for Scala
+- [zio/zio-quill](https://github.com/zio/zio-quill) - Compile-time Language Integrated Queries for Scala
 - [spark-examples/spark-scala-examples](https://github.com/spark-examples/spark-scala-examples) - This project provides Apache Spark SQL, RDD, DataFrame and Dataset examples in Scala language
 - [databricks/Spark-The-Definitive-Guide](https://github.com/databricks/Spark-The-Definitive-Guide) - Spark: The Definitive Guide's Code Repository
 - [JohnSnowLabs/spark-nlp](https://github.com/JohnSnowLabs/spark-nlp) - State of the Art Natural Language Processing
@@ -6635,7 +6643,6 @@
 
 - [hexive/sunpaper](https://github.com/hexive/sunpaper) - Dynamic wallpaper changes based on the sun.
 - [pyenv/pyenv-installer](https://github.com/pyenv/pyenv-installer) - This tool is used to install `pyenv` and friends.
-- [golang/vulndb](https://github.com/golang/vulndb) - [mirror] The Go Vulnerability Database
 - [Dhghomon/easy_rust](https://github.com/Dhghomon/easy_rust) - Rust explained using easy English
 - [stellar/quickstart](https://github.com/stellar/quickstart) - Home of the stellar/quickstart docker image for development and testing
 - [apple/tensorflow_macos](https://github.com/apple/tensorflow_macos) - TensorFlow for macOS 11.0+ accelerated using Apple's ML Compute framework.
@@ -6654,7 +6661,7 @@
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 600+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Kafka, Docker, APIs, Hadoop, SQL, PostgreSQL, MySQL, Hive, Impala, Travis CI, Jenkins, Concourse, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, .tmux.conf, .psqlrc ...
 - [replicatedhq/kURL](https://github.com/replicatedhq/kURL) - Production-grade, airgapped Kubernetes installer combining upstream k8s with overlays and popular components
 - [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers
-- [fsquillace/junest](https://github.com/fsquillace/junest) - The lightweight Arch Linux based distro that runs upon any Linux distros without root access
+- [fsquillace/junest](https://github.com/fsquillace/junest) - The lightweight Arch Linux based distro that runs, without root privileges, upon any Linux distro
 - [Mitchellpkt/CIPFS](https://github.com/Mitchellpkt/CIPFS) - Confidentiality layer for IPFS decentralized storage, with no UX compromises
 - [pivpn/pivpn](https://github.com/pivpn/pivpn) - The Simplest VPN installer, designed for Raspberry Pi
 - [lzhbrian/Cool-Fashion-Papers](https://github.com/lzhbrian/Cool-Fashion-Papers) - 👔👗🕶️🎩 Cool resources about Fashion + AI! (papers, datasets, workshops, companies, ...) (constantly updating)
@@ -6665,7 +6672,6 @@
 - [catalyst-team/classification](https://github.com/catalyst-team/classification) - Catalyst.Classification
 - [donnyyou/torchcv](https://github.com/donnyyou/torchcv) - TorchCV: A PyTorch-Based Framework for Deep Learning in Computer Vision
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [jwass/pep8-staged](https://github.com/jwass/pep8-staged) - Git pre-commit hook to run pep8 on staged files.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [s1341/pyenv-alias](https://github.com/s1341/pyenv-alias) - pyenv plugin to allow you to install python versions with user-specified 'aliases'.
