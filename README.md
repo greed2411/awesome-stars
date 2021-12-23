@@ -709,7 +709,7 @@
 - [matthiasn/systems-toolbox](https://github.com/matthiasn/systems-toolbox) - Tools and building blocks for building Systems in Clojure and ClojureScript
 - [walmartlabs/lacinia](https://github.com/walmartlabs/lacinia) - GraphQL implementation in pure Clojure
 - [ptaoussanis/tufte](https://github.com/ptaoussanis/tufte) - Simple profiling and performance monitoring for Clojure/Script
-- [xtdb/xtdb](https://github.com/xtdb/xtdb) - General purpose bitemporal database for SQL, Datalog & graph queries. Developed by @juxt
+- [xtdb/xtdb](https://github.com/xtdb/xtdb) - General-purpose bitemporal database for SQL, Datalog & graph queries. Developed by @juxt
 - [metosin/malli](https://github.com/metosin/malli) - Data-Driven Schemas for Clojure/Script.
 - [siclait/6.824-cljlabs-2020](https://github.com/siclait/6.824-cljlabs-2020) - Clojure ports for the Spring 2020 labs of MIT's 6.824: Distributed Systems
 - [clojure-clutch/clutch](https://github.com/clojure-clutch/clutch) - A Clojure library for Apache CouchDB.
@@ -1508,7 +1508,6 @@
 - [therewillbecode/poker-maison](https://github.com/therewillbecode/poker-maison) - 🂺 A Multiplayer Poker App Crafted with Haskell and React
 - [jeltsch/incremental-computing](https://github.com/jeltsch/incremental-computing) - Incremental computing
 - [hasktorch/hasktorch](https://github.com/hasktorch/hasktorch) - Tensors and neural networks in Haskell
-- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
 
 ## Hy 
 
@@ -3160,6 +3159,7 @@
 
 ## Python 
 
+- [openai/glide-text2im](https://github.com/openai/glide-text2im) - GLIDE: a diffusion-based text-conditional image synthesis model
 - [ucg8j/awesome-dash](https://github.com/ucg8j/awesome-dash) - A curated list of awesome Dash (plotly) resources
 - [encode/databases](https://github.com/encode/databases) - Async database support for Python. 🗄
 - [tlc-pack/relax](https://github.com/tlc-pack/relax) - Temp repo for prototyping relax(relay next), the effort will be upstreamed. We use the wiki pages on this repo to host design docs.
@@ -6027,6 +6027,7 @@
 - [RasaHQ/rasa](https://github.com/RasaHQ/rasa) - 💬   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants
 - [rougier/ASPP-2017](https://github.com/rougier/ASPP-2017) - Material for the Advanced Scientific Python Programming course, Nikiti, Greece, 2017
 - [zcyang/imageqa-san](https://github.com/zcyang/imageqa-san) - code for Stacked attention networks for image question answering
+- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
 - [flomlo/ntm_keras](https://github.com/flomlo/ntm_keras) - An implementation of the Neural Turing Machine as a keras recurrent layer.
 - [bplank/bilstm-aux](https://github.com/bplank/bilstm-aux) - Bidirectional Long-Short Term Memory tagger (bi-LSTM) (in DyNet) -- hierarchical (with word and character embeddings)
 - [petertodd/python-bitcoinlib](https://github.com/petertodd/python-bitcoinlib) - Python3 library providing an easy interface to the Bitcoin data structures and protocol.
