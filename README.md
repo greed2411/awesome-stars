@@ -411,7 +411,7 @@
 - [KlugerLab/FIt-SNE](https://github.com/KlugerLab/FIt-SNE) - Fast Fourier Transform-accelerated Interpolation-based  t-SNE (FIt-SNE)
 - [meekrosoft/fff](https://github.com/meekrosoft/fff) - A testing micro framework for creating function test doubles
 - [pdziepak/codegen](https://github.com/pdziepak/codegen) - Experimental wrapper over LLVM for generating and compiling code at run-time.
-- [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Parallel programming for everyone.
+- [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive parallel programming in "Python".
 - [microsoft/SPTAG](https://github.com/microsoft/SPTAG) - A distributed approximate nearest neighborhood search (ANN) library which provides a high quality vector index build, search and distributed online serving toolkits for large scale vector search scenario.
 - [rmsalinas/fbow](https://github.com/rmsalinas/fbow) - FBOW (Fast Bag of Words) is an extremmely optimized version of the DBow2/DBow3 libraries.
 - [praveen-palanisamy/multiple-object-tracking-lidar](https://github.com/praveen-palanisamy/multiple-object-tracking-lidar) - C++ implementation to Detect, track and classify multiple objects using LIDAR scans or point cloud
@@ -2328,6 +2328,7 @@
 - [21eleven/math-of-intelligence](https://github.com/21eleven/math-of-intelligence) - my submissions for Siraj Raval's weekly challenges from The Math of Intelligence course.
 - [henripal/labnotebook](https://github.com/henripal/labnotebook) - LabNotebook is a tool that allows you to flexibly monitor, record, save, and query all your machine learning experiments.
 - [scikit-learn-contrib/skope-rules](https://github.com/scikit-learn-contrib/skope-rules) - machine learning with logical rules in Python
+- [neuronets/nobrainer](https://github.com/neuronets/nobrainer) - A framework for developing neural network models for 3D image processing.
 - [jessicayung/self-driving-car-nd](https://github.com/jessicayung/self-driving-car-nd) - Udacity's Self-Driving Car Nanodegree project files and notes.
 - [keon/pytorch-exercises](https://github.com/keon/pytorch-exercises) - Pytorch exercises
 - [normandipalo/faceID_beta](https://github.com/normandipalo/faceID_beta) - An implementation of iPhone X's FaceID using face embeddings and siamese networks on RGBD images.
@@ -2568,6 +2569,7 @@
 
 ## Others 
 
+- [sec-bit/learning-zkp](https://github.com/sec-bit/learning-zkp) - articles, codes and tools all about zero-knowledge proofs
 - [WilliamYi96/Awesome-Zero-Shot-Learning](https://github.com/WilliamYi96/Awesome-Zero-Shot-Learning) - Latest progresses (papers & datasets) of zero-shot learning.
 - [thoughtworks/mlops-platforms](https://github.com/thoughtworks/mlops-platforms) - Compare MLOps Platforms. Breakdowns of SageMaker, VertexAI, AzureML, Dataiku, Databricks, h2o, kubeflow, mlflow...
 - [dreamhead/patterns-of-distributed-systems](https://github.com/dreamhead/patterns-of-distributed-systems) - 《Patterns of Distributed Systems》中文版
@@ -5659,7 +5661,6 @@
 - [pytorch/tnt](https://github.com/pytorch/tnt) - Simple tools for logging and visualizing, loading and training
 - [pytorch/ignite](https://github.com/pytorch/ignite) - High-level library to help with training and evaluating neural networks in PyTorch flexibly and transparently.
 - [thunlp/TensorFlow-Summarization](https://github.com/thunlp/TensorFlow-Summarization) - 
-- [neuronets/nobrainer](https://github.com/neuronets/nobrainer) - A framework for developing neural network models for 3D image processing.
 - [PetrochukM/PyTorch-NLP](https://github.com/PetrochukM/PyTorch-NLP) - Basic Utilities for PyTorch Natural Language Processing (NLP)
 - [adamyala/Your_First_Decentralized_Application_Python](https://github.com/adamyala/Your_First_Decentralized_Application_Python) - An up to date and bare minimum tutorial on deploying smart contracts with python
 - [philipperemy/my-first-bitcoin-miner](https://github.com/philipperemy/my-first-bitcoin-miner) - For the curious minds who want to understand how Bitcoin Blockchain works!
