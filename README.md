@@ -411,7 +411,7 @@
 - [KlugerLab/FIt-SNE](https://github.com/KlugerLab/FIt-SNE) - Fast Fourier Transform-accelerated Interpolation-based  t-SNE (FIt-SNE)
 - [meekrosoft/fff](https://github.com/meekrosoft/fff) - A testing micro framework for creating function test doubles
 - [pdziepak/codegen](https://github.com/pdziepak/codegen) - Experimental wrapper over LLVM for generating and compiling code at run-time.
-- [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive parallel programming in "Python".
+- [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive & portable high-performance programming in Python.
 - [microsoft/SPTAG](https://github.com/microsoft/SPTAG) - A distributed approximate nearest neighborhood search (ANN) library which provides a high quality vector index build, search and distributed online serving toolkits for large scale vector search scenario.
 - [rmsalinas/fbow](https://github.com/rmsalinas/fbow) - FBOW (Fast Bag of Words) is an extremmely optimized version of the DBow2/DBow3 libraries.
 - [praveen-palanisamy/multiple-object-tracking-lidar](https://github.com/praveen-palanisamy/multiple-object-tracking-lidar) - C++ implementation to Detect, track and classify multiple objects using LIDAR scans or point cloud
@@ -5551,7 +5551,7 @@
 - [kaushalshetty/Structured-Self-Attention](https://github.com/kaushalshetty/Structured-Self-Attention) - A Structured Self-attentive Sentence Embedding
 - [awesome-davian/Text2Colors](https://github.com/awesome-davian/Text2Colors) - Code for "Coloring with Words: Guiding Image Colorization through Text-based Palette Generation" - ECCV 2018
 - [google/pytype](https://github.com/google/pytype) - A static type analyzer for Python code
-- [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - An Easy-to-use Speech Toolkit including SOTA ASR pipeline, influential TTS with text frontend and End-to-End Speech Simultaneous Translation.
+- [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Easy-to-use Speech Toolkit including SOTA ASR pipeline, influential TTS with text frontend and End-to-End Speech Simultaneous Translation.
 - [OlegYurchik/pyInstagram](https://github.com/OlegYurchik/pyInstagram) - This is a simple and easy-to-use library for interacting with the Instagram. The library works through the web interface of the Instagram and does not depend on the official API
 - [cs1707/tldr-alfred](https://github.com/cs1707/tldr-alfred) - tldr alfred workflow
 - [MLBazaar/BTB](https://github.com/MLBazaar/BTB) - A simple, extensible library for developing AutoML systems
