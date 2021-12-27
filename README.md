@@ -3325,7 +3325,7 @@
 - [bashtage/arch](https://github.com/bashtage/arch) - ARCH models in Python
 - [facebookresearch/CrypTen](https://github.com/facebookresearch/CrypTen) - A framework for Privacy Preserving Machine Learning
 - [google-research/realworldrl_suite](https://github.com/google-research/realworldrl_suite) - Real-World RL Benchmark Suite
-- [RangiLyu/nanodet](https://github.com/RangiLyu/nanodet) - ⚡Super fast and lightweight anchor-free object detection model. 🔥Only 980 KB(int8) / 1.8MB (fp16) and run 97FPS on cellphone🔥
+- [RangiLyu/nanodet](https://github.com/RangiLyu/nanodet) - NanoDet-Plus⚡Super fast and lightweight anchor-free object detection model. 🔥Only 980 KB(int8) / 1.8MB (fp16) and run 97FPS on cellphone🔥
 - [uncertainty-toolbox/uncertainty-toolbox](https://github.com/uncertainty-toolbox/uncertainty-toolbox) - A python toolbox for predictive uncertainty quantification, calibration, metrics, and visualization
 - [microsoft/Swin-Transformer](https://github.com/microsoft/Swin-Transformer) - This is an official implementation for "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows".
 - [JohnMcCambridge/flenser](https://github.com/JohnMcCambridge/flenser) - Flenser is a simple, minimal, automated exploratory data analysis tool.
