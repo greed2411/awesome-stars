@@ -1920,7 +1920,7 @@
 - [kaesve/muzero](https://github.com/kaesve/muzero) - A clean implementation of MuZero and AlphaZero following the AlphaZero General framework. Train and Pit both algorithms against each other, and investigate reliability of learned MuZero MDP models.
 - [studio-ousia/luke](https://github.com/studio-ousia/luke) - LUKE -- Language Understanding with Knowledge-based Embeddings
 - [jmschrei/pomegranate](https://github.com/jmschrei/pomegranate) - Fast, flexible and easy to use probabilistic modelling in Python.
-- [jalammar/ecco](https://github.com/jalammar/ecco) - Visualize and explore NLP language models. Ecco creates interactive visualizations directly in Jupyter notebooks explaining the behavior of Transformer-based language models (like GPT2).
+- [jalammar/ecco](https://github.com/jalammar/ecco) - Visualize and explore NLP language models. Ecco creates interactive visualizations directly in Jupyter notebooks explaining the behavior of Transformer-based language models (like GPT2, BERT, RoBERTA, T5, and T0).
 - [evidentlyai/evidently](https://github.com/evidentlyai/evidently) - Interactive reports to analyze machine learning models during validation or production monitoring.
 - [google-research/vision_transformer](https://github.com/google-research/vision_transformer) - 
 - [kohpangwei/influence-release](https://github.com/kohpangwei/influence-release) - 
@@ -1980,7 +1980,6 @@
 - [mosheman5/DNP](https://github.com/mosheman5/DNP) - Audio Denoising with Deep Network Priors
 - [google/neural-tangents](https://github.com/google/neural-tangents) - Fast and Easy Infinite Neural Networks in Python
 - [IDEA-NTHU-Taiwan/PatternTutorial](https://github.com/IDEA-NTHU-Taiwan/PatternTutorial) - A Graph-based Pattern Representations Tutorial
-- [probml/pyprobml](https://github.com/probml/pyprobml) - Python code for "Machine learning: a probabilistic perspective" (2nd edition)
 - [timnon/pyschedule](https://github.com/timnon/pyschedule) - pyschedule - resource scheduling in python
 - [successar/AttentionExplanation](https://github.com/successar/AttentionExplanation) - 
 - [jorwalk/data-engineering-gcp](https://github.com/jorwalk/data-engineering-gcp) - Data Engineering on Google Cloud Platform
@@ -2552,6 +2551,7 @@
 
 ## Nim 
 
+- [mratsim/weave](https://github.com/mratsim/weave) - A state-of-the-art multithreading runtime: message-passing based, fast, scalable, ultra-low overhead
 - [mratsim/Arraymancer](https://github.com/mratsim/Arraymancer) - A fast, ergonomic and portable tensor library in Nim with a deep learning focus for CPU, GPU and embedded devices via OpenMP, Cuda and OpenCL backends
 
 ## OCaml 
@@ -4061,6 +4061,7 @@
 - [facebookresearch/LAMA](https://github.com/facebookresearch/LAMA) - LAnguage Model Analysis
 - [Roulbac/GanSeg](https://github.com/Roulbac/GanSeg) - Framework for medical image segmentation using deep neural networks
 - [ets-labs/python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) - Dependency injection framework for Python
+- [probml/pyprobml](https://github.com/probml/pyprobml) - Python code for "Machine learning: a probabilistic perspective" (2nd edition)
 - [ruotianluo/Context-aware-ZSR](https://github.com/ruotianluo/Context-aware-ZSR) - Official code for paper Context-aware Zero-shot Recognition (https://arxiv.org/abs/1904.09320 to appear at AAAI2020)
 - [ethereum/py-solc](https://github.com/ethereum/py-solc) - Python wrapper around the solc Solidity compiler.
 - [eth-brownie/brownie](https://github.com/eth-brownie/brownie) - A Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.
@@ -6305,6 +6306,7 @@
 
 ## Ruby 
 
+- [drujensen/fib](https://github.com/drujensen/fib) - Performance Benchmark of top Github languages
 - [twilio/media-streams](https://github.com/twilio/media-streams) - Quick start guides for configuring and consuming Twilio Media Streams
 - [msgpack-rpc/msgpack-rpc](https://github.com/msgpack-rpc/msgpack-rpc) - MessagePack-RPC is an inter-process messaging library that uses MessagePack for object serialization.
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
