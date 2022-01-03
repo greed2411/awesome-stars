@@ -270,6 +270,7 @@
 
 ## C++ 
 
+- [google/benchmark](https://github.com/google/benchmark) - A microbenchmark support library
 - [makuto/cakelisp](https://github.com/makuto/cakelisp) - Metaprogrammable, hot-reloadable, no-GC language for high perf programs (especially games), with seamless C/C++ interop
 - [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for adding effects to audio.
 - [facebook/proxygen](https://github.com/facebook/proxygen) - A collection of C++ HTTP libraries including an easy to use HTTP server.
@@ -540,7 +541,7 @@
 - [cgtuebingen/Flex-Convolution](https://github.com/cgtuebingen/Flex-Convolution) - Source code for: Flex-Convolution (Million-Scale Point-Cloud Learning Beyond Grid-Worlds), accepted at ACCV 2018
 - [gperftools/gperftools](https://github.com/gperftools/gperftools) - Main gperftools repository
 - [googleprojectzero/functionsimsearch](https://github.com/googleprojectzero/functionsimsearch) - Some C++ example code to demonstrate how to perform code similarity searches using SimHashing.
-- [fastmachinelearning/hls4ml](https://github.com/fastmachinelearning/hls4ml) - Machine learning in FPGAs using HLS
+- [fastmachinelearning/hls4ml](https://github.com/fastmachinelearning/hls4ml) - Machine learning on FPGAs using HLS
 - [Tencent/MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.
 - [dmlc/treelite](https://github.com/dmlc/treelite) - model compiler for decision tree ensembles
 - [facebookincubator/LogDevice](https://github.com/facebookincubator/LogDevice) - Distributed storage for sequential data
@@ -1532,6 +1533,7 @@
 
 ## Java 
 
+- [apache/incubator-seatunnel](https://github.com/apache/incubator-seatunnel) - SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time).
 - [spotify/mobius](https://github.com/spotify/mobius) - A functional reactive framework for managing state evolution and side-effects.
 - [apache/zeppelin](https://github.com/apache/zeppelin) - Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.
 - [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - The open big data serving engine. https://vespa.ai
@@ -6337,6 +6339,8 @@
 
 ## Rust 
 
+- [Rust-GPU/Rust-CUDA](https://github.com/Rust-GPU/Rust-CUDA) - Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust.
+- [adwhit/itchy-rust](https://github.com/adwhit/itchy-rust) - NASDAQ ITCH parser in Rust
 - [gtk-rs/gir](https://github.com/gtk-rs/gir) - Tool to generate rust bindings and user API for glib-based libraries
 - [sdroege/gstreamer-rs](https://github.com/sdroege/gstreamer-rs) - GStreamer bindings for Rust - This repository moved to https://gitlab.freedesktop.org/gstreamer/gstreamer-rs
 - [quickwit-inc/quickwit](https://github.com/quickwit-inc/quickwit) - Quickwit is a fast and cost-efficient distributed search engine for large-scale, immutable data.
