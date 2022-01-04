@@ -104,6 +104,7 @@
 
 ## C 
 
+- [aleaxit/gmpy](https://github.com/aleaxit/gmpy) - General Multi-Precision arithmetic for Python 2.6+/3+ (GMP, MPIR, MPFR, MPC)
 - [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
 - [shuveb/io_uring-by-example](https://github.com/shuveb/io_uring-by-example) - A companion repository for the io_uring by Example article series
 - [openSUSE/libsolv](https://github.com/openSUSE/libsolv) - Library for solving packages and reading repositories
@@ -117,7 +118,7 @@
 - [FastFilter/xor_singleheader](https://github.com/FastFilter/xor_singleheader) - Header-only binary fuse and xor filter library
 - [ApsaraDB/PolarDB-for-PostgreSQL](https://github.com/ApsaraDB/PolarDB-for-PostgreSQL) - The default branch of PolarDB switched to “main” on 20210901, which supports compute-storage separation architecture. The “POLARDB_11_STABLE” is the stable branch which is based on PostgreSQL 11.9. The “master” branch in the past switched to “distributed” branch, which supports distributed architecture.
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
-- [nalgeon/sqlean](https://github.com/nalgeon/sqlean) - All the missing SQLite functions
+- [nalgeon/sqlean](https://github.com/nalgeon/sqlean) - The ultimate set of SQLite extensions
 - [emikulic/darkhttpd](https://github.com/emikulic/darkhttpd) - When you need a web server in a hurry.
 - [coreutils/coreutils](https://github.com/coreutils/coreutils) - upstream mirror
 - [pawelsalawa/sqlitestudio](https://github.com/pawelsalawa/sqlitestudio) - A free, open source, multi-platform SQLite database manager.
@@ -676,6 +677,7 @@
 
 ## Clojure 
 
+- [kachayev/muse](https://github.com/kachayev/muse) - Clojure library that makes remote data access code elegant and efficient at the same time
 - [day8/re-frame](https://github.com/day8/re-frame) - A ClojureScript framework for building user interfaces, leveraging React
 - [mikera/core.matrix](https://github.com/mikera/core.matrix) - core.matrix : Multi-dimensional array programming API for Clojure
 - [smothers/cause](https://github.com/smothers/cause) - An EDN-like CRDT (Causal Tree) for Clojure & ClojureScript that automatically tracks history and resolves conflicts.
@@ -829,6 +831,7 @@
 
 ## Go 
 
+- [armon/go-radix](https://github.com/armon/go-radix) - Golang implementation of Radix trees
 - [tinyzimmer/go-gst](https://github.com/tinyzimmer/go-gst) - Gstreamer bindings and utilities for golang
 - [cespare/percpu](https://github.com/cespare/percpu) - Best-effort CPU-local sharded values for Go
 - [dgraph-io/ristretto](https://github.com/dgraph-io/ristretto) - A high performance memory-bound Go cache
@@ -1487,6 +1490,7 @@
 
 ## Haskell 
 
+- [facebook/Haxl](https://github.com/facebook/Haxl) - A Haskell library that simplifies access to remote data, such as databases or web-based services.
 - [google/haskell-trainings](https://github.com/google/haskell-trainings) - Haskell 101 and 102: slides and codelabs
 - [simonmichael/hledger](https://github.com/simonmichael/hledger) - A reliable, user-friendly Plain Text Accounting tool with command line, terminal and web interfaces.
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
@@ -3181,6 +3185,8 @@
 
 ## Python 
 
+- [illBeRoy/taskipy](https://github.com/illBeRoy/taskipy) - the complementary task runner for python
+- [nat-n/poethepoet](https://github.com/nat-n/poethepoet) - A task runner that works well with poetry.
 - [mpi4jax/mpi4jax](https://github.com/mpi4jax/mpi4jax) - Zero-copy MPI communication of JAX arrays, for turbo-charged HPC applications in Python :zap:
 - [LukasMasuch/streamlit-pydantic](https://github.com/LukasMasuch/streamlit-pydantic) - 🪄 Auto-generate Streamlit UI from Pydantic Models and Dataclasses.
 - [Fatal1ty/mashumaro](https://github.com/Fatal1ty/mashumaro) - Fast and well tested serialization framework on top of dataclasses
@@ -6339,6 +6345,7 @@
 
 ## Rust 
 
+- [tesselode/kira](https://github.com/tesselode/kira) - Library for expressive game audio.
 - [Rust-GPU/Rust-CUDA](https://github.com/Rust-GPU/Rust-CUDA) - Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust.
 - [adwhit/itchy-rust](https://github.com/adwhit/itchy-rust) - NASDAQ ITCH parser in Rust
 - [gtk-rs/gir](https://github.com/gtk-rs/gir) - Tool to generate rust bindings and user API for glib-based libraries
