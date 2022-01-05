@@ -271,6 +271,7 @@
 
 ## C++ 
 
+- [sparsehash/sparsehash](https://github.com/sparsehash/sparsehash) - C++ associative containers
 - [google/benchmark](https://github.com/google/benchmark) - A microbenchmark support library
 - [makuto/cakelisp](https://github.com/makuto/cakelisp) - Metaprogrammable, hot-reloadable, no-GC language for high perf programs (especially games), with seamless C/C++ interop
 - [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for adding effects to audio.
@@ -831,6 +832,8 @@
 
 ## Go 
 
+- [duke-git/lancet](https://github.com/duke-git/lancet) - A comprehensive, efficient, and reusable util function library of go.
+- [Workiva/go-datastructures](https://github.com/Workiva/go-datastructures) - A collection of useful, performant, and threadsafe Go datastructures.
 - [armon/go-radix](https://github.com/armon/go-radix) - Golang implementation of Radix trees
 - [tinyzimmer/go-gst](https://github.com/tinyzimmer/go-gst) - Gstreamer bindings and utilities for golang
 - [cespare/percpu](https://github.com/cespare/percpu) - Best-effort CPU-local sharded values for Go
@@ -950,7 +953,7 @@
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
 - [ory/keto](https://github.com/ory/keto) - Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models.
 - [drone/drone-gc](https://github.com/drone/drone-gc) - Garbage collection of unused docker resources
-- [hibiken/asynq](https://github.com/hibiken/asynq) - Asynq: simple, reliable, and efficient distributed task queue in Go
+- [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go
 - [c-bata/kube-prompt](https://github.com/c-bata/kube-prompt) - An interactive kubernetes client featuring auto-complete.
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [climech/grit](https://github.com/climech/grit) - Multitree-based personal task manager
@@ -1647,6 +1650,7 @@
 
 ## JavaScript 
 
+- [tengbao/vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [igrigorik/videospeed](https://github.com/igrigorik/videospeed) - HTML5 video speed controller (for Google Chrome)
 - [weinberg/SQLToy](https://github.com/weinberg/SQLToy) - An in-memory SQL database written in Javascript to demonstrate how SQL works.
@@ -1848,7 +1852,6 @@
 - [agermanidis/livepython](https://github.com/agermanidis/livepython) - Visually trace Python code in real-time.
 - [sindresorhus/cli-spinners](https://github.com/sindresorhus/cli-spinners) - Spinners for use in the terminal
 - [calipho-sib/feature-viewer](https://github.com/calipho-sib/feature-viewer) - Library to visualize protein sequence features in javascript using D3 - From SIB CALIPHO group; neXtProt project
-- [Marak/faker.js](https://github.com/Marak/faker.js) - generate massive amounts of realistic fake data in Node.js and the browser
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated interview preparation materials for busy engineers
 - [pastelsky/bundlephobia](https://github.com/pastelsky/bundlephobia) - 🏋️ Find out the cost of adding a new frontend dependency to your project
 - [airbnb/hypernova](https://github.com/airbnb/hypernova) - A service for server-side rendering your JavaScript views
@@ -3185,6 +3188,7 @@
 
 ## Python 
 
+- [thp/urlwatch](https://github.com/thp/urlwatch) - urlwatch monitors webpages for you
 - [illBeRoy/taskipy](https://github.com/illBeRoy/taskipy) - the complementary task runner for python
 - [nat-n/poethepoet](https://github.com/nat-n/poethepoet) - A task runner that works well with poetry.
 - [mpi4jax/mpi4jax](https://github.com/mpi4jax/mpi4jax) - Zero-copy MPI communication of JAX arrays, for turbo-charged HPC applications in Python :zap:
@@ -3693,7 +3697,7 @@
 - [f-prime/arcanevm](https://github.com/f-prime/arcanevm) - A Fully Homomorphic Encryption Brainfuck virtual machine
 - [srlearn/srlearn](https://github.com/srlearn/srlearn) - ☕ A Python library for gradient-boosted statistical relational models.
 - [tssm/up-to-date-real-world-haskell](https://github.com/tssm/up-to-date-real-world-haskell) - I'm trying to update the Real World Haskell book
-- [edgedb/edgedb](https://github.com/edgedb/edgedb) - The next generation relational database.
+- [edgedb/edgedb](https://github.com/edgedb/edgedb) - A next-generation graph-relational database.
 - [Zhenye-Na/reinforcement-learning-stanford](https://github.com/Zhenye-Na/reinforcement-learning-stanford) - 🕹️ CS234: Reinforcement Learning, Winter 2019 | YouTube videos 👉
 - [LingDong-/ci-ren](https://github.com/LingDong-/ci-ren) - Generative Chinese poetry
 - [M4cs/pixcryption](https://github.com/M4cs/pixcryption) - :camera: Pixel Safe Encryption - Now Cryptographically Secure :lock:
@@ -4331,7 +4335,7 @@
 - [yyuanad/Pytorch_C3D_Feature_Extractor](https://github.com/yyuanad/Pytorch_C3D_Feature_Extractor) - Pytorch C3D feature extractor
 - [andy-yun/pytorch-0.4-yolov3](https://github.com/andy-yun/pytorch-0.4-yolov3) - Yet Another Implimentation of Pytroch 0.4.1 and YoloV3 on python3
 - [sxhxliang/BigGAN-pytorch](https://github.com/sxhxliang/BigGAN-pytorch) - Pytorch implementation of LARGE SCALE GAN TRAINING FOR HIGH FIDELITY NATURAL IMAGE SYNTHESIS (BigGAN)
-- [xinghaochen/Pose-REN](https://github.com/xinghaochen/Pose-REN) - Demo code for "Pose Guided Structured Region Ensemble Network for Cascaded Hand Pose Estimation", Neurocomputing 2020
+- [xinghaochen/Pose-REN](https://github.com/xinghaochen/Pose-REN) - Code for "Pose Guided Structured Region Ensemble Network for Cascaded Hand Pose Estimation", Neurocomputing 2020
 - [d-li14/mobilenetv2.pytorch](https://github.com/d-li14/mobilenetv2.pytorch) - 72.8% MobileNetV2 1.0 model on ImageNet and a spectrum of pre-trained MobileNetV2 models
 - [xcyan/eccv18_mtvae](https://github.com/xcyan/eccv18_mtvae) - Tensorflow Implementation of ECCV'18 paper: Multimodal Human Motion Synthesis
 - [jinyu121/video2frame](https://github.com/jinyu121/video2frame) - Yet another easy-to-use tool to extract frames from videos, for deep learning and computer vision.
@@ -4523,7 +4527,7 @@
 - [google/pasta](https://github.com/google/pasta) - Library to refactor python code through AST manipulation.
 - [sagiebenaim/Singing](https://github.com/sagiebenaim/Singing) - 
 - [Sleepwalking/pytorch-softdtw](https://github.com/Sleepwalking/pytorch-softdtw) - An implementation of SoftDTW for PyTorch.
-- [jessevig/bertviz](https://github.com/jessevig/bertviz) - BertViz: Visualize Attention in Transformer Models ( BERT, GPT-2, BART, etc.)
+- [jessevig/bertviz](https://github.com/jessevig/bertviz) - BertViz: Visualize and Explore Transformer Language Models (BERT, GPT2, BART, etc.)
 - [shagunsodhani/torch-template](https://github.com/shagunsodhani/torch-template) - Boiler plate code for Torch based ML projects
 - [atselousov/transformer_chatbot](https://github.com/atselousov/transformer_chatbot) - Convai2 submission.
 - [ysymyth/3D-SDN](https://github.com/ysymyth/3D-SDN) - [NeurIPS 2018] 3D-Aware Scene Manipulation via Inverse Graphics
@@ -6773,6 +6777,7 @@
 
 ## TypeScript 
 
+- [slashbase/slashbase](https://github.com/slashbase/slashbase) - The open-source collaborative IDE for your databases.
 - [egoist/bina](https://github.com/egoist/bina) - An installer for self-contained, single-file binaries, no additional CLI needed.
 - [tokiedokie/reveal-markdown](https://github.com/tokiedokie/reveal-markdown) - Revealjs vsCode extension
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
