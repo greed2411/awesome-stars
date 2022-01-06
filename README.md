@@ -182,7 +182,6 @@
 - [zerotier/lf](https://github.com/zerotier/lf) - Fully Decentralized Fully Replicated Key/Value Store
 - [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
 - [LMDB/lmdb](https://github.com/LMDB/lmdb) - Read-only mirror of official repo on openldap.org. Issues and pull requests here are ignored. Use OpenLDAP ITS for issues.
-- [taosdata/TDengine](https://github.com/taosdata/TDengine) - An open-source big data platform designed and optimized for the Internet of Things (IoT).
 - [jedisct1/libsodium](https://github.com/jedisct1/libsodium) - A modern, portable, easy to use crypto library.
 - [metacall/core](https://github.com/metacall/core) - MetaCall: The ultimate polyglot programming experience.
 - [jitspoe/starviewer](https://github.com/jitspoe/starviewer) - Simple program that renders stars in 3D from the HYG database.  Based on the Paintball2/Quake2/id Tech 2 engine.
@@ -3589,7 +3588,7 @@
 - [irahorecka/youtube2audio](https://github.com/irahorecka/youtube2audio) - GUI application to download YouTube videos as annotated MP3 or MP4 files
 - [litl/backoff](https://github.com/litl/backoff) - Python library providing function decorators for configurable backoff and retry
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
-- [willmcgugan/rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
+- [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [r-anime/holo](https://github.com/r-anime/holo) - Episode discussion bot for /r/anime.
 - [determined-ai/determined](https://github.com/determined-ai/determined) - Determined: Deep Learning Training Platform
 - [Picovoice/leopard](https://github.com/Picovoice/leopard) - On-device speech-to-text engine powered by deep learning
@@ -3854,6 +3853,7 @@
 - [danaugrs/huskarl](https://github.com/danaugrs/huskarl) - Deep Reinforcement Learning Framework + Algorithms
 - [jodal/pykka](https://github.com/jodal/pykka) - 🌀 Pykka makes it easier to build concurrent applications.
 - [pydata/xarray](https://github.com/pydata/xarray) - N-D labeled arrays and datasets in Python
+- [taosdata/TDengine](https://github.com/taosdata/TDengine) - An open-source big data platform designed and optimized for the Internet of Things (IoT).
 - [astooke/rlpyt](https://github.com/astooke/rlpyt) - Reinforcement Learning in PyTorch
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [barisumog/simple_cache](https://github.com/barisumog/simple_cache) - A simple caching utility in Python 3.
@@ -4527,7 +4527,7 @@
 - [google/pasta](https://github.com/google/pasta) - Library to refactor python code through AST manipulation.
 - [sagiebenaim/Singing](https://github.com/sagiebenaim/Singing) - 
 - [Sleepwalking/pytorch-softdtw](https://github.com/Sleepwalking/pytorch-softdtw) - An implementation of SoftDTW for PyTorch.
-- [jessevig/bertviz](https://github.com/jessevig/bertviz) - BertViz: Visualize and Explore Transformer Language Models (BERT, GPT2, BART, etc.)
+- [jessevig/bertviz](https://github.com/jessevig/bertviz) - BertViz: Visualize Attention in Transformer Models (BERT, GPT2, BART, etc.)
 - [shagunsodhani/torch-template](https://github.com/shagunsodhani/torch-template) - Boiler plate code for Torch based ML projects
 - [atselousov/transformer_chatbot](https://github.com/atselousov/transformer_chatbot) - Convai2 submission.
 - [ysymyth/3D-SDN](https://github.com/ysymyth/3D-SDN) - [NeurIPS 2018] 3D-Aware Scene Manipulation via Inverse Graphics
@@ -6906,7 +6906,7 @@
 
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire: :fire: :fire: Open Source Airtable Alternative
 - [HotPotatoC/twitter-clone](https://github.com/HotPotatoC/twitter-clone) - 🕊 Twitter Clone developed using Go + Vue 3 + Vite + TailwindCSS + PostgreSQL + Redis
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [Requarks/wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [microservices/openmicroservices.org](https://github.com/microservices/openmicroservices.org) - NOT MAINTAINED https://medium.com/@iopeak/open-microservices-specification-1abd8262ad0e
 - [mtbarta/monocorpus](https://github.com/mtbarta/monocorpus) - A notepad for software and machine learning
