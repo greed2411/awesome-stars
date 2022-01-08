@@ -52,6 +52,7 @@
   - [NASL](#nasl)
   - [Nim](#nim)
   - [OCaml](#ocaml)
+  - [Objective-C](#objective-c)
   - [Odin](#odin)
   - [Open Policy Agent](#open-policy-agent)
   - [Others](#others)
@@ -270,6 +271,7 @@
 
 ## C++ 
 
+- [facebookresearch/moolib](https://github.com/facebookresearch/moolib) - A library for distributed ML training with PyTorch
 - [sparsehash/sparsehash](https://github.com/sparsehash/sparsehash) - C++ associative containers
 - [google/benchmark](https://github.com/google/benchmark) - A microbenchmark support library
 - [makuto/cakelisp](https://github.com/makuto/cakelisp) - Metaprogrammable, hot-reloadable, no-GC language for high perf programs (especially games), with seamless C/C++ interop
@@ -545,7 +547,7 @@
 - [fastmachinelearning/hls4ml](https://github.com/fastmachinelearning/hls4ml) - Machine learning on FPGAs using HLS
 - [Tencent/MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.
 - [dmlc/treelite](https://github.com/dmlc/treelite) - model compiler for decision tree ensembles
-- [facebookincubator/LogDevice](https://github.com/facebookincubator/LogDevice) - Distributed storage for sequential data
+- [facebookarchive/LogDevice](https://github.com/facebookarchive/LogDevice) - Distributed storage for sequential data
 - [lincolnhard/openpose-darknet](https://github.com/lincolnhard/openpose-darknet) - Openpose implementation using darknet
 - [jing-interactive/DancingGaga](https://github.com/jing-interactive/DancingGaga) - AI 尬舞机
 - [jiangxiluning/FOTS.PyTorch](https://github.com/jiangxiluning/FOTS.PyTorch) - FOTS Pytorch Implementation
@@ -1539,6 +1541,7 @@
 
 ## Java 
 
+- [real-logic/aeron](https://github.com/real-logic/aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport
 - [apache/incubator-seatunnel](https://github.com/apache/incubator-seatunnel) - SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time).
 - [spotify/mobius](https://github.com/spotify/mobius) - A functional reactive framework for managing state evolution and side-effects.
 - [apache/zeppelin](https://github.com/apache/zeppelin) - Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.
@@ -2575,6 +2578,10 @@
 - [briskml/brisk](https://github.com/briskml/brisk) - ✨Cross-platform set of tools for building native UIs with Reason/OCaml
 - [andrejbauer/coop](https://github.com/andrejbauer/coop) - A prototype programming language for programming with runners
 - [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
+
+## Objective-C 
+
+- [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 
 ## Odin 
 
@@ -5478,7 +5485,7 @@
 - [dmlc/tensorboard](https://github.com/dmlc/tensorboard) - Standalone TensorBoard for visualizing in deep learning
 - [carpedm20/ENAS-pytorch](https://github.com/carpedm20/ENAS-pytorch) - PyTorch implementation of "Efficient Neural Architecture Search via Parameters Sharing"
 - [keras-team/keras-contrib](https://github.com/keras-team/keras-contrib) - Keras community contributions
-- [yzhao062/pyod](https://github.com/yzhao062/pyod) - A Python Toolbox for Scalable Outlier Detection (Anomaly Detection)
+- [yzhao062/pyod](https://github.com/yzhao062/pyod) - (JMLR' 19) A Python Toolbox for Scalable Outlier Detection (Anomaly Detection)
 - [brightmart/text_classification](https://github.com/brightmart/text_classification) - all kinds of text classification models and more with deep learning
 - [f90/Wave-U-Net](https://github.com/f90/Wave-U-Net) - Implementation of the Wave-U-Net for audio source separation
 - [jadore801120/attention-is-all-you-need-pytorch](https://github.com/jadore801120/attention-is-all-you-need-pytorch) - A PyTorch implementation of the Transformer model in "Attention is All You Need".
@@ -6354,6 +6361,7 @@
 
 ## Rust 
 
+- [libpnet/libpnet](https://github.com/libpnet/libpnet) - Cross-platform, low level networking using the Rust programming language.
 - [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight, stable and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [bytecodealliance/rustix](https://github.com/bytecodealliance/rustix) - Safe Rust bindings to POSIX-ish APIs
 - [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn't ever lose your work if you're using Git
@@ -6792,7 +6800,7 @@
 - [tokiedokie/reveal-markdown](https://github.com/tokiedokie/reveal-markdown) - Revealjs vsCode extension
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool
-- [growthbook/growthbook](https://github.com/growthbook/growthbook) - The Open Source A/B Testing Platform
+- [growthbook/growthbook](https://github.com/growthbook/growthbook) - The Open Source A/B Testing and Feature Flagging Platform
 - [kubeflow/metadata](https://github.com/kubeflow/metadata) - Repository for assets related to Metadata.
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [autoai-org/AID](https://github.com/autoai-org/AID) - One-Stop System for Machine Learning.
