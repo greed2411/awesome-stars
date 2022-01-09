@@ -271,6 +271,8 @@
 
 ## C++ 
 
+- [drogonframework/drogon](https://github.com/drogonframework/drogon) - Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows
+- [graphql/libgraphqlparser](https://github.com/graphql/libgraphqlparser) - A GraphQL query parser in C++ with C and C++ APIs
 - [facebookresearch/moolib](https://github.com/facebookresearch/moolib) - A library for distributed ML training with PyTorch
 - [sparsehash/sparsehash](https://github.com/sparsehash/sparsehash) - C++ associative containers
 - [google/benchmark](https://github.com/google/benchmark) - A microbenchmark support library
@@ -758,6 +760,7 @@
 
 ## Cuda 
 
+- [Tony-Tan/CUDA_Freshman](https://github.com/Tony-Tan/CUDA_Freshman) - 
 - [1ytic/pytorch-edit-distance](https://github.com/1ytic/pytorch-edit-distance) - Levenshtein edit-distance on PyTorch and CUDA
 - [bytedance/lightseq](https://github.com/bytedance/lightseq) - LightSeq: A High Performance Library for Sequence Processing and Generation
 - [facebookresearch/music-translation](https://github.com/facebookresearch/music-translation) - A UNIVERSAL MUSIC TRANSLATION NETWORK - a method for translating music across musical instruments and styles.
@@ -833,6 +836,7 @@
 
 ## Go 
 
+- [efficient/epaxos](https://github.com/efficient/epaxos) - 
 - [duke-git/lancet](https://github.com/duke-git/lancet) - A comprehensive, efficient, and reusable util function library of go.
 - [Workiva/go-datastructures](https://github.com/Workiva/go-datastructures) - A collection of useful, performant, and threadsafe Go datastructures.
 - [armon/go-radix](https://github.com/armon/go-radix) - Golang implementation of Radix trees
@@ -3196,6 +3200,8 @@
 
 ## Python 
 
+- [encode/orm](https://github.com/encode/orm) - An async ORM. 🗃
+- [julvo/reloading](https://github.com/julvo/reloading) - Change Python code while it's running without losing state
 - [vipul-sharma20/slate](https://github.com/vipul-sharma20/slate) - Self hosted Slack app for daily standups
 - [Stanford-ILIAD/PantheonRL](https://github.com/Stanford-ILIAD/PantheonRL) - PantheonRL is a package for training and testing multi-agent reinforcement learning environments. PantheonRL supports cross-play, fine-tuning, ad-hoc coordination, and more.
 - [minitorch/minitorch](https://github.com/minitorch/minitorch) - The full minitorch student suite.
@@ -6361,6 +6367,7 @@
 
 ## Rust 
 
+- [koto-lang/koto](https://github.com/koto-lang/koto) - A simple, expressive, embeddable programming language, made with Rust
 - [libpnet/libpnet](https://github.com/libpnet/libpnet) - Cross-platform, low level networking using the Rust programming language.
 - [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight, stable and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [bytecodealliance/rustix](https://github.com/bytecodealliance/rustix) - Safe Rust bindings to POSIX-ish APIs
@@ -6933,6 +6940,7 @@
 
 ## Zig 
 
+- [fubark/zig-v8](https://github.com/fubark/zig-v8) - Simple V8 builds with C and Zig bindings.
 - [Jarred-Sumner/hop](https://github.com/Jarred-Sumner/hop) - 
 - [hexops/fastfilter](https://github.com/hexops/fastfilter) - fastfilter: Binary fuse & xor filters for Zig (faster and smaller than bloom filters)
 - [MasterQ32/asciitable](https://github.com/MasterQ32/asciitable) - A very basic tool that just prints the ascii table
