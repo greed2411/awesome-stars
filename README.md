@@ -3200,6 +3200,7 @@
 
 ## Python 
 
+- [Spijkervet/torchaudio-augmentations](https://github.com/Spijkervet/torchaudio-augmentations) - Audio transformations library for PyTorch
 - [encode/orm](https://github.com/encode/orm) - An async ORM. 🗃
 - [julvo/reloading](https://github.com/julvo/reloading) - Change Python code while it's running without losing state
 - [vipul-sharma20/slate](https://github.com/vipul-sharma20/slate) - Self hosted Slack app for daily standups
