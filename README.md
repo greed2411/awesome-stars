@@ -281,7 +281,7 @@
 - [facebook/proxygen](https://github.com/facebook/proxygen) - A collection of C++ HTTP libraries including an easy to use HTTP server.
 - [couchbase/phosphor](https://github.com/couchbase/phosphor) - High performance event tracing
 - [lewissbaker/cppcoro](https://github.com/lewissbaker/cppcoro) - A library of C++ coroutine abstractions for the coroutines TS
-- [flink-extended/dl-on-flink](https://github.com/flink-extended/dl-on-flink) - 
+- [flink-extended/dl-on-flink](https://github.com/flink-extended/dl-on-flink) - Deep Learning on Flink aims to integrate Flink and deep learning frameworks (e.g. TensorFlow, PyTorch, etc) to enable distributed deep learning training and inference on a Flink cluster.
 - [google/language-resources](https://github.com/google/language-resources) - Datasets and tools for basic natural language processing.
 - [openai/triton](https://github.com/openai/triton) - Development repository for the Triton language and compiler
 - [BespokeSynth/BespokeSynth](https://github.com/BespokeSynth/BespokeSynth) - Software modular synth
@@ -1245,7 +1245,7 @@
 - [liftbridge-io/liftbridge](https://github.com/liftbridge-io/liftbridge) - Lightweight, fault-tolerant message streams.
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [alibaba/sentinel-golang](https://github.com/alibaba/sentinel-golang) - Sentinel Go version (Reliability & Resilience)
-- [Shopify/sarama](https://github.com/Shopify/sarama) - Sarama is a Go library for Apache Kafka 0.8, and up.
+- [Shopify/sarama](https://github.com/Shopify/sarama) - Sarama is a Go library for Apache Kafka.
 - [felixge/fgprof](https://github.com/felixge/fgprof) - 🚀 fgprof is a sampling Go profiler that allows you to analyze On-CPU as well as Off-CPU (e.g. I/O) time together.
 - [hashicorp/nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 - [nlpodyssey/spago](https://github.com/nlpodyssey/spago) - Self-contained Machine Learning and Natural Language Processing library in Go
@@ -1414,7 +1414,6 @@
 
 ## HTML 
 
-- [h-enk/doks](https://github.com/h-enk/doks) - Hugo theme helping you build modern documentation websites.
 - [YerevaNN/A-Guide-to-Deep-Learning](https://github.com/YerevaNN/A-Guide-to-Deep-Learning) - 📚 A detailed guide to deep learning: http://yerevann.com/a-guide-to-deep-learning/
 - [abisee/attn_vis](https://github.com/abisee/attn_vis) - Interactive in-browser attention visualizer tool for recurrent networks
 - [Digital-Tamil-Studies/open_tamil_texts](https://github.com/Digital-Tamil-Studies/open_tamil_texts) - For sharing resources related to openly licensed and structured Tamil language texts.
@@ -2001,7 +2000,7 @@
 - [bentrevett/pytorch-rl](https://github.com/bentrevett/pytorch-rl) - Tutorials for reinforcement learning in PyTorch and Gym by implementing a few of the popular algorithms. [IN PROGRESS]
 - [timsainb/tensorflow2-generative-models](https://github.com/timsainb/tensorflow2-generative-models) - Implementations of a number of generative models in Tensorflow 2. GAN, VAE, Seq2Seq, VAEGAN, GAIA, Spectrogram Inversion. Everything is self contained in a jupyter notebook for easy export to colab.
 - [google/jax-md](https://github.com/google/jax-md) - Differentiable, Hardware Accelerated, Molecular Dynamics
-- [liyin2015/Hands-on-Algorithmic-Problem-Solving](https://github.com/liyin2015/Hands-on-Algorithmic-Problem-Solving) - A middle-to-high level algorithm book designed with coding interview at heart!
+- [liyin2015/python-coding-interview](https://github.com/liyin2015/python-coding-interview) - A middle-to-high level algorithm book designed with coding interview at heart!
 - [facebook/Ax](https://github.com/facebook/Ax) - Adaptive Experimentation Platform
 - [Ranlot/single-parameter-fit](https://github.com/Ranlot/single-parameter-fit) - Real numbers, data science and chaos: How to fit any dataset with a single parameter
 - [EmilienDupont/neural-processes](https://github.com/EmilienDupont/neural-processes) - Pytorch implementation of Neural Processes for functions and images :fireworks:
@@ -3209,6 +3208,7 @@
 
 ## Python 
 
+- [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - :cake: Desktop utility to download images/videos/music/text from various websites, and more.
 - [facebookresearch/ConvNeXt](https://github.com/facebookresearch/ConvNeXt) - Code release for ConvNeXt model
 - [monosidev/monosi](https://github.com/monosidev/monosi) - The data reliability engineering toolkit - open source data observability
 - [Spijkervet/torchaudio-augmentations](https://github.com/Spijkervet/torchaudio-augmentations) - Audio transformations library for PyTorch
@@ -4937,7 +4937,7 @@
 - [luannd/MinutiaeNet](https://github.com/luannd/MinutiaeNet) - Code and models for paper "Robust Minutiae Extractor: Integrating Deep Networks and Fingerprint Domain Knowledge" at International Conference on Biometrics (ICB) 2018
 - [brain-research/self-attention-gan](https://github.com/brain-research/self-attention-gan) - 
 - [zeusees/License-Plate-Detector](https://github.com/zeusees/License-Plate-Detector) - 基于Yolov5车牌检测,更快更准.
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Predictive AI layer for existing databases.
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - In-Database Machine Learning
 - [minosworld/minos](https://github.com/minosworld/minos) - MINOS: Multimodal Indoor Simulator
 - [leonardblier/alrao](https://github.com/leonardblier/alrao) - Implementation of "Learning with Random Learning Rates" in PyTorch.
 - [NVIDIA/OpenSeq2Seq](https://github.com/NVIDIA/OpenSeq2Seq) - Toolkit for efficient experimentation with Speech Recognition, Text2Speech and NLP
@@ -5722,7 +5722,7 @@
 - [philipperemy/my-first-bitcoin-miner](https://github.com/philipperemy/my-first-bitcoin-miner) - For the curious minds who want to understand how Bitcoin Blockchain works!
 - [elleryqueenhomels/arbitrary_style_transfer](https://github.com/elleryqueenhomels/arbitrary_style_transfer) - Fast Neural Style Transfer with Arbitrary Style using AdaIN Layer - Based on Huang et al. "Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization"
 - [aws/chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
-- [tensorlayer/TensorLayer](https://github.com/tensorlayer/TensorLayer) - Deep Learning and Reinforcement Learning Library for Scientists and Engineers 🔥
+- [tensorlayer/TensorLayer](https://github.com/tensorlayer/TensorLayer) - Deep Learning and Reinforcement Learning Library for Scientists and Engineers
 - [conda/conda](https://github.com/conda/conda) - OS-agnostic, system-level binary package manager and ecosystem
 - [docker/docker-py](https://github.com/docker/docker-py) - A Python library for the Docker Engine API
 - [BiometricVox/zAI](https://github.com/BiometricVox/zAI) - Easy-to-use Artificial Intelligence
@@ -6378,6 +6378,7 @@
 
 ## Rust 
 
+- [dpc/pariter](https://github.com/dpc/pariter) - Parallel iterator processing library for Rust
 - [pancake-db/pancake-db](https://github.com/pancake-db/pancake-db) - 
 - [drifting-in-space/spawner](https://github.com/drifting-in-space/spawner) - Session-lived containers for advanced browser-based applications.
 - [haixuanTao/wonnx](https://github.com/haixuanTao/wonnx) - Wonnx aimed at being an ONNX Provider for every GPU on all platforms written in 100% Rust.
@@ -6678,6 +6679,7 @@
 
 ## SCSS 
 
+- [h-enk/doks](https://github.com/h-enk/doks) - Hugo theme helping you build modern documentation websites.
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [shagunsodhani/papers-I-read](https://github.com/shagunsodhani/papers-I-read) - A-Paper-A-Week
 
