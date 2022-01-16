@@ -117,7 +117,7 @@
 - [bitly/dablooms](https://github.com/bitly/dablooms) - scaling, counting, bloom filter library
 - [Legrandin/pycryptodome](https://github.com/Legrandin/pycryptodome) - A self-contained cryptographic library for Python
 - [FastFilter/xor_singleheader](https://github.com/FastFilter/xor_singleheader) - Header-only binary fuse and xor filter library
-- [ApsaraDB/PolarDB-for-PostgreSQL](https://github.com/ApsaraDB/PolarDB-for-PostgreSQL) - The default branch of PolarDB switched to “main” on 20210901, which supports compute-storage separation architecture. The “POLARDB_11_STABLE” is the stable branch which is based on PostgreSQL 11.9. The “master” branch in the past switched to “distributed” branch, which supports distributed architecture.
+- [ApsaraDB/PolarDB-for-PostgreSQL](https://github.com/ApsaraDB/PolarDB-for-PostgreSQL) - The "POLARDB_11_STABLE" is the stable branch which is based on PostgreSQL 11.9.  It supports compute-storage separation architecture. The "distributed" branch, which supports distributed architecture.
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [nalgeon/sqlean](https://github.com/nalgeon/sqlean) - The ultimate set of SQLite extensions
 - [emikulic/darkhttpd](https://github.com/emikulic/darkhttpd) - When you need a web server in a hurry.
@@ -836,6 +836,7 @@
 
 ## Go 
 
+- [kubeshop/kusk](https://github.com/kubeshop/kusk) - Kusk makes your OpenAPI definition the source of truth for API resources in your cluster
 - [muesli/mango](https://github.com/muesli/mango) - mango is a man-page generator for the Go flag, pflag, and cobra packages
 - [polyaxon/mloperator](https://github.com/polyaxon/mloperator) - Machine Learning Operator & Controller for Kubernetes
 - [oom-ai/oomstore](https://github.com/oom-ai/oomstore) - Lightweight and Fast Feature Store Powered by Go.
@@ -2853,7 +2854,7 @@
 - [dgryski/awesome-consensus](https://github.com/dgryski/awesome-consensus) - Awesome list for Paxos and friends
 - [eric-xw/Zero-Shot-Video-Captioning](https://github.com/eric-xw/Zero-Shot-Video-Captioning) - Code for the paper "Learning to Compose Topic-Aware Mixture of Experts for Zero-Shot Video Captioning"
 - [AbangLZU/Awesome-Autonomous-Driving](https://github.com/AbangLZU/Awesome-Autonomous-Driving) - 
-- [fregu856/papers](https://github.com/fregu856/papers) - Summaries of papers on machine learning, computer vision, autonomous robots etc.
+- [fregu856/papers](https://github.com/fregu856/papers) - Summaries of papers on machine learning, computer vision etc.
 - [sshkhr/awesome-mlss](https://github.com/sshkhr/awesome-mlss) - List of summer schools in machine learning + related fields across the globe
 - [dakshshah96/awesome-startup-credits](https://github.com/dakshshah96/awesome-startup-credits) - ✨ A collection of awesome companies offering free/discounted plans for eligible startups
 - [jinwchoi/awesome-action-recognition](https://github.com/jinwchoi/awesome-action-recognition) - A curated list of action recognition and related area resources
@@ -3142,7 +3143,7 @@
 - [ossu/bioinformatics](https://github.com/ossu/bioinformatics) - :microscope: Path to a free self-taught education in Bioinformatics!
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [hangtwenty/python-is-for-lovers](https://github.com/hangtwenty/python-is-for-lovers) - My coworkers often ask me for Python learning resources. Here are some picks. Many skill levels, emphasis on beginner and intermediate.
-- [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Dive into Machine Learning with Python Jupyter notebook and scikit-learn! First posted in 2016, maintained as of 2021. Pull requests welcome.
+- [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Dive into Machine Learning with Python Jupyter notebook and scikit-learn! First posted in 2016, maintained as of 2022. Pull requests welcome.
 - [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 - [charlieg/A-Smattering-of-NLP-in-Python](https://github.com/charlieg/A-Smattering-of-NLP-in-Python) - A very brief introduction to Natural Language Processing programming in Python
 - [Treblesteph/awesome-open-science](https://github.com/Treblesteph/awesome-open-science) - :microscope: A curated list of projects, communities, and other resources related to open science :unlock:
@@ -3208,6 +3209,7 @@
 
 ## Python 
 
+- [naszilla/naszilla](https://github.com/naszilla/naszilla) - Naszilla is a Python library for neural architecture search (NAS)
 - [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - :cake: Desktop utility to download images/videos/music/text from various websites, and more.
 - [facebookresearch/ConvNeXt](https://github.com/facebookresearch/ConvNeXt) - Code release for ConvNeXt model
 - [monosidev/monosi](https://github.com/monosidev/monosi) - The data reliability engineering toolkit - open source data observability
@@ -6408,7 +6410,7 @@
 - [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
 - [bytedance/monoio](https://github.com/bytedance/monoio) - Rust async runtime based on io-uring.
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
-- [Qovery/engine](https://github.com/Qovery/engine) - Deploy your apps on any Cloud provider in just a few seconds
+- [Qovery/engine](https://github.com/Qovery/engine) - The simplest way to deploy your apps on any cloud provider
 - [losfair/blueboat](https://github.com/losfair/blueboat) - Blueboat is an open-source alternative to Cloudflare Workers. The monolithic engine for serverless web apps.
 - [AppFlowy-IO/appflowy](https://github.com/AppFlowy-IO/appflowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - High-velocity, monorepo-scale workflow for Git
