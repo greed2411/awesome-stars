@@ -105,6 +105,7 @@
 
 ## C 
 
+- [ClusterLabs/pacemaker](https://github.com/ClusterLabs/pacemaker) - Pacemaker is an advanced, scalable High-Availability cluster resource manager
 - [aleaxit/gmpy](https://github.com/aleaxit/gmpy) - General Multi-Precision arithmetic for Python 2.6+/3+ (GMP, MPIR, MPFR, MPC)
 - [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
 - [shuveb/io_uring-by-example](https://github.com/shuveb/io_uring-by-example) - A companion repository for the io_uring by Example article series
@@ -117,7 +118,7 @@
 - [bitly/dablooms](https://github.com/bitly/dablooms) - scaling, counting, bloom filter library
 - [Legrandin/pycryptodome](https://github.com/Legrandin/pycryptodome) - A self-contained cryptographic library for Python
 - [FastFilter/xor_singleheader](https://github.com/FastFilter/xor_singleheader) - Header-only binary fuse and xor filter library
-- [ApsaraDB/PolarDB-for-PostgreSQL](https://github.com/ApsaraDB/PolarDB-for-PostgreSQL) - The "POLARDB_11_STABLE" is the stable branch which is based on PostgreSQL 11.9.  It supports compute-storage separation architecture. The "distributed" branch, which supports distributed architecture.
+- [ApsaraDB/PolarDB-for-PostgreSQL](https://github.com/ApsaraDB/PolarDB-for-PostgreSQL) - "POLARDB_11_STABLE" is the stable branch which is based on PostgreSQL 11.9.  It supports compute-storage separation architecture. The "distributed" branch, which supports distributed architecture.
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [nalgeon/sqlean](https://github.com/nalgeon/sqlean) - The ultimate set of SQLite extensions
 - [emikulic/darkhttpd](https://github.com/emikulic/darkhttpd) - When you need a web server in a hurry.
@@ -271,6 +272,7 @@
 
 ## C++ 
 
+- [facebook/CacheLib](https://github.com/facebook/CacheLib) - Pluggable in-process caching engine to build and scale high performance services
 - [drogonframework/drogon](https://github.com/drogonframework/drogon) - Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows
 - [graphql/libgraphqlparser](https://github.com/graphql/libgraphqlparser) - A GraphQL query parser in C++ with C and C++ APIs
 - [facebookresearch/moolib](https://github.com/facebookresearch/moolib) - A library for distributed ML training with PyTorch
@@ -681,6 +683,8 @@
 
 ## Clojure 
 
+- [liebke/avout](https://github.com/liebke/avout) - Avout: Distributed State in Clojure
+- [liebke/zookeeper-clj](https://github.com/liebke/zookeeper-clj) - A Clojure DSL for Apache ZooKeeper
 - [kachayev/muse](https://github.com/kachayev/muse) - Clojure library that makes remote data access code elegant and efficient at the same time
 - [day8/re-frame](https://github.com/day8/re-frame) - A ClojureScript framework for building user interfaces, leveraging React
 - [mikera/core.matrix](https://github.com/mikera/core.matrix) - core.matrix : Multi-dimensional array programming API for Clojure
@@ -836,6 +840,7 @@
 
 ## Go 
 
+- [openark/orchestrator](https://github.com/openark/orchestrator) - MySQL replication topology management and HA
 - [kubeshop/kusk](https://github.com/kubeshop/kusk) - Kusk makes your OpenAPI definition the source of truth for API resources in your cluster
 - [muesli/mango](https://github.com/muesli/mango) - mango is a man-page generator for the Go flag, pflag, and cobra packages
 - [polyaxon/mloperator](https://github.com/polyaxon/mloperator) - Machine Learning Operator & Controller for Kubernetes
@@ -1082,7 +1087,7 @@
 - [ktr0731/evans](https://github.com/ktr0731/evans) - Evans: more expressive universal gRPC client
 - [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
 - [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) - A lightweight IoT edge analytics software
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Photos App powered by Go and Google TensorFlow 🌈 🎄
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Photos App powered by Go and Google TensorFlow 🌈 ✨
 - [vektra/mockery](https://github.com/vektra/mockery) - A mock code autogenerator for Golang
 - [bxcodec/go-clean-arch](https://github.com/bxcodec/go-clean-arch) - Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture
 - [ksimka/go-is-not-good](https://github.com/ksimka/go-is-not-good) - A curated list of articles complaining that go (golang) isn't good enough
@@ -2760,7 +2765,7 @@
 - [ethanhs/python-typecheckers](https://github.com/ethanhs/python-typecheckers) - A list of Python type checkers (PEP 484 compliant and not, static and runtime/dynamic)
 - [windmaple/awesome-AutoML](https://github.com/windmaple/awesome-AutoML) - Curating a list of AutoML-related research, tools, projects and other resources
 - [jason718/awesome-self-supervised-learning](https://github.com/jason718/awesome-self-supervised-learning) - A curated list of awesome self-supervised methods
-- [mohit-sh/ML-Interview](https://github.com/mohit-sh/ML-Interview) - Resources I used for ML Engineer, Applied Scientist and Quant Researcher interviews.
+- [mohitsharma-sh/ML-Interview](https://github.com/mohitsharma-sh/ML-Interview) - Resources I used for ML Engineer, Applied Scientist and Quant Researcher interviews.
 - [justinamiller/SoftwareArchitect](https://github.com/justinamiller/SoftwareArchitect) - Path to a Software Architect
 - [ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
 - [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning) - A list of learning materials to understand databases internals
@@ -3136,7 +3141,7 @@
 - [ethereum/wiki](https://github.com/ethereum/wiki) - The Ethereum Wiki
 - [devsecops/awesome-devsecops](https://github.com/devsecops/awesome-devsecops) - An authoritative list of awesome devsecops tools with the help from community experiments and contributions.
 - [dexteryy/spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev) - A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development
-- [SamPutnam/Index-2021](https://github.com/SamPutnam/Index-2021) - 
+- [SamPutnam/Index-2022](https://github.com/SamPutnam/Index-2022) - 
 - [smurfix/flask-script](https://github.com/smurfix/flask-script) - Flask extension to help writing external scripts for Flask applications
 - [EbookFoundation/free-science-books](https://github.com/EbookFoundation/free-science-books) - Inspired by free-programming-books, here's free-science-books
 - [ossu/data-science](https://github.com/ossu/data-science) - :bar_chart: Path to a free self-taught education in Data Science!
@@ -6362,6 +6367,7 @@
 
 ## Ruby 
 
+- [ryanlecompte/redis_failover](https://github.com/ryanlecompte/redis_failover) - redis_failover is a ZooKeeper-based automatic master/slave failover solution for Ruby.
 - [drujensen/fib](https://github.com/drujensen/fib) - Performance Benchmark of top Github languages
 - [twilio/media-streams](https://github.com/twilio/media-streams) - Quick start guides for configuring and consuming Twilio Media Streams
 - [msgpack-rpc/msgpack-rpc](https://github.com/msgpack-rpc/msgpack-rpc) - MessagePack-RPC is an inter-process messaging library that uses MessagePack for object serialization.
