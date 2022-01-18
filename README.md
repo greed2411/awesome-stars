@@ -272,6 +272,7 @@
 
 ## C++ 
 
+- [facebook/mcrouter](https://github.com/facebook/mcrouter) - Mcrouter is a memcached protocol router for scaling memcached deployments.
 - [facebook/CacheLib](https://github.com/facebook/CacheLib) - Pluggable in-process caching engine to build and scale high performance services
 - [drogonframework/drogon](https://github.com/drogonframework/drogon) - Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows
 - [graphql/libgraphqlparser](https://github.com/graphql/libgraphqlparser) - A GraphQL query parser in C++ with C and C++ APIs
@@ -840,6 +841,10 @@
 
 ## Go 
 
+- [jinzhu/now](https://github.com/jinzhu/now) - Now is a time toolkit for golang
+- [jackc/pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go
+- [knadh/koanf](https://github.com/knadh/koanf) - Simple, lightweight, extensible, configuration management library for Go. Support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper.
+- [db47h/ragel](https://github.com/db47h/ragel) - Go driver for ragel scanners
 - [openark/orchestrator](https://github.com/openark/orchestrator) - MySQL replication topology management and HA
 - [kubeshop/kusk](https://github.com/kubeshop/kusk) - Kusk makes your OpenAPI definition the source of truth for API resources in your cluster
 - [muesli/mango](https://github.com/muesli/mango) - mango is a man-page generator for the Go flag, pflag, and cobra packages
@@ -1097,7 +1102,7 @@
 - [sohamkamani/detective](https://github.com/sohamkamani/detective) - 🔎 A distributed application health monitoring library
 - [google/wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
 - [Haivision/srtgo](https://github.com/Haivision/srtgo) - Go bindings for SRT. Advantages of SRT technology for an easy to use programming language
-- [bitleak/lmstfy](https://github.com/bitleak/lmstfy) - Implements task queue in Golang which based on Redis storage
+- [bitleak/lmstfy](https://github.com/bitleak/lmstfy) - A task queue with REST API
 - [golang/leveldb](https://github.com/golang/leveldb) - The LevelDB key-value database in the Go programming language.
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [golang/protobuf](https://github.com/golang/protobuf) - Go support for Google's protocol buffers
@@ -1557,6 +1562,7 @@
 
 ## Java 
 
+- [linkedin/datahub](https://github.com/linkedin/datahub) - The Metadata Platform for the Modern Data Stack
 - [real-logic/aeron](https://github.com/real-logic/aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport
 - [apache/incubator-seatunnel](https://github.com/apache/incubator-seatunnel) - SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time).
 - [spotify/mobius](https://github.com/spotify/mobius) - A functional reactive framework for managing state evolution and side-effects.
@@ -1956,7 +1962,6 @@
 - [studio-ousia/luke](https://github.com/studio-ousia/luke) - LUKE -- Language Understanding with Knowledge-based Embeddings
 - [jmschrei/pomegranate](https://github.com/jmschrei/pomegranate) - Fast, flexible and easy to use probabilistic modelling in Python.
 - [jalammar/ecco](https://github.com/jalammar/ecco) - Explain, analyze, and visualize NLP language models. Ecco creates interactive visualizations directly in Jupyter notebooks explaining the behavior of Transformer-based language models (like GPT2, BERT, RoBERTA, T5, and T0).
-- [evidentlyai/evidently](https://github.com/evidentlyai/evidently) - Interactive reports to analyze machine learning models during validation or production monitoring.
 - [google-research/vision_transformer](https://github.com/google-research/vision_transformer) - 
 - [kohpangwei/influence-release](https://github.com/kohpangwei/influence-release) - 
 - [aws-samples/aws-machine-learning-university-accelerated-cv](https://github.com/aws-samples/aws-machine-learning-university-accelerated-cv) - Machine Learning University: Accelerated Computer Vision Class
@@ -2610,6 +2615,7 @@
 
 ## Others 
 
+- [google-research-datasets/wit](https://github.com/google-research-datasets/wit) - WIT (Wikipedia-based Image Text) Dataset is a large multimodal multilingual dataset comprising 37M+ image-text sets with 11M+ unique images across 100+ languages.
 - [jslee02/awesome-collision-detection](https://github.com/jslee02/awesome-collision-detection) - :sunglasses: A curated list of awesome collision detection libraries and resources
 - [dair-ai/ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - A repository to index and organize the latest machine learning courses found on YouTube.
 - [ashishpatel26/Treasure-of-Transformers](https://github.com/ashishpatel26/Treasure-of-Transformers) - 💁 Awesome Treasure of Transformers Models for Natural Language processing contains papers, videos, blogs, official repo along with colab Notebooks. 🛫☑️
@@ -3214,6 +3220,7 @@
 
 ## Python 
 
+- [pypa/flit](https://github.com/pypa/flit) - Simplified packaging of Python modules
 - [naszilla/naszilla](https://github.com/naszilla/naszilla) - Naszilla is a Python library for neural architecture search (NAS)
 - [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - :cake: Desktop utility to download images/videos/music/text from various websites, and more.
 - [facebookresearch/ConvNeXt](https://github.com/facebookresearch/ConvNeXt) - Code release for ConvNeXt model
@@ -3464,6 +3471,7 @@
 - [xlwings/xlwings](https://github.com/xlwings/xlwings) - xlwings is a BSD-licensed Python library that makes it easy to call Python from Excel and vice versa. It works with Microsoft Excel on Windows and macOS.
 - [aio-libs/aiokafka](https://github.com/aio-libs/aiokafka) - asyncio client for kafka
 - [lightly-ai/lightly](https://github.com/lightly-ai/lightly) - A python library for self-supervised learning on images.
+- [evidentlyai/evidently](https://github.com/evidentlyai/evidently) - Interactive reports to analyze machine learning models during validation or production monitoring.
 - [sebp/scikit-survival](https://github.com/sebp/scikit-survival) - Survival analysis built on top of scikit-learn
 - [benwilber/boltstream](https://github.com/benwilber/boltstream) - Boltstream Live Video Streaming Website + Backend
 - [vyperlang/vyper](https://github.com/vyperlang/vyper) - Pythonic Smart Contract Language for the EVM
@@ -3765,7 +3773,7 @@
 - [deepjyoti30/ytmdl](https://github.com/deepjyoti30/ytmdl) - A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, Spotify, LastFM, Deezer, Gaana etc.
 - [nschloe/meshio](https://github.com/nschloe/meshio) - :spider_web: input/output for many mesh formats
 - [Kayzaks/HackingNeuralNetworks](https://github.com/Kayzaks/HackingNeuralNetworks) - A small course on exploiting and defending neural networks
-- [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) - The standard package for machine learning with noisy labels, finding mislabeled data, and uncertainty quantification. Works with most datasets and models.
+- [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) - The standard package for machine learning with label errors, finding mislabeled data, and uncertainty quantification. Works with most datasets and models.
 - [alegonz/baikal](https://github.com/alegonz/baikal) - A graph-based functional API for building complex scikit-learn pipelines.
 - [coleifer/huey](https://github.com/coleifer/huey) - a little task queue for python
 - [manatlan/guy](https://github.com/manatlan/guy) - Graphics User Ynterface : a simple module for making GUI applications (with html/js) for py3 ... to target windows, linux, mac & android
@@ -4975,7 +4983,7 @@
 - [BYU-PCCL/holodeck](https://github.com/BYU-PCCL/holodeck) - High Fidelity Simulator for Reinforcement Learning and Robotics Research.
 - [lixilinx/psgd_torch](https://github.com/lixilinx/psgd_torch) - Pytorch implementation of preconditioned stochastic gradient descent
 - [kentonl/e2e-coref](https://github.com/kentonl/e2e-coref) - End-to-end Neural Coreference Resolution
-- [photogeniq/texturize](https://github.com/photogeniq/texturize) - 🤖🖌️ Generate photo-realistic textures based on source images. Remix, remake, mashup! Useful if you want to create variations on a theme or elaborate on an existing texture.
+- [texturedesign/texturize](https://github.com/texturedesign/texturize) - 🤖🖌️ Generate photo-realistic textures based on source images. Remix, remake, mashup! Useful if you want to create variations on a theme or elaborate on an existing texture.
 - [yjxiong/temporal-segment-networks](https://github.com/yjxiong/temporal-segment-networks) - Code & Models for Temporal Segment Networks (TSN) in ECCV 2016
 - [zhoubolei/TRN-pytorch](https://github.com/zhoubolei/TRN-pytorch) - Temporal Relation Networks
 - [coderSkyChen/Action_Recognition_Zoo](https://github.com/coderSkyChen/Action_Recognition_Zoo) - Codes for popular action recognition models, verified on the something-something data set.
@@ -6386,6 +6394,10 @@
 
 ## Rust 
 
+- [sfackler/rust-postgres](https://github.com/sfackler/rust-postgres) - Native PostgreSQL driver for the Rust programming language
+- [weiznich/diesel_async](https://github.com/weiznich/diesel_async) - Diesel async connection implementation
+- [gluon-lang/gluon](https://github.com/gluon-lang/gluon) - A static, type inferred and embeddable language written in Rust.
+- [dirs-dev/dirs-rs](https://github.com/dirs-dev/dirs-rs) - a low-level library that provides config/cache/data paths, following the respective conventions on Linux, macOS and Windows
 - [dpc/pariter](https://github.com/dpc/pariter) - Parallel iterator processing library for Rust
 - [pancake-db/pancake-db](https://github.com/pancake-db/pancake-db) - 
 - [drifting-in-space/spawner](https://github.com/drifting-in-space/spawner) - Session-lived containers for advanced browser-based applications.
@@ -6450,7 +6462,7 @@
 - [zaeleus/noodles](https://github.com/zaeleus/noodles) - Bioinformatics I/O libraries in Rust
 - [rethinkdb/rethinkdb-rs](https://github.com/rethinkdb/rethinkdb-rs) - A native RethinkDB driver written in Rust
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
-- [infinyon/fluvio](https://github.com/infinyon/fluvio) - Programmable platform for data in motion
+- [infinyon/fluvio](https://github.com/infinyon/fluvio) - An intelligent end-to-end data streaming platform that combines connectors, distributed streaming and state processing.
 - [bastion-rs/bastion](https://github.com/bastion-rs/bastion) - Highly-available Distributed Fault-tolerant Runtime
 - [ayrat555/fang](https://github.com/ayrat555/fang) - Background processing for Rust
 - [facebookresearch/Cupcake](https://github.com/facebookresearch/Cupcake) - A Rust library for lattice-based additive homomorphic encryption.
@@ -6828,7 +6840,7 @@
 ## TypeScript 
 
 - [visortelle/hackage-ui](https://github.com/visortelle/hackage-ui) - A fresh look for the Hackage. Follow us: https://twitter.com/HackageUI
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Connect to 15+ database integrations.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API..
 - [slashbase/slashbase](https://github.com/slashbase/slashbase) - The open-source collaborative IDE for your databases.
 - [egoist/bina](https://github.com/egoist/bina) - An installer for self-contained, single-file binaries, no additional CLI needed.
 - [tokiedokie/reveal-markdown](https://github.com/tokiedokie/reveal-markdown) - Revealjs vsCode extension
