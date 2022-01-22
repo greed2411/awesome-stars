@@ -105,6 +105,7 @@
 
 ## C 
 
+- [DataDog/zstd](https://github.com/DataDog/zstd) - Zstd wrapper for Go
 - [mattn/go-sqlite3](https://github.com/mattn/go-sqlite3) - sqlite3 driver for go using database/sql
 - [ClusterLabs/pacemaker](https://github.com/ClusterLabs/pacemaker) - Pacemaker is an advanced, scalable High-Availability cluster resource manager
 - [aleaxit/gmpy](https://github.com/aleaxit/gmpy) - General Multi-Precision arithmetic for Python 2.6+/3+ (GMP, MPIR, MPFR, MPC)
@@ -156,7 +157,7 @@
 - [corosync/corosync](https://github.com/corosync/corosync) - The Corosync Cluster Engine
 - [quiet/quiet](https://github.com/quiet/quiet) - Transmit data with sound. Includes binaries for soundcards and .wav files.
 - [emojicode/emojicode](https://github.com/emojicode/emojicode) - 😀😜🔂 World’s only programming language that’s bursting with emojis
-- [alibaba/inclavare-containers](https://github.com/alibaba/inclavare-containers) - A novel container runtime, aka confidential container, for cloud-native confidential computing and enclave runtime ecosystem.
+- [inclavare-containers/inclavare-containers](https://github.com/inclavare-containers/inclavare-containers) - A novel container runtime, aka confidential container, for cloud-native confidential computing and enclave runtime ecosystem.
 - [mariadb-corporation/MaxScale](https://github.com/mariadb-corporation/MaxScale) - An intelligent database proxy.
 - [collectd/collectd](https://github.com/collectd/collectd) - The system statistics collection daemon. Please send Pull Requests here!
 - [unispeech/unimrcp](https://github.com/unispeech/unimrcp) - Open source cross-platform implementation of MRCP protocol
@@ -842,6 +843,7 @@
 
 ## Go 
 
+- [go-dummy/dummy](https://github.com/go-dummy/dummy) - Run mock server based on API contract with one command. Written in Go
 - [iskaa02/qalam](https://github.com/iskaa02/qalam) - an easy to use terminal styling library
 - [abahmed/kwatch](https://github.com/abahmed/kwatch) - :eyes: monitor & detect crashes in your Kubernetes(K8s) cluster instantly
 - [distributedio/titan](https://github.com/distributedio/titan) - A Distributed Redis Protocol Compatible NoSQL Database
@@ -1032,7 +1034,7 @@
 - [minio/minio](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage
 - [dghubble/go-twitter](https://github.com/dghubble/go-twitter) - Go Twitter REST and Streaming API v1.1
 - [Bytom/bytom](https://github.com/Bytom/bytom) - Official Go implementation of the Bytom protocol
-- [aws/karpenter](https://github.com/aws/karpenter) - Kubernetes Node Autoscaling: built for flexibility, performance, and scalability. https://karpenter.sh
+- [aws/karpenter](https://github.com/aws/karpenter) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity. https://karpenter.sh
 - [RussellLuo/slidingwindow](https://github.com/RussellLuo/slidingwindow) - Golang implementation of Sliding Window Algorithm for distributed rate limiting.
 - [peer-calls/peer-calls](https://github.com/peer-calls/peer-calls) - Group peer to peer video calls for everyone written in Go and TypeScript
 - [fluxcd/flux](https://github.com/fluxcd/flux) - Successor: https://github.com/fluxcd/flux2 — The GitOps Kubernetes operator
@@ -3225,6 +3227,8 @@
 
 ## Python 
 
+- [NVIDIA-Merlin/Transformers4Rec](https://github.com/NVIDIA-Merlin/Transformers4Rec) - Transformers4Rec is a flexible and efficient library for sequential and session-based recommendation, available for both PyTorch and Tensorflow.
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Open source Kubernetes troubleshooting and automation platform
 - [kubernetes-client/python](https://github.com/kubernetes-client/python) - Official Python client library for kubernetes
 - [gugarosa/learnergy](https://github.com/gugarosa/learnergy) - 💡 Learnergy is a Python library for energy-based machine learning models.
 - [libffcv/ffcv](https://github.com/libffcv/ffcv) - FFCV: Fast Forward Computer Vision (and other ML workloads!)
@@ -3380,7 +3384,7 @@
 - [pyppeteer/pyppeteer](https://github.com/pyppeteer/pyppeteer) - Headless chrome/chromium automation library (unofficial port of puppeteer)
 - [blockchain-etl/ethereum-etl](https://github.com/blockchain-etl/ethereum-etl) - Python scripts for ETL (extract, transform and load) jobs for Ethereum blocks, transactions, ERC20 / ERC721 tokens, transfers, receipts, logs, contracts, internal transactions. Data is available in Google BigQuery https://goo.gl/oY5BCQ
 - [openai/baselines](https://github.com/openai/baselines) - OpenAI Baselines: high-quality implementations of reinforcement learning algorithms
-- [dwromero/ckconv](https://github.com/dwromero/ckconv) - Code repository of the paper "CKConv: Continuous Kernel Convolution For Sequential Data" https://arxiv.org/abs/2102.02611
+- [dwromero/ckconv](https://github.com/dwromero/ckconv) - Code repository of the paper "CKConv: Continuous Kernel Convolution For Sequential Data" published at ICLR 2022. https://arxiv.org/abs/2102.02611
 - [oap-project/raydp](https://github.com/oap-project/raydp) - RayDP: Distributed data processing library that provides simple APIs for running Spark on Ray and integrating Spark with distributed deep learning and machine learning frameworks.
 - [awslabs/python-deequ](https://github.com/awslabs/python-deequ) - Python API for Deequ
 - [PyTorchLightning/lightning-transformers](https://github.com/PyTorchLightning/lightning-transformers) - Flexible interface for high-performance research using SOTA Transformers leveraging Pytorch Lightning, Transformers, and Hydra.
