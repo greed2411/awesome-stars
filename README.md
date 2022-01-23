@@ -105,6 +105,7 @@
 
 ## C 
 
+- [giltene/wrk2](https://github.com/giltene/wrk2) - A constant throughput, correct latency recording variant of wrk
 - [DataDog/zstd](https://github.com/DataDog/zstd) - Zstd wrapper for Go
 - [mattn/go-sqlite3](https://github.com/mattn/go-sqlite3) - sqlite3 driver for go using database/sql
 - [ClusterLabs/pacemaker](https://github.com/ClusterLabs/pacemaker) - Pacemaker is an advanced, scalable High-Availability cluster resource manager
