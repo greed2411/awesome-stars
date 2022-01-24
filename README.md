@@ -6605,7 +6605,7 @@
 - [spacejam/sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases
 - [ballista-compute/ballista](https://github.com/ballista-compute/ballista) - Distributed compute platform implemented in Rust, and powered by Apache Arrow.
 - [archseer/enigma](https://github.com/archseer/enigma) - An Erlang VM implementation in Rust
-- [mitsuhiko/console](https://github.com/mitsuhiko/console) - A rust console and terminal abstraction
+- [console-rs/console](https://github.com/console-rs/console) - A rust console and terminal abstraction
 - [orhun/kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [Sreyas-Sreelal/malluscript](https://github.com/Sreyas-Sreelal/malluscript) - A simple,gentle,humble scripting language for mallus, based on malayalam memes.
