@@ -585,7 +585,7 @@
 - [microsoft/LightGBM](https://github.com/microsoft/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
 - [microsoft/CNTK](https://github.com/microsoft/CNTK) - Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit
 - [NVIDIA/DALI](https://github.com/NVIDIA/DALI) - A GPU-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications.
-- [projectchrono/chrono](https://github.com/projectchrono/chrono) - C++ library for multi-physics simulation
+- [projectchrono/chrono](https://github.com/projectchrono/chrono) - High-performance C++ library for multiphysics and multibody dynamics simulations
 - [amazon-archives/amazon-dsstne](https://github.com/amazon-archives/amazon-dsstne) - Deep Scalable Sparse Tensor Network Engine (DSSTNE) is an Amazon developed library for building Deep Learning (DL) machine learning (ML) models
 - [nickgillian/grt](https://github.com/nickgillian/grt) - gesture recognition toolkit
 - [longcw/RoIAlign.pytorch](https://github.com/longcw/RoIAlign.pytorch) - RoIAlign & crop_and_resize for PyTorch
@@ -1982,6 +1982,7 @@
 - [karpathy/minGPT](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
 - [jcvasquezc/DisVoice](https://github.com/jcvasquezc/DisVoice) - feature extraction from speech signals
 - [PhoenixDL/rising](https://github.com/PhoenixDL/rising) - Provides everything needed for high performance data loading and augmentation in pytorch.
+- [NeuromatchAcademy/precourse](https://github.com/NeuromatchAcademy/precourse) - A repo for the pre-course work at home exercises
 - [ShuaiW/data-science-question-answer](https://github.com/ShuaiW/data-science-question-answer) - A repo for data science related questions and answers
 - [deepmind/dsprites-dataset](https://github.com/deepmind/dsprites-dataset) - Dataset to assess the disentanglement properties of unsupervised learning methods
 - [prestodb/f8-2019-demo](https://github.com/prestodb/f8-2019-demo) - A tutorial on how to get started with Presto.
@@ -2756,7 +2757,6 @@
 - [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 - [ksindi/managers-playbook](https://github.com/ksindi/managers-playbook) - :book: Heuristics for effective management
 - [jamesmunns/awesome-rust-streaming](https://github.com/jamesmunns/awesome-rust-streaming) - A community curated list of Rust Language streamers
-- [NeuromatchAcademy/precourse](https://github.com/NeuromatchAcademy/precourse) - A repo for the pre-course work at home exercises
 - [soupi/haskell-study-plan](https://github.com/soupi/haskell-study-plan) - An opinionated list of resources for learning Haskell
 - [tpolecat/cats-infographic](https://github.com/tpolecat/cats-infographic) - typeclass diagram for cats
 - [mercari/ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern) - System design patterns for machine learning
@@ -3228,6 +3228,7 @@
 
 ## Python 
 
+- [vitalik/django-ninja](https://github.com/vitalik/django-ninja) - 💨  Fast, Async-ready, Openapi, type hints based framework for building APIs
 - [locustio/locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
 - [DarshanDeshpande/jax-models](https://github.com/DarshanDeshpande/jax-models) - Unofficial JAX implementations of deep learning research papers
 - [NVIDIA-Merlin/Transformers4Rec](https://github.com/NVIDIA-Merlin/Transformers4Rec) - Transformers4Rec is a flexible and efficient library for sequential and session-based recommendation, available for both PyTorch and Tensorflow.
@@ -6412,6 +6413,8 @@
 
 ## Rust 
 
+- [max-sixty/prql](https://github.com/max-sixty/prql) - PRQL is a modern language for transforming data — a simpler and more powerful SQL
+- [mitsuhiko/redis-rs](https://github.com/mitsuhiko/redis-rs) - Redis library for rust
 - [sfackler/rust-postgres](https://github.com/sfackler/rust-postgres) - Native PostgreSQL driver for the Rust programming language
 - [weiznich/diesel_async](https://github.com/weiznich/diesel_async) - Diesel async connection implementation
 - [gluon-lang/gluon](https://github.com/gluon-lang/gluon) - A static, type inferred and embeddable language written in Rust.
@@ -6515,7 +6518,7 @@
 - [chyh1990/yaml-rust](https://github.com/chyh1990/yaml-rust) - A pure rust YAML implementation.
 - [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang-inspired runtime for WebAssembly
 - [mitsuhiko/unbox](https://github.com/mitsuhiko/unbox) - A work in progress command line utility to unpack various types of archives quickly.
-- [Conflux-Chain/conflux-rust](https://github.com/Conflux-Chain/conflux-rust) - The Rust implementation of Conflux protocol.
+- [Conflux-Chain/conflux-rust](https://github.com/Conflux-Chain/conflux-rust) - The official Rust implementation of Conflux protocol.
 - [rust-ndarray/ndarray-stats](https://github.com/rust-ndarray/ndarray-stats) - Statistical routines for ndarray
 - [jturner314/ndarray-npy](https://github.com/jturner314/ndarray-npy) - .npy and .npz file format support for ndarray
 - [rust-ndarray/ndarray](https://github.com/rust-ndarray/ndarray) - ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations
@@ -6565,7 +6568,7 @@
 - [async-raft/async-raft](https://github.com/async-raft/async-raft) - An implementation of the Raft distributed consensus protocol using the Tokio framework.
 - [petgraph/petgraph](https://github.com/petgraph/petgraph) - Graph data structure library for Rust.
 - [dtolnay/cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C++
-- [cubeFS/chubaodb](https://github.com/cubeFS/chubaodb) - A structured data system on top of ChubaoFS.
+- [cubeFS/cubedb](https://github.com/cubeFS/cubedb) - A structured data system on top of CubeFS.
 - [ragona/clobber](https://github.com/ragona/clobber) - TCP load testing tool, written in async Rust
 - [facebookincubator/propfuzz](https://github.com/facebookincubator/propfuzz) - A Rust toolkit to combine property-based testing and fuzzing.
 - [LemonVM/LemonVMAlpha](https://github.com/LemonVM/LemonVMAlpha) - A Register Based VM. 柠檬手写的看起来像栈机的寄存器机
