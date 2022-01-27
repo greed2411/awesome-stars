@@ -823,6 +823,7 @@
 
 ## Erlang 
 
+- [devinus/poolboy](https://github.com/devinus/poolboy) - A hunky Erlang worker pool factory
 - [aeternity/aeternity](https://github.com/aeternity/aeternity) - æternity: solving scalability problems by making sense of state-channels
 - [jlouis/fuse](https://github.com/jlouis/fuse) - A Circuit Breaker for Erlang
 - [hamler-lang/hamler](https://github.com/hamler-lang/hamler) - Haskell-style functional programming language running on Erlang VM.
@@ -845,6 +846,7 @@
 
 ## Go 
 
+- [gogearbox/gearbox](https://github.com/gogearbox/gearbox) - Gearbox :gear: is a web framework written in Go with a focus on high performance
 - [go-dummy/dummy](https://github.com/go-dummy/dummy) - Run mock server based on API contract with one command. Written in Go
 - [iskaa02/qalam](https://github.com/iskaa02/qalam) - an easy to use terminal styling library
 - [abahmed/kwatch](https://github.com/abahmed/kwatch) - :eyes: monitor & detect crashes in your Kubernetes(K8s) cluster instantly
@@ -1432,6 +1434,7 @@
 
 ## HTML 
 
+- [h-enk/doks](https://github.com/h-enk/doks) - Hugo theme helping you build modern documentation websites.
 - [YerevaNN/A-Guide-to-Deep-Learning](https://github.com/YerevaNN/A-Guide-to-Deep-Learning) - 📚 A detailed guide to deep learning: http://yerevann.com/a-guide-to-deep-learning/
 - [abisee/attn_vis](https://github.com/abisee/attn_vis) - Interactive in-browser attention visualizer tool for recurrent networks
 - [Digital-Tamil-Studies/open_tamil_texts](https://github.com/Digital-Tamil-Studies/open_tamil_texts) - For sharing resources related to openly licensed and structured Tamil language texts.
@@ -1680,6 +1683,7 @@
 
 ## JavaScript 
 
+- [just-js/just](https://github.com/just-js/just) - a very small v8 javascript runtime for linux only
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
 - [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
 - [tengbao/vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website
@@ -6413,6 +6417,9 @@
 
 ## Rust 
 
+- [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket) - A web framework for Rust.
+- [DasEtwas/enginesound](https://github.com/DasEtwas/enginesound) - Procedural engine sound generator controlled via GUI or CLI
+- [thalo-rs/thalo](https://github.com/thalo-rs/thalo) - 🚀 Event sourcing suite for Rust 🦀
 - [max-sixty/prql](https://github.com/max-sixty/prql) - PRQL is a modern language for transforming data — a simpler and more powerful SQL
 - [mitsuhiko/redis-rs](https://github.com/mitsuhiko/redis-rs) - Redis library for rust
 - [sfackler/rust-postgres](https://github.com/sfackler/rust-postgres) - Native PostgreSQL driver for the Rust programming language
@@ -6664,7 +6671,7 @@
 - [bayard-search/bayard](https://github.com/bayard-search/bayard) - A full-text search and indexing server written in Rust.
 - [cloud-hypervisor/cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) - A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
-- [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Powerful, fast, and an easy to use search engine
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - Powerful, fast, and an easy to use search engine
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
 - [jauhien/iron-kaleidoscope](https://github.com/jauhien/iron-kaleidoscope) - LLVM tutorial in Rust language
@@ -6720,7 +6727,6 @@
 
 ## SCSS 
 
-- [h-enk/doks](https://github.com/h-enk/doks) - Hugo theme helping you build modern documentation websites.
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [shagunsodhani/papers-I-read](https://github.com/shagunsodhani/papers-I-read) - A-Paper-A-Week
 
@@ -6730,7 +6736,7 @@
 
 ## Scala 
 
-- [ornicar/lila](https://github.com/ornicar/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞
+- [lichess-org/lila](https://github.com/lichess-org/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞
 - [gregdurrett/berkeley-doc-summarizer](https://github.com/gregdurrett/berkeley-doc-summarizer) - The Berkeley Document Summarizer is a learning-based, single-document summarization system that extracts source document content, exploits syntactic information to compress it, and uses coreference constraints to ensure clarity.
 - [twitter/scalding](https://github.com/twitter/scalding) - A Scala API for Cascading
 - [eaplatanios/tensorflow_scala](https://github.com/eaplatanios/tensorflow_scala) - TensorFlow API for the Scala Programming Language
@@ -6861,6 +6867,7 @@
 
 ## TypeScript 
 
+- [JaosnHsieh/github-star-search](https://github.com/JaosnHsieh/github-star-search) - A CLI that search your github starred repositories offline through README , description and other fields.
 - [visortelle/hackage-ui](https://github.com/visortelle/hackage-ui) - A fresh look for the Hackage. Follow us: https://twitter.com/HackageUI
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [slashbase/slashbase](https://github.com/slashbase/slashbase) - The open-source collaborative IDE for your databases.
@@ -6868,7 +6875,7 @@
 - [tokiedokie/reveal-markdown](https://github.com/tokiedokie/reveal-markdown) - Revealjs vsCode extension
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool
-- [growthbook/growthbook](https://github.com/growthbook/growthbook) - The Open Source A/B Testing and Feature Flagging Platform
+- [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [kubeflow/metadata](https://github.com/kubeflow/metadata) - Repository for assets related to Metadata.
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
