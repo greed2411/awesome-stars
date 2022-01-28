@@ -143,7 +143,7 @@
 - [gentilkiwi/mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
 - [RIOT-OS/RIOT](https://github.com/RIOT-OS/RIOT) - RIOT -  The friendly OS for IoT
 - [chjj/liburkel](https://github.com/chjj/liburkel) - Authenticated key-value store (i.e. an urkel tree)
-- [ithewei/libhv](https://github.com/ithewei/libhv) - 🔥 比libevent、libuv更易用的国产网络库。A c/c++ network library for developing TCP/UDP/SSL/HTTP/WebSocket client/server.
+- [ithewei/libhv](https://github.com/ithewei/libhv) - 🔥 比libevent、libuv更易用的国产网络库。A c/c++ network library for developing TCP/UDP/SSL/HTTP/WebSocket/MQTT client/server.
 - [viabtc/viabtc_exchange_server](https://github.com/viabtc/viabtc_exchange_server) - A trading engine with high-speed performance and real-time notification
 - [SchedMD/slurm](https://github.com/SchedMD/slurm) - Slurm: A Highly Scalable Workload Manager
 - [tanersener/mobile-ffmpeg](https://github.com/tanersener/mobile-ffmpeg) - FFmpeg for Android, iOS and tvOS. Not maintained anymore. Superseded by FFmpegKit.
@@ -652,7 +652,7 @@
 - [facebookresearch/StarSpace](https://github.com/facebookresearch/StarSpace) - Learning embeddings for classification, retrieval and ranking.
 - [apache/incubator-mxnet](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more
 - [fetlang/fetlang](https://github.com/fetlang/fetlang) - Fetish-themed programming language
-- [PaddlePaddle/Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite) - Multi-platform high performance  deep learning inference engine (『飞桨』多平台高性能深度学习预测引擎）
+- [PaddlePaddle/Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite) - Multi-platform high performance  deep learning inference engine (飞桨多端多平台高性能深度学习推理引擎）
 - [spotify/annoy](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
@@ -846,8 +846,9 @@
 
 ## Go 
 
+- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster
 - [gogearbox/gearbox](https://github.com/gogearbox/gearbox) - Gearbox :gear: is a web framework written in Go with a focus on high performance
-- [go-dummy/dummy](https://github.com/go-dummy/dummy) - Run mock server based on API contract with one command. Written in Go
+- [go-dummy/dummy](https://github.com/go-dummy/dummy) - Run mock server based off an API contract with one command. Written in Go
 - [iskaa02/qalam](https://github.com/iskaa02/qalam) - an easy to use terminal styling library
 - [abahmed/kwatch](https://github.com/abahmed/kwatch) - :eyes: monitor & detect crashes in your Kubernetes(K8s) cluster instantly
 - [distributedio/titan](https://github.com/distributedio/titan) - A Distributed Redis Protocol Compatible NoSQL Database
@@ -989,7 +990,6 @@
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [climech/grit](https://github.com/climech/grit) - Multitree-based personal task manager
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
-- [EngaugeAI/engauge](https://github.com/EngaugeAI/engauge) - Product Analytics, Business Intelligence, and Product Management in a fully self-contained box
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – It's Git for Data
 - [storj/storj](https://github.com/storj/storj) - Ongoing Storj v3 development. Decentralized cloud object storage that is affordable, easy to use, private, and secure.
 - [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
@@ -3937,7 +3937,7 @@
 - [bytedance/byteps](https://github.com/bytedance/byteps) - A high performance and generic framework for distributed DNN training
 - [microsoft/MASS](https://github.com/microsoft/MASS) - MASS: Masked Sequence to Sequence Pre-training for Language Generation
 - [allegroai/clearml](https://github.com/allegroai/clearml) - ClearML - Auto-Magical CI/CD to streamline your ML workflow. Experiment Manager, MLOps and Data-Management
-- [transceptor-technology/pyleri](https://github.com/transceptor-technology/pyleri) - Python Parser
+- [cesbit/pyleri](https://github.com/cesbit/pyleri) - Python Parser
 - [thunlp/ERNIE](https://github.com/thunlp/ERNIE) - Source code and dataset for ACL 2019 paper "ERNIE: Enhanced Language Representation with Informative Entities"
 - [leoshine/Spherical_Regression](https://github.com/leoshine/Spherical_Regression) - PyTorch implementation of cvpr2019 paper "Spherical Regression: Learning Viewpoints, Surface Normals and 3D Rotations on n-Spheres".
 - [NVIDIA-AI-IOT/torch2trt](https://github.com/NVIDIA-AI-IOT/torch2trt) - An easy to use PyTorch to TensorRT converter
@@ -6442,7 +6442,7 @@
 - [adwhit/itchy-rust](https://github.com/adwhit/itchy-rust) - NASDAQ ITCH parser in Rust
 - [gtk-rs/gir](https://github.com/gtk-rs/gir) - Tool to generate rust bindings and user API for glib-based libraries
 - [sdroege/gstreamer-rs](https://github.com/sdroege/gstreamer-rs) - GStreamer bindings for Rust - This repository moved to https://gitlab.freedesktop.org/gstreamer/gstreamer-rs
-- [quickwit-inc/quickwit](https://github.com/quickwit-inc/quickwit) - Quickwit is a fast and cost-efficient distributed search engine for large-scale, immutable data.
+- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Quickwit is a fast and cost-efficient distributed search engine for large-scale, immutable data.
 - [indygreg/PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool
 - [mgattozzi/curryrs](https://github.com/mgattozzi/curryrs) - Bridge the gap between Haskell and Rust
 - [google/mosaic](https://github.com/google/mosaic) - A C++ bindings generator for Rust.
@@ -6713,7 +6713,7 @@
 - [obrienpja/Monte-Carlo-Simulation-of-Ferromagnetism](https://github.com/obrienpja/Monte-Carlo-Simulation-of-Ferromagnetism) - Rust simulation using a ferromagnetic exchange matrix to find a ferromagnetic ground state of a classical spin system
 - [pyprob/ppx](https://github.com/pyprob/ppx) - Probabilistic Programming eXecution protocol (PPX)
 - [toshi-search/Toshi](https://github.com/toshi-search/Toshi) - A full-text search engine in rust
-- [quickwit-inc/tantivy](https://github.com/quickwit-inc/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
+- [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [google/mundane](https://github.com/google/mundane) - Mundane is a Rust cryptography library backed by BoringSSL that is difficult to misuse, ergonomic, and performant (in that order).
