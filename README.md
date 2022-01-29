@@ -874,7 +874,7 @@
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
 - [yongman/tidis](https://github.com/yongman/tidis) - Distributed transactional NoSQL database, Redis protocol compatible using tikv as backend
 - [tailscale/sqlite](https://github.com/tailscale/sqlite) - work in progress
-- [cilium/ebpf](https://github.com/cilium/ebpf) - eBPF Library for Go
+- [cilium/ebpf](https://github.com/cilium/ebpf) - Pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.
 - [Jeffail/tunny](https://github.com/Jeffail/tunny) - A goroutine pool for Go
 - [egoist/bget](https://github.com/egoist/bget) - Download and install binaries from GitHub Releases, interactively.
 - [jftuga/geodist](https://github.com/jftuga/geodist) - Golang package to compute the distance between two geographic latitude, longitude coordinates
@@ -3232,6 +3232,8 @@
 
 ## Python 
 
+- [someengineering/resoto](https://github.com/someengineering/resoto) - Resoto - Housekeeping for Clouds
+- [adriangb/xpresso](https://github.com/adriangb/xpresso) - Developer centric, performant and extensible Python ASGI framework
 - [vitalik/django-ninja](https://github.com/vitalik/django-ninja) - 💨  Fast, Async-ready, Openapi, type hints based framework for building APIs
 - [locustio/locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
 - [DarshanDeshpande/jax-models](https://github.com/DarshanDeshpande/jax-models) - Unofficial JAX implementations of deep learning research papers
@@ -3491,7 +3493,7 @@
 - [xlwings/xlwings](https://github.com/xlwings/xlwings) - xlwings is a BSD-licensed Python library that makes it easy to call Python from Excel and vice versa. It works with Microsoft Excel on Windows and macOS.
 - [aio-libs/aiokafka](https://github.com/aio-libs/aiokafka) - asyncio client for kafka
 - [lightly-ai/lightly](https://github.com/lightly-ai/lightly) - A python library for self-supervised learning on images.
-- [evidentlyai/evidently](https://github.com/evidentlyai/evidently) - Interactive reports to analyze machine learning models during validation or production monitoring.
+- [evidentlyai/evidently](https://github.com/evidentlyai/evidently) - Evaluate and monitor ML models from validation to production. Join our Discord: https://discord.com/invite/xZjKRaNp8b
 - [sebp/scikit-survival](https://github.com/sebp/scikit-survival) - Survival analysis built on top of scikit-learn
 - [benwilber/boltstream](https://github.com/benwilber/boltstream) - Boltstream Live Video Streaming Website + Backend
 - [vyperlang/vyper](https://github.com/vyperlang/vyper) - Pythonic Smart Contract Language for the EVM
@@ -4935,7 +4937,7 @@
 - [tangbinh/image-captioning](https://github.com/tangbinh/image-captioning) - 
 - [facebookresearch/DME](https://github.com/facebookresearch/DME) - Dynamic Meta-Embeddings for Improved Sentence Representations
 - [varadchoudhari/LinkedIn-Skills-Crawler](https://github.com/varadchoudhari/LinkedIn-Skills-Crawler) - A simple Python script to crawl complete list of LinkedIn skills
-- [xhujoy/CycleGAN-tensorflow](https://github.com/xhujoy/CycleGAN-tensorflow) - Tensorflow implementation for learning an image-to-image translation without input-output pairs. https://arxiv.org/pdf/1703.10593.pdf
+- [xiaowei-hu/CycleGAN-tensorflow](https://github.com/xiaowei-hu/CycleGAN-tensorflow) - Tensorflow implementation for learning an image-to-image translation without input-output pairs. https://arxiv.org/pdf/1703.10593.pdf
 - [deepppl/deepppl](https://github.com/deepppl/deepppl) - Deep Probabilistic Programming Language
 - [faceteam/facescrub](https://github.com/faceteam/facescrub) - Download dataset from http://vintage.winklerbros.net/facescrub.html
 - [numba/numba](https://github.com/numba/numba) - NumPy aware dynamic Python compiler using LLVM
@@ -6868,7 +6870,7 @@
 ## TypeScript 
 
 - [JaosnHsieh/github-star-search](https://github.com/JaosnHsieh/github-star-search) - A CLI that search your github starred repositories offline through README , description and other fields.
-- [visortelle/hackage-ui](https://github.com/visortelle/hackage-ui) - A fresh look for the Hackage. Follow us: https://twitter.com/HackageUI
+- [haskell-spotlight/haskell-spotlight](https://github.com/haskell-spotlight/haskell-spotlight) - Follow us: https://twitter.com/HaskellSpot
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [slashbase/slashbase](https://github.com/slashbase/slashbase) - The open-source collaborative IDE for your databases.
 - [egoist/bina](https://github.com/egoist/bina) - An installer for self-contained, single-file binaries, no additional CLI needed.
