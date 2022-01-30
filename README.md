@@ -3246,7 +3246,7 @@
 - [naszilla/naszilla](https://github.com/naszilla/naszilla) - Naszilla is a Python library for neural architecture search (NAS)
 - [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - :cake: Desktop utility to download images/videos/music/text from various websites, and more.
 - [facebookresearch/ConvNeXt](https://github.com/facebookresearch/ConvNeXt) - Code release for ConvNeXt model
-- [monosidev/monosi](https://github.com/monosidev/monosi) - The data reliability engineering toolkit - open source data observability
+- [monosidev/monosi](https://github.com/monosidev/monosi) - Open source data observability
 - [Spijkervet/torchaudio-augmentations](https://github.com/Spijkervet/torchaudio-augmentations) - Audio transformations library for PyTorch
 - [encode/orm](https://github.com/encode/orm) - An async ORM. 🗃
 - [julvo/reloading](https://github.com/julvo/reloading) - Change Python code while it's running without losing state
