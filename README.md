@@ -357,7 +357,7 @@
 - [NVIDIA/thrust](https://github.com/NVIDIA/thrust) - The C++ parallel algorithms library.
 - [interpretml/interpret](https://github.com/interpretml/interpret) - Fit interpretable models. Explain blackbox machine learning.
 - [cylondata/cylon](https://github.com/cylondata/cylon) - Cylon is a fast, scalable, distributed memory, parallel runtime with a Pandas like DataFrame.
-- [alibaba/libgrape-lite](https://github.com/alibaba/libgrape-lite) - 🍇 A C++ library for parallel graph processing 🍇
+- [alibaba/libgrape-lite](https://github.com/alibaba/libgrape-lite) - 🍇 A C++ library for parallel graph processing (GRAPE) 🍇
 - [airbnb/node-memwatch](https://github.com/airbnb/node-memwatch) - A NodeJS library to keep an eye on your memory usage, and discover and isolate leaks.
 - [Tencent/TurboTransformers](https://github.com/Tencent/TurboTransformers) - a fast and user-friendly runtime for transformer inference (Bert, Albert, GPT2, Decoders, etc) on CPU and GPU.
 - [IBM/g729-codec-service](https://github.com/IBM/g729-codec-service) - Microservice for transcoding audio to/from G.729 Annex A/B and G.711 over a WebSocket connection.
@@ -846,6 +846,7 @@
 
 ## Go 
 
+- [clusterpedia-io/clusterpedia](https://github.com/clusterpedia-io/clusterpedia) - The Encyclopedia of Kubernetes clusters
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster
 - [gogearbox/gearbox](https://github.com/gogearbox/gearbox) - Gearbox :gear: is a web framework written in Go with a focus on high performance
 - [go-dummy/dummy](https://github.com/go-dummy/dummy) - Run mock server based off an API contract with one command. Written in Go
@@ -1797,7 +1798,7 @@
 - [hyperledger/caliper](https://github.com/hyperledger/caliper) - A blockchain benchmark framework to measure performance of multiple blockchain solutions https://wiki.hyperledger.org/display/caliper
 - [evilsocket/pwnagotchi](https://github.com/evilsocket/pwnagotchi) - (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
 - [axa-group/nlp.js](https://github.com/axa-group/nlp.js) - An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more
-- [kind-lang/Kind](https://github.com/kind-lang/Kind) - A modern proof language
+- [Kindelia/Kind](https://github.com/Kindelia/Kind) - A modern proof language
 - [ottomatica/slim](https://github.com/ottomatica/slim) - Build and run tiny vms from Dockerfiles. Small and sleek.
 - [mankadronit/Automated-Essay--Scoring](https://github.com/mankadronit/Automated-Essay--Scoring) - Automatically Score essays using Deep Learning
 - [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.06
@@ -2627,6 +2628,7 @@
 
 ## Others 
 
+- [coqui-ai/open-speech-corpora](https://github.com/coqui-ai/open-speech-corpora) - 💎 A list of accessible speech corpora for ASR, TTS, and other Speech Technologies
 - [yataobian/awesome-ebm](https://github.com/yataobian/awesome-ebm) - Collecting research materials on EBM/EBL (Energy Based Models, Energy Based Learning)
 - [google-research-datasets/wit](https://github.com/google-research-datasets/wit) - WIT (Wikipedia-based Image Text) Dataset is a large multimodal multilingual dataset comprising 37M+ image-text sets with 11M+ unique images across 100+ languages.
 - [jslee02/awesome-collision-detection](https://github.com/jslee02/awesome-collision-detection) - :sunglasses: A curated list of awesome collision detection libraries and resources
@@ -3246,7 +3248,7 @@
 - [naszilla/naszilla](https://github.com/naszilla/naszilla) - Naszilla is a Python library for neural architecture search (NAS)
 - [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - :cake: Desktop utility to download images/videos/music/text from various websites, and more.
 - [facebookresearch/ConvNeXt](https://github.com/facebookresearch/ConvNeXt) - Code release for ConvNeXt model
-- [monosidev/monosi](https://github.com/monosidev/monosi) - Open source data observability
+- [monosidev/monosi](https://github.com/monosidev/monosi) - Open source data observability platform
 - [Spijkervet/torchaudio-augmentations](https://github.com/Spijkervet/torchaudio-augmentations) - Audio transformations library for PyTorch
 - [encode/orm](https://github.com/encode/orm) - An async ORM. 🗃
 - [julvo/reloading](https://github.com/julvo/reloading) - Change Python code while it's running without losing state
@@ -6419,6 +6421,10 @@
 
 ## Rust 
 
+- [frankmcsherry/COST](https://github.com/frankmcsherry/COST) - Single-threaded graph computation in Rust
+- [tailhook/humantime](https://github.com/tailhook/humantime) - A parser and formatter for std::time::{SystemTime, Duration}
+- [whitfin/efflux](https://github.com/whitfin/efflux) - Easy Hadoop Streaming and MapReduce interfaces in Rust
+- [Keats/kickstart](https://github.com/Keats/kickstart) - A scaffolding tool to get new projects up and running quickly
 - [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket) - A web framework for Rust.
 - [DasEtwas/enginesound](https://github.com/DasEtwas/enginesound) - Procedural engine sound generator controlled via GUI or CLI
 - [thalo-rs/thalo](https://github.com/thalo-rs/thalo) - 🚀 Event sourcing suite for Rust 🦀
@@ -6870,7 +6876,7 @@
 ## TypeScript 
 
 - [JaosnHsieh/github-star-search](https://github.com/JaosnHsieh/github-star-search) - A CLI that search your github starred repositories offline through README , description and other fields.
-- [haskell-spotlight/haskell-spotlight](https://github.com/haskell-spotlight/haskell-spotlight) - Follow us: https://twitter.com/HaskellSpot
+- [haskell-spotlight/haskell-spotlight](https://github.com/haskell-spotlight/haskell-spotlight) - Follow us: https://twitter.com/HaskellSpot Support the project: https://ko-fi.com/visortelle
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [slashbase/slashbase](https://github.com/slashbase/slashbase) - The open-source collaborative IDE for your databases.
 - [egoist/bina](https://github.com/egoist/bina) - An installer for self-contained, single-file binaries, no additional CLI needed.
