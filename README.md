@@ -325,7 +325,7 @@
 - [uNetworking/uWebSockets.js](https://github.com/uNetworking/uWebSockets.js) - μWebSockets for Node.js back-ends :metal:
 - [alibaba/graph-learn](https://github.com/alibaba/graph-learn) - An Industrial Graph Neural Network Framework
 - [pdclab/graphbolt](https://github.com/pdclab/graphbolt) - GraphBolt: Dependency-Driven Synchronous Processing of Streaming Graphs
-- [vectorizedio/redpanda](https://github.com/vectorizedio/redpanda) - Redpanda is the real-time engine for modern apps.  Kafka API Compatible; 10x faster 🚀    See more at redpanda.com
+- [redpanda-data/redpanda](https://github.com/redpanda-data/redpanda) - Redpanda is the real-time engine for modern apps.  Kafka API Compatible; 10x faster 🚀    See more at redpanda.com
 - [brpc/media-server](https://github.com/brpc/media-server) - A brpc-based server to host and proxy live streams
 - [utsaslab/pebblesdb](https://github.com/utsaslab/pebblesdb) - The PebblesDB write-optimized key-value store (SOSP 17)
 - [couchbase/forestdb](https://github.com/couchbase/forestdb) - A Fast Key-Value Storage Engine Based on Hierarchical B+-Tree Trie
@@ -690,6 +690,7 @@
 
 ## Clojure 
 
+- [Workiva/morphe](https://github.com/Workiva/morphe) - A Clojure utility for defining and applying aspects to function definitions.
 - [liebke/avout](https://github.com/liebke/avout) - Avout: Distributed State in Clojure
 - [liebke/zookeeper-clj](https://github.com/liebke/zookeeper-clj) - A Clojure DSL for Apache ZooKeeper
 - [kachayev/muse](https://github.com/kachayev/muse) - Clojure library that makes remote data access code elegant and efficient at the same time
@@ -849,7 +850,6 @@
 ## Go 
 
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡
-- [postgres-ai/database-lab-engine](https://github.com/postgres-ai/database-lab-engine) - Thin PostgreSQL clones. DLE provides blazing-fast database cloning to build powerful development, test, QA, staging environments. Follow to stay updated.
 - [ConduitIO/conduit](https://github.com/ConduitIO/conduit) - Data Integration for Production Data Stores.
 - [rjeczalik/interfaces](https://github.com/rjeczalik/interfaces) - Code generation tools for Go.
 - [clusterpedia-io/clusterpedia](https://github.com/clusterpedia-io/clusterpedia) - The Encyclopedia of Kubernetes clusters
@@ -1532,6 +1532,7 @@
 
 ## Haskell 
 
+- [graninas/Functional-Design-and-Architecture](https://github.com/graninas/Functional-Design-and-Architecture) - Code and materials for my book "Functional Design and Architecture"
 - [facebook/Haxl](https://github.com/facebook/Haxl) - A Haskell library that simplifies access to remote data, such as databases or web-based services.
 - [google/haskell-trainings](https://github.com/google/haskell-trainings) - Haskell 101 and 102: slides and codelabs
 - [simonmichael/hledger](https://github.com/simonmichael/hledger) - A reliable, user-friendly Plain Text Accounting tool with command line, terminal and web interfaces.
@@ -1691,6 +1692,7 @@
 
 ## JavaScript 
 
+- [postgres-ai/database-lab-engine](https://github.com/postgres-ai/database-lab-engine) - Thin PostgreSQL clones. DLE provides blazing-fast database cloning to build powerful development, test, QA, staging environments. Follow to stay updated.
 - [nodejs/undici](https://github.com/nodejs/undici) - An HTTP/1.1 client, written from scratch for Node.js
 - [just-js/just](https://github.com/just-js/just) - a very small v8 javascript runtime for linux only
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
