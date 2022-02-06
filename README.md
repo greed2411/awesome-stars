@@ -106,6 +106,8 @@
 
 ## C 
 
+- [lh3/gwfa](https://github.com/lh3/gwfa) - Proof-of-concept implementation of GWFA for sequence-to-graph alignment
+- [erthink/libmdbx](https://github.com/erthink/libmdbx) - One of the fastest embeddable key-value ACID database without WAL. libmdbx surpasses the legendary LMDB in terms of reliability, features and performance.
 - [frevib/io_uring-echo-server](https://github.com/frevib/io_uring-echo-server) - io_uring echo server
 - [giltene/wrk2](https://github.com/giltene/wrk2) - A constant throughput, correct latency recording variant of wrk
 - [DataDog/zstd](https://github.com/DataDog/zstd) - Zstd wrapper for Go
@@ -371,7 +373,7 @@
 - [uber/neuropod](https://github.com/uber/neuropod) - A uniform interface to run deep learning models from multiple frameworks
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System
 - [versatica/mediasoup](https://github.com/versatica/mediasoup) - Cutting Edge WebRTC Video Conferencing
-- [AaronFeng753/Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) - Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, SRMD, RealSR, Anime4K, RIFE, CAIN, DAIN,  and ACNet.
+- [AaronFeng753/Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) - Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, Real-CUGAN, SRMD, RealSR, Anime4K, RIFE, CAIN, DAIN,  and ACNet.
 - [lsegal/my_toy_compiler](https://github.com/lsegal/my_toy_compiler) - My Toy Compiler. Read about how I did it at the homepage URL
 - [arctern-io/arctern](https://github.com/arctern-io/arctern) - 
 - [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
@@ -858,7 +860,7 @@
 - [clusterpedia-io/clusterpedia](https://github.com/clusterpedia-io/clusterpedia) - The Encyclopedia of Kubernetes clusters
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster
 - [gogearbox/gearbox](https://github.com/gogearbox/gearbox) - Gearbox :gear: is a web framework written in Go with a focus on high performance
-- [neotoolkit/dummy](https://github.com/neotoolkit/dummy) - Run mock server based off an API contract with one command. Written in Go
+- [neotoolkit/dummy](https://github.com/neotoolkit/dummy) - Run mock server based off an API contract with one command
 - [iskaa02/qalam](https://github.com/iskaa02/qalam) - an easy to use terminal styling library
 - [abahmed/kwatch](https://github.com/abahmed/kwatch) - :eyes: monitor & detect crashes in your Kubernetes(K8s) cluster instantly
 - [distributedio/titan](https://github.com/distributedio/titan) - A Distributed Redis Protocol Compatible NoSQL Database
@@ -2233,7 +2235,7 @@
 - [deepmind/neural-processes](https://github.com/deepmind/neural-processes) - This repository contains notebook implementations of the following Neural Process variants: Conditional Neural Processes (CNPs), Neural Processes (NPs), Attentive Neural Processes (ANPs).
 - [SimonKohl/probabilistic_unet](https://github.com/SimonKohl/probabilistic_unet) - A U-Net combined with a variational auto-encoder that is able to learn conditional distributions over semantic segmentations.
 - [guillaume-chevalier/seq2seq-signal-prediction](https://github.com/guillaume-chevalier/seq2seq-signal-prediction) - Signal forecasting with a Sequence-to-Sequence (seq2seq) Recurrent Neural Network (RNN) model in TensorFlow - Guillaume Chevalier
-- [MIPT-Oulu/solt](https://github.com/MIPT-Oulu/solt) - Streaming over lightweight data transformations
+- [Oulu-IMEDS/solt](https://github.com/Oulu-IMEDS/solt) - Streaming over lightweight data transformations
 - [rasbt/stat479-machine-learning-fs18](https://github.com/rasbt/stat479-machine-learning-fs18) - Course material for STAT 479: Machine Learning (FS 2018) at University Wisconsin-Madison
 - [wassname/rl-portfolio-management](https://github.com/wassname/rl-portfolio-management) - Attempting to replicate "A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem" https://arxiv.org/abs/1706.10059 (and an openai gym environment)
 - [wassname/phoneme2grapheme](https://github.com/wassname/phoneme2grapheme) - Teaching machines to spell with deep learning (acc=&gt;80%) e.g. a model hears "pɹˈaʊd˺ɚ" and writes "prowder" (but it should be "prouder")
@@ -6436,6 +6438,7 @@
 
 ## Rust 
 
+- [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [Kindelia/HVM](https://github.com/Kindelia/HVM) - A massively parallel, optimal functional runtime in Rust
 - [jorgecarleitao/arrow2](https://github.com/jorgecarleitao/arrow2) - Unofficial transmute-free Rust library to work with the Arrow format
