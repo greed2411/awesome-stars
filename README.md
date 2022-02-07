@@ -106,6 +106,7 @@
 
 ## C 
 
+- [berty/go-libtor](https://github.com/berty/go-libtor) - Self-contained Tor from Go
 - [lh3/gwfa](https://github.com/lh3/gwfa) - Proof-of-concept implementation of GWFA for sequence-to-graph alignment
 - [erthink/libmdbx](https://github.com/erthink/libmdbx) - One of the fastest embeddable key-value ACID database without WAL. libmdbx surpasses the legendary LMDB in terms of reliability, features and performance.
 - [frevib/io_uring-echo-server](https://github.com/frevib/io_uring-echo-server) - io_uring echo server
@@ -852,6 +853,7 @@
 
 ## Go 
 
+- [felixge/benchmore](https://github.com/felixge/benchmore) - 
 - [containrrr/shoutrrr](https://github.com/containrrr/shoutrrr) - Notification library for gophers and their furry friends.
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡
 - [postgres-ai/database-lab-engine](https://github.com/postgres-ai/database-lab-engine) - Thin PostgreSQL clones. DLE provides blazing-fast database cloning to build powerful development, test, QA, staging environments. Follow to stay updated.
@@ -870,7 +872,7 @@
 - [db47h/ragel](https://github.com/db47h/ragel) - Go driver for ragel scanners
 - [openark/orchestrator](https://github.com/openark/orchestrator) - MySQL replication topology management and HA
 - [kubeshop/kusk](https://github.com/kubeshop/kusk) - Kusk makes your OpenAPI definition the source of truth for API resources in your cluster
-- [muesli/mango](https://github.com/muesli/mango) - mango is a man-page generator for the Go flag, pflag, and cobra packages
+- [muesli/mango](https://github.com/muesli/mango) - mango is a man-page generator for the Go flag, pflag, cobra, coral, and kong packages
 - [polyaxon/mloperator](https://github.com/polyaxon/mloperator) - Machine Learning Operator & Controller for Kubernetes
 - [oom-ai/oomstore](https://github.com/oom-ai/oomstore) - Lightweight and Fast Feature Store Powered by Go.
 - [ruoshan/autoportforward](https://github.com/ruoshan/autoportforward) - Bidirectional port-forwarding for docker, podman and kubernetes
@@ -1697,6 +1699,7 @@
 
 ## JavaScript 
 
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Open-source low-code framework for building React-based web applications and internal tools 🚀
 - [nodejs/undici](https://github.com/nodejs/undici) - An HTTP/1.1 client, written from scratch for Node.js
 - [just-js/just](https://github.com/just-js/just) - a very small v8 javascript runtime for linux only
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
@@ -1961,10 +1964,10 @@
 
 ## Jupyter Notebook 
 
+- [gordicaleksa/pytorch-GAT](https://github.com/gordicaleksa/pytorch-GAT) - My implementation of the original GAT paper (Veličković et al.). I've additionally included the playground.py file for visualizing the Cora dataset, GAT embeddings, an attention mechanism, and entropy histograms. I've supported both Cora (transductive) and PPI (inductive) examples!
 - [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.
 - [deepmind/educational](https://github.com/deepmind/educational) - 
 - [DataDog/go-profiler-notes](https://github.com/DataDog/go-profiler-notes) - felixge's notes on the various go profiling methods that are available.
-- [rentruewang/learning-machine](https://github.com/rentruewang/learning-machine) - A handbook for ML built on answers.
 - [mrdbourke/tensorflow-deep-learning](https://github.com/mrdbourke/tensorflow-deep-learning) - All course materials for the Zero to Mastery Deep Learning with TensorFlow course.
 - [aashrafh/Mozart](https://github.com/aashrafh/Mozart) - An optical music recognition (OMR) system. Converts sheet music to a machine-readable version.
 - [mchong6/GANsNRoses](https://github.com/mchong6/GANsNRoses) - Official PyTorch repo for GAN's N' Roses. Diverse im2im and vid2vid selfie to anime translation.
@@ -3253,7 +3256,7 @@
 
 - [harelba/q](https://github.com/harelba/q) - q - Run SQL directly on delimited files and multi-file sqlite databases
 - [someengineering/resoto](https://github.com/someengineering/resoto) - Resoto - Find leaky resources, manage quota limits, detect drift, and clean up!
-- [adriangb/xpresso](https://github.com/adriangb/xpresso) - Developer centric, performant and extensible Python ASGI framework
+- [adriangb/xpresso](https://github.com/adriangb/xpresso) - A composable Python ASGI web framework
 - [vitalik/django-ninja](https://github.com/vitalik/django-ninja) - 💨  Fast, Async-ready, Openapi, type hints based framework for building APIs
 - [locustio/locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
 - [DarshanDeshpande/jax-models](https://github.com/DarshanDeshpande/jax-models) - Unofficial JAX implementations of deep learning research papers
@@ -3296,6 +3299,7 @@
 - [benedekrozemberczki/awesome-monte-carlo-tree-search-papers](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers) - A curated list of Monte Carlo tree search papers with implementations.
 - [benedekrozemberczki/awesome-gradient-boosting-papers](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) - A curated list of gradient boosting research papers with implementations.
 - [benedekrozemberczki/awesome-decision-tree-papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) - A collection of research papers on decision, classification and regression trees with implementations.
+- [rentruewang/learning-machine](https://github.com/rentruewang/learning-machine) - A handbook for ML built on answers.
 - [rentruewang/cant-hear](https://github.com/rentruewang/cant-hear) - This is the source code repository for unsupervised noise reduction research.
 - [rentruewang/koila](https://github.com/rentruewang/koila) - Prevent PyTorch's `CUDA error: out of memory` in just 1 line of code.
 - [facebookresearch/denoiser](https://github.com/facebookresearch/denoiser) - Real Time Speech Enhancement in the Waveform Domain (Interspeech 2020)We provide a PyTorch implementation of the paper Real Time Speech Enhancement in the Waveform Domain. In which, we present a causal speech enhancement model working on the raw waveform that runs in real-time on a laptop CPU. The proposed model is based on an encoder-decoder architecture with skip-connections. It is optimized on both time and frequency domains, using multiple loss functions. Empirical evidence shows that it is capable of removing various kinds of background noise including stationary and non-stationary noises, as well as room reverb. Additionally, we suggest a set of data augmentation techniques applied directly on the raw waveform which further improve model performance and its generalization abilities.
@@ -6438,6 +6442,7 @@
 
 ## Rust 
 
+- [wilsonzlin/edgesearch](https://github.com/wilsonzlin/edgesearch) - Serverless full-text search with Cloudflare Workers, WebAssembly, and Roaring Bitmaps
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [Kindelia/HVM](https://github.com/Kindelia/HVM) - A massively parallel, optimal functional runtime in Rust
@@ -6490,7 +6495,7 @@
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [Qovery/engine](https://github.com/Qovery/engine) - The simplest way to deploy your apps on any cloud provider
 - [losfair/blueboat](https://github.com/losfair/blueboat) - Blueboat is a batteries-included, multi-tenant runtime for serverless web applications.
-- [AppFlowy-IO/appflowy](https://github.com/AppFlowy-IO/appflowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - High-velocity, monorepo-scale workflow for Git
 - [dylanhart/ulid-rs](https://github.com/dylanhart/ulid-rs) - This is a Rust implementation of the ulid project
 - [facebookexperimental/eden](https://github.com/facebookexperimental/eden) - EdenSCM is a cross-platform, highly scalable source control management system.
