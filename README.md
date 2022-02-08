@@ -853,6 +853,7 @@
 
 ## Go 
 
+- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution
 - [felixge/benchmore](https://github.com/felixge/benchmore) - 
 - [containrrr/shoutrrr](https://github.com/containrrr/shoutrrr) - Notification library for gophers and their furry friends.
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡
@@ -2042,7 +2043,6 @@
 - [bentrevett/pytorch-rl](https://github.com/bentrevett/pytorch-rl) - Tutorials for reinforcement learning in PyTorch and Gym by implementing a few of the popular algorithms. [IN PROGRESS]
 - [timsainb/tensorflow2-generative-models](https://github.com/timsainb/tensorflow2-generative-models) - Implementations of a number of generative models in Tensorflow 2. GAN, VAE, Seq2Seq, VAEGAN, GAIA, Spectrogram Inversion. Everything is self contained in a jupyter notebook for easy export to colab.
 - [google/jax-md](https://github.com/google/jax-md) - Differentiable, Hardware Accelerated, Molecular Dynamics
-- [liyin2015/python-coding-interview](https://github.com/liyin2015/python-coding-interview) - A middle-to-high level algorithm book designed with coding interview at heart!
 - [facebook/Ax](https://github.com/facebook/Ax) - Adaptive Experimentation Platform
 - [Ranlot/single-parameter-fit](https://github.com/Ranlot/single-parameter-fit) - Real numbers, data science and chaos: How to fit any dataset with a single parameter
 - [EmilienDupont/neural-processes](https://github.com/EmilienDupont/neural-processes) - Pytorch implementation of Neural Processes for functions and images :fireworks:
@@ -3772,7 +3772,7 @@
 - [shwars/mPyPl](https://github.com/shwars/mPyPl) - Monadic Pipeline Library for Python
 - [NVlabs/stylegan2](https://github.com/NVlabs/stylegan2) - StyleGAN2 - Official TensorFlow Implementation
 - [robinhood/faust](https://github.com/robinhood/faust) - Python Stream Processing
-- [cjones6/xsdc](https://github.com/cjones6/xsdc) - Code accompanying the paper "End-to-end Learning, with or without Labels"
+- [cjones6/xsdc](https://github.com/cjones6/xsdc) - Code accompanying the paper "Representation Learning for any Ratio of Labeled to Unlabeled Data"
 - [tech-srl/code2seq](https://github.com/tech-srl/code2seq) - Code for the model presented in the paper: "code2seq: Generating Sequences from Structured Representations of Code"
 - [Hironsan/bertsearch](https://github.com/Hironsan/bertsearch) - Elasticsearch with BERT for advanced document search.
 - [NLPatVCU/medaCy](https://github.com/NLPatVCU/medaCy) - :hospital: Medical Text Mining and Information Extraction with spaCy
@@ -4851,7 +4851,7 @@
 - [dxyang/DQN_pytorch](https://github.com/dxyang/DQN_pytorch) - Vanilla DQN, Double DQN, and Dueling DQN implemented in PyTorch
 - [G-Wang/WaveRNN-Pytorch](https://github.com/G-Wang/WaveRNN-Pytorch) - Fatcord's Alternative WaveRNN (Faster training)
 - [egg-west/AdamW-pytorch](https://github.com/egg-west/AdamW-pytorch) - Implementation and experiments for AdamW on Pytorch
-- [encode/uvicorn](https://github.com/encode/uvicorn) - The lightning-fast ASGI server. 🦄
+- [encode/uvicorn](https://github.com/encode/uvicorn) - An ASGI web server, for Python. 🦄
 - [encode/starlette](https://github.com/encode/starlette) - The little ASGI framework that shines. 🌟
 - [artetxem/uncovec](https://github.com/artetxem/uncovec) - Uncovering divergent linguistic information in word embeddings with lessons for intrinsic and extrinsic evaluation
 - [jakeoung/Unet_pytorch](https://github.com/jakeoung/Unet_pytorch) - Implementation of U-Net architecture using Pytorch
@@ -6442,6 +6442,7 @@
 
 ## Rust 
 
+- [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data
 - [wilsonzlin/edgesearch](https://github.com/wilsonzlin/edgesearch) - Serverless full-text search with Cloudflare Workers, WebAssembly, and Roaring Bitmaps
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
@@ -6884,6 +6885,7 @@
 - [liuxinyu95/unplugged](https://github.com/liuxinyu95/unplugged) - Open book about math and programming.
 - [optimass/continual_learning_papers](https://github.com/optimass/continual_learning_papers) - Relevant papers in Continual Learning
 - [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source
+- [liyin2015/python-coding-interview](https://github.com/liyin2015/python-coding-interview) - A middle-to-high level algorithm open source book designed with coding interview at heart!
 - [deedy/Latex-Templates](https://github.com/deedy/Latex-Templates) - A concise set of Latex templates that serves a small set of needs - CV, Essays, Articles and Problem Sets
 - [THUNLP-MT/MT-Reading-List](https://github.com/THUNLP-MT/MT-Reading-List) - A machine translation reading list maintained by Tsinghua Natural Language Processing Group
 - [horance-liu/tensorflow-internals](https://github.com/horance-liu/tensorflow-internals) - It is open source ebook about TensorFlow kernel and implementation mechanism.
