@@ -1700,6 +1700,7 @@
 
 ## JavaScript 
 
+- [daniel-bogdoll/ad-datasets](https://github.com/daniel-bogdoll/ad-datasets) - Complete* list of autonomous driving related datasets
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Open-source low-code framework for building React-based web applications and internal tools 🚀
 - [nodejs/undici](https://github.com/nodejs/undici) - An HTTP/1.1 client, written from scratch for Node.js
 - [just-js/just](https://github.com/just-js/just) - a very small v8 javascript runtime for linux only
@@ -1956,7 +1957,7 @@
 - [fonsp/Pluto.jl](https://github.com/fonsp/Pluto.jl) - 🎈 Simple reactive notebooks for Julia
 - [jonathan-laurent/AlphaZero.jl](https://github.com/jonathan-laurent/AlphaZero.jl) - A generic, simple and fast implementation of Deepmind's AlphaZero algorithm.
 - [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl) - Relax! Flux is the ML library that doesn't make you tensor
-- [FluxML/Zygote.jl](https://github.com/FluxML/Zygote.jl) - Intimate Affection Auditor
+- [FluxML/Zygote.jl](https://github.com/FluxML/Zygote.jl) - 21st century AD
 - [probcomp/Gen.jl](https://github.com/probcomp/Gen.jl) - A general-purpose probabilistic programming system with programmable inference
 - [alan-turing-institute/MLJ.jl](https://github.com/alan-turing-institute/MLJ.jl) - A Julia machine learning framework
 - [SciML/DiffEqFlux.jl](https://github.com/SciML/DiffEqFlux.jl) - Universal neural differential equations with O(1) backprop, GPUs, and stiff+non-stiff DE solvers, demonstrating scientific machine learning (SciML) and physics-informed machine learning methods
@@ -2148,6 +2149,7 @@
 - [n-waves/multifit](https://github.com/n-waves/multifit) - The code to reproduce results from paper "MultiFiT: Efficient Multi-lingual Language Model Fine-tuning" https://arxiv.org/abs/1909.04761
 - [fastai/numerical-linear-algebra-v2](https://github.com/fastai/numerical-linear-algebra-v2) - Jupyter Notebooks for Computational Linear Algebra course, taught summer 2018 in USF MSDS program
 - [mml-book/mml-book.github.io](https://github.com/mml-book/mml-book.github.io) - Companion webpage to the book "Mathematics For Machine Learning"
+- [facebookresearch/fastMRI](https://github.com/facebookresearch/fastMRI) - A large-scale dataset of both raw MRI measurements and clinical MRI images.
 - [erogol/FFTNet](https://github.com/erogol/FFTNet) - FFTNet vocoder implementation
 - [Machine-Learning-Tokyo/DL-workshop-series](https://github.com/Machine-Learning-Tokyo/DL-workshop-series) - Material used for Deep Learning related workshops for Machine Learning Tokyo (MLT)
 - [joyiswu/UCL-Deep-learning-ans-Reinforcement-learning](https://github.com/joyiswu/UCL-Deep-learning-ans-Reinforcement-learning) - Deep learning and Reinforcement learning lecture and course work
@@ -4696,7 +4698,6 @@
 - [InstaPy/instagram-profilecrawl](https://github.com/InstaPy/instagram-profilecrawl) - 📝 quickly crawl the information (e.g. followers, tags etc...) of an instagram profile.
 - [tzuhsial/InstagramCrawler](https://github.com/tzuhsial/InstagramCrawler) - A non API python program to crawl public photos, posts or followers
 - [huaying/instagram-crawler](https://github.com/huaying/instagram-crawler) - Get Instagram posts/profile/hashtag data without using Instagram API
-- [facebookresearch/fastMRI](https://github.com/facebookresearch/fastMRI) - A large-scale dataset of both raw MRI measurements and clinical MRI images.
 - [python-trio/trio](https://github.com/python-trio/trio) - Trio – a friendly Python library for async concurrency and I/O
 - [inoryy/reaver](https://github.com/inoryy/reaver) - Reaver: Modular Deep Reinforcement Learning Framework. Focused on StarCraft II. Supports Gym, Atari, and MuJoCo.
 - [isidroc/kekulescope](https://github.com/isidroc/kekulescope) - Code for KekuleScope
@@ -6537,7 +6538,7 @@
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [tensorbase/tensorbase](https://github.com/tensorbase/tensorbase) - TensorBase is a new big data warehousing with modern efforts.
 - [guillaume-be/rust-bert](https://github.com/guillaume-be/rust-bert) - Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2,...)
-- [sixtyfpsui/sixtyfps](https://github.com/sixtyfpsui/sixtyfps) - SixtyFPS is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++ or JavaScript.
+- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++ or JavaScript.
 - [travisbrown/cancel-culture](https://github.com/travisbrown/cancel-culture) - Tools for fighting abuse on Twitter
 - [yazgoo/bema](https://github.com/yazgoo/bema) - write your next slideshow in rust 🦀, as a self-contained binary  📦.
 - [Thomasdezeeuw/heph](https://github.com/Thomasdezeeuw/heph) - Heph is an actor framework for Rust based on asynchronous functions.
