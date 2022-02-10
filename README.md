@@ -853,6 +853,7 @@
 
 ## Go 
 
+- [up9inc/mizu](https://github.com/up9inc/mizu) - API traffic viewer for Kubernetes enabling you to view all API communication between microservices. Think TCPDump and Wireshark re-invented for Kubernetes
 - [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution
 - [felixge/benchmore](https://github.com/felixge/benchmore) - 
 - [containrrr/shoutrrr](https://github.com/containrrr/shoutrrr) - Notification library for gophers and their furry friends.
@@ -1588,6 +1589,7 @@
 
 ## Java 
 
+- [apache/chukwa](https://github.com/apache/chukwa) - Mirror of Apache Chukwa
 - [google/copybara](https://github.com/google/copybara) - Copybara: A tool for transforming and moving code between repositories.
 - [linkedin/datahub](https://github.com/linkedin/datahub) - The Metadata Platform for the Modern Data Stack
 - [real-logic/aeron](https://github.com/real-logic/aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport
@@ -2014,6 +2016,7 @@
 - [dice-group/PYKE](https://github.com/dice-group/PYKE) - A Physical Embedding Model for Knowledge Graphs
 - [moboehle/Pytorch-LRP](https://github.com/moboehle/Pytorch-LRP) - Basic LRP implementation in PyTorch
 - [advboxes/AdvBox](https://github.com/advboxes/AdvBox) - Advbox is a toolbox to generate adversarial examples that fool neural networks in PaddlePaddle、PyTorch、Caffe2、MxNet、Keras、TensorFlow and Advbox can benchmark the robustness of machine learning models.  Advbox give a command line tool to generate adversarial examples with Zero-Coding.
+- [cjones6/xsdc](https://github.com/cjones6/xsdc) - Code accompanying the paper "Representation Learning for any Ratio of Labeled to Unlabeled Data"
 - [virgili0/Virgilio](https://github.com/virgili0/Virgilio) - Your new Mentor for Data Science E-Learning.
 - [cantaro86/Financial-Models-Numerical-Methods](https://github.com/cantaro86/Financial-Models-Numerical-Methods) - Collection of notebooks about quantitative finance, with interactive python code.
 - [jackroos/VL-BERT](https://github.com/jackroos/VL-BERT) - Code for ICLR 2020 paper "VL-BERT: Pre-training of Generic Visual-Linguistic Representations".
@@ -2149,7 +2152,6 @@
 - [n-waves/multifit](https://github.com/n-waves/multifit) - The code to reproduce results from paper "MultiFiT: Efficient Multi-lingual Language Model Fine-tuning" https://arxiv.org/abs/1909.04761
 - [fastai/numerical-linear-algebra-v2](https://github.com/fastai/numerical-linear-algebra-v2) - Jupyter Notebooks for Computational Linear Algebra course, taught summer 2018 in USF MSDS program
 - [mml-book/mml-book.github.io](https://github.com/mml-book/mml-book.github.io) - Companion webpage to the book "Mathematics For Machine Learning"
-- [facebookresearch/fastMRI](https://github.com/facebookresearch/fastMRI) - A large-scale dataset of both raw MRI measurements and clinical MRI images.
 - [erogol/FFTNet](https://github.com/erogol/FFTNet) - FFTNet vocoder implementation
 - [Machine-Learning-Tokyo/DL-workshop-series](https://github.com/Machine-Learning-Tokyo/DL-workshop-series) - Material used for Deep Learning related workshops for Machine Learning Tokyo (MLT)
 - [joyiswu/UCL-Deep-learning-ans-Reinforcement-learning](https://github.com/joyiswu/UCL-Deep-learning-ans-Reinforcement-learning) - Deep learning and Reinforcement learning lecture and course work
@@ -3256,6 +3258,7 @@
 
 ## Python 
 
+- [jinfagang/yolov7](https://github.com/jinfagang/yolov7) - 🔥🔥🔥🔥 YOLO with Transformers and Instance Segmentation, with TensorRT acceleration! 🔥🔥🔥
 - [harelba/q](https://github.com/harelba/q) - q - Run SQL directly on delimited files and multi-file sqlite databases
 - [someengineering/resoto](https://github.com/someengineering/resoto) - Resoto - Find leaky resources, manage quota limits, detect drift, and clean up!
 - [adriangb/xpresso](https://github.com/adriangb/xpresso) - A composable Python ASGI web framework
@@ -3774,7 +3777,6 @@
 - [shwars/mPyPl](https://github.com/shwars/mPyPl) - Monadic Pipeline Library for Python
 - [NVlabs/stylegan2](https://github.com/NVlabs/stylegan2) - StyleGAN2 - Official TensorFlow Implementation
 - [robinhood/faust](https://github.com/robinhood/faust) - Python Stream Processing
-- [cjones6/xsdc](https://github.com/cjones6/xsdc) - Code accompanying the paper "Representation Learning for any Ratio of Labeled to Unlabeled Data"
 - [tech-srl/code2seq](https://github.com/tech-srl/code2seq) - Code for the model presented in the paper: "code2seq: Generating Sequences from Structured Representations of Code"
 - [Hironsan/bertsearch](https://github.com/Hironsan/bertsearch) - Elasticsearch with BERT for advanced document search.
 - [NLPatVCU/medaCy](https://github.com/NLPatVCU/medaCy) - :hospital: Medical Text Mining and Information Extraction with spaCy
@@ -4698,6 +4700,7 @@
 - [InstaPy/instagram-profilecrawl](https://github.com/InstaPy/instagram-profilecrawl) - 📝 quickly crawl the information (e.g. followers, tags etc...) of an instagram profile.
 - [tzuhsial/InstagramCrawler](https://github.com/tzuhsial/InstagramCrawler) - A non API python program to crawl public photos, posts or followers
 - [huaying/instagram-crawler](https://github.com/huaying/instagram-crawler) - Get Instagram posts/profile/hashtag data without using Instagram API
+- [facebookresearch/fastMRI](https://github.com/facebookresearch/fastMRI) - A large-scale dataset of both raw MRI measurements and clinical MRI images.
 - [python-trio/trio](https://github.com/python-trio/trio) - Trio – a friendly Python library for async concurrency and I/O
 - [inoryy/reaver](https://github.com/inoryy/reaver) - Reaver: Modular Deep Reinforcement Learning Framework. Focused on StarCraft II. Supports Gym, Atari, and MuJoCo.
 - [isidroc/kekulescope](https://github.com/isidroc/kekulescope) - Code for KekuleScope
@@ -6468,7 +6471,7 @@
 - [dpc/pariter](https://github.com/dpc/pariter) - Parallel iterator processing library for Rust
 - [pancake-db/pancake-db](https://github.com/pancake-db/pancake-db) - 
 - [drifting-in-space/spawner](https://github.com/drifting-in-space/spawner) - Session-lived containers for advanced browser-based applications.
-- [haixuanTao/wonnx](https://github.com/haixuanTao/wonnx) - Wonnx aimed at being an ONNX Provider for every GPU on all platforms written in 100% Rust.
+- [webonnx/wonnx](https://github.com/webonnx/wonnx) - A GPU-accelerated ONNX inference run-time written 100% in Rust, ready for the web
 - [koto-lang/koto](https://github.com/koto-lang/koto) - A simple, expressive, embeddable programming language, made with Rust
 - [libpnet/libpnet](https://github.com/libpnet/libpnet) - Cross-platform, low level networking using the Rust programming language.
 - [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
