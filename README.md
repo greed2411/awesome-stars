@@ -12,6 +12,7 @@
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
+  - [CMake](#cmake)
   - [CSS](#css)
   - [Clojure](#clojure)
   - [Common Lisp](#common-lisp)
@@ -191,6 +192,7 @@
 - [zerotier/lf](https://github.com/zerotier/lf) - Fully Decentralized Fully Replicated Key/Value Store
 - [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
 - [LMDB/lmdb](https://github.com/LMDB/lmdb) - Read-only mirror of official repo on openldap.org. Issues and pull requests here are ignored. Use OpenLDAP ITS for issues.
+- [taosdata/TDengine](https://github.com/taosdata/TDengine) - An open-source big data platform designed and optimized for the Internet of Things (IoT).
 - [jedisct1/libsodium](https://github.com/jedisct1/libsodium) - A modern, portable, easy to use crypto library.
 - [metacall/core](https://github.com/metacall/core) - MetaCall: The ultimate polyglot programming experience.
 - [jitspoe/starviewer](https://github.com/jitspoe/starviewer) - Simple program that renders stars in 3D from the HYG database.  Based on the Paintball2/Quake2/id Tech 2 engine.
@@ -670,6 +672,10 @@
 - [gpertea/stringtie](https://github.com/gpertea/stringtie) - Transcript assembly and quantification for RNA-Seq
 - [DaehwanKimLab/hisat2](https://github.com/DaehwanKimLab/hisat2) - Graph-based alignment (Hierarchical Graph FM index)
 - [arangodb/arangodb](https://github.com/arangodb/arangodb) - 🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.
+
+## CMake 
+
+- [awni/transducer](https://github.com/awni/transducer) - A Fast Sequence Transducer Implementation with PyTorch Bindings
 
 ## CSS 
 
@@ -1383,7 +1389,7 @@
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [lightningnetwork/lnd](https://github.com/lightningnetwork/lnd) - Lightning Network Daemon ⚡️
 - [joostjager/whatsat](https://github.com/joostjager/whatsat) - End-to-end encrypted, onion-routed, censorship-resistant, peer-to-peer instant messaging over Lightning
-- [milvus-io/milvus](https://github.com/milvus-io/milvus) - An open-source vector database for embedding similarity search and AI applications.
+- [milvus-io/milvus](https://github.com/milvus-io/milvus) - An open-source vector database for scalable similarity search and AI applications.
 - [cointop-sh/cointop](https://github.com/cointop-sh/cointop) - A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies 🚀
 - [bfenetworks/bfe](https://github.com/bfenetworks/bfe) - A modern layer 7 load balancer from baidu
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
@@ -2686,7 +2692,7 @@
 - [mjhea0/awesome-fastapi](https://github.com/mjhea0/awesome-fastapi) - A curated list of awesome things related to FastAPI
 - [chaincodelabs/bitcoin-curriculum](https://github.com/chaincodelabs/bitcoin-curriculum) - Bitcoin Protocol Development Curriculum
 - [benthecoder/yt-channels-DS-AI-ML-CS](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS) - A comprehensive list of 180+ YouTube Channels for Data Science,  Data Engineering, Machine Learning, Deep learning, Computer Science, programming, software engineering, etc.
-- [codersguild/System-Design](https://github.com/codersguild/System-Design) - System Design Bytes for Software Enthusiasts❤️. How is modern software designed? 🤔 Some design-level considerations for scalability, maintainability eventual consistency, availability & reliability. 👨‍💻 Interview Prep. 👨‍💻
+- [codersguild/System-Design](https://github.com/codersguild/System-Design) - SYSTEM DESIGN IS NOT JUST FOR INTERVIEWS, IT CAN BE HOW YOU LIVE YOUR LIFE. System Design Bytes for Software Enthusiasts❤️. How is modern software designed? 🤔 Some design-level considerations for scalability, maintainability eventual consistency, availability & reliability. 👨‍💻 Interview Prep. 👨‍💻
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles, videos, and other resources to learn and practice about software architecture, patterns, and principles.
 - [freereadorg/awesome-libgen](https://github.com/freereadorg/awesome-libgen) - 😎 Awesome list of Library Genesis, the world's largest free library.
 - [fuzhenxin/Style-Transfer-in-Text](https://github.com/fuzhenxin/Style-Transfer-in-Text) - Paper List for Style Transfer in Text
@@ -3946,7 +3952,6 @@
 - [danaugrs/huskarl](https://github.com/danaugrs/huskarl) - Deep Reinforcement Learning Framework + Algorithms
 - [jodal/pykka](https://github.com/jodal/pykka) - 🌀 Pykka makes it easier to build concurrent applications.
 - [pydata/xarray](https://github.com/pydata/xarray) - N-D labeled arrays and datasets in Python
-- [taosdata/TDengine](https://github.com/taosdata/TDengine) - An open-source big data platform designed and optimized for the Internet of Things (IoT).
 - [astooke/rlpyt](https://github.com/astooke/rlpyt) - Reinforcement Learning in PyTorch
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [barisumog/simple_cache](https://github.com/barisumog/simple_cache) - A simple caching utility in Python 3.
@@ -5363,7 +5368,6 @@
 - [XUSean0118/DVSNet](https://github.com/XUSean0118/DVSNet) - Modified implementation for DVSNet based on Tensorflow
 - [jinfagang/RetinaNet](https://github.com/jinfagang/RetinaNet) - Pytorch Implementation of RetinaNet with CUDA accelerate nms operation.
 - [DeepPavlov/convai](https://github.com/DeepPavlov/convai) - 
-- [awni/transducer](https://github.com/awni/transducer) - A Fast Sequence Transducer Implementation with PyTorch Bindings
 - [yaml/pyyaml](https://github.com/yaml/pyyaml) - Canonical source repository for PyYAML
 - [minhnhat93/tf-SNDCGAN](https://github.com/minhnhat93/tf-SNDCGAN) - Tensorflow Implementation of the paper "Spectral Normalization for Generative Adversarial Networks" (ICML 2017 workshop)
 - [experiencor/keras-yolo3](https://github.com/experiencor/keras-yolo3) - Training and Detecting Objects with YOLO3
@@ -6297,7 +6301,6 @@
 - [wal-e/wal-e](https://github.com/wal-e/wal-e) - Continuous Archiving for Postgres
 - [reddit-archive/reddit](https://github.com/reddit-archive/reddit) - historical code from reddit.com
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
-- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [seatgeek/fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy String Matching in Python
 - [coala/coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
 - [rougier/numpy-tutorial](https://github.com/rougier/numpy-tutorial) - Numpy beginner tutorial
