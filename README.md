@@ -12,7 +12,6 @@
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
-  - [CMake](#cmake)
   - [CSS](#css)
   - [Clojure](#clojure)
   - [Common Lisp](#common-lisp)
@@ -576,6 +575,7 @@
 - [ethereon/lycon](https://github.com/ethereon/lycon) - A minimal and fast image library for Python and C++
 - [HajarSS/Video-Segmentation](https://github.com/HajarSS/Video-Segmentation) - Semantic video segmentation using motion cues
 - [mikeroberts3000/EfficientHierarchicalGraphBasedVideoSegmentationExporter](https://github.com/mikeroberts3000/EfficientHierarchicalGraphBasedVideoSegmentationExporter) - This repository contains C++ code to export the video segmentations from the system described in the paper Efficient Hierarchical Graph-Based Video Segmentation.
+- [awni/transducer](https://github.com/awni/transducer) - A Fast Sequence Transducer Implementation with PyTorch Bindings
 - [marian-nmt/marian](https://github.com/marian-nmt/marian) - Fast Neural Machine Translation in C++
 - [google/filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
 - [zhaoweicai/cascade-rcnn](https://github.com/zhaoweicai/cascade-rcnn) - Caffe implementation of multiple popular object detection frameworks
@@ -672,10 +672,6 @@
 - [gpertea/stringtie](https://github.com/gpertea/stringtie) - Transcript assembly and quantification for RNA-Seq
 - [DaehwanKimLab/hisat2](https://github.com/DaehwanKimLab/hisat2) - Graph-based alignment (Hierarchical Graph FM index)
 - [arangodb/arangodb](https://github.com/arangodb/arangodb) - 🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.
-
-## CMake 
-
-- [awni/transducer](https://github.com/awni/transducer) - A Fast Sequence Transducer Implementation with PyTorch Bindings
 
 ## CSS 
 
@@ -859,6 +855,9 @@
 
 ## Go 
 
+- [eranyanay/1m-go-websockets](https://github.com/eranyanay/1m-go-websockets) - handling 1M websockets connections in Go
+- [aws/copilot-cli](https://github.com/aws/copilot-cli) - The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on AWS App Runner, Amazon ECS, and AWS Fargate.
+- [hbollon/go-edlib](https://github.com/hbollon/go-edlib) - 📚 String comparison and edit distance algorithms library, featuring : Levenshtein, LCS, Hamming, Damerau levenshtein (OSA and Adjacent transpositions algorithms), Jaro-Winkler, Cosine, etc...
 - [up9inc/mizu](https://github.com/up9inc/mizu) - API traffic viewer for Kubernetes enabling you to view all API communication between microservices. Think TCPDump and Wireshark re-invented for Kubernetes
 - [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution
 - [felixge/benchmore](https://github.com/felixge/benchmore) - 
@@ -2759,7 +2758,7 @@
 - [dbt-labs/facebook-ads](https://github.com/dbt-labs/facebook-ads) - dbt data models for facebook ads
 - [jim-schwoebel/voice_datasets](https://github.com/jim-schwoebel/voice_datasets) - 🔊 A comprehensive list of open-source datasets for voice and sound computing (95+ datasets).
 - [0voice/from_coder_to_expert](https://github.com/0voice/from_coder_to_expert) - 2021年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT
-- [amitness/learning](https://github.com/amitness/learning) - Becoming better at data science every day
+- [amitness/learning](https://github.com/amitness/learning) - A log of things I'm learning
 - [iamsanketray123/Leetcode-Questions](https://github.com/iamsanketray123/Leetcode-Questions) - Leetcode question list by companies, includes the premium questions. December 2019 updated
 - [datastacktv/data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) - Roadmap to becoming a data engineer in 2021
 - [ong/awesome-decentralized-finance](https://github.com/ong/awesome-decentralized-finance) - A curated list of awesome decentralized finance projects
@@ -4925,7 +4924,7 @@
 - [githubharald/CTCDecoder](https://github.com/githubharald/CTCDecoder) - Connectionist Temporal Classification (CTC) decoding algorithms: best path, beam search, lexicon search, prefix search, and token passing. Implemented in Python.
 - [tensorflow/lingvo](https://github.com/tensorflow/lingvo) - Lingvo
 - [boathit/Benchmark-Flux-PyTorch](https://github.com/boathit/Benchmark-Flux-PyTorch) - 
-- [kentsyx/Neural-IMage-Assessment](https://github.com/kentsyx/Neural-IMage-Assessment) - A PyTorch Implementation of Neural IMage Assessment
+- [yunxiaoshi/Neural-IMage-Assessment](https://github.com/yunxiaoshi/Neural-IMage-Assessment) - A PyTorch Implementation of Neural IMage Assessment
 - [uclanlp/NamedEntityLanguageModel](https://github.com/uclanlp/NamedEntityLanguageModel) - 
 - [ruotianluo/neural-summ-cnndm-pytorch](https://github.com/ruotianluo/neural-summ-cnndm-pytorch) - neural abstractive summarization in pytorch on CNN/Daily Mail
 - [svishnu88/TGS-SaltNet](https://github.com/svishnu88/TGS-SaltNet) - Kaggle | 21st place solution for TGS Salt Identification Challenge
