@@ -321,7 +321,7 @@
 - [official-stockfish/Stockfish](https://github.com/official-stockfish/Stockfish) - UCI chess engine
 - [eventql/eventql](https://github.com/eventql/eventql) - Distributed "massively parallel" SQL query engine
 - [wenet-e2e/wenet](https://github.com/wenet-e2e/wenet) - Production First and Production Ready End-to-End Speech Recognition Toolkit
-- [Ethereal-Developers-Inc/OpenScan](https://github.com/Ethereal-Developers-Inc/OpenScan) - OpenScan is an open-source document scanner app that enables users to scan hard copies of documents or notes and convert it into a PDF file. No ads. No data collection. We respect your privacy.
+- [Ethereal-Developers-Inc/OpenScan](https://github.com/Ethereal-Developers-Inc/OpenScan) - A privacy-friendly Document Scanner app
 - [bytedance/terarkdb](https://github.com/bytedance/terarkdb) - A RocksDB compatible KV storage engine with better performance
 - [facebook/fbthrift](https://github.com/facebook/fbthrift) - Facebook's branch of Apache Thrift, including a new C++ server.
 - [mhammond/pywin32](https://github.com/mhammond/pywin32) - Python for Windows (pywin32) Extensions
@@ -2057,7 +2057,6 @@
 - [Ranlot/single-parameter-fit](https://github.com/Ranlot/single-parameter-fit) - Real numbers, data science and chaos: How to fit any dataset with a single parameter
 - [EmilienDupont/neural-processes](https://github.com/EmilienDupont/neural-processes) - Pytorch implementation of Neural Processes for functions and images :fireworks:
 - [limingcv/Photorealistic-Style-Transfer](https://github.com/limingcv/Photorealistic-Style-Transfer) - High-Resolution Network for Photorealistic Style Transfer
-- [NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - Deep Learning Examples
 - [mosheman5/DNP](https://github.com/mosheman5/DNP) - Audio Denoising with Deep Network Priors
 - [google/neural-tangents](https://github.com/google/neural-tangents) - Fast and Easy Infinite Neural Networks in Python
 - [IDEA-NTHU-Taiwan/PatternTutorial](https://github.com/IDEA-NTHU-Taiwan/PatternTutorial) - A Graph-based Pattern Representations Tutorial
@@ -3831,7 +3830,7 @@
 - [deepjyoti30/ytmdl](https://github.com/deepjyoti30/ytmdl) - A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, Spotify, LastFM, Deezer, Gaana etc.
 - [nschloe/meshio](https://github.com/nschloe/meshio) - :spider_web: input/output for many mesh formats
 - [Kayzaks/HackingNeuralNetworks](https://github.com/Kayzaks/HackingNeuralNetworks) - A small course on exploiting and defending neural networks
-- [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) - The standard package for machine learning with label errors, finding mislabeled data, and uncertainty quantification. Works with most datasets and models.
+- [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) - The standard package for data-centric AI and machine learning with label errors, finding mislabeled data, and uncertainty quantification. Works with most datasets and models.
 - [alegonz/baikal](https://github.com/alegonz/baikal) - A graph-based functional API for building complex scikit-learn pipelines.
 - [coleifer/huey](https://github.com/coleifer/huey) - a little task queue for python
 - [manatlan/guy](https://github.com/manatlan/guy) - Graphics User Ynterface : a simple module for making GUI applications (with html/js) for py3 ... to target windows, linux, mac & android
@@ -4126,6 +4125,7 @@
 - [r9y9/wavenet_vocoder](https://github.com/r9y9/wavenet_vocoder) - WaveNet vocoder
 - [goldsborough/ig](https://github.com/goldsborough/ig) - :fireworks: Include graph visualization for C++
 - [tengteng95/Pose-Transfer](https://github.com/tengteng95/Pose-Transfer) - Code for the paper Progressive Pose Attention for Person Image Generation in CVPR19 (Oral).
+- [NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - Deep Learning Examples
 - [switchablenorms/CelebAMask-HQ](https://github.com/switchablenorms/CelebAMask-HQ) - A large-scale face dataset for face parsing, recognition, generation and editing.
 - [dephell/dephell](https://github.com/dephell/dephell) - :package: :fire: Python project management. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump version.
 - [socialpoint-labs/sheetfu](https://github.com/socialpoint-labs/sheetfu) - Python library to interact with Google Sheets V4 API
