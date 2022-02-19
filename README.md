@@ -295,7 +295,6 @@
 - [facebook/proxygen](https://github.com/facebook/proxygen) - A collection of C++ HTTP libraries including an easy to use HTTP server.
 - [couchbase/phosphor](https://github.com/couchbase/phosphor) - High performance event tracing
 - [lewissbaker/cppcoro](https://github.com/lewissbaker/cppcoro) - A library of C++ coroutine abstractions for the coroutines TS
-- [flink-extended/dl-on-flink](https://github.com/flink-extended/dl-on-flink) - Deep Learning on Flink aims to integrate Flink and deep learning frameworks (e.g. TensorFlow, PyTorch, etc) to enable distributed deep learning training and inference on a Flink cluster.
 - [google/language-resources](https://github.com/google/language-resources) - Datasets and tools for basic natural language processing.
 - [openai/triton](https://github.com/openai/triton) - Development repository for the Triton language and compiler
 - [BespokeSynth/BespokeSynth](https://github.com/BespokeSynth/BespokeSynth) - Software modular synth
@@ -575,7 +574,6 @@
 - [ethereon/lycon](https://github.com/ethereon/lycon) - A minimal and fast image library for Python and C++
 - [HajarSS/Video-Segmentation](https://github.com/HajarSS/Video-Segmentation) - Semantic video segmentation using motion cues
 - [mikeroberts3000/EfficientHierarchicalGraphBasedVideoSegmentationExporter](https://github.com/mikeroberts3000/EfficientHierarchicalGraphBasedVideoSegmentationExporter) - This repository contains C++ code to export the video segmentations from the system described in the paper Efficient Hierarchical Graph-Based Video Segmentation.
-- [awni/transducer](https://github.com/awni/transducer) - A Fast Sequence Transducer Implementation with PyTorch Bindings
 - [marian-nmt/marian](https://github.com/marian-nmt/marian) - Fast Neural Machine Translation in C++
 - [google/filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
 - [zhaoweicai/cascade-rcnn](https://github.com/zhaoweicai/cascade-rcnn) - Caffe implementation of multiple popular object detection frameworks
@@ -787,6 +785,7 @@
 - [SeanNaren/warp-ctc](https://github.com/SeanNaren/warp-ctc) - Pytorch Bindings for warp-ctc
 - [CannyLab/tsne-cuda](https://github.com/CannyLab/tsne-cuda) - GPU Accelerated t-SNE for CUDA with Python bindings
 - [msracver/FCIS](https://github.com/msracver/FCIS) - Fully Convolutional Instance-aware Semantic Segmentation
+- [awni/transducer](https://github.com/awni/transducer) - A Fast Sequence Transducer Implementation with PyTorch Bindings
 - [baidu-research/warp-ctc](https://github.com/baidu-research/warp-ctc) - Fast parallel CTC.
 - [NVIDIA/nv-wavenet](https://github.com/NVIDIA/nv-wavenet) - Reference implementation of real-time autoregressive wavenet inference
 - [luanfujun/deep-painterly-harmonization](https://github.com/luanfujun/deep-painterly-harmonization) - Code and data for paper "Deep Painterly Harmonization": https://arxiv.org/abs/1804.03189
@@ -882,7 +881,7 @@
 - [kubeshop/kusk](https://github.com/kubeshop/kusk) - Kusk makes your OpenAPI definition the source of truth for API resources in your cluster
 - [muesli/mango](https://github.com/muesli/mango) - mango is a man-page generator for the Go flag, pflag, cobra, coral, and kong packages
 - [polyaxon/mloperator](https://github.com/polyaxon/mloperator) - Machine Learning Operator & Controller for Kubernetes
-- [oom-ai/oomstore](https://github.com/oom-ai/oomstore) - Lightweight and Fast Feature Store Powered by Go.
+- [oom-ai/oomstore](https://github.com/oom-ai/oomstore) - Lightweight and Fast Feature Store Powered by Go (and Rust).
 - [ruoshan/autoportforward](https://github.com/ruoshan/autoportforward) - Bidirectional port-forwarding for docker, podman and kubernetes
 - [mosuka/phalanx](https://github.com/mosuka/phalanx) - Phalanx is a cloud-native distributed search engine that provides endpoints through gRPC and traditional RESTful API.
 - [jucardi/go-streams](https://github.com/jucardi/go-streams) - Stream Collections for Go. Inspired in Java 8 Streams and .NET Linq
@@ -1602,6 +1601,7 @@
 - [apache/incubator-seatunnel](https://github.com/apache/incubator-seatunnel) - SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time).
 - [spotify/mobius](https://github.com/spotify/mobius) - A functional reactive framework for managing state evolution and side-effects.
 - [apache/zeppelin](https://github.com/apache/zeppelin) - Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.
+- [flink-extended/dl-on-flink](https://github.com/flink-extended/dl-on-flink) - Deep Learning on Flink aims to integrate Flink and deep learning frameworks (e.g. TensorFlow, PyTorch, etc) to enable distributed deep learning training and inference on a Flink cluster.
 - [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - The open big data serving engine. https://vespa.ai
 - [Netflix/netflix-graph](https://github.com/Netflix/netflix-graph) - Compact in-memory representation of directed graph data
 - [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine.
@@ -6608,7 +6608,7 @@
 - [mit-pdos/RVirt](https://github.com/mit-pdos/RVirt) - RISC-V hypervisor written in Rust
 - [async-rs/async-std](https://github.com/async-rs/async-std) - Async version of the Rust standard library
 - [AdamNiederer/faster](https://github.com/AdamNiederer/faster) - SIMD for humans
-- [skytable/skytable](https://github.com/skytable/skytable) - Skytable is an extremely fast, secure and reliable real-time NoSQL database with automated snapshots and TLS
+- [skytable/skytable](https://github.com/skytable/skytable) - Skytable is a fast, secure and reliable realtime NoSQL database with keysapces, tables, data types, snapshots and more to build powerful apps
 - [paulchernoch/shy](https://github.com/paulchernoch/shy) - Shunting Yard Rule Engine in Rust
 - [TimonPost/laminar](https://github.com/TimonPost/laminar) - A simple semi-reliable UDP protocol for multiplayer games
 - [kyren/webrtc-unreliable](https://github.com/kyren/webrtc-unreliable) - Just enough hacks to get unreliable unordered WebRTC data channels between a browser and a server
@@ -6895,7 +6895,7 @@
 - [liuxinyu95/unplugged](https://github.com/liuxinyu95/unplugged) - Open book about math and programming.
 - [optimass/continual_learning_papers](https://github.com/optimass/continual_learning_papers) - Relevant papers in Continual Learning
 - [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source
-- [liyin2015/python-coding-interview](https://github.com/liyin2015/python-coding-interview) - A middle-to-high level algorithm open source book designed with coding interview at heart!
+- [liyin2015/python-coding-interview](https://github.com/liyin2015/python-coding-interview) - A middle-to-high level open source algorithm book designed with coding interview at heart!
 - [deedy/Latex-Templates](https://github.com/deedy/Latex-Templates) - A concise set of Latex templates that serves a small set of needs - CV, Essays, Articles and Problem Sets
 - [THUNLP-MT/MT-Reading-List](https://github.com/THUNLP-MT/MT-Reading-List) - A machine translation reading list maintained by Tsinghua Natural Language Processing Group
 - [horance-liu/tensorflow-internals](https://github.com/horance-liu/tensorflow-internals) - It is open source ebook about TensorFlow kernel and implementation mechanism.
