@@ -6163,7 +6163,7 @@
 - [RasaHQ/rasa](https://github.com/RasaHQ/rasa) - 💬   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants
 - [rougier/ASPP-2017](https://github.com/rougier/ASPP-2017) - Material for the Advanced Scientific Python Programming course, Nikiti, Greece, 2017
 - [zcyang/imageqa-san](https://github.com/zcyang/imageqa-san) - code for Stacked attention networks for image question answering
-- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
+- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in various languages.
 - [flomlo/ntm_keras](https://github.com/flomlo/ntm_keras) - An implementation of the Neural Turing Machine as a keras recurrent layer.
 - [bplank/bilstm-aux](https://github.com/bplank/bilstm-aux) - Bidirectional Long-Short Term Memory tagger (bi-LSTM) (in DyNet) -- hierarchical (with word and character embeddings)
 - [petertodd/python-bitcoinlib](https://github.com/petertodd/python-bitcoinlib) - Python3 library providing an easy interface to the Bitcoin data structures and protocol.
