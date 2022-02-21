@@ -1709,7 +1709,7 @@
 ## JavaScript 
 
 - [daniel-bogdoll/ad-datasets](https://github.com/daniel-bogdoll/ad-datasets) - Complete* list of autonomous driving related datasets
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and application builder. Built using JavaScript/TypeScript. 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
 - [nodejs/undici](https://github.com/nodejs/undici) - An HTTP/1.1 client, written from scratch for Node.js
 - [just-js/just](https://github.com/just-js/just) - a very small v8 javascript runtime for linux only
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
@@ -2022,7 +2022,7 @@
 - [dice-group/PYKE](https://github.com/dice-group/PYKE) - A Physical Embedding Model for Knowledge Graphs
 - [moboehle/Pytorch-LRP](https://github.com/moboehle/Pytorch-LRP) - Basic LRP implementation in PyTorch
 - [advboxes/AdvBox](https://github.com/advboxes/AdvBox) - Advbox is a toolbox to generate adversarial examples that fool neural networks in PaddlePaddle、PyTorch、Caffe2、MxNet、Keras、TensorFlow and Advbox can benchmark the robustness of machine learning models.  Advbox give a command line tool to generate adversarial examples with Zero-Coding.
-- [cjones6/xsdc](https://github.com/cjones6/xsdc) - Code accompanying the paper "Representation Learning for any Ratio of Labeled to Unlabeled Data"
+- [cjones6/xsdc](https://github.com/cjones6/xsdc) - Code accompanying the paper "Discriminative Clustering with Representation Learning for any Ratio of Labeled to Unlabeled Data"
 - [virgili0/Virgilio](https://github.com/virgili0/Virgilio) - Your new Mentor for Data Science E-Learning.
 - [cantaro86/Financial-Models-Numerical-Methods](https://github.com/cantaro86/Financial-Models-Numerical-Methods) - Collection of notebooks about quantitative finance, with interactive python code.
 - [jackroos/VL-BERT](https://github.com/jackroos/VL-BERT) - Code for ICLR 2020 paper "VL-BERT: Pre-training of Generic Visual-Linguistic Representations".
@@ -3266,6 +3266,8 @@
 
 ## Python 
 
+- [long2ice/fastapi-cache](https://github.com/long2ice/fastapi-cache) - fastapi-cache is a tool to cache fastapi response and function result, with backends support redis and memcached.
+- [aio-libs/async-lru](https://github.com/aio-libs/async-lru) - Simple LRU cache for asyncio
 - [jinfagang/yolov7](https://github.com/jinfagang/yolov7) - 🔥🔥🔥🔥 YOLO with Transformers and Instance Segmentation, with TensorRT acceleration! 🔥🔥🔥
 - [harelba/q](https://github.com/harelba/q) - q - Run SQL directly on delimited files and multi-file sqlite databases
 - [someengineering/resoto](https://github.com/someengineering/resoto) - Resoto - Find leaky resources, manage quota limits, detect drift, and clean up!
@@ -4402,7 +4404,7 @@
 - [rezoo/illustration2vec](https://github.com/rezoo/illustration2vec) - A simple deep learning library for estimating a set of tags and extracting semantic feature vectors from given illustrations.
 - [TuSimple/simpledet](https://github.com/TuSimple/simpledet) - A Simple and Versatile Framework for Object Detection and Instance Recognition
 - [durandtibo/weldon.resnet.pytorch](https://github.com/durandtibo/weldon.resnet.pytorch) - 
-- [ibis-project/ibis](https://github.com/ibis-project/ibis) - A pandas-like deferred expression system, with first-class SQL support
+- [ibis-project/ibis](https://github.com/ibis-project/ibis) - Expressive analytics in Python, whatever the scale.
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [SNL-NERL/Whetstone](https://github.com/SNL-NERL/Whetstone) - 
