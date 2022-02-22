@@ -854,6 +854,7 @@
 
 ## Go 
 
+- [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [golang-design/Go-Questions](https://github.com/golang-design/Go-Questions) - 📖 从问题切入，串连  Go 语言相关的所有知识，融会贯通。 https://golang.design/go-questions
 - [eranyanay/1m-go-websockets](https://github.com/eranyanay/1m-go-websockets) - handling 1M websockets connections in Go
 - [aws/copilot-cli](https://github.com/aws/copilot-cli) - The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on AWS App Runner, Amazon ECS, and AWS Fargate.
