@@ -211,7 +211,7 @@
 - [microsoft/jericho](https://github.com/microsoft/jericho) - A learning environment for man-made Interactive Fiction games.
 - [BluewhaleRobot/xiaoqiang_tts](https://github.com/BluewhaleRobot/xiaoqiang_tts) - xiaoqiang tts and asr package, using baidu and xunfei as backend
 - [spencertipping/jit-tutorial](https://github.com/spencertipping/jit-tutorial) - How to write a very simple JIT compiler
-- [mozilla/LPCNet](https://github.com/mozilla/LPCNet) - Efficient neural speech synthesis
+- [xiph/LPCNet](https://github.com/xiph/LPCNet) - Efficient neural speech synthesis
 - [pytorch/QNNPACK](https://github.com/pytorch/QNNPACK) - Quantized Neural Network PACKage - mobile-optimized implementation of quantized neural network operators
 - [SamyPesse/How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - How to Make a Computer Operating System in C++
 - [Meituan-Dianping/Logan](https://github.com/Meituan-Dianping/Logan) - Logan is a lightweight case logging system based on mobile platform.
@@ -574,6 +574,7 @@
 - [ethereon/lycon](https://github.com/ethereon/lycon) - A minimal and fast image library for Python and C++
 - [HajarSS/Video-Segmentation](https://github.com/HajarSS/Video-Segmentation) - Semantic video segmentation using motion cues
 - [mikeroberts3000/EfficientHierarchicalGraphBasedVideoSegmentationExporter](https://github.com/mikeroberts3000/EfficientHierarchicalGraphBasedVideoSegmentationExporter) - This repository contains C++ code to export the video segmentations from the system described in the paper Efficient Hierarchical Graph-Based Video Segmentation.
+- [awni/transducer](https://github.com/awni/transducer) - A Fast Sequence Transducer Implementation with PyTorch Bindings
 - [marian-nmt/marian](https://github.com/marian-nmt/marian) - Fast Neural Machine Translation in C++
 - [google/filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
 - [zhaoweicai/cascade-rcnn](https://github.com/zhaoweicai/cascade-rcnn) - Caffe implementation of multiple popular object detection frameworks
@@ -785,7 +786,6 @@
 - [SeanNaren/warp-ctc](https://github.com/SeanNaren/warp-ctc) - Pytorch Bindings for warp-ctc
 - [CannyLab/tsne-cuda](https://github.com/CannyLab/tsne-cuda) - GPU Accelerated t-SNE for CUDA with Python bindings
 - [msracver/FCIS](https://github.com/msracver/FCIS) - Fully Convolutional Instance-aware Semantic Segmentation
-- [awni/transducer](https://github.com/awni/transducer) - A Fast Sequence Transducer Implementation with PyTorch Bindings
 - [baidu-research/warp-ctc](https://github.com/baidu-research/warp-ctc) - Fast parallel CTC.
 - [NVIDIA/nv-wavenet](https://github.com/NVIDIA/nv-wavenet) - Reference implementation of real-time autoregressive wavenet inference
 - [luanfujun/deep-painterly-harmonization](https://github.com/luanfujun/deep-painterly-harmonization) - Code and data for paper "Deep Painterly Harmonization": https://arxiv.org/abs/1804.03189
@@ -854,6 +854,7 @@
 
 ## Go 
 
+- [nao1215/gup](https://github.com/nao1215/gup) - gup - Update binaries installed by "go install"
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [golang-design/Go-Questions](https://github.com/golang-design/Go-Questions) - 📖 从问题切入，串连  Go 语言相关的所有知识，融会贯通。 https://golang.design/go-questions
 - [eranyanay/1m-go-websockets](https://github.com/eranyanay/1m-go-websockets) - handling 1M websockets connections in Go
@@ -1716,7 +1717,7 @@
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
 - [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
 - [tengbao/vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website
-- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
+- [google/zx](https://github.com/google/zx) - Replace Bash with JavaScript
 - [igrigorik/videospeed](https://github.com/igrigorik/videospeed) - HTML5 video speed controller (for Google Chrome)
 - [weinberg/SQLToy](https://github.com/weinberg/SQLToy) - An in-memory SQL database written in Javascript to demonstrate how SQL works.
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀
@@ -1759,6 +1760,7 @@
 - [aeternity/aepp-sdk-js](https://github.com/aeternity/aepp-sdk-js) - Javascript SDK for the æternity blockchain
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly
 - [antonycourtney/tad](https://github.com/antonycourtney/tad) - A desktop application for viewing and analyzing tabular data
+- [p2panda/handbook](https://github.com/p2panda/handbook) - Architectural specification and design of p2:panda_face:
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [necolas/react-native-web](https://github.com/necolas/react-native-web) - React Native Components and APIs for the Web
@@ -2190,7 +2192,7 @@
 - [shayneobrien/generative-models](https://github.com/shayneobrien/generative-models) - Annotated, understandable, and visually interpretable PyTorch implementations of: VAE, BIRVAE, NSGAN, MMGAN, WGAN, WGANGP, LSGAN, DRAGAN, BEGAN, RaGAN, InfoGAN, fGAN, FisherGAN
 - [jiasenlu/HieCoAttenVQA](https://github.com/jiasenlu/HieCoAttenVQA) - 
 - [automl/pybnn](https://github.com/automl/pybnn) - Bayesian neural network package
-- [pandas-profiling/pandas-profiling](https://github.com/pandas-profiling/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
+- [ydataai/pandas-profiling](https://github.com/ydataai/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
 - [prashantg445/Image-Captioning](https://github.com/prashantg445/Image-Captioning) - Used LSTM on Flickr dataset
 - [SuryaThiru/Food-recommendation-PySpark](https://github.com/SuryaThiru/Food-recommendation-PySpark) - PySpark powered food recommendation system based on amazon food review data
 - [omarsar/mri-analysis-pytorch](https://github.com/omarsar/mri-analysis-pytorch) - MRI analysis using PyTorch and MedicalTorch
@@ -2737,7 +2739,6 @@
 - [zhenlohuang/awesome-distributed-systems](https://github.com/zhenlohuang/awesome-distributed-systems) - A curated list of awesome distributed systems books, papers, resources and shiny things.
 - [binance/binance-api-postman](https://github.com/binance/binance-api-postman) - Postman collection for Binance Public API, including spot, margin, futures, etc.
 - [microsoft/coax](https://github.com/microsoft/coax) - This project was moved to: https://github.com/coax-dev/coax
-- [p2panda/handbook](https://github.com/p2panda/handbook) - Architectural specification and design of p2:panda_face:
 - [kgryte/awesome-peer-to-peer](https://github.com/kgryte/awesome-peer-to-peer) - A list of peer-to-peer resources.
 - [msgpack/msgpack](https://github.com/msgpack/msgpack) - MessagePack is an extremely efficient object serialization library. It's like JSON, but very fast and small.
 - [jwiegley/git-from-the-bottom-up](https://github.com/jwiegley/git-from-the-bottom-up) - An introduction to the architecture and design of the Git content manager
@@ -3679,7 +3680,7 @@
 - [prschmid/zoomus](https://github.com/prschmid/zoomus) - Python client library for the Zoom.us REST API v1 and v2
 - [QData/TextAttack](https://github.com/QData/TextAttack) - TextAttack 🐙  is a Python framework for adversarial attacks, data augmentation, and model training in NLP https://textattack.readthedocs.io/en/master/
 - [schenkd/nginx-ui](https://github.com/schenkd/nginx-ui) - Nginx UI allows you to access and modify the nginx configurations files without cli.
-- [ubuntu/microk8s](https://github.com/ubuntu/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge.
+- [canonical/microk8s](https://github.com/canonical/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge.
 - [alexmojaki/instant_api](https://github.com/alexmojaki/instant_api) - Instantly create an HTTP API with automatic type conversions, JSON RPC, and a Swagger UI. Just add methods!
 - [hansonkd/Tino](https://github.com/hansonkd/Tino) - A one-of-a-kind, stupid fast, Python API using Redis Protocol and MsgPack
 - [Fizzadar/pyinfra](https://github.com/Fizzadar/pyinfra) - pyinfra automates infrastructure super fast at massive scale. It can be used for ad-hoc command execution, service deployment, configuration management and more.
