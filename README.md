@@ -191,7 +191,7 @@
 - [zerotier/lf](https://github.com/zerotier/lf) - Fully Decentralized Fully Replicated Key/Value Store
 - [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
 - [LMDB/lmdb](https://github.com/LMDB/lmdb) - Read-only mirror of official repo on openldap.org. Issues and pull requests here are ignored. Use OpenLDAP ITS for issues.
-- [taosdata/TDengine](https://github.com/taosdata/TDengine) - An open-source big data platform designed and optimized for the Internet of Things (IoT).
+- [taosdata/TDengine](https://github.com/taosdata/TDengine) - An open-source time-series database with high-performance, scalability and SQL support. It can be widely used in IoT, Connected Vehicles, DevOps, Energy, Finance and other fields
 - [jedisct1/libsodium](https://github.com/jedisct1/libsodium) - A modern, portable, easy to use crypto library.
 - [metacall/core](https://github.com/metacall/core) - MetaCall: The ultimate polyglot programming experience.
 - [jitspoe/starviewer](https://github.com/jitspoe/starviewer) - Simple program that renders stars in 3D from the HYG database.  Based on the Paintball2/Quake2/id Tech 2 engine.
@@ -676,7 +676,7 @@
 
 - [cfsamson/books-futures-explained](https://github.com/cfsamson/books-futures-explained) - The repository for the book Futures Explained in 200 lines of Rust
 - [missing-semester/missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
-- [steshaw/plt](https://github.com/steshaw/plt) - λΠ Programming Language Theory
+- [steshaw/plt](https://github.com/steshaw/plt) - Programming Language Theory λΠ
 - [horst3180/arc-theme](https://github.com/horst3180/arc-theme) - A flat theme with transparent elements
 - [vinceliuice/Qogir-theme](https://github.com/vinceliuice/Qogir-theme) - Qogir is a flat Design theme for GTK
 - [omarsar/nlp_overview](https://github.com/omarsar/nlp_overview) - Overview of Modern Deep Learning Techniques Applied to Natural Language Processing
@@ -3478,7 +3478,7 @@
 - [lucidrains/deep-daze](https://github.com/lucidrains/deep-daze) - Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network). Technique was originally created by https://twitter.com/advadnoun
 - [mnschmit/unsupervised-graph-text-conversion](https://github.com/mnschmit/unsupervised-graph-text-conversion) - This is the code for the EMNLP 2020 paper "An Unsupervised Joint System for Text Generation from Knowledge Graphs and Semantic Parsing".
 - [zenml-io/zenml](https://github.com/zenml-io/zenml) - ZenML 🙏: MLOps framework to create reproducible pipelines.
-- [ContinualAI/avalanche](https://github.com/ContinualAI/avalanche) - Avalanche: an End-to-End Library for Continual Learning
+- [ContinualAI/avalanche](https://github.com/ContinualAI/avalanche) - Avalanche: an End-to-End Library for Continual Learning. Among other features, it provides implementations of existing strategies (EWC, LwF, GEM, iCarl, GDumb and others).
 - [mit-han-lab/anycost-gan](https://github.com/mit-han-lab/anycost-gan) - [CVPR 2021] Anycost GANs for Interactive Image Synthesis and Editing
 - [lucidrains/perceiver-pytorch](https://github.com/lucidrains/perceiver-pytorch) - Implementation of Perceiver, General Perception with Iterative Attention, in Pytorch
 - [facebookresearch/rlstructures](https://github.com/facebookresearch/rlstructures) - RLStructures is a library to facilitate the implementation of new reinforcement learning algorithms. It includes a library, a tutorial, and different RL algorithms provided as examples.
@@ -4687,7 +4687,7 @@
 - [funnyzhou/FPN-Pytorch](https://github.com/funnyzhou/FPN-Pytorch) - 
 - [ronghanghu/snmn](https://github.com/ronghanghu/snmn) - Code release for Hu et al., Explainable Neural Computation via Stack Neural Module Networks. in ECCV, 2018
 - [anuragranj/back2future.pytorch](https://github.com/anuragranj/back2future.pytorch) - Unsupervised Learning of Multi-Frame Optical Flow with Occlusions
-- [RahulBhalley/progressive-growing-of-gans.pytorch](https://github.com/RahulBhalley/progressive-growing-of-gans.pytorch) - Source code for "Progressive Growing of GANs for Improved Quality, Stability, and Variation".
+- [RahulBhalley/progressive-growing-of-gans.pytorch](https://github.com/RahulBhalley/progressive-growing-of-gans.pytorch) - Unofficial PyTorch implementation of "Progressive Growing of GANs for Improved Quality, Stability, and Variation".
 - [darxtrix/ptop](https://github.com/darxtrix/ptop) - An awesome task manager written in python.  :computer:
 - [Refefer/Dampr](https://github.com/Refefer/Dampr) - Python Data Processing library
 - [pytroll/satpy](https://github.com/pytroll/satpy) - Python package for earth-observing satellite data processing
@@ -6408,7 +6408,7 @@
 
 - [rstudio/tufte](https://github.com/rstudio/tufte) - Tufte Styles for R Markdown Documents
 - [lockEF/NonparametricMultiway](https://github.com/lockEF/NonparametricMultiway) - Bayesian nonparametric regression with multiway structure
-- [dswatson/cpi](https://github.com/dswatson/cpi) - cpi
+- [bips-hb/cpi](https://github.com/bips-hb/cpi) - CPI: Conditional Predictive Impact
 - [NickCH-K/causalgraphs](https://github.com/NickCH-K/causalgraphs) - R code for causal graph animations
 - [google/CausalImpact](https://github.com/google/CausalImpact) - An R package for causal inference in time series
 - [swirldev/swirl](https://github.com/swirldev/swirl) - :cyclone: Learn R, in R.
@@ -6921,6 +6921,7 @@
 
 ## TypeScript 
 
+- [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
 - [roldanjr/pomatez](https://github.com/roldanjr/pomatez) - Stay Focused. Take a Break.
 - [ngneat/falso](https://github.com/ngneat/falso) - All the Fake Data for All Your Real Needs 🙂
 - [yatki/vscode-surround](https://github.com/yatki/vscode-surround) - 🔥A simple yet powerful extension to add wrapper templates around your code blocks
