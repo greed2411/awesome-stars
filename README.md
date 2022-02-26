@@ -1660,6 +1660,7 @@
 - [quartz-scheduler/quartz](https://github.com/quartz-scheduler/quartz) - Code for Quartz Scheduler
 - [cscotta/Octobot](https://github.com/cscotta/Octobot) - A distributed task queue worker designed for throughput, parallelism, and clustering.
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
+- [Picovoice/leopard](https://github.com/Picovoice/leopard) - On-device speech-to-text engine powered by deep learning
 - [dropwizard/metrics](https://github.com/dropwizard/metrics) - :chart_with_upwards_trend: Capturing JVM- and application-level metrics. So you know what's going on.
 - [swimos/swim](https://github.com/swimos/swim) - Full stack application platform for building stateful microservices, streaming APIs, and real-time UIs
 - [doocs/advanced-java](https://github.com/doocs/advanced-java) - 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
@@ -1812,7 +1813,6 @@
 - [hypercore-protocol/hyperdrive](https://github.com/hypercore-protocol/hyperdrive) - Hyperdrive is a secure, real time distributed file system
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [Picovoice/leopard](https://github.com/Picovoice/leopard) - On-device speech-to-text engine powered by deep learning
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
 - [covid19india/covid19india-react](https://github.com/covid19india/covid19india-react) - Tracking the impact of COVID-19 in India
 - [VGraupera/1on1-questions](https://github.com/VGraupera/1on1-questions) - Mega list of 1 on 1 meeting questions compiled from a variety to sources
@@ -3059,7 +3059,7 @@
 - [Mayeu/awesome-open-source-organizations](https://github.com/Mayeu/awesome-open-source-organizations) - ⚡️ A list of organizations that have open sourced everything they do
 - [stacygohyunsi/algorithms-primer](https://github.com/stacygohyunsi/algorithms-primer) - A consolidated collection of resources for you to learn and understand algorithms and data structures easily.
 - [mathsyouth/awesome-text-summarization](https://github.com/mathsyouth/awesome-text-summarization) - A curated list of resources dedicated to text summarization
-- [cncf/mentoring](https://github.com/cncf/mentoring) - 👩🏿‍🎓👨🏽‍🎓👩🏻‍🎓CNCF Mentoring + LFX Mentorship + Summer of Code + Season of Docs
+- [cncf/mentoring](https://github.com/cncf/mentoring) - 👩🏿‍🎓👨🏽‍🎓👩🏻‍🎓CNCF Mentoring + CommunityBridge + Summer of Code
 - [theanalyst/awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems) - A curated list to learn about distributed systems
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
@@ -3591,7 +3591,7 @@
 - [mirumee/ariadne](https://github.com/mirumee/ariadne) - Ariadne is a Python library for implementing GraphQL servers using schema-first approach.
 - [facebookresearch/sound-spaces](https://github.com/facebookresearch/sound-spaces) - A first-of-its-kind acoustic simulation platform for audio-visual embodied AI research. It supports training and evaluating multiple tasks and applications.
 - [binarymatt/pyres](https://github.com/binarymatt/pyres) - a resque clone in python
-- [facebookresearch/Mephisto](https://github.com/facebookresearch/Mephisto) - A suite of tools for managing crowdsourcing tasks from the inception through to data packaging for research use
+- [facebookresearch/Mephisto](https://github.com/facebookresearch/Mephisto) - A suite of tools for managing crowdsourcing tasks from the inception through to data packaging for research use.
 - [nidhaloff/igel](https://github.com/nidhaloff/igel) - a delightful machine learning tool that allows you to train, test, and use models without writing code
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 - [torchexpo/torchexpo](https://github.com/torchexpo/torchexpo) - Collection of models and extensions for mobile deployment in PyTorch
@@ -6456,6 +6456,9 @@
 
 ## Rust 
 
+- [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
+- [nbigaouette/onnxruntime-rs](https://github.com/nbigaouette/onnxruntime-rs) - Rust wrapper for Microsoft's ONNX Runtime (version 1.8)
+- [kampersanda/sucds](https://github.com/kampersanda/sucds) - Collection of succinct data structures in Rust
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data
 - [wilsonzlin/edgesearch](https://github.com/wilsonzlin/edgesearch) - Serverless full-text search with Cloudflare Workers, WebAssembly, and Roaring Bitmaps
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
@@ -6542,7 +6545,7 @@
 - [zaeleus/noodles](https://github.com/zaeleus/noodles) - Bioinformatics I/O libraries in Rust
 - [rethinkdb/rethinkdb-rs](https://github.com/rethinkdb/rethinkdb-rs) - A native RethinkDB driver written in Rust
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
-- [infinyon/fluvio](https://github.com/infinyon/fluvio) - An intelligent end-to-end data streaming platform that combines connectors, distributed streaming and state processing.
+- [infinyon/fluvio](https://github.com/infinyon/fluvio) - An intelligent data streaming platform
 - [bastion-rs/bastion](https://github.com/bastion-rs/bastion) - Highly-available Distributed Fault-tolerant Runtime
 - [ayrat555/fang](https://github.com/ayrat555/fang) - Background processing for Rust
 - [facebookresearch/Cupcake](https://github.com/facebookresearch/Cupcake) - A Rust library for lattice-based additive homomorphic encryption.
