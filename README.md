@@ -1153,7 +1153,6 @@
 - [octoproject/octo-cli](https://github.com/octoproject/octo-cli) - CLI tool to expose data from any database as a serverless web service.
 - [go-goyave/goyave](https://github.com/go-goyave/goyave) - 🍐 Elegant Golang REST API Framework
 - [mlabouardy/komiser](https://github.com/mlabouardy/komiser) - :cloud: Cloud Environment Inspector 👮:lock: :moneybag:
-- [google/gnxi](https://github.com/google/gnxi) - gNXI Tools - gRPC Network Management/Operations Interface Tools
 - [filecoin-project/lotus](https://github.com/filecoin-project/lotus) - Implementation of the Filecoin protocol, written in Go
 - [Mindinventory/Golang-Project-Structure](https://github.com/Mindinventory/Golang-Project-Structure) - Golang Skeleton With Fully Managed Versions For Kick Start GoLang Project Development
 - [ipfs/go-bitswap](https://github.com/ipfs/go-bitswap) - The golang implementation of the bitswap protocol
@@ -3624,6 +3623,7 @@
 - [YashNita/sound-event-detection-winning-method](https://github.com/YashNita/sound-event-detection-winning-method) - 
 - [orchest/orchest](https://github.com/orchest/orchest) - Build data pipelines, the easy way 🛠️
 - [tradytics/eiten](https://github.com/tradytics/eiten) - Statistical and Algorithmic Investing Strategies for Everyone
+- [google/gnxi](https://github.com/google/gnxi) - gNXI Tools - gRPC Network Management/Operations Interface Tools
 - [jfsantos/maracas](https://github.com/jfsantos/maracas) - maracas is a library for corrupting audio files with additive and convolutive noise.
 - [aiguofer/gspread-pandas](https://github.com/aiguofer/gspread-pandas) - A package to easily open an instance of a Google spreadsheet and interact with worksheets through Pandas DataFrames.
 - [pygae/clifford](https://github.com/pygae/clifford) - Geometric Algebra for Python
@@ -4191,7 +4191,7 @@
 - [facebookresearch/LAMA](https://github.com/facebookresearch/LAMA) - LAnguage Model Analysis
 - [Roulbac/GanSeg](https://github.com/Roulbac/GanSeg) - Framework for medical image segmentation using deep neural networks
 - [ets-labs/python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) - Dependency injection framework for Python
-- [probml/pyprobml](https://github.com/probml/pyprobml) - Python code for "Machine learning: a probabilistic perspective" (2nd edition)
+- [probml/pyprobml](https://github.com/probml/pyprobml) - Python code for "Probabilistic Machine learning" book by Kevin Murphy
 - [ruotianluo/Context-aware-ZSR](https://github.com/ruotianluo/Context-aware-ZSR) - Official code for paper Context-aware Zero-shot Recognition (https://arxiv.org/abs/1904.09320 to appear at AAAI2020)
 - [ethereum/py-solc](https://github.com/ethereum/py-solc) - Python wrapper around the solc Solidity compiler.
 - [eth-brownie/brownie](https://github.com/eth-brownie/brownie) - A Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.
