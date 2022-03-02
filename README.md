@@ -329,7 +329,7 @@
 - [uNetworking/uWebSockets.js](https://github.com/uNetworking/uWebSockets.js) - μWebSockets for Node.js back-ends :metal:
 - [alibaba/graph-learn](https://github.com/alibaba/graph-learn) - An Industrial Graph Neural Network Framework
 - [pdclab/graphbolt](https://github.com/pdclab/graphbolt) - GraphBolt: Dependency-Driven Synchronous Processing of Streaming Graphs
-- [redpanda-data/redpanda](https://github.com/redpanda-data/redpanda) - Redpanda is the real-time engine for modern apps.  Kafka API Compatible; 10x faster 🚀    See more at redpanda.com
+- [redpanda-data/redpanda](https://github.com/redpanda-data/redpanda) - Redpanda is a streaming data platform for developers. Kafka API compatible, 10x faster, ZooKeeper free, JVM free! See more at redpanda.com
 - [brpc/media-server](https://github.com/brpc/media-server) - A brpc-based server to host and proxy live streams
 - [utsaslab/pebblesdb](https://github.com/utsaslab/pebblesdb) - The PebblesDB write-optimized key-value store (SOSP 17)
 - [couchbase/forestdb](https://github.com/couchbase/forestdb) - A Fast Key-Value Storage Engine Based on Hierarchical B+-Tree Trie
@@ -1293,7 +1293,7 @@
 - [nlpodyssey/spago](https://github.com/nlpodyssey/spago) - Self-contained Machine Learning and Natural Language Processing library in Go
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
 - [yahoo/vssh](https://github.com/yahoo/vssh) - Go Library to Execute Commands Over SSH at Scale
-- [asim/go-micro](https://github.com/asim/go-micro) - A framework for distributed systems development
+- [asim/go-micro](https://github.com/asim/go-micro) - A distributed systems framework
 - [danaugrs/go-tsne](https://github.com/danaugrs/go-tsne) - t-Distributed Stochastic Neighbor Embedding (t-SNE) in Go
 - [goplus/gop](https://github.com/goplus/gop) - GoPlus - The Go+ language for engineering, STEM education, and data science
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
