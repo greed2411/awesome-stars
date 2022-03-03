@@ -1095,7 +1095,7 @@
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history
 - [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) - Swagger 2.0 implementation for go
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
-- [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
+- [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A web and RPC framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
 - [fullstorydev/grpchan](https://github.com/fullstorydev/grpchan) - Channels for gRPC: custom transports
 - [grafana-tools/sdk](https://github.com/grafana-tools/sdk) - Library for using Grafana' structures in Go programs and client for Grafana REST API.
 - [dbohdan/automatic-api](https://github.com/dbohdan/automatic-api) - A list of software that turns your database into a REST/GraphQL API
@@ -3499,7 +3499,7 @@
 - [ponyorm/pony](https://github.com/ponyorm/pony) - Pony Object Relational Mapper
 - [celery/django-celery-beat](https://github.com/celery/django-celery-beat) - Celery Periodic Tasks backed by the Django ORM
 - [googleapis/google-api-python-client](https://github.com/googleapis/google-api-python-client) - 🐍 The official Python client library for Google's discovery based APIs.
-- [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training easy, efficient, and effective.
+- [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [skit-ai/N-Best-ASR-Transformer](https://github.com/skit-ai/N-Best-ASR-Transformer) - Code for  ACL-IJCNLP 2021 paper "N-Best-ASR-Transformer: Enhancing SLU Performance using Multiple ASR Hypotheses."
 - [anhaidgroup/deepmatcher](https://github.com/anhaidgroup/deepmatcher) - Python package for performing Entity and Text Matching using Deep Learning.
 - [google/tf-quant-finance](https://github.com/google/tf-quant-finance) - High-performance TensorFlow library for quantitative finance.
@@ -5284,7 +5284,7 @@
 - [roomylee/rcnn-text-classification](https://github.com/roomylee/rcnn-text-classification) - Tensorflow Implementation of "Recurrent Convolutional Neural Network for Text Classification" (AAAI 2015)
 - [Zhaoyi-Yan/Shift-Net_pytorch](https://github.com/Zhaoyi-Yan/Shift-Net_pytorch) - Pytorch implementation of Shift-Net: Image Inpainting via Deep Feature Rearrangement (ECCV, 2018)
 - [L0SG/relational-rnn-pytorch](https://github.com/L0SG/relational-rnn-pytorch) - An implementation of DeepMind's Relational Recurrent Neural Networks in PyTorch.
-- [guoruoqian/DetNet_pytorch](https://github.com/guoruoqian/DetNet_pytorch) - An implementation of DetNet: A Backbone network for Object Detection.
+- [ruoqianguo/DetNet_pytorch](https://github.com/ruoqianguo/DetNet_pytorch) - An implementation of DetNet: A Backbone network for Object Detection.
 - [DenisTome/Lifting-from-the-Deep-release](https://github.com/DenisTome/Lifting-from-the-Deep-release) - Implementation of "Lifting from the Deep: Convolutional 3D Pose Estimation from a Single Image"
 - [apockill/DRLPlayground](https://github.com/apockill/DRLPlayground) - A deep reinforcement learning playground with Unity running the game physics, and Python handling the reinforcement learning algorithms.
 - [mihdalal/sawyer_control](https://github.com/mihdalal/sawyer_control) - Python3 ROS Interface to Rethink Sawyer Robots with OpenAI Gym Compatibility
