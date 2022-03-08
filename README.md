@@ -1912,7 +1912,6 @@
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
 - [Rejectedus/rejected.us](https://github.com/Rejectedus/rejected.us) - :cry: The codebase for rejected.us
-- [jupyter/notebook](https://github.com/jupyter/notebook) - Jupyter Interactive Notebook
 - [mozilla/voicefill](https://github.com/mozilla/voicefill) - A WebExtension To Add Speech To Text Support to Web Pages
 - [atom/teletype](https://github.com/atom/teletype) - Share your workspace with team members and collaborate on code in real time in Atom
 - [kenperlin/chalktalk](https://github.com/kenperlin/chalktalk) - 
@@ -2436,6 +2435,7 @@
 - [AppliedDataSciencePartners/DeepReinforcementLearning](https://github.com/AppliedDataSciencePartners/DeepReinforcementLearning) - A replica of the AlphaZero methodology for deep reinforcement learning in Python
 - [hundredblocks/concrete_NLP_tutorial](https://github.com/hundredblocks/concrete_NLP_tutorial) - An NLP workshop about concrete solutions to real problems
 - [microsoft/AutonomousDrivingCookbook](https://github.com/microsoft/AutonomousDrivingCookbook) - Scenarios, tutorials and demos for Autonomous Driving
+- [jupyter/notebook](https://github.com/jupyter/notebook) - Jupyter Interactive Notebook
 - [spatialaudio/selected-topics-in-audio-signal-processing-exercises](https://github.com/spatialaudio/selected-topics-in-audio-signal-processing-exercises) - Exercises for the lecture "Selected Topics in Audio Signal Processing"
 - [mozilla/TTS](https://github.com/mozilla/TTS) - :robot: :speech_balloon: Deep learning for Text to Speech  (Discussion forum: https://discourse.mozilla.org/c/tts)
 - [mdeff/fma](https://github.com/mdeff/fma) - FMA: A Dataset For Music Analysis
@@ -3204,7 +3204,7 @@
 - [ossu/bioinformatics](https://github.com/ossu/bioinformatics) - :microscope: Path to a free self-taught education in Bioinformatics!
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [hangtwenty/python-tips](https://github.com/hangtwenty/python-tips) - [Archived.] Teammates asked for Python resources; here ya go! :)  For more up to date resources go here: https://github.com/alexmojaki/futurecoder and https://github.com/vinta/awesome-python#resources
-- [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Free ways to dive into machine learning with Python and Jupyter Notebook. Notebooks, courses, and other links. First posted in 2016. Pull requests welcome!
+- [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Free ways to dive into machine learning with Python and Jupyter Notebook. Notebooks, courses, and other links. (First posted in 2016.)
 - [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 - [charlieg/A-Smattering-of-NLP-in-Python](https://github.com/charlieg/A-Smattering-of-NLP-in-Python) - A very brief introduction to Natural Language Processing programming in Python
 - [Treblesteph/awesome-open-science](https://github.com/Treblesteph/awesome-open-science) - :microscope: A curated list of projects, communities, and other resources related to open science :unlock:
