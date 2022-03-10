@@ -1779,6 +1779,7 @@
 - [bradleyboy/tuql](https://github.com/bradleyboy/tuql) - Automatically create a GraphQL server from a SQLite database or a SQL file
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [perfall/Edyson](https://github.com/perfall/Edyson) - Flask-based web framework for visualisation and explorative listening of audio.
+- [facebookresearch/Mephisto](https://github.com/facebookresearch/Mephisto) - A suite of tools for managing crowdsourcing tasks from the inception through to data packaging for research use.
 - [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) - Complete open source web conferencing system.
 - [mozilla/nunjucks](https://github.com/mozilla/nunjucks) - A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired)
 - [padenot/ringbuf.js](https://github.com/padenot/ringbuf.js) - Wait-free thread-safe single-consumer single-producer ring buffer using SharedArrayBuffer
@@ -3593,7 +3594,6 @@
 - [mirumee/ariadne](https://github.com/mirumee/ariadne) - Ariadne is a Python library for implementing GraphQL servers using schema-first approach.
 - [facebookresearch/sound-spaces](https://github.com/facebookresearch/sound-spaces) - A first-of-its-kind acoustic simulation platform for audio-visual embodied AI research. It supports training and evaluating multiple tasks and applications.
 - [binarymatt/pyres](https://github.com/binarymatt/pyres) - a resque clone in python
-- [facebookresearch/Mephisto](https://github.com/facebookresearch/Mephisto) - A suite of tools for managing crowdsourcing tasks from the inception through to data packaging for research use.
 - [nidhaloff/igel](https://github.com/nidhaloff/igel) - a delightful machine learning tool that allows you to train, test, and use models without writing code
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 - [torchexpo/torchexpo](https://github.com/torchexpo/torchexpo) - Collection of models and extensions for mobile deployment in PyTorch
