@@ -3864,7 +3864,6 @@
 - [facebookresearch/TorchRay](https://github.com/facebookresearch/TorchRay) - Understanding Deep Networks via Extremal Perturbations and Smooth Masks
 - [vxgmichel/aiostream](https://github.com/vxgmichel/aiostream) - Generator-based operators for asynchronous iteration
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [maxhumber/gazpacho](https://github.com/maxhumber/gazpacho) - 🥫 The simple, fast, and modern web scraping library
 - [graykode/distribution-is-all-you-need](https://github.com/graykode/distribution-is-all-you-need) - The basic distribution probability Tutorial for Deep Learning Researchers
 - [gnes-ai/gnes](https://github.com/gnes-ai/gnes) - GNES is Generic Neural Elastic Search, a cloud-native semantic search system based on deep neural network.
@@ -4241,6 +4240,7 @@
 - [EricssonResearch/calvin-base](https://github.com/EricssonResearch/calvin-base) - Calvin is an application environment that lets things talk to things, among other things.
 - [dask/fastparquet](https://github.com/dask/fastparquet) - python implementation of the parquet columnar file format.
 - [imWildCat/scylla](https://github.com/imWildCat/scylla) - Intelligent proxy pool for Humans™ (Maintainer needed)
+- [microsoft/pyright](https://github.com/microsoft/pyright) - Static type checker for Python
 - [Suor/funcy](https://github.com/Suor/funcy) - A fancy and practical functional tools
 - [bunchesofdonald/photohash](https://github.com/bunchesofdonald/photohash) - A Python Perceptual Image Hashing Module
 - [tbepler/protein-sequence-embedding-iclr2019](https://github.com/tbepler/protein-sequence-embedding-iclr2019) - Source code for "Learning protein sequence embeddings using information from structure" - ICLR 2019
@@ -7010,10 +7010,10 @@
 - [marbleprotocol/humanity](https://github.com/marbleprotocol/humanity) - Unique identity on Ethereum
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [browserless/chrome](https://github.com/browserless/chrome) - The browserless Chrome service in Docker. Run on our cloud, or bring your own.
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [huggingface/Mongoku](https://github.com/huggingface/Mongoku) - 🔥The Web-scale GUI for MongoDB
 - [vultix/ts-results](https://github.com/vultix/ts-results) - A typescript implementation of Rust's Result object.
 - [SkalskiP/make-sense](https://github.com/SkalskiP/make-sense) - Free to use online tool for labelling photos. https://makesense.ai
-- [microsoft/pyright](https://github.com/microsoft/pyright) - Static type checker for Python
 - [hastic-zzz/hastic-server](https://github.com/hastic-zzz/hastic-server) - Hastic data management server for analyzing patterns and anomalies from Grafana
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [TimoStaudinger/sprite](https://github.com/TimoStaudinger/sprite) - 🖌 Draw charts in code. Render in real-time. Embed anywhere as .png.
