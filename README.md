@@ -6618,7 +6618,7 @@
 - [mit-pdos/RVirt](https://github.com/mit-pdos/RVirt) - RISC-V hypervisor written in Rust
 - [async-rs/async-std](https://github.com/async-rs/async-std) - Async version of the Rust standard library
 - [AdamNiederer/faster](https://github.com/AdamNiederer/faster) - SIMD for humans
-- [skytable/skytable](https://github.com/skytable/skytable) - Skytable is a fast, secure and reliable realtime NoSQL database with keysapces, tables, data types, snapshots and more to build powerful apps
+- [skytable/skytable](https://github.com/skytable/skytable) - Skytable is a fast, secure and reliable realtime NoSQL database with keysapces, tables, data types, authn/authz, snapshots and more to build powerful apps
 - [paulchernoch/shy](https://github.com/paulchernoch/shy) - Shunting Yard Rule Engine in Rust
 - [TimonPost/laminar](https://github.com/TimonPost/laminar) - A simple semi-reliable UDP protocol for multiplayer games
 - [kyren/webrtc-unreliable](https://github.com/kyren/webrtc-unreliable) - Just enough hacks to get unreliable unordered WebRTC data channels between a browser and a server
