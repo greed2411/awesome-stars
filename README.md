@@ -2662,6 +2662,7 @@
 
 ## Others 
 
+- [rbhatia46/Data-Science-Interview-Resources](https://github.com/rbhatia46/Data-Science-Interview-Resources) - A repository listing out the potential sources which will help you in preparing for a Data Science/Machine Learning interview. New resources added frequently.
 - [khangich/machine-learning-interview](https://github.com/khangich/machine-learning-interview) - Machine Learning Interviews from FAANG, Snapchat, LinkedIn. I have offers from Snapchat, Coupang, Stitchfix etc. Blog: mlengineer.io.
 - [dair-ai/emotion_dataset](https://github.com/dair-ai/emotion_dataset) - Dataset for Emotion Classification
 - [myles/awesome-static-generators](https://github.com/myles/awesome-static-generators) - A curated list of static web site generators.
@@ -4137,7 +4138,7 @@
 - [socialpoint-labs/sheetfu](https://github.com/socialpoint-labs/sheetfu) - Python library to interact with Google Sheets V4 API
 - [Showmax/conveiro](https://github.com/Showmax/conveiro) - Visualization of filters in convolutional neural networks
 - [jpetrucciani/bash.py](https://github.com/jpetrucciani/bash.py) - An inline Bash script runner, for Python.
-- [Neoteroi/BlackSheep](https://github.com/Neoteroi/BlackSheep) - Fast ASGI web framework and HTTP client for Python asyncio
+- [Neoteroi/BlackSheep](https://github.com/Neoteroi/BlackSheep) - Fast ASGI web framework for Aliens :alien:
 - [unknown-horizons/unknown-horizons](https://github.com/unknown-horizons/unknown-horizons) - Unknown Horizons official code repository
 - [megvii-research/ICCV2019-LearningToPaint](https://github.com/megvii-research/ICCV2019-LearningToPaint) - ICCV2019 - A painting AI that can reproduce paintings stroke by stroke using deep reinforcement learning.
 - [facebookresearch/OctConv](https://github.com/facebookresearch/OctConv) - Code for paper
