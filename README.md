@@ -191,7 +191,7 @@
 - [zerotier/lf](https://github.com/zerotier/lf) - Fully Decentralized Fully Replicated Key/Value Store
 - [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
 - [LMDB/lmdb](https://github.com/LMDB/lmdb) - Read-only mirror of official repo on openldap.org. Issues and pull requests here are ignored. Use OpenLDAP ITS for issues.
-- [taosdata/TDengine](https://github.com/taosdata/TDengine) - An open-source time-series database with high-performance, scalability and SQL support. It can be widely used in IoT, Connected Vehicles, DevOps, Energy, Finance and other fields
+- [taosdata/TDengine](https://github.com/taosdata/TDengine) - An open-source time-series database with high-performance, scalability and SQL support. It can be widely used in IoT, Connected Vehicles, DevOps, Energy, Finance and other fields.
 - [jedisct1/libsodium](https://github.com/jedisct1/libsodium) - A modern, portable, easy to use crypto library.
 - [metacall/core](https://github.com/metacall/core) - MetaCall: The ultimate polyglot programming experience.
 - [jitspoe/starviewer](https://github.com/jitspoe/starviewer) - Simple program that renders stars in 3D from the HYG database.  Based on the Paintball2/Quake2/id Tech 2 engine.
@@ -855,6 +855,7 @@
 
 ## Go 
 
+- [bjarneo/rip](https://github.com/bjarneo/rip) - Rest in peace(s) - HTTP/UDP load testing tool written in Go
 - [lindb/lindb](https://github.com/lindb/lindb) - LinDB is a scalable, high performance, high availability distributed time series database.
 - [nao1215/gup](https://github.com/nao1215/gup) - gup - Update binaries installed by "go install"
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
@@ -1004,7 +1005,7 @@
 - [treeverse/lakeFS](https://github.com/treeverse/lakeFS) - Git-like capabilities for your object storage
 - [teh-cmc/go-internals](https://github.com/teh-cmc/go-internals) - A book about the internals of the Go programming language.
 - [kha7iq/pingme](https://github.com/kha7iq/pingme) - PingMe is a CLI which provides the ability to send messages or alerts to multiple messaging platforms & email.
-- [encoredev/encore](https://github.com/encoredev/encore) - The Backend Development Engine built for Go
+- [encoredev/encore](https://github.com/encoredev/encore) - Encore is the Go Backend Development Engine helping developers escape the maze of complexity.
 - [N0MoreSecr3ts/wraith](https://github.com/N0MoreSecr3ts/wraith) - Uncover forgotten secrets and bring them back to life, haunting security and operations teams.
 - [RedisLabs/redis-recommend](https://github.com/RedisLabs/redis-recommend) - Simple Redis Go recommendation engine
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
@@ -1226,7 +1227,7 @@
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [xxxserxxx/gotop](https://github.com/xxxserxxx/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
 - [dchest/captcha](https://github.com/dchest/captcha) - Go package captcha implements generation and verification of image and audio CAPTCHAs.
-- [buraksezer/olric](https://github.com/buraksezer/olric) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
+- [buraksezer/olric](https://github.com/buraksezer/olric) - Distributed cache and in-memory data structure store. It can be used both as an embedded Go library and as a language-independent service.
 - [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm) - Go implementation of Ethereum proof of stake
 - [usefathom/fathom](https://github.com/usefathom/fathom) - Fathom Lite. Simple, privacy-focused website analytics. Built with Golang & Preact.
 - [rwynn/monstache](https://github.com/rwynn/monstache) - a go daemon that syncs MongoDB to Elasticsearch in realtime. you know, for search.
@@ -1598,7 +1599,7 @@
 
 - [apache/chukwa](https://github.com/apache/chukwa) - Mirror of Apache Chukwa
 - [google/copybara](https://github.com/google/copybara) - Copybara: A tool for transforming and moving code between repositories.
-- [linkedin/datahub](https://github.com/linkedin/datahub) - The Metadata Platform for the Modern Data Stack
+- [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Metadata Platform for the Modern Data Stack
 - [real-logic/aeron](https://github.com/real-logic/aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport
 - [apache/incubator-seatunnel](https://github.com/apache/incubator-seatunnel) - SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time).
 - [spotify/mobius](https://github.com/spotify/mobius) - A functional reactive framework for managing state evolution and side-effects.
@@ -1719,7 +1720,7 @@
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
 - [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
 - [tengbao/vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website
-- [google/zx](https://github.com/google/zx) - A tool for writing better scripts 🐚🔥🔥
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts 🔥🔥🔥
 - [igrigorik/videospeed](https://github.com/igrigorik/videospeed) - HTML5 video speed controller (for Google Chrome)
 - [weinberg/SQLToy](https://github.com/weinberg/SQLToy) - An in-memory SQL database written in Javascript to demonstrate how SQL works.
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀
@@ -6721,13 +6722,13 @@
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [pop-os/tensorman](https://github.com/pop-os/tensorman) - Utility for easy management of Tensorflow containers
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
-- [termhn/rayn](https://github.com/termhn/rayn) - A small path tracing renderer written in Rust.
+- [fu5ha/rayn](https://github.com/fu5ha/rayn) - A small path tracing renderer written in Rust.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [TimelyDataflow/timely-dataflow](https://github.com/TimelyDataflow/timely-dataflow) - A modular implementation of timely dataflow in Rust
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
 - [conundrumer/audioscope](https://github.com/conundrumer/audioscope) - audio visualizers true to the sound
-- [bayard-search/bayard](https://github.com/bayard-search/bayard) - A full-text search and indexing server written in Rust.
+- [mosuka/bayard](https://github.com/mosuka/bayard) - A full-text search and indexing server written in Rust.
 - [cloud-hypervisor/cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) - A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - Powerful, fast, and an easy to use search engine
@@ -7003,7 +7004,7 @@
 - [vega/vega-lite](https://github.com/vega/vega-lite) - A concise grammar of interactive graphics, built on Vega.
 - [APIs-guru/graphql-voyager](https://github.com/APIs-guru/graphql-voyager) - 🛰️ Represent any GraphQL API as an interactive graph
 - [jupyterlab/debugger](https://github.com/jupyterlab/debugger) - A visual debugger for Jupyter notebooks, consoles, and source files
-- [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens) - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more
+- [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens) - Supercharge Git inside VS Code and unlock untapped knowledge within each repository — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics that you can self-host.
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
