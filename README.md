@@ -2674,7 +2674,7 @@
 - [yataobian/awesome-ebm](https://github.com/yataobian/awesome-ebm) - Collecting research materials on EBM/EBL (Energy Based Models, Energy Based Learning)
 - [google-research-datasets/wit](https://github.com/google-research-datasets/wit) - WIT (Wikipedia-based Image Text) Dataset is a large multimodal multilingual dataset comprising 37M+ image-text sets with 11M+ unique images across 100+ languages.
 - [jslee02/awesome-collision-detection](https://github.com/jslee02/awesome-collision-detection) - :sunglasses: A curated list of awesome collision detection libraries and resources
-- [dair-ai/ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - A repository to index and organize the latest machine learning courses found on YouTube.
+- [dair-ai/ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - 📺  A repository to index and organize the latest machine learning courses found on YouTube.
 - [ashishpatel26/Treasure-of-Transformers](https://github.com/ashishpatel26/Treasure-of-Transformers) - 💁 Awesome Treasure of Transformers Models for Natural Language processing contains papers, videos, blogs, official repo along with colab Notebooks. 🛫☑️
 - [ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network) - Tools to Design or Visualize Architecture of Neural Network
 - [joelparkerhenderson/queueing-theory](https://github.com/joelparkerhenderson/queueing-theory) - Queueing theory: an introduction for software development
@@ -3897,7 +3897,7 @@
 - [facebookresearch/SpanBERT](https://github.com/facebookresearch/SpanBERT) - Code for using and evaluating SpanBERT.
 - [t04glovern/selfie2anime](https://github.com/t04glovern/selfie2anime) - Anime2Selfie Backend Services - Lambda, Queue, API Gateway and traffic processing
 - [gpleiss/efficient_densenet_pytorch](https://github.com/gpleiss/efficient_densenet_pytorch) - A memory-efficient implementation of DenseNets
-- [open-mmlab/mmediting](https://github.com/open-mmlab/mmediting) - OpenMMLab Image and Video Editing Toolbox
+- [open-mmlab/mmediting](https://github.com/open-mmlab/mmediting) - MMEditing is a low-level vision toolbox based on PyTorch, supporting super-resolution, inpainting, matting, video interpolation, etc.
 - [timesler/facenet-pytorch](https://github.com/timesler/facenet-pytorch) - Pretrained Pytorch face detection (MTCNN) and facial recognition (InceptionResnet) models
 - [blue-season/pywarm](https://github.com/blue-season/pywarm) - A cleaner way to build neural networks for PyTorch.
 - [nd-ball/py-irt](https://github.com/nd-ball/py-irt) - Bayesian IRT models in Python
