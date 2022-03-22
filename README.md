@@ -2862,7 +2862,7 @@
 - [psibi/rust-book-summary](https://github.com/psibi/rust-book-summary) - Summary of the Rust book
 - [he-y/Awesome-Pruning](https://github.com/he-y/Awesome-Pruning) - A curated list of neural network pruning resources.
 - [graykode/nlp-roadmap](https://github.com/graykode/nlp-roadmap) - ROADMAP(Mind Map) and KEYWORD for students those who have interest in learning NLP
-- [sannykim/transformers](https://github.com/sannykim/transformers) - A collection of resources to study Transformers in depth.
+- [0xsanny/transformers](https://github.com/0xsanny/transformers) - A collection of resources to study Transformers in depth.
 - [jozefg/learn-tt](https://github.com/jozefg/learn-tt) - A collection of resources for learning type theory and type theory adjacent fields.
 - [bor0/gidti](https://github.com/bor0/gidti) - Book: Gentle Introduction to Dependent Types with Idris
 - [typeddjango/awesome-python-typing](https://github.com/typeddjango/awesome-python-typing) - Collection of awesome Python types, stubs, plugins, and tools to work with them.
@@ -4028,7 +4028,7 @@
 - [videoflow/videoflow](https://github.com/videoflow/videoflow) - Python framework that facilitates the quick development of complex video analysis applications and other series-processing based applications in a multiprocessing environment.
 - [tomgrek/zincbase](https://github.com/tomgrek/zincbase) - A batteries-included kit for knowledge graphs
 - [mcfunley/pugsql](https://github.com/mcfunley/pugsql) - A HugSQL-inspired database library for Python
-- [Julian/jsonschema](https://github.com/Julian/jsonschema) - An implementation of the JSON Schema specification for Python
+- [python-jsonschema/jsonschema](https://github.com/python-jsonschema/jsonschema) - An implementation of the JSON Schema specification for Python
 - [eliben/pycparser](https://github.com/eliben/pycparser) - :snake: Complete C99 parser in pure Python
 - [ctypesgen/ctypesgen](https://github.com/ctypesgen/ctypesgen) - Pure-python wrapper generator for ctypes
 - [wutianyiRosun/Segmentation.X](https://github.com/wutianyiRosun/Segmentation.X) - Papers and Benchmarks about semantic segmentation, instance segmentation, panoptic segmentation and video segmentation
@@ -6526,7 +6526,7 @@
 - [facebookincubator/below](https://github.com/facebookincubator/below) - A time traveling resource monitor for modern Linux systems
 - [KuiBaDB/KuiBaDB](https://github.com/KuiBaDB/KuiBaDB) - Another OLAP database
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust
-- [willcrichton/flowistry](https://github.com/willcrichton/flowistry) - Flowistry is a Rust IDE tool that helps you focus on relevant code.
+- [willcrichton/flowistry](https://github.com/willcrichton/flowistry) - Flowistry is an IDE plugin for Rust that helps you focus on relevant code.
 - [tokio-rs/console](https://github.com/tokio-rs/console) - a debugger for async rust!
 - [IntrinsicLabs/osgood](https://github.com/IntrinsicLabs/osgood) - Osgood is a secure, fast, and simple platform for running JavaScript HTTP servers.
 - [yaa110/nomino](https://github.com/yaa110/nomino) - Batch rename utility for developers
