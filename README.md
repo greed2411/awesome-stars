@@ -835,7 +835,7 @@
 ## Erlang 
 
 - [devinus/poolboy](https://github.com/devinus/poolboy) - A hunky Erlang worker pool factory
-- [aeternity/aeternity](https://github.com/aeternity/aeternity) - æternity: solving scalability problems by making sense of state-channels
+- [aeternity/aeternity](https://github.com/aeternity/aeternity) - æternity blockchain - scalable blockchain for the people - smart contracts, state channels, names, tokens
 - [jlouis/fuse](https://github.com/jlouis/fuse) - A Circuit Breaker for Erlang
 - [hamler-lang/hamler](https://github.com/hamler-lang/hamler) - Haskell-style functional programming language running on Erlang VM.
 
@@ -1759,7 +1759,6 @@
 - [ulid/javascript](https://github.com/ulid/javascript) - Universally Unique Lexicographically Sortable Identifier
 - [tnfe/FFCreator](https://github.com/tnfe/FFCreator) - 一个基于node.js的高速视频制作库  A fast video processing library based on node.js
 - [ethereum/devp2p](https://github.com/ethereum/devp2p) - Ethereum peer-to-peer networking specifications
-- [libp2p/js-libp2p](https://github.com/libp2p/js-libp2p) - The JavaScript Implementation of libp2p networking stack.
 - [LearnBoost/cluster](https://github.com/LearnBoost/cluster) - Node.JS multi-core server manager with plugins support.
 - [stackshareio/awesome-stacks](https://github.com/stackshareio/awesome-stacks) - A curated list of tech stacks for building different applications & features
 - [zonetti/zonote](https://github.com/zonetti/zonote) - Cross-platform desktop note-taking app. Sticky notes with Markdown and Tabs. All in one .txt file.
@@ -4441,7 +4440,7 @@
 - [VahidooX/DeepCCA](https://github.com/VahidooX/DeepCCA) - An implementation of Deep Canonical Correlation Analysis (DCCA or Deep CCA) with Keras.
 - [google-research-datasets/natural-questions](https://github.com/google-research-datasets/natural-questions) - Natural Questions (NQ) contains real user questions issued to Google search, and answers found from Wikipedia by annotators. NQ is designed for the training and evaluation of automatic question answering systems.
 - [FKLC/IGQL](https://github.com/FKLC/IGQL) - Unofficial Instagram GraphQL API to collet data without authentication
-- [borgbase/vorta](https://github.com/borgbase/vorta) - Desktop Backup Client for Borg
+- [borgbase/vorta](https://github.com/borgbase/vorta) - Desktop Backup Client for Borg Backup
 - [noisyboiler/wampy](https://github.com/noisyboiler/wampy) - Websocket RPC and Pub/Sub for Python applications and microservices
 - [SkullTech/drymail](https://github.com/SkullTech/drymail) - Makes sending emails easy and DRY — For Python 3.
 - [yyuanad/Pytorch_C3D_Feature_Extractor](https://github.com/yyuanad/Pytorch_C3D_Feature_Extractor) - Pytorch C3D feature extractor
@@ -6504,7 +6503,7 @@
 - [adwhit/itchy-rust](https://github.com/adwhit/itchy-rust) - NASDAQ ITCH parser in Rust
 - [gtk-rs/gir](https://github.com/gtk-rs/gir) - Tool to generate rust bindings and user API for glib-based libraries
 - [sdroege/gstreamer-rs](https://github.com/sdroege/gstreamer-rs) - GStreamer bindings for Rust - This repository moved to https://gitlab.freedesktop.org/gstreamer/gstreamer-rs
-- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Like Elasticsearch, but highly reliable & cost-efficient for log search.
+- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Like Elasticsearch, but highly reliable & cost-efficient for log management.
 - [indygreg/PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool
 - [mgattozzi/curryrs](https://github.com/mgattozzi/curryrs) - Bridge the gap between Haskell and Rust
 - [google/mosaic](https://github.com/google/mosaic) - A C++ bindings generator for Rust.
@@ -6965,6 +6964,7 @@
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
 - [inversify/InversifyJS](https://github.com/inversify/InversifyJS) - A powerful and lightweight inversion of control container  for JavaScript & Node.js apps powered by TypeScript.
 - [microsoft/etcd3](https://github.com/microsoft/etcd3) - :bookmark: Node.js client for etcd3
+- [libp2p/js-libp2p](https://github.com/libp2p/js-libp2p) - The JavaScript Implementation of libp2p networking stack.
 - [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
 - [ethers-io/ethers.js](https://github.com/ethers-io/ethers.js) - Complete Ethereum library and wallet implementation in JavaScript.
 - [chaskiq/chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp, etc ...
