@@ -4176,7 +4176,7 @@
 - [python-attrs/cattrs](https://github.com/python-attrs/cattrs) - Complex custom class converters for attrs.
 - [Tinche/aiofiles](https://github.com/Tinche/aiofiles) - File support for asyncio
 - [titu1994/keras-octconv](https://github.com/titu1994/keras-octconv) - Keras implementation of Octave Convolutions
-- [ines/spacy-course](https://github.com/ines/spacy-course) - 👩‍🏫 Advanced NLP with spaCy: A free online course
+- [explosion/spacy-course](https://github.com/explosion/spacy-course) - 👩‍🏫 Advanced NLP with spaCy: A free online course
 - [dimenwarper/chainlearn](https://github.com/dimenwarper/chainlearn) - Mini module with syntax sugar for pandas/sklearn
 - [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
 - [google-research-datasets/paws](https://github.com/google-research-datasets/paws) - This dataset contains 108,463 human-labeled and 656k noisily labeled pairs that feature the importance of modeling structure, context, and word order information for the problem of paraphrase identification.
@@ -4412,7 +4412,7 @@
 - [rezoo/illustration2vec](https://github.com/rezoo/illustration2vec) - A simple deep learning library for estimating a set of tags and extracting semantic feature vectors from given illustrations.
 - [TuSimple/simpledet](https://github.com/TuSimple/simpledet) - A Simple and Versatile Framework for Object Detection and Instance Recognition
 - [durandtibo/weldon.resnet.pytorch](https://github.com/durandtibo/weldon.resnet.pytorch) - 
-- [ibis-project/ibis](https://github.com/ibis-project/ibis) - Expressive analytics in Python, whatever the scale.
+- [ibis-project/ibis](https://github.com/ibis-project/ibis) - Expressive analytics in Python at any scale.
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [SNL-NERL/Whetstone](https://github.com/SNL-NERL/Whetstone) - 
@@ -6991,7 +6991,7 @@
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [github/stable-socket](https://github.com/github/stable-socket) - A web socket that reconnects.
 - [Novage/p2p-media-loader](https://github.com/Novage/p2p-media-loader) - An open-source engine for P2P streaming of live and on demand video directly in a web browser HTML page
-- [cloudhut/kowl](https://github.com/cloudhut/kowl) - Kowl is a Web UI for Apache Kafka that allows exploring messages, consumers, configurations and more with a focus on a good UI & UX.
+- [redpanda-data/kowl](https://github.com/redpanda-data/kowl) - Kowl is a Web UI for Apache Kafka that allows exploring messages, consumers, configurations and more with a focus on a good UI & UX.
 - [microsoft/fast](https://github.com/microsoft/fast) - The adaptive interface system for modern web experiences.
 - [nsfw-filter/nsfw-filter](https://github.com/nsfw-filter/nsfw-filter) - 🚀 A Google Chrome / Firefox extension that blocks NSFW images from the web pages that you load using TensorFlow JS.
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
