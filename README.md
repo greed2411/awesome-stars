@@ -627,7 +627,7 @@
 - [ppwwyyxx/OpenPano](https://github.com/ppwwyyxx/OpenPano) - Automatic Panorama Stitching From Scratch
 - [NVIDIA/nvvl](https://github.com/NVIDIA/nvvl) - A library that uses hardware acceleration to load sequences of video frames to facilitate machine learning training
 - [tensorflow/minigo](https://github.com/tensorflow/minigo) - An open-source implementation of the AlphaGoZero algorithm
-- [getnamo/TensorFlow-Unreal](https://github.com/getnamo/TensorFlow-Unreal) - TensorFlow plugin for Unreal Engine 4
+- [getnamo/TensorFlow-Unreal](https://github.com/getnamo/TensorFlow-Unreal) - TensorFlow plugin for the Unreal Engine.
 - [chaoyangnz/opencv3-android-sdk-with-contrib](https://github.com/chaoyangnz/opencv3-android-sdk-with-contrib) - Build OpenCV3 Android SDK with contrib modules
 - [ndrplz/self-driving-car](https://github.com/ndrplz/self-driving-car) - Udacity Self-Driving Car Engineer Nanodegree projects.
 - [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo) - An open autonomous driving platform
@@ -2511,10 +2511,10 @@
 - [amygdala/tensorflow-workshop](https://github.com/amygdala/tensorflow-workshop) - This repo contains materials for use in a TensorFlow workshop.
 - [aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)
 - [ogrisel/euroscipy_2017_sklearn](https://github.com/ogrisel/euroscipy_2017_sklearn) - Notebooks for the EuroScipy 2017 tutorial (based on Adult Census income data)
-- [lesley2958/machine-learning-series-python](https://github.com/lesley2958/machine-learning-series-python) - 
+- [clesleycode/machine-learning-series-python](https://github.com/clesleycode/machine-learning-series-python) - 
 - [llSourcell/Tensorflow-for-stock-prediction](https://github.com/llSourcell/Tensorflow-for-stock-prediction) - Use Tensorflow to run CNN for predict stock movement. Hope to find out which pattern will follow the price rising.
 - [yunjey/show-attend-and-tell](https://github.com/yunjey/show-attend-and-tell) - TensorFlow Implementation of "Show, Attend and Tell"
-- [lesley2958/cheatsheets](https://github.com/lesley2958/cheatsheets) - 
+- [clesleycode/cheatsheets](https://github.com/clesleycode/cheatsheets) - 
 - [udacity/deep-learning](https://github.com/udacity/deep-learning) - Repo for the Deep Learning Nanodegree Foundations program.
 - [y2ee201/Udacity-Deep-Learning-Nanodegree](https://github.com/y2ee201/Udacity-Deep-Learning-Nanodegree) - 
 - [rasbt/python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book) - The "Python Machine Learning (1st edition)"  book code repository and info resource
@@ -3438,7 +3438,7 @@
 - [bayesiains/nflows](https://github.com/bayesiains/nflows) - Normalizing flows in PyTorch
 - [lucidrains/mlp-mixer-pytorch](https://github.com/lucidrains/mlp-mixer-pytorch) - An All-MLP solution for Vision, from Google AI
 - [HEmile/storchastic](https://github.com/HEmile/storchastic) - Stochastic Automatic Differentiation library for PyTorch.
-- [facebookincubator/cinder](https://github.com/facebookincubator/cinder) - Instagram's performance oriented fork of CPython.
+- [facebookincubator/cinder](https://github.com/facebookincubator/cinder) - Cinder is Meta's internal performance-oriented production version of CPython.
 - [kenjyoung/MinAtar](https://github.com/kenjyoung/MinAtar) - 
 - [pyppeteer/pyppeteer](https://github.com/pyppeteer/pyppeteer) - Headless chrome/chromium automation library (unofficial port of puppeteer)
 - [blockchain-etl/ethereum-etl](https://github.com/blockchain-etl/ethereum-etl) - Python scripts for ETL (extract, transform and load) jobs for Ethereum blocks, transactions, ERC20 / ERC721 tokens, transfers, receipts, logs, contracts, internal transactions. Data is available in Google BigQuery https://goo.gl/oY5BCQ
@@ -4290,7 +4290,6 @@
 - [aalmah/augmented_cyclegan](https://github.com/aalmah/augmented_cyclegan) - 
 - [udion/Neurapse](https://github.com/udion/Neurapse) - Nuerapse simulations for SNNs
 - [odegeasslbc/pytorch-IBGAN](https://github.com/odegeasslbc/pytorch-IBGAN) - A pytorch implementation of Information Bottleneck GAN
-- [Jicol95/Kontour](https://github.com/Jicol95/Kontour) - A system for detecting common melodic phrases in kern** encoded sheet music.
 - [xwhan/One-shot-Relational-Learning](https://github.com/xwhan/One-shot-Relational-Learning) - Code for One-shot Relational Learning for Knowledge Graphs (EMNLP18)
 - [baharefatemi/SimplE](https://github.com/baharefatemi/SimplE) - Implementation of SimplE Embedding for Link Prediction in Knowledge Graphs in PyTorch
 - [cdeweyx/DS-Career-Resources](https://github.com/cdeweyx/DS-Career-Resources) - Compilation of resources and insights that helped me on my journey to data scientist
@@ -6460,6 +6459,7 @@
 
 ## Rust 
 
+- [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
 - [nbigaouette/onnxruntime-rs](https://github.com/nbigaouette/onnxruntime-rs) - Rust wrapper for Microsoft's ONNX Runtime (version 1.8)
@@ -6502,7 +6502,7 @@
 - [adwhit/itchy-rust](https://github.com/adwhit/itchy-rust) - NASDAQ ITCH parser in Rust
 - [gtk-rs/gir](https://github.com/gtk-rs/gir) - Tool to generate rust bindings and user API for glib-based libraries
 - [sdroege/gstreamer-rs](https://github.com/sdroege/gstreamer-rs) - GStreamer bindings for Rust - This repository moved to https://gitlab.freedesktop.org/gstreamer/gstreamer-rs
-- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud native and highly cost-efficient search engine for log management
+- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud native and cost-efficient search engine for log management
 - [indygreg/PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool
 - [mgattozzi/curryrs](https://github.com/mgattozzi/curryrs) - Bridge the gap between Haskell and Rust
 - [google/mosaic](https://github.com/google/mosaic) - A C++ bindings generator for Rust.
