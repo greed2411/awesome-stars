@@ -429,7 +429,6 @@
 - [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
 - [xbpeng/DeepMimic](https://github.com/xbpeng/DeepMimic) - Motion imitation with deep reinforcement learning.
 - [facebookincubator/oomd](https://github.com/facebookincubator/oomd) - A userspace out-of-memory killer
-- [tensorflow/text](https://github.com/tensorflow/text) - Making text a first-class citizen in TensorFlow.
 - [jinfagang/hdl_graph_slam](https://github.com/jinfagang/hdl_graph_slam) - Graph slam using lidar
 - [google/zetasql](https://github.com/google/zetasql) - ZetaSQL - Analyzer Framework for SQL
 - [KlugerLab/FIt-SNE](https://github.com/KlugerLab/FIt-SNE) - Fast Fourier Transform-accelerated Interpolation-based  t-SNE (FIt-SNE)
@@ -613,6 +612,7 @@
 - [google/re2](https://github.com/google/re2) - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
 - [samuelmurray/tracking-by-detection](https://github.com/samuelmurray/tracking-by-detection) - Multiple object tracking (MOT) algorithm implemented in C++
 - [google/sentencepiece](https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neural Network-based text generation.
+- [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Easy-to-use Speech Toolkit including SOTA ASR pipeline, influential TTS with text frontend and End-to-End Speech Simultaneous Translation.
 - [openalpr/openalpr](https://github.com/openalpr/openalpr) - Automatic License Plate Recognition library
 - [pytorch/ELF](https://github.com/pytorch/ELF) - ELF: a platform for game research with AlphaGoZero/AlphaZero reimplementation
 - [tbrouns/eyestalker](https://github.com/tbrouns/eyestalker) - Robust video-based eye tracking using recursive estimation of pupil characteristics
@@ -934,7 +934,7 @@
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [odpf/raccoon](https://github.com/odpf/raccoon) - Raccoon is a high-throughput, low-latency service to collect events in real-time from your web, mobile apps, and services using multiple network protocols.
 - [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd) - Continuous Delivery for Declarative Kubernetes, Serverless and Infrastructure Applications
-- [IceFireDB/IceFireDB](https://github.com/IceFireDB/IceFireDB) - cloud native decentralized distributed nosql database, Web3 world access point, based on RESP,RAFT,OSS,IPFS and blockchain.
+- [IceFireDB/IceFireDB](https://github.com/IceFireDB/IceFireDB) - IceFireDB is a database built for web3 and web2, and strives to fill the gap between web2 and web3 with the help of a friendly database experience, making web3 application data storage more convenient, and making web2 applications easier to access the blockchain.
 - [facette/facette](https://github.com/facette/facette) - Time series data visualization software
 - [bytedance/ns-x](https://github.com/bytedance/ns-x) - An easy-to-use, flexible network simulator library in Go.
 - [alda-lang/alda](https://github.com/alda-lang/alda) - A music programming language for musicians. :notes:
@@ -2066,7 +2066,6 @@
 - [mosheman5/DNP](https://github.com/mosheman5/DNP) - Audio Denoising with Deep Network Priors
 - [google/neural-tangents](https://github.com/google/neural-tangents) - Fast and Easy Infinite Neural Networks in Python
 - [IDEA-NTHU-Taiwan/PatternTutorial](https://github.com/IDEA-NTHU-Taiwan/PatternTutorial) - A Graph-based Pattern Representations Tutorial
-- [probml/pyprobml](https://github.com/probml/pyprobml) - Python code for "Probabilistic Machine learning" book by Kevin Murphy
 - [timnon/pyschedule](https://github.com/timnon/pyschedule) - pyschedule - resource scheduling in python
 - [successar/AttentionExplanation](https://github.com/successar/AttentionExplanation) - 
 - [jorwalk/data-engineering-gcp](https://github.com/jorwalk/data-engineering-gcp) - Data Engineering on Google Cloud Platform
@@ -3841,7 +3840,7 @@
 - [deepjyoti30/ytmdl](https://github.com/deepjyoti30/ytmdl) - A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, Spotify, LastFM, Deezer, Gaana etc.
 - [nschloe/meshio](https://github.com/nschloe/meshio) - :spider_web: input/output for many mesh formats
 - [Kayzaks/HackingNeuralNetworks](https://github.com/Kayzaks/HackingNeuralNetworks) - A small course on exploiting and defending neural networks
-- [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) - The standard package for data-centric AI and machine learning with label errors, finding mislabeled data, and uncertainty quantification. Works with most datasets and models.
+- [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) - The standard package for data-centric AI and machine learning with messy, real-world data and labels. Works with most datasets and models.
 - [alegonz/baikal](https://github.com/alegonz/baikal) - A graph-based functional API for building complex scikit-learn pipelines.
 - [coleifer/huey](https://github.com/coleifer/huey) - a little task queue for python
 - [manatlan/guy](https://github.com/manatlan/guy) - Graphics User Ynterface : a simple module for making GUI applications (with html/js) for py3 ... to target windows, linux, mac & android
@@ -4005,6 +4004,7 @@
 - [googlemaps/google-maps-services-python](https://github.com/googlemaps/google-maps-services-python) - Python client library for Google Maps API Web Services
 - [pytorch/hub](https://github.com/pytorch/hub) - Submission to https://pytorch.org/hub/
 - [realsirjoe/instagram-scraper](https://github.com/realsirjoe/instagram-scraper) - scrapes medias, likes, followers, tags and all metadata. Inspired by instagram-php-scraper,bot
+- [tensorflow/text](https://github.com/tensorflow/text) - Making text a first-class citizen in TensorFlow.
 - [dry-python/returns](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe!
 - [Netflix/flamescope](https://github.com/Netflix/flamescope) - FlameScope is a visualization tool for exploring different time ranges as Flame Graphs.
 - [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
@@ -4196,6 +4196,7 @@
 - [facebookresearch/LAMA](https://github.com/facebookresearch/LAMA) - LAnguage Model Analysis
 - [Roulbac/GanSeg](https://github.com/Roulbac/GanSeg) - Framework for medical image segmentation using deep neural networks
 - [ets-labs/python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) - Dependency injection framework for Python
+- [probml/pyprobml](https://github.com/probml/pyprobml) - Python code for "Probabilistic Machine learning" book by Kevin Murphy
 - [ruotianluo/Context-aware-ZSR](https://github.com/ruotianluo/Context-aware-ZSR) - Official code for paper Context-aware Zero-shot Recognition (https://arxiv.org/abs/1904.09320 to appear at AAAI2020)
 - [ethereum/py-solc](https://github.com/ethereum/py-solc) - Python wrapper around the solc Solidity compiler.
 - [eth-brownie/brownie](https://github.com/eth-brownie/brownie) - A Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.
@@ -5685,7 +5686,6 @@
 - [kaushalshetty/Structured-Self-Attention](https://github.com/kaushalshetty/Structured-Self-Attention) - A Structured Self-attentive Sentence Embedding
 - [awesome-davian/Text2Colors](https://github.com/awesome-davian/Text2Colors) - Code for "Coloring with Words: Guiding Image Colorization through Text-based Palette Generation" - ECCV 2018
 - [google/pytype](https://github.com/google/pytype) - A static type analyzer for Python code
-- [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Easy-to-use Speech Toolkit including SOTA ASR pipeline, influential TTS with text frontend and End-to-End Speech Simultaneous Translation.
 - [OlegYurchik/pyInstagram](https://github.com/OlegYurchik/pyInstagram) - This is a simple and easy-to-use library for interacting with the Instagram. The library works through the web interface of the Instagram and does not depend on the official API
 - [cs1707/tldr-alfred](https://github.com/cs1707/tldr-alfred) - tldr alfred workflow
 - [MLBazaar/BTB](https://github.com/MLBazaar/BTB) - A simple, extensible library for developing AutoML systems
@@ -6480,7 +6480,7 @@
 - [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket) - A web framework for Rust.
 - [DasEtwas/enginesound](https://github.com/DasEtwas/enginesound) - Procedural engine sound generator controlled via GUI or CLI
 - [thalo-rs/thalo](https://github.com/thalo-rs/thalo) - 🚀 Event sourcing suite for Rust 🦀
-- [max-sixty/prql](https://github.com/max-sixty/prql) - PRQL is a modern language for transforming data — a simpler and more powerful SQL
+- [prql/prql](https://github.com/prql/prql) - PRQL is a modern language for transforming data — a simpler and more powerful SQL
 - [mitsuhiko/redis-rs](https://github.com/mitsuhiko/redis-rs) - Redis library for rust
 - [sfackler/rust-postgres](https://github.com/sfackler/rust-postgres) - Native PostgreSQL driver for the Rust programming language
 - [weiznich/diesel_async](https://github.com/weiznich/diesel_async) - Diesel async connection implementation
