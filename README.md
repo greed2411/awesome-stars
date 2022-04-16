@@ -398,7 +398,7 @@
 - [0xZ0F/Z0FCourse_ReverseEngineering](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering) - Reverse engineering focusing on x64 Windows.
 - [h2oai/datatable](https://github.com/h2oai/datatable) - A Python package for manipulating 2-dimensional tabular data structures
 - [Tencent/Hippy](https://github.com/Tencent/Hippy) - Hippy is designed for Web developer to easily build cross-platform and high-performance awesome apps. 👏
-- [jmairal/cyanure](https://github.com/jmairal/cyanure) - Cyanure: An Open-Source Toolbox for Empirical Risk Minimization
+- [inria-thoth/cyanure](https://github.com/inria-thoth/cyanure) - Cyanure: An Open-Source Toolbox for Empirical Risk Minimization
 - [TarsCloud/Tars](https://github.com/TarsCloud/Tars) - Tars is a high-performance RPC framework based on name service and Tars protocol, also integrated administration platform, and implemented hosting-service via flexible schedule.
 - [arvidn/libtorrent](https://github.com/arvidn/libtorrent) - an efficient feature complete C++ bittorrent implementation
 - [TileDB-Inc/TileDB](https://github.com/TileDB-Inc/TileDB) - The Universal Storage Engine
@@ -612,7 +612,7 @@
 - [google/re2](https://github.com/google/re2) - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
 - [samuelmurray/tracking-by-detection](https://github.com/samuelmurray/tracking-by-detection) - Multiple object tracking (MOT) algorithm implemented in C++
 - [google/sentencepiece](https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neural Network-based text generation.
-- [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Easy-to-use Speech Toolkit including SOTA ASR pipeline, influential TTS with text frontend and End-to-End Speech Simultaneous Translation.
+- [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Easy-to-use Speech Toolkit including SOTA/Streaming ASR pipeline, influential TTS with text frontend, Speaker Verification System and End-to-End Speech Simultaneous Translation.
 - [openalpr/openalpr](https://github.com/openalpr/openalpr) - Automatic License Plate Recognition library
 - [pytorch/ELF](https://github.com/pytorch/ELF) - ELF: a platform for game research with AlphaGoZero/AlphaZero reimplementation
 - [tbrouns/eyestalker](https://github.com/tbrouns/eyestalker) - Robust video-based eye tracking using recursive estimation of pupil characteristics
@@ -862,7 +862,7 @@
 - [lindb/lindb](https://github.com/lindb/lindb) - LinDB is a scalable, high performance, high availability distributed time series database.
 - [nao1215/gup](https://github.com/nao1215/gup) - gup - Update binaries installed by "go install"
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
-- [golang-design/go-questions](https://github.com/golang-design/go-questions) - 📖 从问题切入，串连  Go 语言相关的所有知识，融会贯通。 https://golang.design/go-questions
+- [golang-design/go-questions](https://github.com/golang-design/go-questions) - 📖 Go 程序员面试笔试宝典 | 从问题切入，串连  Go 语言相关的所有知识，融会贯通。 https://golang.design/go-questions
 - [eranyanay/1m-go-websockets](https://github.com/eranyanay/1m-go-websockets) - handling 1M websockets connections in Go
 - [aws/copilot-cli](https://github.com/aws/copilot-cli) - The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on AWS App Runner, Amazon ECS, and AWS Fargate.
 - [hbollon/go-edlib](https://github.com/hbollon/go-edlib) - 📚 String comparison and edit distance algorithms library, featuring : Levenshtein, LCS, Hamming, Damerau levenshtein (OSA and Adjacent transpositions algorithms), Jaro-Winkler, Cosine, etc...
@@ -1609,7 +1609,6 @@
 - [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - The open big data serving engine. https://vespa.ai
 - [Netflix/netflix-graph](https://github.com/Netflix/netflix-graph) - Compact in-memory representation of directed graph data
 - [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine.
-- [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
 - [acoli-repo/conll-transform](https://github.com/acoli-repo/conll-transform) - seamless conversion between different CoNLL/TSV dialects
 - [RaiMan/SikuliX1](https://github.com/RaiMan/SikuliX1) - SikuliX version 2.0.0+ (2019+)
 - [jitsi/jitsi-webrtc-vad-wrapper](https://github.com/jitsi/jitsi-webrtc-vad-wrapper) - A java wrapper around the WebRTC Voice Activity Detection library
@@ -2543,6 +2542,7 @@
 
 ## Kotlin 
 
+- [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
 - [infiniticio/infinitic](https://github.com/infiniticio/infinitic) - Infinitic is a general-purpose framework to build distributed apps. It shines particularly by making complex orchestration simple. It can be used to reliably orchestrate microservices, manage distributed transactions, operates data pipelines, builds user-facing automation, etc.
 - [JetBrains/lets-plot](https://github.com/JetBrains/lets-plot) - An open-source plotting library for statistical data.
 - [JetBrains/kotlin-spark-api](https://github.com/JetBrains/kotlin-spark-api) - This projects gives Kotlin bindings and several extensions for Apache Spark. We are looking to have this as a part of Apache Spark 3.x
@@ -6461,6 +6461,7 @@
 
 ## Rust 
 
+- [hotg-ai/rune](https://github.com/hotg-ai/rune) - Rune provides containers to encapsulate and deploy edgeML pipelines and applications
 - [singularity-data/risingwave](https://github.com/singularity-data/risingwave) - RisingWave: the next-generation streaming database in the cloud.
 - [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates
 - [JasonShin/elemental-system-designs](https://github.com/JasonShin/elemental-system-designs) - System Designs open for everyone
