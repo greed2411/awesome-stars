@@ -858,6 +858,7 @@
 
 ## Go 
 
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
 - [bjarneo/rip](https://github.com/bjarneo/rip) - Rest in peace(s) - HTTP/UDP load testing tool
 - [lindb/lindb](https://github.com/lindb/lindb) - LinDB is a scalable, high performance, high availability distributed time series database.
 - [nao1215/gup](https://github.com/nao1215/gup) - gup - Update binaries installed by "go install".
