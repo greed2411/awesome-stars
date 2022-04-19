@@ -1713,7 +1713,7 @@
 
 ## JavaScript 
 
-- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - 🖭  Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
 - [daniel-bogdoll/ad-datasets](https://github.com/daniel-bogdoll/ad-datasets) - Complete* list of autonomous driving related datasets
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
 - [nodejs/undici](https://github.com/nodejs/undici) - An HTTP/1.1 client, written from scratch for Node.js
@@ -3485,7 +3485,7 @@
 - [speechbrain/speechbrain](https://github.com/speechbrain/speechbrain) - A PyTorch-based Speech Toolkit
 - [lucidrains/deep-daze](https://github.com/lucidrains/deep-daze) - Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network). Technique was originally created by https://twitter.com/advadnoun
 - [mnschmit/unsupervised-graph-text-conversion](https://github.com/mnschmit/unsupervised-graph-text-conversion) - This is the code for the EMNLP 2020 paper "An Unsupervised Joint System for Text Generation from Knowledge Graphs and Semantic Parsing".
-- [zenml-io/zenml](https://github.com/zenml-io/zenml) - ZenML 🙏: MLOps framework to create reproducible pipelines.
+- [zenml-io/zenml](https://github.com/zenml-io/zenml) - ZenML 🙏: MLOps framework to create reproducible pipelines. https://zenml.io.
 - [ContinualAI/avalanche](https://github.com/ContinualAI/avalanche) - Avalanche: an End-to-End Library for Continual Learning based on PyTorch.
 - [mit-han-lab/anycost-gan](https://github.com/mit-han-lab/anycost-gan) - [CVPR 2021] Anycost GANs for Interactive Image Synthesis and Editing
 - [lucidrains/perceiver-pytorch](https://github.com/lucidrains/perceiver-pytorch) - Implementation of Perceiver, General Perception with Iterative Attention, in Pytorch
@@ -3816,7 +3816,7 @@
 - [M4cs/pixcryption](https://github.com/M4cs/pixcryption) - :camera: Pixel Safe Encryption - Now Cryptographically Secure :lock:
 - [paulpierre/informer](https://github.com/paulpierre/informer) - A Telegram Mass Surveillance Bot in Python
 - [clovaai/stargan-v2](https://github.com/clovaai/stargan-v2) - StarGAN v2 - Official PyTorch Implementation (CVPR 2020)
-- [Neuraxio/Neuraxle](https://github.com/Neuraxio/Neuraxle) - A Sklearn-like Framework for Hyperparameter Tuning and AutoML in Deep Learning projects. Finally have the right abstractions and design patterns to properly do AutoML. Let your pipeline steps have hyperparameter spaces. Enable checkpoints to cut duplicate calculations. Go from research to production environment easily.
+- [Neuraxio/Neuraxle](https://github.com/Neuraxio/Neuraxle) - The world's cleanest AutoML framework ✨ - Do hyperparameter tuning with the right pipeline abstractions to write clean deep learning production pipelines. Let your pipeline steps have hyperparameter spaces. Design steps in your pipeline like components. Compatible with Scikit-Learn, TensorFlow, and most other frameworks and cloud environments.
 - [vungocbinh2009/pytexexam](https://github.com/vungocbinh2009/pytexexam) - A simple python package to create latex exam in python
 - [TokenChingy/pytasking](https://github.com/TokenChingy/pytasking) - A simple Python 3.5+ multitasking library.
 - [mardix/assembly](https://github.com/mardix/assembly) - Assembly is a Pythonic Object-Oriented Web Framework built on Flask, that groups your routes by class
@@ -6509,7 +6509,7 @@
 - [adwhit/itchy-rust](https://github.com/adwhit/itchy-rust) - NASDAQ ITCH parser in Rust
 - [gtk-rs/gir](https://github.com/gtk-rs/gir) - Tool to generate rust bindings and user API for glib-based libraries
 - [sdroege/gstreamer-rs](https://github.com/sdroege/gstreamer-rs) - GStreamer bindings for Rust - This repository moved to https://gitlab.freedesktop.org/gstreamer/gstreamer-rs
-- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native and cost-efficient search engine for log management
+- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native and cost-efficient search engine for log management & analytics
 - [indygreg/PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool
 - [mgattozzi/curryrs](https://github.com/mgattozzi/curryrs) - Bridge the gap between Haskell and Rust
 - [google/mosaic](https://github.com/google/mosaic) - A C++ bindings generator for Rust.
