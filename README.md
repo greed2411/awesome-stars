@@ -1742,7 +1742,7 @@
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [jozsefsallai/insomnia-documenter](https://github.com/jozsefsallai/insomnia-documenter) - Tool to create minimalist and beautiful API documentation pages using your Insomnia workspace export file.
 - [knex/knex](https://github.com/knex/knex) - A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
-- [publicdomaincompany/scroll](https://github.com/publicdomaincompany/scroll) - The extensible alternative to Markdown.
+- [breck7/scroll](https://github.com/breck7/scroll) - The extensible alternative to Markdown.
 - [statsd/statsd](https://github.com/statsd/statsd) - Daemon for easy but powerful stats aggregation
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, and gRPC.
 - [google/tracing-framework](https://github.com/google/tracing-framework) - Web Tracing Framework libraries and extensions.
@@ -6509,7 +6509,7 @@
 - [adwhit/itchy-rust](https://github.com/adwhit/itchy-rust) - NASDAQ ITCH parser in Rust
 - [gtk-rs/gir](https://github.com/gtk-rs/gir) - Tool to generate rust bindings and user API for glib-based libraries
 - [sdroege/gstreamer-rs](https://github.com/sdroege/gstreamer-rs) - GStreamer bindings for Rust - This repository moved to https://gitlab.freedesktop.org/gstreamer/gstreamer-rs
-- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-Native Log Management & Analytics. Troubleshoot, investigate, and analyze logs at scale.
+- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Open-source & cloud-native log management & analytics
 - [indygreg/PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool
 - [mgattozzi/curryrs](https://github.com/mgattozzi/curryrs) - Bridge the gap between Haskell and Rust
 - [google/mosaic](https://github.com/google/mosaic) - A C++ bindings generator for Rust.
