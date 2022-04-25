@@ -3274,6 +3274,7 @@
 
 ## Python 
 
+- [jasonstrimpel/volatility-trading](https://github.com/jasonstrimpel/volatility-trading) - A complete set of volatility estimators based on Euan Sinclair's Volatility Trading
 - [elastic/curator](https://github.com/elastic/curator) - Curator: Tending your Elasticsearch indices
 - [SciTools/cartopy](https://github.com/SciTools/cartopy) - Cartopy - a cartographic python library with matplotlib support
 - [long2ice/fastapi-cache](https://github.com/long2ice/fastapi-cache) - fastapi-cache is a tool to cache fastapi response and function result, with backends support redis and memcached.
