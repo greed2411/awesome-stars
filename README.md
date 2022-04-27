@@ -935,7 +935,7 @@
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [odpf/raccoon](https://github.com/odpf/raccoon) - Raccoon is a high-throughput, low-latency service to collect events in real-time from your web, mobile apps, and services using multiple network protocols.
 - [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd) - Continuous Delivery for Declarative Kubernetes, Serverless and Infrastructure Applications
-- [IceFireDB/IceFireDB](https://github.com/IceFireDB/IceFireDB) - IceFireDB is a database built for web3 and web2, and strives to fill the gap between web2 and web3 with the help of a friendly database experience, making web3 application data storage more convenient, and making web2 applications easier to access the blockchain.
+- [IceFireDB/IceFireDB](https://github.com/IceFireDB/IceFireDB) - IceFireDB is a database built for web3 and web2. It strives to fill the gap between web2 and web3 with a friendly database experience, making web3 application data storage more convenient, and making it easier for web2 applications to achieve decentralization and data immutability.
 - [facette/facette](https://github.com/facette/facette) - Time series data visualization software
 - [bytedance/ns-x](https://github.com/bytedance/ns-x) - An easy-to-use, flexible network simulator library in Go.
 - [alda-lang/alda](https://github.com/alda-lang/alda) - A music programming language for musicians. :notes:
@@ -1923,6 +1923,7 @@
 - [agermanidis/livepython](https://github.com/agermanidis/livepython) - Visually trace Python code in real-time.
 - [sindresorhus/cli-spinners](https://github.com/sindresorhus/cli-spinners) - Spinners for use in the terminal
 - [calipho-sib/feature-viewer](https://github.com/calipho-sib/feature-viewer) - Library to visualize protein sequence features in javascript using D3 - From SIB CALIPHO group; neXtProt project
+- [Marak/faker.js](https://github.com/Marak/faker.js) - generate massive amounts of realistic fake data in Node.js and the browser
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated interview preparation materials for busy engineers
 - [pastelsky/bundlephobia](https://github.com/pastelsky/bundlephobia) - 🏋️ Find out the cost of adding a new frontend dependency to your project
 - [airbnb/hypernova](https://github.com/airbnb/hypernova) - A service for server-side rendering your JavaScript views
@@ -2205,7 +2206,7 @@
 - [jessemzhang/porcupine_neural_networks](https://github.com/jessemzhang/porcupine_neural_networks) - 
 - [fastai/fastai_dev](https://github.com/fastai/fastai_dev) - fast.ai early development experiments
 - [GunhoChoi/PyTorch-FastCampus](https://github.com/GunhoChoi/PyTorch-FastCampus) - PyTorch로 시작하는 딥러닝 입문 CAMP (2017.7~2017.12) 강의자료
-- [yuedongP/Deep-Reinforced-Abstractive-Summarization](https://github.com/yuedongP/Deep-Reinforced-Abstractive-Summarization) - Pytorch implementation of "A Deep Reinforced Model for Abstractive Summarization"(https://arxiv.org/abs/1705.04304)
+- [YueDongCS/Deep-Reinforced-Abstractive-Summarization](https://github.com/YueDongCS/Deep-Reinforced-Abstractive-Summarization) - Pytorch implementation of "A Deep Reinforced Model for Abstractive Summarization"(https://arxiv.org/abs/1705.04304)
 - [TropComplique/image-classification-caltech-256](https://github.com/TropComplique/image-classification-caltech-256) - Exploring CNNs and model quantization on Caltech-256 dataset
 - [SeongokRyu/Graph-neural-networks](https://github.com/SeongokRyu/Graph-neural-networks) - 
 - [fredguth/fastai_playground](https://github.com/fredguth/fastai_playground) - Notebooks of experiences with the fastai library
