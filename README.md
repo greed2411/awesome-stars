@@ -127,6 +127,7 @@
 - [Legrandin/pycryptodome](https://github.com/Legrandin/pycryptodome) - A self-contained cryptographic library for Python
 - [FastFilter/xor_singleheader](https://github.com/FastFilter/xor_singleheader) - Header-only binary fuse and xor filter library
 - [ApsaraDB/PolarDB-for-PostgreSQL](https://github.com/ApsaraDB/PolarDB-for-PostgreSQL) - "POLARDB_11_STABLE" is the stable branch which is based on PostgreSQL 11.9.  It supports compute-storage separation architecture. The "distributed" branch, which supports distributed architecture.
+- [ThusWroteNomad/GameNetworkingResources](https://github.com/ThusWroteNomad/GameNetworkingResources) - A Curated List of Game Network Programming Resources
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [nalgeon/sqlean](https://github.com/nalgeon/sqlean) - The ultimate set of SQLite extensions
 - [emikulic/darkhttpd](https://github.com/emikulic/darkhttpd) - When you need a web server in a hurry.
@@ -307,7 +308,6 @@
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [pedromvpg/Bitcoin-v0.1-A-Guided-Tour](https://github.com/pedromvpg/Bitcoin-v0.1-A-Guided-Tour) - Bitcoin v0.1 - A Guided Tour
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
-- [ThusWroteNomad/Game-Networking-Resources](https://github.com/ThusWroteNomad/Game-Networking-Resources) - A Curated List of Game Network Programming Resources
 - [FidoProject/Fido](https://github.com/FidoProject/Fido) - A lightweight C++ machine learning library for embedded electronics and robotics.
 - [google/visqol](https://github.com/google/visqol) - Perceptual Quality Estimator for speech and audio
 - [TesseractCoding/NeoAlgo](https://github.com/TesseractCoding/NeoAlgo) - Bringing all Data Structures and Algorithms under one Roof ⚡
@@ -1009,7 +1009,7 @@
 - [treeverse/lakeFS](https://github.com/treeverse/lakeFS) - Git-like capabilities for your object storage
 - [teh-cmc/go-internals](https://github.com/teh-cmc/go-internals) - A book about the internals of the Go programming language.
 - [kha7iq/pingme](https://github.com/kha7iq/pingme) - PingMe is a CLI which provides the ability to send messages or alerts to multiple messaging platforms & email.
-- [encoredev/encore](https://github.com/encoredev/encore) - Encore is the Go Backend Development Engine helping developers escape the maze of complexity.
+- [encoredev/encore](https://github.com/encoredev/encore) - Encore is the Backend Development Engine helping developers escape the maze of complexity.
 - [N0MoreSecr3ts/wraith](https://github.com/N0MoreSecr3ts/wraith) - Uncover forgotten secrets and bring them back to life, haunting security and operations teams.
 - [RedisLabs/redis-recommend](https://github.com/RedisLabs/redis-recommend) - Simple Redis Go recommendation engine
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
@@ -1113,7 +1113,7 @@
 - [prisma/prisma-client-go](https://github.com/prisma/prisma-client-go) - Prisma Client Go is an auto-generated and fully type-safe database client
 - [nsqio/nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
 - [mosuka/cete](https://github.com/mosuka/cete) - Cete is a distributed key value store server written in Go built on top of BadgerDB.
-- [earthly/earthly](https://github.com/earthly/earthly) - Repeatable builds
+- [earthly/earthly](https://github.com/earthly/earthly) - The effortless CI/CD framework that runs anywhere
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
@@ -2370,6 +2370,7 @@
 - [nfmcclure/tensorflow_cookbook](https://github.com/nfmcclure/tensorflow_cookbook) - Code for Tensorflow Machine Learning Cookbook
 - [JamesLavin/my_tech_resources](https://github.com/JamesLavin/my_tech_resources) - List of tech resources future me and other Javascript/Ruby/Python/Elixir/Elm developers might find useful
 - [rddy/isql](https://github.com/rddy/isql) - Inferring beliefs about dynamics from behavior
+- [harvardnlp/annotated-transformer](https://github.com/harvardnlp/annotated-transformer) - http://nlp.seas.harvard.edu/2018/04/03/attention.html
 - [zackchase/mxnet-the-straight-dope](https://github.com/zackchase/mxnet-the-straight-dope) - An interactive book on deep learning. Much easy, so MXNet. Wow. [Straight Dope is growing up] ---&gt; Much of this content has been incorporated into the new Dive into Deep Learning Book available at https://d2l.ai/.
 - [suragnair/alpha-zero-general](https://github.com/suragnair/alpha-zero-general) - A clean implementation based on AlphaZero for any game in any framework + tutorial + Othello/Gobang/TicTacToe/Connect4 and more
 - [chengyangfu/pytorch-vgg-cifar10](https://github.com/chengyangfu/pytorch-vgg-cifar10) - This is the PyTorch implementation of VGG network trained on CIFAR10 dataset
@@ -2731,7 +2732,7 @@
 - [cedrickchee/awesome-bert-nlp](https://github.com/cedrickchee/awesome-bert-nlp) - A curated list of NLP resources focused on BERT, attention mechanism, Transformer networks, and transfer learning.
 - [oleg-agapov/data-engineering-book](https://github.com/oleg-agapov/data-engineering-book) - Accumulated knowledge and experience in the field of Data Engineering
 - [DanieleGravina/divergence-and-quality-diversity](https://github.com/DanieleGravina/divergence-and-quality-diversity) - A collection of papers on divergence and quality diversity
-- [rystsov/awesome-distributed-transactions](https://github.com/rystsov/awesome-distributed-transactions) - Awesome list of distributed transactions
+- [redpanda-data/awesome-distributed-transactions](https://github.com/redpanda-data/awesome-distributed-transactions) - Awesome list of distributed transactions
 - [asheeshcric/awesome-contrastive-self-supervised-learning](https://github.com/asheeshcric/awesome-contrastive-self-supervised-learning) - A comprehensive list of awesome contrastive self-supervised learning papers.
 - [cmusphinx/cmudict](https://github.com/cmusphinx/cmudict) - CMU US English Dictionary
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
@@ -3646,7 +3647,6 @@
 - [trailofbits/graphtage](https://github.com/trailofbits/graphtage) - A semantic diff utility and library for tree-like files such as JSON, JSON5, XML, HTML, YAML, and CSV.
 - [Ericsson/eva](https://github.com/Ericsson/eva) - EVA is a web-based tool for efficient annotation of videos and image sequences and has an additional tracking capabilities
 - [hirofumi0810/neural_sp](https://github.com/hirofumi0810/neural_sp) - End-to-end ASR/LM implementation with PyTorch
-- [heroxbd/waveform-analysis](https://github.com/heroxbd/waveform-analysis) - Waveform analysis for reviewing all the effective methods.
 - [SforAiDl/genrl](https://github.com/SforAiDl/genrl) - A PyTorch reinforcement learning library for generalizable and reproducible algorithm implementations with an aim to improve accessibility in RL
 - [SamStudio8/hansel](https://github.com/SamStudio8/hansel) - A graph-inspired data structure for determining likely chains of sequences from breadcrumbs of evidence
 - [endolith/waveform_analysis](https://github.com/endolith/waveform_analysis) - Functions and scripts for analyzing waveforms, primarily audio.  This is currently somewhat disorganized and unfinished.
@@ -4952,7 +4952,7 @@
 - [mongoose54/negex](https://github.com/mongoose54/negex) - Automatically exported from code.google.com/p/negex
 - [airbnb/knowledge-repo](https://github.com/airbnb/knowledge-repo) - A next-generation curated knowledge sharing platform for data scientists and other technical professions.
 - [YU-Zhiyang/opencv_transforms_torchvision](https://github.com/YU-Zhiyang/opencv_transforms_torchvision) - opencv reimplement for transforms in torchvision
-- [jonasrothfuss/ProMP](https://github.com/jonasrothfuss/ProMP) - ProMP: Proximal Meta-Policy Search
+- [jonasrothfuss/ProMP](https://github.com/jonasrothfuss/ProMP) - Implementation of Proximal Meta-Policy Search (ProMP) as well as related Meta-RL algorithm. Includes a useful experiment framework for Meta-RL.
 - [layumi/Person_reID_baseline_pytorch](https://github.com/layumi/Person_reID_baseline_pytorch) - Pytorch ReID: A tiny, friendly, strong pytorch implement of object re-identification baseline. Tutorial 👉https://github.com/layumi/Person_reID_baseline_pytorch/tree/master/tutorial
 - [KuNyaa/berkeleydeeprlcourse-homework-pytorch](https://github.com/KuNyaa/berkeleydeeprlcourse-homework-pytorch) - Assignments for CS294-112 Fall2018 in Pytorch
 - [alexa-samples/skill-sample-python-fact](https://github.com/alexa-samples/skill-sample-python-fact) - An Alexa Skill Sample showing how to build a fact skill in Python.
@@ -5659,7 +5659,6 @@
 - [shagunsodhani/Reproducibility-Report-CountVQA](https://github.com/shagunsodhani/Reproducibility-Report-CountVQA) - 
 - [HIPS/Spearmint](https://github.com/HIPS/Spearmint) - Spearmint Bayesian optimization codebase
 - [Naresh1318/Adversarial_Autoencoder](https://github.com/Naresh1318/Adversarial_Autoencoder) - A wizard's guide to Adversarial Autoencoders
-- [harvardnlp/annotated-transformer](https://github.com/harvardnlp/annotated-transformer) - http://nlp.seas.harvard.edu/2018/04/03/attention.html
 - [xkumiyu/numpy-data-augmentation](https://github.com/xkumiyu/numpy-data-augmentation) - Data Augmentation using NumPy
 - [yehiahesham/Movie_Sentiment_Analysis](https://github.com/yehiahesham/Movie_Sentiment_Analysis) - Classify the sentiment of sentences from the Rotten Tomatoes dataset
 - [duckietown/gym-duckietown](https://github.com/duckietown/gym-duckietown) - Self-driving car simulator for the Duckietown universe
@@ -6913,6 +6912,7 @@
 
 ## TeX 
 
+- [heroxbd/waveform-analysis](https://github.com/heroxbd/waveform-analysis) - Waveform analysis for reviewing all the effective methods.
 - [liuxinyu95/unplugged](https://github.com/liuxinyu95/unplugged) - Open book about math and programming.
 - [optimass/continual_learning_papers](https://github.com/optimass/continual_learning_papers) - Relevant papers in Continual Learning
 - [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source
