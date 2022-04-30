@@ -887,7 +887,7 @@
 - [knadh/koanf](https://github.com/knadh/koanf) - Simple, lightweight, extensible, configuration management library for Go. Support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper.
 - [db47h/ragel](https://github.com/db47h/ragel) - Go driver for ragel scanners
 - [openark/orchestrator](https://github.com/openark/orchestrator) - MySQL replication topology management and HA
-- [kubeshop/kusk-gen](https://github.com/kubeshop/kusk-gen) - Kusk makes your OpenAPI definition the source of truth for API resources in your cluster
+- [kubeshop/kusk-gen](https://github.com/kubeshop/kusk-gen) - Kusk Gen makes your OpenAPI definition the source of truth for API resources in your cluster
 - [muesli/mango](https://github.com/muesli/mango) - mango is a man-page generator for the Go flag, pflag, cobra, coral, and kong packages
 - [polyaxon/mloperator](https://github.com/polyaxon/mloperator) - Machine Learning Operator & Controller for Kubernetes
 - [oom-ai/oomstore](https://github.com/oom-ai/oomstore) - Lightweight and Fast Feature Store Powered by Go (and Rust).
@@ -1131,7 +1131,7 @@
 - [ktr0731/evans](https://github.com/ktr0731/evans) - Evans: more expressive universal gRPC client
 - [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
 - [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) - A lightweight IoT edge analytics software
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Photos App powered by Go and Google TensorFlow 🌈 ✨
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - PhotoPrism® is an AI-powered Photos App for the Decentralized Web 🌈💎✨
 - [vektra/mockery](https://github.com/vektra/mockery) - A mock code autogenerator for Golang
 - [bxcodec/go-clean-arch](https://github.com/bxcodec/go-clean-arch) - Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture
 - [ksimka/go-is-not-good](https://github.com/ksimka/go-is-not-good) - A curated list of articles complaining that go (golang) isn't good enough
@@ -4089,7 +4089,7 @@
 - [andrewcooke/choochoo](https://github.com/andrewcooke/choochoo) - Training Diary
 - [ShichenLiu/SoftRas](https://github.com/ShichenLiu/SoftRas) - Project page of paper "Soft Rasterizer: A Differentiable Renderer for Image-based 3D Reasoning"
 - [JDASoftwareGroup/kartothek](https://github.com/JDASoftwareGroup/kartothek) - A consistent table management library in python
-- [strawberry-graphql/strawberry](https://github.com/strawberry-graphql/strawberry) - A new GraphQL library for Python 🍓
+- [strawberry-graphql/strawberry](https://github.com/strawberry-graphql/strawberry) - A GraphQL library for Python that leverages type annotations 🍓
 - [modAL-python/modAL](https://github.com/modAL-python/modAL) - A modular active learning framework for Python
 - [elastic/elasticsearch-dsl-py](https://github.com/elastic/elasticsearch-dsl-py) - High level Python client for Elasticsearch
 - [cybertronai/transformer-xl](https://github.com/cybertronai/transformer-xl) - Training Transformer-XL on 128 GPUs
@@ -5870,7 +5870,7 @@
 - [miranthajayatilake/YOLOw-Keras](https://github.com/miranthajayatilake/YOLOw-Keras) - YOLOv2 Object Detection w/ Keras (in just 20 lines of code)
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
-- [heroku-python/flask-sockets](https://github.com/heroku-python/flask-sockets) - [DEPRECATED] Elegant WebSockets for your Flask apps.
+- [heroku-python/flask-sockets](https://github.com/heroku-python/flask-sockets) - [DEPRECATED] Alternative: https://github.com/miguelgrinberg/flask-sock
 - [frol/flask-restplus-server-example](https://github.com/frol/flask-restplus-server-example) - Real-life RESTful server example on Flask-RESTplus
 - [MrGemy95/visual-interaction-networks-pytorch](https://github.com/MrGemy95/visual-interaction-networks-pytorch) - This's an implementation of deepmind Visual Interaction Networks paper using pytorch
 - [pfnet-research/sngan_projection](https://github.com/pfnet-research/sngan_projection) - GANs with spectral normalization and projection discriminator
@@ -6504,7 +6504,7 @@
 - [bytecodealliance/rustix](https://github.com/bytecodealliance/rustix) - Safe Rust bindings to POSIX-ish APIs
 - [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn't ever lose your work if you're using Git
 - [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Friendly React-like UI library for desktop, web, mobile, SSR, liveview, and more.
 - [tesselode/kira](https://github.com/tesselode/kira) - Library for expressive game audio.
 - [Rust-GPU/Rust-CUDA](https://github.com/Rust-GPU/Rust-CUDA) - Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust.
 - [adwhit/itchy-rust](https://github.com/adwhit/itchy-rust) - NASDAQ ITCH parser in Rust
@@ -7004,7 +7004,7 @@
 - [Novage/p2p-media-loader](https://github.com/Novage/p2p-media-loader) - An open-source engine for P2P streaming of live and on demand video directly in a web browser HTML page
 - [redpanda-data/kowl](https://github.com/redpanda-data/kowl) - Kowl is a developer-friendly UI for managing your Kafka/Redpanda workloads. Kowl gives you a simple, interactive approach for gaining visibility into your topics, masking data, managing consumer groups, and exploring real-time data with time-travel debugging.
 - [microsoft/fast](https://github.com/microsoft/fast) - The adaptive interface system for modern web experiences.
-- [nsfw-filter/nsfw-filter](https://github.com/nsfw-filter/nsfw-filter) - 🚀 A Google Chrome / Firefox extension that blocks NSFW images from the web pages that you load using TensorFlow JS.
+- [nsfw-filter/nsfw-filter](https://github.com/nsfw-filter/nsfw-filter) - 🚀 A Google Chrome extension that blocks NSFW images from the web pages that you load using TensorFlow JS.
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [amzn/ion-js](https://github.com/amzn/ion-js) - A JavaScript implementation of Amazon Ion.
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
@@ -7029,7 +7029,7 @@
 - [huggingface/Mongoku](https://github.com/huggingface/Mongoku) - 🔥The Web-scale GUI for MongoDB
 - [vultix/ts-results](https://github.com/vultix/ts-results) - A typescript implementation of Rust's Result object.
 - [SkalskiP/make-sense](https://github.com/SkalskiP/make-sense) - Free to use online tool for labelling photos. https://makesense.ai
-- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - generate code from cURL commands
+- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Generate code from cURL commands
 - [hastic-zzz/hastic-server](https://github.com/hastic-zzz/hastic-server) - Hastic data management server for analyzing patterns and anomalies from Grafana
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [TimoStaudinger/sprite](https://github.com/TimoStaudinger/sprite) - 🖌 Draw charts in code. Render in real-time. Embed anywhere as .png.
