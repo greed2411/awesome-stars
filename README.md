@@ -6631,7 +6631,7 @@
 - [skytable/skytable](https://github.com/skytable/skytable) - Skytable is a fast, secure and reliable realtime NoSQL database with keyspaces, tables, data types, authn/authz, snapshots and more to build powerful apps
 - [paulchernoch/shy](https://github.com/paulchernoch/shy) - Shunting Yard Rule Engine in Rust
 - [TimonPost/laminar](https://github.com/TimonPost/laminar) - A simple semi-reliable UDP protocol for multiplayer games
-- [kyren/webrtc-unreliable](https://github.com/kyren/webrtc-unreliable) - Just enough hacks to get unreliable unordered WebRTC data channels between a browser and a server
+- [triplehex/webrtc-unreliable](https://github.com/triplehex/webrtc-unreliable) - Just enough hacks to get unreliable unordered WebRTC data channels between a browser and a server
 - [kaegi/webrtc-vad](https://github.com/kaegi/webrtc-vad) - Rust interface for the WebRTC Voice-Activity-Module
 - [smol-rs/async-io](https://github.com/smol-rs/async-io) - Async I/O and timers
 - [tarkah/tickrs](https://github.com/tarkah/tickrs) - Realtime ticker data in your terminal 📈
