@@ -547,7 +547,6 @@
 - [cmuratori/meow_hash](https://github.com/cmuratori/meow_hash) - Official version of the Meow hash, an extremely fast level 1 hash
 - [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) - OpenVINO™ Toolkit repository
 - [cvxpy/cvxpy](https://github.com/cvxpy/cvxpy) - A Python-embedded modeling language for convex optimization problems.
-- [mint-lab/3dv_tutorial](https://github.com/mint-lab/3dv_tutorial) - An Invitation to 3D Vision: A Tutorial for Everyone
 - [tum-vision/lsd_slam](https://github.com/tum-vision/lsd_slam) - LSD-SLAM
 - [MPI-IS/bilateralNN](https://github.com/MPI-IS/bilateralNN) - Learning Sparse High Dimensional Filters with Neural Networks
 - [mkorunoski/3D-Face-Reconstruction](https://github.com/mkorunoski/3D-Face-Reconstruction) - 3D reconstruction of detected face
@@ -858,6 +857,7 @@
 
 ## Go 
 
+- [pinterest/knox](https://github.com/pinterest/knox) - Knox is a secret management service
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
 - [bjarneo/rip](https://github.com/bjarneo/rip) - Rest in peace(s) - HTTP/UDP load testing tool
 - [lindb/lindb](https://github.com/lindb/lindb) - LinDB is a scalable, high performance, high availability distributed time series database.
@@ -2370,7 +2370,7 @@
 - [nfmcclure/tensorflow_cookbook](https://github.com/nfmcclure/tensorflow_cookbook) - Code for Tensorflow Machine Learning Cookbook
 - [JamesLavin/my_tech_resources](https://github.com/JamesLavin/my_tech_resources) - List of tech resources future me and other Javascript/Ruby/Python/Elixir/Elm developers might find useful
 - [rddy/isql](https://github.com/rddy/isql) - Inferring beliefs about dynamics from behavior
-- [harvardnlp/annotated-transformer](https://github.com/harvardnlp/annotated-transformer) - http://nlp.seas.harvard.edu/2018/04/03/attention.html
+- [harvardnlp/annotated-transformer](https://github.com/harvardnlp/annotated-transformer) - An annotated implementation of the Transformer paper.
 - [zackchase/mxnet-the-straight-dope](https://github.com/zackchase/mxnet-the-straight-dope) - An interactive book on deep learning. Much easy, so MXNet. Wow. [Straight Dope is growing up] ---&gt; Much of this content has been incorporated into the new Dive into Deep Learning Book available at https://d2l.ai/.
 - [suragnair/alpha-zero-general](https://github.com/suragnair/alpha-zero-general) - A clean implementation based on AlphaZero for any game in any framework + tutorial + Othello/Gobang/TicTacToe/Connect4 and more
 - [chengyangfu/pytorch-vgg-cifar10](https://github.com/chengyangfu/pytorch-vgg-cifar10) - This is the PyTorch implementation of VGG network trained on CIFAR10 dataset
@@ -4984,6 +4984,7 @@
 - [facebookresearch/VMZ](https://github.com/facebookresearch/VMZ) - VMZ: Model Zoo for Video Modeling
 - [tangbinh/image-captioning](https://github.com/tangbinh/image-captioning) - 
 - [facebookresearch/DME](https://github.com/facebookresearch/DME) - Dynamic Meta-Embeddings for Improved Sentence Representations
+- [mint-lab/3dv_tutorial](https://github.com/mint-lab/3dv_tutorial) - An Invitation to 3D Vision: A Tutorial for Everyone
 - [varadchoudhari/LinkedIn-Skills-Crawler](https://github.com/varadchoudhari/LinkedIn-Skills-Crawler) - A simple Python script to crawl complete list of LinkedIn skills
 - [xiaowei-hu/CycleGAN-tensorflow](https://github.com/xiaowei-hu/CycleGAN-tensorflow) - Tensorflow implementation for learning an image-to-image translation without input-output pairs. https://arxiv.org/pdf/1703.10593.pdf
 - [deepppl/deepppl](https://github.com/deepppl/deepppl) - Deep Probabilistic Programming Language
