@@ -566,7 +566,6 @@
 - [facebookarchive/LogDevice](https://github.com/facebookarchive/LogDevice) - Distributed storage for sequential data
 - [lincolnhard/openpose-darknet](https://github.com/lincolnhard/openpose-darknet) - Openpose implementation using darknet
 - [jing-interactive/DancingGaga](https://github.com/jing-interactive/DancingGaga) - AI 尬舞机
-- [jiangxiluning/FOTS.PyTorch](https://github.com/jiangxiluning/FOTS.PyTorch) - FOTS Pytorch Implementation
 - [lvdmaaten/bhtsne](https://github.com/lvdmaaten/bhtsne) - Barnes-Hut t-SNE
 - [tpys/face-everthing](https://github.com/tpys/face-everthing) - face detection alignment recognition reconstruction ...
 - [libornovax/master_thesis_code](https://github.com/libornovax/master_thesis_code) - Code for my master thesis: Vehicle Detection and Pose Estimation for Autonomous Driving
@@ -1373,7 +1372,7 @@
 - [skeema/skeema](https://github.com/skeema/skeema) - Declarative pure-SQL schema management for MySQL and MariaDB
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
-- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open source distributed HTAP database compatible with the MySQL protocol
+- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open source distributed hybrid transaction/analytical  database compatible with the MySQL protocol
 - [vmware-archive/kubeless](https://github.com/vmware-archive/kubeless) - Kubernetes Native Serverless Framework
 - [rkt/rkt](https://github.com/rkt/rkt) - [Project ended] rkt is a pod-native container engine for Linux. It is composable, secure, and built on standards.
 - [ConsenSys/quorum](https://github.com/ConsenSys/quorum) - A permissioned implementation of Ethereum supporting data privacy
@@ -3284,7 +3283,7 @@
 - [aio-libs/async-lru](https://github.com/aio-libs/async-lru) - Simple LRU cache for asyncio
 - [jinfagang/yolov7](https://github.com/jinfagang/yolov7) - 🔥🔥🔥🔥 YOLO with Transformers and Instance Segmentation, with TensorRT acceleration! 🔥🔥🔥
 - [harelba/q](https://github.com/harelba/q) - q - Run SQL directly on delimited files and multi-file sqlite databases
-- [someengineering/resoto](https://github.com/someengineering/resoto) - Resoto - Find leaky resources, manage quota limits, detect drift, and clean up!
+- [someengineering/resoto](https://github.com/someengineering/resoto) - Resoto creates an inventory of your cloud, provides deep visibility, and reacts to changes in your infrastructure. ⚡️
 - [adriangb/xpresso](https://github.com/adriangb/xpresso) - A composable Python ASGI web framework
 - [vitalik/django-ninja](https://github.com/vitalik/django-ninja) - 💨  Fast, Async-ready, Openapi, type hints based framework for building APIs
 - [locustio/locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
@@ -5208,6 +5207,7 @@
 - [wangg12/intel-cervical-cancer](https://github.com/wangg12/intel-cervical-cancer) - Team GuYuShiJie~'s 15th (top 2%) solution of cervix type classification in Kaggle 2017 competition, using PyTorch.
 - [facebookincubator/python-nubia](https://github.com/facebookincubator/python-nubia) - A command-line and interactive shell framework.
 - [python-pillow/Pillow](https://github.com/python-pillow/Pillow) - The friendly PIL fork (Python Imaging Library)
+- [jiangxiluning/FOTS.PyTorch](https://github.com/jiangxiluning/FOTS.PyTorch) - FOTS Pytorch Implementation
 - [sri-rad/face-keypoint-pytorch](https://github.com/sri-rad/face-keypoint-pytorch) - PyTorch implementation of face key-point detection from https://github.com/e-lab/pytorch-demos
 - [marcelampc/d3net_depth_estimation](https://github.com/marcelampc/d3net_depth_estimation) - Dense Deep Depth Estimation Network (D3-Net) in PyTorch.
 - [abaheti95/DC-NeuralConversation](https://github.com/abaheti95/DC-NeuralConversation) - OpenNMT based Neural Conversation model which implements Topic and Semantic Distributional Constraints to improve quality of generated responses
@@ -6942,6 +6942,7 @@
 
 ## TypeScript 
 
+- [mil-tokyo/webdnn](https://github.com/mil-tokyo/webdnn) - The Fastest DNN Running Framework on Web Browser
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - mirrord lets you easily mirror traffic from your production environment to your development environment.
 - [komodorio/validkube](https://github.com/komodorio/validkube) - ValidKube combines the best open-source tools to help ensure Kubernetes YAML best practices, hygiene & security.
 - [elastic/search-ui](https://github.com/elastic/search-ui) - Search UI. Libraries for the fast development of modern, engaging search experiences.
