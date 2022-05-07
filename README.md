@@ -48,7 +48,6 @@
   - [MATLAB](#matlab)
   - [Makefile](#makefile)
   - [Markdown](#markdown)
-  - [Matlab](#matlab)
   - [NASL](#nasl)
   - [Nim](#nim)
   - [OCaml](#ocaml)
@@ -109,14 +108,13 @@
 - [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
 - [berty/go-libtor](https://github.com/berty/go-libtor) - Self-contained Tor from Go
 - [lh3/gwfa](https://github.com/lh3/gwfa) - Proof-of-concept implementation of GWFA for sequence-to-graph alignment
-- [erthink/libmdbx](https://github.com/erthink/libmdbx) - One of the fastest embeddable key-value ACID database without WAL. libmdbx surpasses the legendary LMDB in terms of reliability, features and performance.
 - [frevib/io_uring-echo-server](https://github.com/frevib/io_uring-echo-server) - io_uring echo server
 - [giltene/wrk2](https://github.com/giltene/wrk2) - A constant throughput, correct latency recording variant of wrk
 - [DataDog/zstd](https://github.com/DataDog/zstd) - Zstd wrapper for Go
 - [mattn/go-sqlite3](https://github.com/mattn/go-sqlite3) - sqlite3 driver for go using database/sql
 - [ClusterLabs/pacemaker](https://github.com/ClusterLabs/pacemaker) - Pacemaker is an advanced, scalable High-Availability cluster resource manager
 - [aleaxit/gmpy](https://github.com/aleaxit/gmpy) - General Multi-Precision arithmetic for Python 2.6+/3+ (GMP, MPIR, MPFR, MPC)
-- [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
+- [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bi
 - [shuveb/io_uring-by-example](https://github.com/shuveb/io_uring-by-example) - A companion repository for the io_uring by Example article series
 - [openSUSE/libsolv](https://github.com/openSUSE/libsolv) - Library for solving packages and reading repositories
 - [satori-com/tcpkali](https://github.com/satori-com/tcpkali) - Fast multi-core TCP and WebSockets load generator.
@@ -170,7 +168,7 @@
 - [unispeech/unimrcp](https://github.com/unispeech/unimrcp) - Open source cross-platform implementation of MRCP protocol
 - [scandum/binary_search](https://github.com/scandum/binary_search) - A collection of improved binary search algorithms.
 - [lawl/NoiseTorch](https://github.com/lawl/NoiseTorch) - Real-time microphone noise suppression on Linux.
-- [dhvani-tts/dhvani-tts](https://github.com/dhvani-tts/dhvani-tts) - dhvani is a text to speech system designed for Indian Languages. The aim of this project is to ensure that literacy and knowledge of English are not essential for using a Computer. We hope that it will reduce the digital divide and will be helpful for the visually challenges users as screenreader in their mother tongue .
+- [dhvani-tts/dhvani-tts](https://github.com/dhvani-tts/dhvani-tts) - dhvani is a text to speech system designed for Indian Languages. The aim of this project is to ensure that literacy and knowledge of English are not essential for using a Computer. We hope that it wil
 - [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) - A query and indexing engine for Redis, providing secondary indexing, full-text search, and aggregations.
 - [arut/nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module) - NGINX-based Media Streaming Server
 - [uNetworking/uSockets](https://github.com/uNetworking/uSockets) - Miniscule cross-platform eventing, networking & crypto for async applications
@@ -222,7 +220,7 @@
 - [StanfordVL/GibsonEnv](https://github.com/StanfordVL/GibsonEnv) - Gibson Environments: Real-World Perception for Embodied Agents
 - [vishnubob/python-midi](https://github.com/vishnubob/python-midi) - Python MIDI library
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
-- [dav/word2vec](https://github.com/dav/word2vec) - This tool provides an efficient implementation of the continuous bag-of-words and skip-gram architectures for computing vector representations of words. These representations can be subsequently used in many natural language processing applications and for further research.
+- [dav/word2vec](https://github.com/dav/word2vec) - This tool provides an efficient implementation of the continuous bag-of-words and skip-gram architectures for computing vector representations of words. These representations can be subsequently used
 - [chrisjmccormick/word2vec_commented](https://github.com/chrisjmccormick/word2vec_commented) - Commented (but unaltered) version of original word2vec C implementation.
 - [mopemope/meinheld](https://github.com/mopemope/meinheld) - Meinheld is a high performance asynchronous WSGI Web Server (based on picoev)
 - [symisc/sod](https://github.com/symisc/sod) - An Embedded Computer Vision & Machine Learning Library (CPU Optimized & IoT Capable)
@@ -231,17 +229,17 @@
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and Edge (Windows)
 - [mattn/http-server](https://github.com/mattn/http-server) - 
-- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl offers a myriad of powerful features
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [langhai/http-client-c](https://github.com/langhai/http-client-c) - A quick and dirty HTTP client library in and for C.
-- [jorisvink/kore](https://github.com/jorisvink/kore) - An easy to use, scalable and secure web application framework for writing web APIs in C or Python. || This is a read-only mirror, please see https://kore.io/mail and https://kore.io/source for information on how to contribute via the mailing lists.
+- [jorisvink/kore](https://github.com/jorisvink/kore) - An easy to use, scalable and secure web application framework for writing web APIs in C or Python. || This is a read-only mirror, please see https://kore.io/mail and https://kore.io/source for informa
 - [coleifer/sophy](https://github.com/coleifer/sophy) - Fast Python bindings to Sophia Database
 - [hasura/skor](https://github.com/hasura/skor) - Now part of Hasura GraphQL Engine. Listen to postgres events and forward them as JSON payloads to a webhook
 - [openai/retro](https://github.com/openai/retro) - Retro Games in Gym
 - [madhav-datt/spell-check](https://github.com/madhav-datt/spell-check) - :mortar_board: High-performance program to spell-check and auto-correct large documents
 - [explosion/lightnet](https://github.com/explosion/lightnet) - 🌓 Bringing pjreddie's DarkNet out of the shadows #yolo
-- [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
+- [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [addy-dclxvi/almighty-dotfiles](https://github.com/addy-dclxvi/almighty-dotfiles) - A dump repository of my dotfiles since the first time I learned ricing. So everything is really messy here.
-- [catboost/catboost](https://github.com/catboost/catboost) - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.
+- [catboost/catboost](https://github.com/catboost/catboost) - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computa
 - [twitter/twemproxy](https://github.com/twitter/twemproxy) - A fast, light-weight proxy for memcached and redis
 - [pjreddie/darknet](https://github.com/pjreddie/darknet) - Convolutional Neural Networks
 - [wrathematics/getip](https://github.com/wrathematics/getip) - IP address lookup from R
@@ -251,7 +249,7 @@
 - [saghul/pyuv](https://github.com/saghul/pyuv) - Python interface for libuv
 - [silentbicycle/theft](https://github.com/silentbicycle/theft) - property-based testing for C: generate input to find obscure bugs, then reduce to minimal failing input
 - [client9/libinjection](https://github.com/client9/libinjection) - SQL / SQLI tokenizer parser analyzer
-- [rofl0r/proxychains-ng](https://github.com/rofl0r/proxychains-ng) - proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained proxychains project. the sf.net page is currently not updated, use releases from github release page instead.
+- [rofl0r/proxychains-ng](https://github.com/rofl0r/proxychains-ng) - proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained prox
 - [schwittlick/ofxDarknet](https://github.com/schwittlick/ofxDarknet) - darknet neural network addon for openFrameworks
 - [stanfordnlp/GloVe](https://github.com/stanfordnlp/GloVe) - GloVe model for distributed word representation
 - [seppo0010/rlite](https://github.com/seppo0010/rlite) - self-contained, serverless, zero-configuration, transactional redis-compatible database engine. rlite is to Redis what SQLite is to SQL.
@@ -277,7 +275,7 @@
 - [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
 - [udacity/self-driving-car-sim](https://github.com/udacity/self-driving-car-sim) - A self-driving car simulator built with Unity
 - [migueldeicaza/TensorFlowSharp](https://github.com/migueldeicaza/TensorFlowSharp) - TensorFlow API for .NET languages
-- [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) - The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning.
+- [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) - The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement lea
 - [lancopku/meProp](https://github.com/lancopku/meProp) - meProp: Sparsified Back Propagation for Accelerated Deep Learning (ICML 2017)
 - [shrayasr/Coinbin.net](https://github.com/shrayasr/Coinbin.net) - Fully featured API wrapper for coinbin.org
 
@@ -335,7 +333,7 @@
 - [brpc/media-server](https://github.com/brpc/media-server) - A brpc-based server to host and proxy live streams
 - [utsaslab/pebblesdb](https://github.com/utsaslab/pebblesdb) - The PebblesDB write-optimized key-value store (SOSP 17)
 - [couchbase/forestdb](https://github.com/couchbase/forestdb) - A Fast Key-Value Storage Engine Based on Hierarchical B+-Tree Trie
-- [Tencent/paxosstore](https://github.com/Tencent/paxosstore) - PaxosStore has been deployed in WeChat production for more than two years, providing storage services for the core businesses of WeChat backend. Now PaxosStore is running on thousands of machines, and is able to afford billions of peak TPS.
+- [Tencent/paxosstore](https://github.com/Tencent/paxosstore) - PaxosStore has been deployed in WeChat production for more than two years, providing storage services for the core businesses of WeChat backend. Now PaxosStore is running on thousands of machines, and
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [RainerKuemmerle/g2o](https://github.com/RainerKuemmerle/g2o) - g2o: A General Framework for Graph Optimization
 - [OpenAtomFoundation/pika](https://github.com/OpenAtomFoundation/pika) - Pika is a nosql compatible with redis, it is developed by Qihoo's DBA and infrastructure team
@@ -369,7 +367,7 @@
 - [airbnb/node-memwatch](https://github.com/airbnb/node-memwatch) - A NodeJS library to keep an eye on your memory usage, and discover and isolate leaks.
 - [Tencent/TurboTransformers](https://github.com/Tencent/TurboTransformers) - a fast and user-friendly runtime for transformer inference (Bert, Albert, GPT2, Decoders, etc) on CPU and GPU.
 - [IBM/g729-codec-service](https://github.com/IBM/g729-codec-service) - Microservice for transcoding audio to/from G.729 Annex A/B and G.711 over a WebSocket connection.
-- [Tencent/TNN](https://github.com/Tencent/TNN) - TNN: developed by Tencent Youtu Lab and Guangying Lab, a uniform deep learning inference framework for mobile、desktop and server. TNN is distinguished by several outstanding features, including its cross-platform capability, high performance, model compression and code pruning. Based on ncnn and Rapidnet, TNN further strengthens the support and performance optimization for mobile devices, and also draws on the advantages of good extensibility and high performance from existed open source efforts. TNN has been deployed in multiple Apps from Tencent, such as Mobile QQ, Weishi, Pitu, etc. Contributions are welcome to work in collaborative with us and make TNN a better framework.
+- [Tencent/TNN](https://github.com/Tencent/TNN) - TNN: developed by Tencent Youtu Lab and Guangying Lab, a uniform deep learning inference framework for mobile、desktop and server. TNN is distinguished by several outstanding features, including its cr
 - [StanfordLegion/legion](https://github.com/StanfordLegion/legion) - The Legion Parallel Programming System
 - [baidu/braft](https://github.com/baidu/braft) - An industrial-grade C++ implementation of RAFT consensus algorithm based on brpc,  widely used inside Baidu to build highly-available distributed systems.
 - [johang/btfs](https://github.com/johang/btfs) - A bittorrent filesystem based on FUSE.
@@ -409,7 +407,7 @@
 - [baidu/BaikalDB](https://github.com/baidu/BaikalDB) - BaikalDB, A Distributed HTAP Database.
 - [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
 - [leanprover/lean](https://github.com/leanprover/lean) - Lean Theorem Prover
-- [facebookresearch/minirts](https://github.com/facebookresearch/minirts) - We release dataset collected for our research, code that implement neural network models described in the paper, and scripts to reproduce all of our results, and visualization tool for visualize dataset.
+- [facebookresearch/minirts](https://github.com/facebookresearch/minirts) - We release dataset collected for our research, code that implement neural network models described in the paper, and scripts to reproduce all of our results, and visualization tool for visualize datas
 - [igushev/IgushArray](https://github.com/igushev/IgushArray) - 
 - [vesoft-inc/nebula](https://github.com/vesoft-inc/nebula) - A distributed, fast open-source graph database featuring horizontal scalability and high availability
 - [google/differential-privacy](https://github.com/google/differential-privacy) - Google's differential privacy libraries.
@@ -436,7 +434,7 @@
 - [meekrosoft/fff](https://github.com/meekrosoft/fff) - A testing micro framework for creating function test doubles
 - [pdziepak/codegen](https://github.com/pdziepak/codegen) - Experimental wrapper over LLVM for generating and compiling code at run-time.
 - [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive & portable high-performance programming in Python.
-- [microsoft/SPTAG](https://github.com/microsoft/SPTAG) - A distributed approximate nearest neighborhood search (ANN) library which provides a high quality vector index build, search and distributed online serving toolkits for large scale vector search scenario.
+- [microsoft/SPTAG](https://github.com/microsoft/SPTAG) - A distributed approximate nearest neighborhood search (ANN) library which provides a high quality vector index build, search and distributed online serving toolkits for large scale vector search scena
 - [rmsalinas/fbow](https://github.com/rmsalinas/fbow) - FBOW (Fast Bag of Words) is an extremmely optimized version of the DBow2/DBow3 libraries.
 - [praveen-palanisamy/multiple-object-tracking-lidar](https://github.com/praveen-palanisamy/multiple-object-tracking-lidar) - C++ implementation to Detect, track and classify multiple objects using LIDAR scans or point cloud
 - [alibaba/MNN](https://github.com/alibaba/MNN) - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba
@@ -454,7 +452,7 @@
 - [ros2/cartographer](https://github.com/ros2/cartographer) - Cartographer is a system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.
 - [Omegastick/pytorch-cpp-rl](https://github.com/Omegastick/pytorch-cpp-rl) - PyTorch C++ Reinforcement Learning
 - [osai-ai/tensor-stream](https://github.com/osai-ai/tensor-stream) - A library for real-time video stream decoding to CUDA memory
-- [deepmind/streetlearn](https://github.com/deepmind/streetlearn) - A C++/Python implementation of the StreetLearn environment based on images from Street View, as well as a TensorFlow implementation of goal-driven navigation agents solving the task published in “Learning to Navigate in Cities Without a Map”, NeurIPS 2018
+- [deepmind/streetlearn](https://github.com/deepmind/streetlearn) - A C++/Python implementation of the StreetLearn environment based on images from Street View, as well as a TensorFlow implementation of goal-driven navigation agents solving the task published in “Lear
 - [ngthanhtin/Muiltiple-Object-Tracking](https://github.com/ngthanhtin/Muiltiple-Object-Tracking) - Project-Using Background Subtraction Method, Kalman Filter and Hungary Algorithm.
 - [apache/mesos](https://github.com/apache/mesos) - Apache Mesos
 - [thunil/tempoGAN](https://github.com/thunil/tempoGAN) - Source code for the SIGGRAPH paper "tempoGAN: A Temporally Coherent, Volumetric GAN for Super-resolution Fluid Flow"
@@ -505,7 +503,7 @@
 - [jolibrain/fluidnet_cxx](https://github.com/jolibrain/fluidnet_cxx) - FluidNet re-written with ATen tensor lib
 - [mlapin/libsdca](https://github.com/mlapin/libsdca) - Multiclass classification based on stochastic dual coordinate ascent
 - [srvk/eesen](https://github.com/srvk/eesen) - The official repository of the Eesen project
-- [VowpalWabbit/vowpal_wabbit](https://github.com/VowpalWabbit/vowpal_wabbit) - Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.
+- [VowpalWabbit/vowpal_wabbit](https://github.com/VowpalWabbit/vowpal_wabbit) - Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learni
 - [mayankagg9722/Placement-Preparation](https://github.com/mayankagg9722/Placement-Preparation) - Hello everyone, I have created this repository specifically for competitive questions and for placements preparation.
 - [srendle/libfm](https://github.com/srendle/libfm) - Library for factorization machines
 - [ycjuan/libffm](https://github.com/ycjuan/libffm) - A Library for Field-aware Factorization Machines
@@ -590,7 +588,7 @@
 - [Tencent/FeatherCNN](https://github.com/Tencent/FeatherCNN) - FeatherCNN is a high performance inference engine for convolutional neural networks.
 - [Tencent/ncnn](https://github.com/Tencent/ncnn) - ncnn is a high-performance neural network inference framework optimized for the mobile platform
 - [GValiente/pocket-tensor](https://github.com/GValiente/pocket-tensor) - Run Keras models from a C++ application on embedded devices
-- [microsoft/LightGBM](https://github.com/microsoft/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
+- [microsoft/LightGBM](https://github.com/microsoft/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tas
 - [microsoft/CNTK](https://github.com/microsoft/CNTK) - Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit
 - [NVIDIA/DALI](https://github.com/NVIDIA/DALI) - A GPU-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications.
 - [projectchrono/chrono](https://github.com/projectchrono/chrono) - High-performance C++ library for multiphysics and multibody dynamics simulations
@@ -642,7 +640,7 @@
 - [apple/turicreate](https://github.com/apple/turicreate) - Turi Create simplifies the development of custom machine learning models.
 - [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass) - CUDA Templates for Linear Algebra Subroutines
 - [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
-- [aksnzhy/xlearn](https://github.com/aksnzhy/xlearn) - High performance, easy-to-use, and scalable machine learning (ML) package, including linear model (LR), factorization machines (FM), and field-aware factorization machines (FFM) for Python and CLI interface.
+- [aksnzhy/xlearn](https://github.com/aksnzhy/xlearn) - High performance, easy-to-use, and scalable machine learning (ML) package, including linear model (LR), factorization machines (FM), and field-aware factorization machines (FFM) for Python and CLI int
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
 - [facebookincubator/gloo](https://github.com/facebookincubator/gloo) - Collective communications library with various primitives for multi-machine training.
 - [jainaman224/Algo_Ds_Notes](https://github.com/jainaman224/Algo_Ds_Notes) - It is a repository that is a collection of algorithms and data structures with implementation in various languages.
@@ -673,7 +671,7 @@
 - [meiji-bioinf/heap](https://github.com/meiji-bioinf/heap) - 
 - [gpertea/stringtie](https://github.com/gpertea/stringtie) - Transcript assembly and quantification for RNA-Seq
 - [DaehwanKimLab/hisat2](https://github.com/DaehwanKimLab/hisat2) - Graph-based alignment (Hierarchical Graph FM index)
-- [arangodb/arangodb](https://github.com/arangodb/arangodb) - 🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.
+- [arangodb/arangodb](https://github.com/arangodb/arangodb) - 🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScrip
 
 ## CSS 
 
@@ -706,7 +704,7 @@
 - [mikera/core.matrix](https://github.com/mikera/core.matrix) - core.matrix : Multi-dimensional array programming API for Clojure
 - [smothers/cause](https://github.com/smothers/cause) - An EDN-like CRDT (Causal Tree) for Clojure & ClojureScript that automatically tracks history and resolves conflicts.
 - [jepsen-io/jepsen](https://github.com/jepsen-io/jepsen) - A framework for distributed systems verification, with fault injection
-- [edn-query-language/eql](https://github.com/edn-query-language/eql) - EQL is a declarative way to make hierarchical (and possibly nested) selections of information about data requirements. This repository contains the base specs and definitions for EQL parsing, AST, etc.
+- [edn-query-language/eql](https://github.com/edn-query-language/eql) - EQL is a declarative way to make hierarchical (and possibly nested) selections of information about data requirements. This repository contains the base specs and definitions for EQL parsing, AST, etc
 - [clojurenlp/core](https://github.com/clojurenlp/core) - Clojure wrapper for the Stanford CoreNLP Java library
 - [polyfy/polylith](https://github.com/polyfy/polylith) - A tool used to develop Polylith based architectures in Clojure.
 - [furkan3ayraktar/clojure-polylith-realworld-example-app](https://github.com/furkan3ayraktar/clojure-polylith-realworld-example-app) - Clojure, Polylith and Ring codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the RealWorld spec and API.
@@ -822,7 +820,7 @@
 - [dashbitco/broadway](https://github.com/dashbitco/broadway) - Concurrent and multi-stage data ingestion and data processing with Elixir
 - [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production
 - [supabase/realtime](https://github.com/supabase/realtime) - Listen to your to PostgreSQL database in realtime via websockets. Built with Elixir.
-- [littlelines/littlechat](https://github.com/littlelines/littlechat) - A peer-to-peer video chat application made using Phoenix, LiveView, and WebRTC. Want to know how it's made? Read the blog post: https://littlelines.com/blog/2020/07/06/building-a-video-chat-app-in-phoenix-liveview
+- [littlelines/littlechat](https://github.com/littlelines/littlechat) - A peer-to-peer video chat application made using Phoenix, LiveView, and WebRTC. Want to know how it's made? Read the blog post: https://littlelines.com/blog/2020/07/06/building-a-video-chat-app-in-pho
 - [h4cc/awesome-elixir](https://github.com/h4cc/awesome-elixir) - A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:
 
 ## Emacs Lisp 
@@ -857,6 +855,7 @@
 
 ## Go 
 
+- [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases in one shot
 - [knative/serving](https://github.com/knative/serving) - Kubernetes-based, scale-to-zero, request-driven compute
 - [kedacore/keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
 - [txn2/kubefwd](https://github.com/txn2/kubefwd) - Bulk port forwarding Kubernetes services for local development.
@@ -938,7 +937,7 @@
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [odpf/raccoon](https://github.com/odpf/raccoon) - Raccoon is a high-throughput, low-latency service to collect events in real-time from your web, mobile apps, and services using multiple network protocols.
 - [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd) - Continuous Delivery for Declarative Kubernetes, Serverless and Infrastructure Applications
-- [IceFireDB/IceFireDB](https://github.com/IceFireDB/IceFireDB) - IceFireDB is a database built for web3 and web2. It strives to fill the gap between web2 and web3 with a friendly database experience, making web3 application data storage more convenient, and making it easier for web2 applications to achieve decentralization and data immutability.
+- [IceFireDB/IceFireDB](https://github.com/IceFireDB/IceFireDB) - IceFireDB is a database built for web3 and web2. It strives to fill the gap between web2 and web3 with a friendly database experience, making web3 application data storage more convenient, and making
 - [facette/facette](https://github.com/facette/facette) - Time series data visualization software
 - [bytedance/ns-x](https://github.com/bytedance/ns-x) - An easy-to-use, flexible network simulator library in Go.
 - [alda-lang/alda](https://github.com/alda-lang/alda) - A music programming language for musicians. :notes:
@@ -1016,7 +1015,7 @@
 - [N0MoreSecr3ts/wraith](https://github.com/N0MoreSecr3ts/wraith) - Uncover forgotten secrets and bring them back to life, haunting security and operations teams.
 - [RedisLabs/redis-recommend](https://github.com/RedisLabs/redis-recommend) - Simple Redis Go recommendation engine
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
-- [ory/keto](https://github.com/ory/keto) - Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models.
+- [ory/keto](https://github.com/ory/keto) - Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and ot
 - [drone/drone-gc](https://github.com/drone/drone-gc) - Garbage collection of unused docker resources
 - [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go
 - [c-bata/kube-prompt](https://github.com/c-bata/kube-prompt) - An interactive kubernetes client featuring auto-complete.
@@ -1216,7 +1215,7 @@
 - [kalbhor/tracesite](https://github.com/kalbhor/tracesite) - Go implementation of the traceroute tool
 - [ent/ent](https://github.com/ent/ent) - An entity framework for Go
 - [lithdew/monte](https://github.com/lithdew/monte) - The bare minimum for high performance, fully-encrypted bidirectional RPC over TCP in Go with zero memory allocations.
-- [openservicemesh/osm](https://github.com/openservicemesh/osm) - Open Service Mesh (OSM) is a lightweight, extensible, cloud native service mesh that allows users to uniformly manage, secure, and get out-of-the-box observability features for highly dynamic microservice environments.
+- [openservicemesh/osm](https://github.com/openservicemesh/osm) - Open Service Mesh (OSM) is a lightweight, extensible, cloud native service mesh that allows users to uniformly manage, secure, and get out-of-the-box observability features for highly dynamic microser
 - [mercari/grpc-http-proxy](https://github.com/mercari/grpc-http-proxy) - A reverse proxy server which translate JSON HTTP requests to gRPC calls based on protoreflect
 - [giorgisio/goav](https://github.com/giorgisio/goav) - Golang bindings for FFmpeg
 - [slok/go-http-metrics](https://github.com/slok/go-http-metrics) - Go modular http middleware to measure HTTP requests independent of metrics backend (with Prometheus and OpenCensus as backend implementations) and http framework/library
@@ -1252,7 +1251,7 @@
 - [contiamo/go-base](https://github.com/contiamo/go-base) - This module contains common packages for Contiamo projects written in Go
 - [gocraft/work](https://github.com/gocraft/work) - Process background jobs in Go
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
-- [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches.
+- [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, passwordless.
 - [ipfs/go-ipfs](https://github.com/ipfs/go-ipfs) - IPFS implementation in Go
 - [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
 - [asdine/storm](https://github.com/asdine/storm) - Simple and powerful toolkit for BoltDB
@@ -1299,7 +1298,7 @@
 - [alibaba/sentinel-golang](https://github.com/alibaba/sentinel-golang) - Sentinel Go version (Reliability & Resilience)
 - [Shopify/sarama](https://github.com/Shopify/sarama) - Sarama is a Go library for Apache Kafka.
 - [felixge/fgprof](https://github.com/felixge/fgprof) - 🚀 fgprof is a sampling Go profiler that allows you to analyze On-CPU as well as Off-CPU (e.g. I/O) time together.
-- [hashicorp/nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+- [hashicorp/nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and sc
 - [nlpodyssey/spago](https://github.com/nlpodyssey/spago) - Self-contained Machine Learning and Natural Language Processing library in Go
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
 - [yahoo/vssh](https://github.com/yahoo/vssh) - Go Library to Execute Commands Over SSH at Scale
@@ -1313,7 +1312,7 @@
 - [tsuna/gohbase](https://github.com/tsuna/gohbase) - Pure-Go HBase client
 - [confluentinc/confluent-kafka-go](https://github.com/confluentinc/confluent-kafka-go) - Confluent's Apache Kafka Golang client
 - [aerospike/aerospike-client-go](https://github.com/aerospike/aerospike-client-go) - Aerospike Client Go
-- [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
+- [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in
 - [mholt/archiver](https://github.com/mholt/archiver) - Easily create & extract archives, and compress & decompress files of various formats
 - [ReactiveX/RxGo](https://github.com/ReactiveX/RxGo) - Reactive Extensions for the Go language.
 - [klauspost/compress](https://github.com/klauspost/compress) - Optimized Go Compression Packages
@@ -1337,7 +1336,7 @@
 - [facebookresearch/Clinical-Trial-Parser](https://github.com/facebookresearch/Clinical-Trial-Parser) - Library for converting clinical trial eligibility criteria to a machine-readable format.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [bradfitz/shotizam](https://github.com/bradfitz/shotizam) - Shotizam analyzes the size of Go binaries
-- [MariaLetta/free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) - ✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos and many, many more.
+- [MariaLetta/free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) - ✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [mcuadros/ofelia](https://github.com/mcuadros/ofelia) - A docker job scheduler (aka. crontab for docker)
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
@@ -1348,9 +1347,9 @@
 - [harrybrwn/apizza](https://github.com/harrybrwn/apizza) - Order Dominos pizza from the command line
 - [jondot/crunch](https://github.com/jondot/crunch) - A fast to develop, fast to run, Go based toolkit for ETL and feature extraction on Hadoop.
 - [chrislusf/vasto](https://github.com/chrislusf/vasto) - A distributed key-value store. On Disk. Able to grow or shrink without service interruption.
-- [chrislusf/seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
+- [chrislusf/seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC activ
 - [chrislusf/gleam](https://github.com/chrislusf/gleam) - Fast, efficient, and scalable distributed map/reduce system, DAG execution, in memory or on disk, written in pure Go, runs standalone or distributedly.
-- [chrislusf/glow](https://github.com/chrislusf/glow) - Glow is an easy-to-use distributed computation system written in Go, similar to Hadoop Map Reduce, Spark, Flink, Storm, etc. I am also working on another similar pure Go system, https://github.com/chrislusf/gleam , which is more flexible and more performant.
+- [chrislusf/glow](https://github.com/chrislusf/glow) - Glow is an easy-to-use distributed computation system written in Go, similar to Hadoop Map Reduce, Spark, Flink, Storm, etc. I am also working on another similar pure Go system, https://github.com/chr
 - [gocql/gocql](https://github.com/gocql/gocql) - Package gocql implements a fast and robust Cassandra client for the Go programming language.
 - [minio/sidekick](https://github.com/minio/sidekick) - High Performance HTTP Sidecar Load Balancer
 - [anacrolix/torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities
@@ -1472,7 +1471,6 @@
 - [whylabs/whylogs](https://github.com/whylabs/whylogs) - The open source standard for data logging
 - [chiphuyen/ml-interviews-book](https://github.com/chiphuyen/ml-interviews-book) - https://huyenchip.com/ml-interviews-book/
 - [asatarin/testing-distributed-systems](https://github.com/asatarin/testing-distributed-systems) - Curated list of resources on testing distributed systems
-- [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 - [abhivaikar/howtheytest](https://github.com/abhivaikar/howtheytest) - A collection of public resources about how software companies test their software
 - [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre) - At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.
 - [davideuler/architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
@@ -1513,7 +1511,6 @@
 - [bpb27/trump-tweet-archive](https://github.com/bpb27/trump-tweet-archive) - old legacy trump twitter archive site
 - [wkentaro/pytorch-for-numpy-users](https://github.com/wkentaro/pytorch-for-numpy-users) - PyTorch for Numpy users. https://pytorch-for-numpy-users.wkentaro.com
 - [zackchase/python-wow](https://github.com/zackchase/python-wow) - Python, so easy, wow!
-- [rohanchikorde/Data-Science-books](https://github.com/rohanchikorde/Data-Science-books) - 
 - [boostorg/boost](https://github.com/boostorg/boost) - Super-project for modularized Boost
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [danielhomola/science_flask](https://github.com/danielhomola/science_flask) - ScienceFlask: an open-source template for scientific web-app development
@@ -1563,7 +1560,7 @@
 - [facebook/duckling](https://github.com/facebook/duckling) - Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings.
 - [purescript/purescript](https://github.com/purescript/purescript) - A strongly-typed language that compiles to JavaScript
 - [typelead/eta](https://github.com/typelead/eta) - The Eta Programming Language, a dialect of Haskell on the JVM
-- [thma/WhyHaskellMatters](https://github.com/thma/WhyHaskellMatters) - In this article I try to explain why Haskell keeps being such an important language by presenting some of its most important and distinguishing features and detailing them with working code examples.  The presentation aims to be self-contained and does not require any previous knowledge of the language.
+- [thma/WhyHaskellMatters](https://github.com/thma/WhyHaskellMatters) - In this article I try to explain why Haskell keeps being such an important language by presenting some of its most important and distinguishing features and detailing them with working code examples.
 - [bolt12/laop](https://github.com/bolt12/laop) - Linear Algebra of Programming - Algebraic Matrices in Haskell
 - [politrons/Dive_into_Haskell](https://github.com/politrons/Dive_into_Haskell) - Dive into Haskell: Examples of all features of this Pure Functional programing language
 - [pschachte/wybe](https://github.com/pschachte/wybe) - A programming language supporting most of both declarative and imperative programming
@@ -1634,12 +1631,12 @@
 - [braisdom/ObjectiveSql](https://github.com/braisdom/ObjectiveSql) - Writing SQL using Java syntax
 - [JetBrains/skija](https://github.com/JetBrains/skija) - Java bindings for Skia
 - [apache/asterixdb](https://github.com/apache/asterixdb) - Mirror of Apache AsterixDB
-- [apache/incubator-tuweni](https://github.com/apache/incubator-tuweni) - Apache Tuweni is a set of libraries and other tools to aid development of blockchain and other decentralized software in Java and other JVM languages. It includes a low-level bytes library, serialization and deserialization codecs (e.g. RLP), various cryptography functions and primatives, and lots of other helpful utilities.
-- [Netflix/Hystrix](https://github.com/Netflix/Hystrix) - Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
+- [apache/incubator-tuweni](https://github.com/apache/incubator-tuweni) - Apache Tuweni is a set of libraries and other tools to aid development of blockchain and other decentralized software in Java and other JVM languages. It includes a low-level bytes library, serializat
+- [Netflix/Hystrix](https://github.com/Netflix/Hystrix) - Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distr
 - [apache/tinkerpop](https://github.com/apache/tinkerpop) - Apache TinkerPop - a graph computing framework
 - [vaticle/typedb](https://github.com/vaticle/typedb) - TypeDB: a strongly-typed database
 - [subhra74/xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
-- [line/armeria](https://github.com/line/armeria) - Your go-to microservice framework for any situation, from the creator of Netty et al. You can build any type of microservice leveraging your favorite technologies,  including gRPC, Thrift, Kotlin, Retrofit, Reactive Streams, Spring Boot and Dropwizard.
+- [line/armeria](https://github.com/line/armeria) - Your go-to microservice framework for any situation, from the creator of Netty et al. You can build any type of microservice leveraging your favorite technologies,  including gRPC, Thrift, Kotlin, Ret
 - [oracle/tribuo](https://github.com/oracle/tribuo) - Tribuo - A Java machine learning library
 - [j-easy/easy-rules](https://github.com/j-easy/easy-rules) - The simple, stupid rules engine for Java
 - [hyscale/hyscale](https://github.com/hyscale/hyscale) - HyScale is an Application Centric Abstraction Framework over K8s.
@@ -1672,7 +1669,7 @@
 - [doocs/advanced-java](https://github.com/doocs/advanced-java) - 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
 - [indeedeng/util](https://github.com/indeedeng/util) - Useful Java utilities
 - [confluentinc/ksql](https://github.com/confluentinc/ksql) - The database purpose-built for stream processing applications.
-- [apache/gobblin](https://github.com/apache/gobblin) - A distributed data integration framework that simplifies common aspects of big data integration such as data ingestion, replication, organization and lifecycle management for both streaming and batch data ecosystems.
+- [apache/gobblin](https://github.com/apache/gobblin) - A distributed data integration framework that simplifies common aspects of big data integration such as data ingestion, replication, organization and lifecycle management for both streaming and batch
 - [openzipkin/zipkin](https://github.com/openzipkin/zipkin) - Zipkin is a distributed tracing system
 - [logicalclocks/hopsworks](https://github.com/logicalclocks/hopsworks) - Hopsworks - Data-Intensive AI platform with a Feature Store
 - [apache/submarine](https://github.com/apache/submarine) - Submarine is Cloud Native Machine Learning Platform.
@@ -1681,10 +1678,10 @@
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
 - [prestodb/presto](https://github.com/prestodb/presto) - The official home of the Presto distributed SQL query engine for big data
 - [graphhopper/jsprit](https://github.com/graphhopper/jsprit) - jsprit is a java based, open source toolkit for solving rich vehicle routing problems
-- [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) - Apache DolphinScheduler is a distributed and extensible workflow scheduler platform with powerful DAG visual interfaces, dedicated to solving complex job dependencies in the data pipeline and providing various types of jobs available out of box.
+- [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) - Apache DolphinScheduler is a distributed and extensible workflow scheduler platform with powerful DAG visual interfaces, dedicated to solving complex job dependencies in the data pipeline and providin
 - [ambiverse-nlu/ambiverse-nlu](https://github.com/ambiverse-nlu/ambiverse-nlu) - AmbiverseNLU: A Natural Language Understanding suite by Max Planck Institute for Informatics
 - [OrderLab/leaseos_frameworks_base](https://github.com/OrderLab/leaseos_frameworks_base) - AOSP frameworks/base repo with Lease OS changes
-- [google/live-transcribe-speech-engine](https://github.com/google/live-transcribe-speech-engine) - Live Transcribe is an Android application that provides real-time captioning for people who are deaf or hard of hearing. This repository contains the Android client libraries for communicating with Google's Cloud Speech API that are used in Live Transcribe.
+- [google/live-transcribe-speech-engine](https://github.com/google/live-transcribe-speech-engine) - Live Transcribe is an Android application that provides real-time captioning for people who are deaf or hard of hearing. This repository contains the Android client libraries for communicating with Go
 - [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system
 - [miguel-porto/flora-on-server](https://github.com/miguel-porto/flora-on-server) - A server to manage online biodiversity databases, including a graph-based taxonomy system, species traits and habitats, and species occurrences.
 - [tony-framework/TonY](https://github.com/tony-framework/TonY) - TonY is a framework to natively run deep learning frameworks on Apache Hadoop.
@@ -1720,7 +1717,7 @@
 - [LingDong-/fishdraw](https://github.com/LingDong-/fishdraw) - procedurally generated fish drawings
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - 🖭  Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
 - [daniel-bogdoll/ad-datasets](https://github.com/daniel-bogdoll/ad-datasets) - Complete* list of autonomous driving related datasets
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Bu
 - [nodejs/undici](https://github.com/nodejs/undici) - An HTTP/1.1 client, written from scratch for Node.js
 - [just-js/just](https://github.com/just-js/just) - a very small v8 javascript runtime for linux only
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
@@ -1841,7 +1838,7 @@
 - [Kindelia/Kind](https://github.com/Kindelia/Kind) - A modern proof language
 - [ottomatica/slim](https://github.com/ottomatica/slim) - Build and run tiny vms from Dockerfiles. Small and sleek.
 - [mankadronit/Automated-Essay--Scoring](https://github.com/mankadronit/Automated-Essay--Scoring) - Automatically Score essays using Deep Learning
-- [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.06
+- [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.0
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [mariusbrataas/flowpoints_ml](https://github.com/mariusbrataas/flowpoints_ml) - An intuitive approach to creating deep learning models
 - [Schachte/Mermrender](https://github.com/Schachte/Mermrender) - 🧜‍♀️ RESTful rendering pipeline for generating sequence and UML diagrams using Mermaid for Markdown docs (Diagrams as a Service)
@@ -1928,7 +1925,6 @@
 - [agermanidis/livepython](https://github.com/agermanidis/livepython) - Visually trace Python code in real-time.
 - [sindresorhus/cli-spinners](https://github.com/sindresorhus/cli-spinners) - Spinners for use in the terminal
 - [calipho-sib/feature-viewer](https://github.com/calipho-sib/feature-viewer) - Library to visualize protein sequence features in javascript using D3 - From SIB CALIPHO group; neXtProt project
-- [Marak/faker.js](https://github.com/Marak/faker.js) - generate massive amounts of realistic fake data in Node.js and the browser
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated interview preparation materials for busy engineers
 - [pastelsky/bundlephobia](https://github.com/pastelsky/bundlephobia) - 🏋️ Find out the cost of adding a new frontend dependency to your project
 - [airbnb/hypernova](https://github.com/airbnb/hypernova) - A service for server-side rendering your JavaScript views
@@ -1985,7 +1981,7 @@
 
 ## Jupyter Notebook 
 
-- [gordicaleksa/pytorch-GAT](https://github.com/gordicaleksa/pytorch-GAT) - My implementation of the original GAT paper (Veličković et al.). I've additionally included the playground.py file for visualizing the Cora dataset, GAT embeddings, an attention mechanism, and entropy histograms. I've supported both Cora (transductive) and PPI (inductive) examples!
+- [gordicaleksa/pytorch-GAT](https://github.com/gordicaleksa/pytorch-GAT) - My implementation of the original GAT paper (Veličković et al.). I've additionally included the playground.py file for visualizing the Cora dataset, GAT embeddings, an attention mechanism, and entropy
 - [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.
 - [deepmind/educational](https://github.com/deepmind/educational) - 
 - [DataDog/go-profiler-notes](https://github.com/DataDog/go-profiler-notes) - felixge's notes on the various go profiling methods that are available.
@@ -2008,11 +2004,11 @@
 - [gordicaleksa/pytorch-deepdream](https://github.com/gordicaleksa/pytorch-deepdream) - PyTorch implementation of DeepDream algorithm (Mordvintsev et al.). Additionally I've included playground.py to help you better understand basic concepts behind the algo.
 - [lambdaclass/options_backtester](https://github.com/lambdaclass/options_backtester) - Simple backtesting software for options
 - [haltakov/natural-language-youtube-search](https://github.com/haltakov/natural-language-youtube-search) - Search inside YouTube videos using natural language
-- [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 50! Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠
+- [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 50! Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan
 - [kaesve/muzero](https://github.com/kaesve/muzero) - A clean implementation of MuZero and AlphaZero following the AlphaZero General framework. Train and Pit both algorithms against each other, and investigate reliability of learned MuZero MDP models.
 - [studio-ousia/luke](https://github.com/studio-ousia/luke) - LUKE -- Language Understanding with Knowledge-based Embeddings
 - [jmschrei/pomegranate](https://github.com/jmschrei/pomegranate) - Fast, flexible and easy to use probabilistic modelling in Python.
-- [jalammar/ecco](https://github.com/jalammar/ecco) - Explain, analyze, and visualize NLP language models. Ecco creates interactive visualizations directly in Jupyter notebooks explaining the behavior of Transformer-based language models (like GPT2, BERT, RoBERTA, T5, and T0).
+- [jalammar/ecco](https://github.com/jalammar/ecco) - Explain, analyze, and visualize NLP language models. Ecco creates interactive visualizations directly in Jupyter notebooks explaining the behavior of Transformer-based language models (like GPT2, BERT
 - [google-research/vision_transformer](https://github.com/google-research/vision_transformer) - 
 - [kohpangwei/influence-release](https://github.com/kohpangwei/influence-release) - 
 - [aws-samples/aws-machine-learning-university-accelerated-cv](https://github.com/aws-samples/aws-machine-learning-university-accelerated-cv) - Machine Learning University: Accelerated Computer Vision Class
@@ -2032,7 +2028,7 @@
 - [prestodb/f8-2019-demo](https://github.com/prestodb/f8-2019-demo) - A tutorial on how to get started with Presto.
 - [dice-group/PYKE](https://github.com/dice-group/PYKE) - A Physical Embedding Model for Knowledge Graphs
 - [moboehle/Pytorch-LRP](https://github.com/moboehle/Pytorch-LRP) - Basic LRP implementation in PyTorch
-- [advboxes/AdvBox](https://github.com/advboxes/AdvBox) - Advbox is a toolbox to generate adversarial examples that fool neural networks in PaddlePaddle、PyTorch、Caffe2、MxNet、Keras、TensorFlow and Advbox can benchmark the robustness of machine learning models.  Advbox give a command line tool to generate adversarial examples with Zero-Coding.
+- [advboxes/AdvBox](https://github.com/advboxes/AdvBox) - Advbox is a toolbox to generate adversarial examples that fool neural networks in PaddlePaddle、PyTorch、Caffe2、MxNet、Keras、TensorFlow and Advbox can benchmark the robustness of machine learning models.
 - [cjones6/xsdc](https://github.com/cjones6/xsdc) - Code accompanying the paper "Discriminative Clustering with Representation Learning for any Ratio of Labeled to Unlabeled Data"
 - [virgili0/Virgilio](https://github.com/virgili0/Virgilio) - Your new Mentor for Data Science E-Learning.
 - [cantaro86/Financial-Models-Numerical-Methods](https://github.com/cantaro86/Financial-Models-Numerical-Methods) - Collection of notebooks about quantitative finance, with interactive python code.
@@ -2103,7 +2099,7 @@
 - [warmspringwinds/pytorch-segmentation-detection](https://github.com/warmspringwinds/pytorch-segmentation-detection) - Image Segmentation and Object Detection in Pytorch
 - [warmspringwinds/pytorch-rnn-sequence-generation-classification](https://github.com/warmspringwinds/pytorch-rnn-sequence-generation-classification) - Lyrics and piano music generation in Pytorch
 - [acids-ircam/pytorch_flows](https://github.com/acids-ircam/pytorch_flows) - Implementation and tutorials of normalizing flows with the novel distributions module
-- [stanford-futuredata/equivariant-transformers](https://github.com/stanford-futuredata/equivariant-transformers) - Equivariant Transformer (ET) layers are image-to-image mappings that incorporate prior knowledge on invariances with respect to continuous transformations groups (ICML 2019). Paper: https://arxiv.org/abs/1901.11399
+- [stanford-futuredata/equivariant-transformers](https://github.com/stanford-futuredata/equivariant-transformers) - Equivariant Transformer (ET) layers are image-to-image mappings that incorporate prior knowledge on invariances with respect to continuous transformations groups (ICML 2019). Paper: https://arxiv.org
 - [randalburns/jhupp-lectures](https://github.com/randalburns/jhupp-lectures) - Notebooks for JHU EN 601.320/420/620
 - [bd2kccd/py-causal](https://github.com/bd2kccd/py-causal) - 
 - [ijmbarr/causalgraphicalmodels](https://github.com/ijmbarr/causalgraphicalmodels) - Causal Graphical Models in Python
@@ -2121,7 +2117,7 @@
 - [adamshamsudeen/Vaaku2Vec](https://github.com/adamshamsudeen/Vaaku2Vec) - Language Modeling and Text Classification in Malayalam Language using ULMFiT
 - [goru001/code-with-ai](https://github.com/goru001/code-with-ai) - Interface for people to use my model which predicts which techniques one should use to solve a competitive programming problem to get an AC
 - [udion/XTBTorch](https://github.com/udion/XTBTorch) - Detecting tuberculosis from X-ray scan using pytorch
-- [omerbsezer/Generative_Models_Tutorial_with_Demo](https://github.com/omerbsezer/Generative_Models_Tutorial_with_Demo) - Generative Models Tutorial with Demo: Bayesian Classifier Sampling, Variational Auto Encoder (VAE), Generative Adversial Networks (GANs), Popular GANs Architectures, Auto-Regressive Models, Important Generative Model Papers, Courses, etc..
+- [omerbsezer/Generative_Models_Tutorial_with_Demo](https://github.com/omerbsezer/Generative_Models_Tutorial_with_Demo) - Generative Models Tutorial with Demo: Bayesian Classifier Sampling, Variational Auto Encoder (VAE), Generative Adversial Networks (GANs), Popular GANs Architectures, Auto-Regressive Models, Important
 - [R-McHenry/ParallelizedGoExplore](https://github.com/R-McHenry/ParallelizedGoExplore) - A first bare bones paralleled implementation of Go Explore as described by the Uber Engineering blog post
 - [sudharsan13296/Hands-On-Meta-Learning-With-Python](https://github.com/sudharsan13296/Hands-On-Meta-Learning-With-Python) - Learning to Learn using One-Shot Learning, MAML, Reptile, Meta-SGD and more with Tensorflow
 - [DmitryUlyanov/neural-style-audio-tf](https://github.com/DmitryUlyanov/neural-style-audio-tf) - TensorFlow implementation for audio neural style.
@@ -2129,7 +2125,7 @@
 - [rsteca/sklearn-deap](https://github.com/rsteca/sklearn-deap) - Use evolutionary algorithms instead of gridsearch in scikit-learn
 - [pmlg/Language-Model](https://github.com/pmlg/Language-Model) - Code for the language model that were used for 2017 Hackathon
 - [titipata/allennlp-tutorial](https://github.com/titipata/allennlp-tutorial) - Tutorial on AllenNLP library with demo "which journal to submit paper?"
-- [uber-research/atari-model-zoo](https://github.com/uber-research/atari-model-zoo) - A binary release of trained deep reinforcement learning models trained in the Atari machine learning benchmark, and a software release that enables easy visualization and analysis of models, and comparison across training algorithms.
+- [uber-research/atari-model-zoo](https://github.com/uber-research/atari-model-zoo) - A binary release of trained deep reinforcement learning models trained in the Atari machine learning benchmark, and a software release that enables easy visualization and analysis of models, and compa
 - [lexfridman/mit-deep-learning](https://github.com/lexfridman/mit-deep-learning) - Tutorials, assignments, and competitions for MIT Deep Learning related courses.
 - [datasciencesg/workshops](https://github.com/datasciencesg/workshops) - DSSG Workshops
 - [eyalzk/sketch_rnn_keras](https://github.com/eyalzk/sketch_rnn_keras) - Keras implementation of Sketch RNN
@@ -2149,7 +2145,7 @@
 - [bayesgroup/deepbayes-2018](https://github.com/bayesgroup/deepbayes-2018) - Seminars DeepBayes Summer School 2018
 - [Hvass-Labs/FinanceOps](https://github.com/Hvass-Labs/FinanceOps) - Research in investment finance with Python Notebooks
 - [simonjisu/pytorch_tutorials](https://github.com/simonjisu/pytorch_tutorials) - some tutorials for blog: simonjisu.github.io
-- [omerbsezer/Reinforcement_learning_tutorial_with_demo](https://github.com/omerbsezer/Reinforcement_learning_tutorial_with_demo) - Reinforcement Learning Tutorial with Demo: DP (Policy and Value Iteration), Monte Carlo, TD Learning (SARSA, QLearning), Function Approximation, Policy Gradient, DQN, Imitation, Meta Learning, Papers, Courses, etc..
+- [omerbsezer/Reinforcement_learning_tutorial_with_demo](https://github.com/omerbsezer/Reinforcement_learning_tutorial_with_demo) - Reinforcement Learning Tutorial with Demo: DP (Policy and Value Iteration), Monte Carlo, TD Learning (SARSA, QLearning), Function Approximation, Policy Gradient, DQN, Imitation, Meta Learning, Papers,
 - [FrancescoSaverioZuppichini/mirror](https://github.com/FrancescoSaverioZuppichini/mirror) - Visualisation tool for CNNs in pytorch
 - [hate-alert/HateALERT-EVALITA](https://github.com/hate-alert/HateALERT-EVALITA) - Code for replicating results of team 'hateminers' at EVALITA-2018 for AMI task
 - [huseinzol05/NLP-Models-Tensorflow](https://github.com/huseinzol05/NLP-Models-Tensorflow) - Gathers machine learning and Tensorflow deep learning models for NLP problems, 1.13 &lt; Tensorflow &lt; 2.0
@@ -2244,7 +2240,7 @@
 - [SJD1882/MOOC-Coursera-Advanced-Machine-Learning](https://github.com/SJD1882/MOOC-Coursera-Advanced-Machine-Learning) - Content from Coursera's ADVANCED MACHINE LEARNING Specialization (Deep Learning, Bayesian Methods, Natural Language Processing, Reinforcement Learning, Computer Vision).
 - [nsanghi/bayesian-methods-for-ml](https://github.com/nsanghi/bayesian-methods-for-ml) - My solutions to Coursera hosted Bayesian methods course. (https://www.coursera.org/learn/bayesian-methods-in-machine-learning)
 - [parrt/dtreeviz](https://github.com/parrt/dtreeviz) - A python library for decision tree visualization and model interpretation.
-- [google/TrustScore](https://github.com/google/TrustScore) - To Trust Or Not To Trust A Classifier. A measure of uncertainty for any trained (possibly black-box) classifier which is more effective than the classifier's own implied confidence (e.g. softmax probability for a neural network).
+- [google/TrustScore](https://github.com/google/TrustScore) - To Trust Or Not To Trust A Classifier. A measure of uncertainty for any trained (possibly black-box) classifier which is more effective than the classifier's own implied confidence (e.g. softmax proba
 - [Scitator/catalyst-examples](https://github.com/Scitator/catalyst-examples) - Examples
 - [kmkolasinski/deep-learning-notes](https://github.com/kmkolasinski/deep-learning-notes) - Experiments with Deep Learning
 - [tommyod/awesome-pandas](https://github.com/tommyod/awesome-pandas) - A collection of resources for pandas (Python) and related subjects.
@@ -2281,7 +2277,7 @@
 - [osh/KerasGAN](https://github.com/osh/KerasGAN) - A couple of simple GANs in Keras
 - [rdempsey/pyspark-for-data-processing](https://github.com/rdempsey/pyspark-for-data-processing) - Code for my presentation: Using PySpark to Process Boat Loads of Data
 - [chenyuntc/pytorch-book](https://github.com/chenyuntc/pytorch-book) - PyTorch tutorials and fun projects including neural talk, neural style, poem writing, anime generation (《深度学习框架PyTorch：入门与实战》)
-- [danielhanchen/hyperlearn](https://github.com/danielhanchen/hyperlearn) - Waiting hours for a future prediction is unacceptable. Hyperlearn makes AI and ML algorithms 50% faster, use 90% less memory and doesn't require you to use new hardware! ML Algorithms like PCA, Linear Regression, NMF are all faster!
+- [danielhanchen/hyperlearn](https://github.com/danielhanchen/hyperlearn) - Waiting hours for a future prediction is unacceptable. Hyperlearn makes AI and ML algorithms 50% faster, use 90% less memory and doesn't require you to use new hardware! ML Algorithms like PCA, Linear
 - [chitrang6/planet-kaggle](https://github.com/chitrang6/planet-kaggle) - This repo contains the implementation of the Planet Amazon forest deep learning challenge on Kaggle
 - [harshitahluwalia7895/Loan_Prediction](https://github.com/harshitahluwalia7895/Loan_Prediction) - 
 - [AaronYALai/Seq2seqAttn_ECM](https://github.com/AaronYALai/Seq2seqAttn_ECM) - (TensorFlow) Sequence to sequence with attention model, emotion regressor, and Emotional Chatting Machine.
@@ -2370,13 +2366,13 @@
 - [Schlumberger/joint-vae](https://github.com/Schlumberger/joint-vae) - Pytorch implementation of JointVAE, a framework for disentangling continuous and discrete factors of variation :star2:
 - [er214/spellchecker](https://github.com/er214/spellchecker) - A spell checker built from GloVe word vectors
 - [curiousily/Credit-Card-Fraud-Detection-using-Autoencoders-in-Keras](https://github.com/curiousily/Credit-Card-Fraud-Detection-using-Autoencoders-in-Keras) - iPython notebook and pre-trained model that shows how to build deep Autoencoder in Keras for Anomaly Detection in credit card transactions data
-- [higgsfield/RL-Adventure-2](https://github.com/higgsfield/RL-Adventure-2) - PyTorch0.4 implementation of: actor critic / proximal policy optimization / acer / ddpg / twin dueling ddpg / soft actor critic / generative adversarial imitation learning / hindsight experience replay
+- [higgsfield/RL-Adventure-2](https://github.com/higgsfield/RL-Adventure-2) - PyTorch0.4 implementation of: actor critic / proximal policy optimization / acer / ddpg / twin dueling ddpg / soft actor critic / generative adversarial imitation learning / hindsight experience repla
 - [titu1994/Neural-Style-Transfer](https://github.com/titu1994/Neural-Style-Transfer) - Keras Implementation of Neural Style Transfer from the paper "A Neural Algorithm of Artistic Style" (http://arxiv.org/abs/1508.06576) in Keras 2.0+
 - [nfmcclure/tensorflow_cookbook](https://github.com/nfmcclure/tensorflow_cookbook) - Code for Tensorflow Machine Learning Cookbook
 - [JamesLavin/my_tech_resources](https://github.com/JamesLavin/my_tech_resources) - List of tech resources future me and other Javascript/Ruby/Python/Elixir/Elm developers might find useful
 - [rddy/isql](https://github.com/rddy/isql) - Inferring beliefs about dynamics from behavior
 - [harvardnlp/annotated-transformer](https://github.com/harvardnlp/annotated-transformer) - An annotated implementation of the Transformer paper.
-- [zackchase/mxnet-the-straight-dope](https://github.com/zackchase/mxnet-the-straight-dope) - An interactive book on deep learning. Much easy, so MXNet. Wow. [Straight Dope is growing up] ---&gt; Much of this content has been incorporated into the new Dive into Deep Learning Book available at https://d2l.ai/.
+- [zackchase/mxnet-the-straight-dope](https://github.com/zackchase/mxnet-the-straight-dope) - An interactive book on deep learning. Much easy, so MXNet. Wow. [Straight Dope is growing up] ---&gt; Much of this content has been incorporated into the new Dive into Deep Learning Book available at htt
 - [suragnair/alpha-zero-general](https://github.com/suragnair/alpha-zero-general) - A clean implementation based on AlphaZero for any game in any framework + tutorial + Othello/Gobang/TicTacToe/Connect4 and more
 - [chengyangfu/pytorch-vgg-cifar10](https://github.com/chengyangfu/pytorch-vgg-cifar10) - This is the PyTorch implementation of VGG network trained on CIFAR10 dataset
 - [experiencor/keras-yolo2](https://github.com/experiencor/keras-yolo2) - Easy training on custom dataset. Various backends (MobileNet and SqueezeNet) supported. A YOLO demo to detect raccoon run entirely in brower is accessible at https://git.io/vF7vI (not on Windows).
@@ -2387,7 +2383,7 @@
 - [rguthrie3/DeepLearningForNLPInPytorch](https://github.com/rguthrie3/DeepLearningForNLPInPytorch) - An IPython Notebook tutorial on deep learning for natural language processing, including structure prediction.
 - [tensorflow/lucid](https://github.com/tensorflow/lucid) - A collection of infrastructure and tools for research in neural network interpretability.
 - [TeamHG-Memex/eli5](https://github.com/TeamHG-Memex/eli5) - A library for debugging/inspecting machine learning classifiers and explaining their predictions
-- [UjjwalSaxena/Automold--Road-Augmentation-Library](https://github.com/UjjwalSaxena/Automold--Road-Augmentation-Library) - This library augments road images to introduce various real world scenarios that pose challenges for training neural networks of Autonomous vehicles. Automold is created to train CNNs in specific weather and road conditions.
+- [UjjwalSaxena/Automold--Road-Augmentation-Library](https://github.com/UjjwalSaxena/Automold--Road-Augmentation-Library) - This library augments road images to introduce various real world scenarios that pose challenges for training neural networks of Autonomous vehicles. Automold is created to train CNNs in specific weat
 - [ematvey/tensorflow-seq2seq-tutorials](https://github.com/ematvey/tensorflow-seq2seq-tutorials) - Dynamic seq2seq in TensorFlow, step by step
 - [tobegit3hub/advisor](https://github.com/tobegit3hub/advisor) - Open-source implementation of Google Vizier for hyper parameters tuning
 - [jfpuget/LibFM_in_Keras](https://github.com/jfpuget/LibFM_in_Keras) - This notebook shows how to implement LibFM in Keras and how it was used in the Talking Data competition on Kaggle.
@@ -2528,7 +2524,7 @@
 - [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
 - [fastai/courses](https://github.com/fastai/courses) - fast.ai Courses
 - [jvns/pandas-cookbook](https://github.com/jvns/pandas-cookbook) - Recipes for using Python's pandas library
-- [h2oai/h2o-3](https://github.com/h2oai/h2o-3) - H2O is an Open Source, Distributed, Fast & Scalable Machine Learning Platform: Deep Learning, Gradient Boosting (GBM) & XGBoost, Random Forest, Generalized Linear Modeling (GLM with Elastic Net), K-Means, PCA, Generalized Additive Models (GAM), RuleFit, Support Vector Machine (SVM), Stacked Ensembles, Automatic Machine Learning (AutoML), etc.
+- [h2oai/h2o-3](https://github.com/h2oai/h2o-3) - H2O is an Open Source, Distributed, Fast & Scalable Machine Learning Platform: Deep Learning, Gradient Boosting (GBM) & XGBoost, Random Forest, Generalized Linear Modeling (GLM with Elastic Net), K-Me
 - [fastai/numerical-linear-algebra](https://github.com/fastai/numerical-linear-algebra) - Free online textbook of Jupyter notebooks for fast.ai Computational Linear Algebra course
 - [justmarkham/scikit-learn-videos](https://github.com/justmarkham/scikit-learn-videos) - Jupyter notebooks from the scikit-learn video series
 - [ogrisel/notebooks](https://github.com/ogrisel/notebooks) - Some sample IPython notebooks for scikit-learn
@@ -2536,7 +2532,7 @@
 - [udacity/machine-learning](https://github.com/udacity/machine-learning) - Content for Udacity's Machine Learning curriculum
 - [anindya-saha/Machine-Learning-with-Python](https://github.com/anindya-saha/Machine-Learning-with-Python) - Machine Learning Implementations in Python
 - [davidgasquez/kaggle-airbnb](https://github.com/davidgasquez/kaggle-airbnb) - :earth_africa: Where will a new guest book their first travel experience?
-- [agconti/kaggle-titanic](https://github.com/agconti/kaggle-titanic) - A tutorial for Kaggle's Titanic: Machine Learning from Disaster competition. Demonstrates basic data munging, analysis, and visualization techniques. Shows examples of supervised machine learning techniques.
+- [agconti/kaggle-titanic](https://github.com/agconti/kaggle-titanic) - A tutorial for Kaggle's Titanic: Machine Learning from Disaster competition. Demonstrates basic data munging, analysis, and visualization techniques. Shows examples of supervised machine learning tech
 - [SudalaiRajkumar/Kaggle](https://github.com/SudalaiRajkumar/Kaggle) - Codes for Kaggle Competitions
 - [leriomaggio/deep-learning-keras-tensorflow](https://github.com/leriomaggio/deep-learning-keras-tensorflow) - Introduction to Deep Neural Networks with Keras and Tensorflow
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
@@ -2549,7 +2545,7 @@
 ## Kotlin 
 
 - [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
-- [infiniticio/infinitic](https://github.com/infiniticio/infinitic) - Infinitic is a general-purpose framework to build distributed apps. It shines particularly by making complex orchestration simple. It can be used to reliably orchestrate microservices, manage distributed transactions, operates data pipelines, builds user-facing automation, etc.
+- [infiniticio/infinitic](https://github.com/infiniticio/infinitic) - Infinitic is a general-purpose framework to build distributed apps. It shines particularly by making complex orchestration simple. It can be used to reliably orchestrate microservices, manage distribu
 - [JetBrains/lets-plot](https://github.com/JetBrains/lets-plot) - An open-source plotting library for statistical data.
 - [JetBrains/kotlin-spark-api](https://github.com/JetBrains/kotlin-spark-api) - This projects gives Kotlin bindings and several extensions for Apache Spark. We are looking to have this as a part of Apache Spark 3.x
 - [JetBrains/Exposed](https://github.com/JetBrains/Exposed) - Kotlin SQL Framework
@@ -2589,7 +2585,7 @@
 - [MohsenFayyaz89/C3DSegmentation](https://github.com/MohsenFayyaz89/C3DSegmentation) - Video Semantic Segmentation using 3D CNNs in Torch
 - [junyanz/CycleGAN](https://github.com/junyanz/CycleGAN) - Software that can generate photos from paintings,  turn horses into zebras,  perform style transfer, and more.
 - [facebookarchive/bAbI-tasks](https://github.com/facebookarchive/bAbI-tasks) - Task generation for testing text understanding and reasoning
-- [twitter-archive/torch-decisiontree](https://github.com/twitter-archive/torch-decisiontree) - This project implements random forests and gradient boosted decision trees (GBDT). The latter uses gradient tree boosting. Both use ensemble learning to produce ensembles of decision trees (that is, forests).
+- [twitter-archive/torch-decisiontree](https://github.com/twitter-archive/torch-decisiontree) - This project implements random forests and gradient boosted decision trees (GBDT). The latter uses gradient tree boosting. Both use ensemble learning to produce ensembles of decision trees (that is, f
 - [stanfordnlp/treelstm](https://github.com/stanfordnlp/treelstm) - Tree-structured Long Short-Term Memory networks (http://arxiv.org/abs/1503.00075)
 - [twitter-archive/torch-twrl](https://github.com/twitter-archive/torch-twrl) - Torch-twrl is a package that enables reinforcement learning in Torch.
 - [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
@@ -2603,13 +2599,20 @@
 
 - [klho/FLAM](https://github.com/klho/FLAM) - Fast linear algebra in MATLAB
 - [jtkim-kaist/VAD](https://github.com/jtkim-kaist/VAD) - Voice activity detection (VAD) toolkit including DNN, bDNN, LSTM and ACAM based VAD. We also provide our directly recorded dataset.
+- [fsadeghi/VisKE](https://github.com/fsadeghi/VisKE) - 
 - [lbasek/image-denoising-benchmark](https://github.com/lbasek/image-denoising-benchmark) - Benchmarking Denoising Algorithms with Real Photographs
 - [pujols/Zero-shot-learning-journal](https://github.com/pujols/Zero-shot-learning-journal) - 
+- [liuyuisanai/RSA-for-object-detection](https://github.com/liuyuisanai/RSA-for-object-detection) - Code and some data for 'Recurrent Scale Approximation for Object Detection in CNN' in ICCV 2017
+- [yuanyc06/deepgene](https://github.com/yuanyc06/deepgene) - Source code of the paper "DeepGene: an advanced cancer type classifier based on deep learning and somatic point mutations"
 - [xiuyechen/FishExplorer](https://github.com/xiuyechen/FishExplorer) - interactive analysis of calcium imaging data from larval zebrafish
+- [anilbas/BFMLandmarks](https://github.com/anilbas/BFMLandmarks) - 68/21 Landmark points for Basel Face Model (3DMM)
 - [lacerbi/vbmc](https://github.com/lacerbi/vbmc) - Variational Bayesian Monte Carlo (VBMC) algorithm for posterior and model inference in MATLAB
+- [uddaloksarkar/TSP-using-Ant-colony-Optimization](https://github.com/uddaloksarkar/TSP-using-Ant-colony-Optimization) - An Ant colony Optimization Approach for solving Travelling Salesman Problem
 - [cszn/SRMD](https://github.com/cszn/SRMD) - Learning a Single Convolutional Super-Resolution Network for Multiple Degradations (CVPR, 2018) (Matlab)
+- [econti/cs229](https://github.com/econti/cs229) - Stanford CS229 (Autumn 2017)
 - [posenhuang/deeplearningsourceseparation](https://github.com/posenhuang/deeplearningsourceseparation) - Deep Recurrent Neural Networks for Source Separation
 - [peiyunh/tiny](https://github.com/peiyunh/tiny) - Tiny Face Detector, CVPR 2017
+- [chrislgarry/KalmanFilter](https://github.com/chrislgarry/KalmanFilter) - MATLAB implementation of a simple Kalman filter.
 
 ## Makefile 
 
@@ -2629,16 +2632,6 @@
 
 - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
-
-## Matlab 
-
-- [fsadeghi/VisKE](https://github.com/fsadeghi/VisKE) - 
-- [liuyuisanai/RSA-for-object-detection](https://github.com/liuyuisanai/RSA-for-object-detection) - Code and some data for 'Recurrent Scale Approximation for Object Detection in CNN' in ICCV 2017
-- [yuanyc06/deepgene](https://github.com/yuanyc06/deepgene) - Source code of the paper "DeepGene: an advanced cancer type classifier based on deep learning and somatic point mutations"
-- [anilbas/BFMLandmarks](https://github.com/anilbas/BFMLandmarks) - 68/21 Landmark points for Basel Face Model (3DMM)
-- [uddaloksarkar/TSP-using-Ant-colony-Optimization](https://github.com/uddaloksarkar/TSP-using-Ant-colony-Optimization) - An Ant colony Optimization Approach for solving Travelling Salesman Problem
-- [econti/cs229](https://github.com/econti/cs229) - Stanford CS229 (Autumn 2017)
-- [chrislgarry/KalmanFilter](https://github.com/chrislgarry/KalmanFilter) - MATLAB implementation of a simple Kalman filter.
 
 ## NASL 
 
@@ -2709,7 +2702,7 @@
 - [mjhea0/awesome-fastapi](https://github.com/mjhea0/awesome-fastapi) - A curated list of awesome things related to FastAPI
 - [chaincodelabs/bitcoin-curriculum](https://github.com/chaincodelabs/bitcoin-curriculum) - Bitcoin Protocol Development Curriculum
 - [benthecoder/yt-channels-DS-AI-ML-CS](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS) - A comprehensive list of 180+ YouTube Channels for Data Science,  Data Engineering, Machine Learning, Deep learning, Computer Science, programming, software engineering, etc.
-- [codersguild/System-Design](https://github.com/codersguild/System-Design) - SYSTEM DESIGN IS NOT JUST FOR INTERVIEWS, IT CAN BE HOW YOU MANAGE YOUR LIFE. How is modern software designed? 🤔 Some design-level considerations for scalability, maintainability eventual consistency, availability & reliability. 👨‍💻 Interview Prep. 👨‍💻
+- [codersguild/System-Design](https://github.com/codersguild/System-Design) - SYSTEM DESIGN IS NOT JUST FOR INTERVIEWS, IT CAN BE HOW YOU MANAGE YOUR LIFE. How is modern software designed? 🤔 Some design-level considerations for scalability, maintainability eventual consistency,
 - [freereadorg/awesome-libgen](https://github.com/freereadorg/awesome-libgen) - 😎 Awesome list of Library Genesis, the world's largest free library.
 - [fuzhenxin/Style-Transfer-in-Text](https://github.com/fuzhenxin/Style-Transfer-in-Text) - Paper List for Style Transfer in Text
 - [nrdmn/awesome-zig](https://github.com/nrdmn/awesome-zig) - 
@@ -2880,7 +2873,7 @@
 - [brunohenrique/distributed-systems](https://github.com/brunohenrique/distributed-systems) - My Distributed Systems references
 - [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
 - [ericsnowcurrently/multi-core-python](https://github.com/ericsnowcurrently/multi-core-python) - Enabling CPython multi-core parallelism via subinterpreters.
-- [Gabriel439/post-rfc](https://github.com/Gabriel439/post-rfc) - Blog post previews in need of peer review
+- [Gabriella439/post-rfc](https://github.com/Gabriella439/post-rfc) - Blog post previews in need of peer review
 - [JiayongO-O/3D_DepthFusion](https://github.com/JiayongO-O/3D_DepthFusion) - This is the collection of 3D reconstruction and depth fusion methods
 - [lw-lin/streaming-readings](https://github.com/lw-lin/streaming-readings) - Streaming System 相关的论文读物
 - [mmcgrana/services-engineering](https://github.com/mmcgrana/services-engineering) - A reading list for services engineering, with a focus on cloud infrastructure services
@@ -2895,7 +2888,7 @@
 - [xiaoketongxue/AI-News](https://github.com/xiaoketongxue/AI-News) - Summarize the paper and code in AI(Semantic Segmentation, Medical Segmentation,REID,Super-Resolution,Registration,CVPR,ECCV,ICCV,AAAI,MICCAI)
 - [cbsudux/Human-Pose-Estimation-101](https://github.com/cbsudux/Human-Pose-Estimation-101) - Basics of 2D and 3D Human Pose Estimation.
 - [aloisdg/awesome-regex](https://github.com/aloisdg/awesome-regex) - A curated collection of awesome Regex libraries, tools, frameworks and software
-- [secfigo/Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) - A curated list of fuzzing resources ( Books, courses - free and paid, videos, tools, tutorials and vulnerable applications to practice on ) for learning Fuzzing and initial phases of Exploit Development like root cause analysis.
+- [secfigo/Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) - A curated list of fuzzing resources ( Books, courses - free and paid, videos, tools, tutorials and vulnerable applications to practice on ) for learning Fuzzing and initial phases of Exploit Developme
 - [MingSun-Tse/EfficientDNNs](https://github.com/MingSun-Tse/EfficientDNNs) - Collection of recent methods on (deep) neural network compression and acceleration.
 - [bnb/awesome-developer-streams](https://github.com/bnb/awesome-developer-streams) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
 - [duducheng/oxford-cs-deepnlp-2017-lectures](https://github.com/duducheng/oxford-cs-deepnlp-2017-lectures) - Oxford Deep NLP 2017 course
@@ -3038,9 +3031,8 @@
 - [amusi/awesome-object-detection](https://github.com/amusi/awesome-object-detection) - Awesome Object Detection based on handong1587 github: https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html
 - [gistairc/ABCDdataset](https://github.com/gistairc/ABCDdataset) - 
 - [Kaixhin/grokking-pytorch](https://github.com/Kaixhin/grokking-pytorch) - The Hitchiker's Guide to PyTorch
-- [alexitaylor/Cracking-the-Coding-Interview-6th-Edition](https://github.com/alexitaylor/Cracking-the-Coding-Interview-6th-Edition) - 
 - [manfreddiaz/awesome-autonomous-vehicles](https://github.com/manfreddiaz/awesome-autonomous-vehicles) - Curated List of Self-Driving Cars and Autonomous Vehicles Resources
-- [Blockmodo/coin_registry](https://github.com/Blockmodo/coin_registry) - A global registry of JSON formatted files on 1500+ cryptocurrency tokens. Provides information like chat rooms, communities, explorers, and contact information on each coin. Used by https://blockmodo.com, DEXs, developers, and exchanges.
+- [Blockmodo/coin_registry](https://github.com/Blockmodo/coin_registry) - A global registry of JSON formatted files on 1500+ cryptocurrency tokens. Provides information like chat rooms, communities, explorers, and contact information on each coin. Used by https://blockmodo.
 - [Sroy20/machine-learning-interview-questions](https://github.com/Sroy20/machine-learning-interview-questions) - This repository is to prepare for Machine Learning interviews.
 - [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources
 - [PathologyDataScience/SCNN](https://github.com/PathologyDataScience/SCNN) - Survival Convolutional Neural Networks
@@ -3049,7 +3041,7 @@
 - [DenisIzmaylov/awesome-telegram-bots](https://github.com/DenisIzmaylov/awesome-telegram-bots) - Collection of examples, libraries and starter-kits for Telegram Bots
 - [llSourcell/AI_Freelancing](https://github.com/llSourcell/AI_Freelancing) - This is the code for "How to Do Freelance AI Programming" By Siraj Raval on Youtube
 - [hibayesian/awesome-automl-papers](https://github.com/hibayesian/awesome-automl-papers) - A curated list of automated machine learning papers, articles, tutorials, slides and projects
-- [ThomasDelteil/HandwrittenTextRecognition_MXNet](https://github.com/ThomasDelteil/HandwrittenTextRecognition_MXNet) - OCR using MXNet Gluon. The pipeline is composed of a CNN + biLSTM + CTC. The dataset is from: http://www.fki.inf.unibe.ch/databases/iam-handwriting-database. You need to register and get a username and password from their website.
+- [ThomasDelteil/HandwrittenTextRecognition_MXNet](https://github.com/ThomasDelteil/HandwrittenTextRecognition_MXNet) - OCR using MXNet Gluon. The pipeline is composed of a CNN + biLSTM + CTC. The dataset is from: http://www.fki.inf.unibe.ch/databases/iam-handwriting-database. You need to register and get a username an
 - [robi56/Deep-Learning-for-Recommendation-Systems](https://github.com/robi56/Deep-Learning-for-Recommendation-Systems) - This repository contains Deep Learning based articles , paper and repositories for Recommender Systems
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
@@ -3102,7 +3094,7 @@
 - [arialdomartini/Back-End-Developer-Interview-Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) - A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore
 - [bharathgs/Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
 - [dhamaniasad/awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) - A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
-- [kjaisingh/high-school-guide-to-machine-learning](https://github.com/kjaisingh/high-school-guide-to-machine-learning) - Being a high schooler myself and having studied Machine Learning and Artificial Intelligence for a year now, I believe that there fails to exist a learning path in this field for High School students. This is my attempt at creating one.
+- [kjaisingh/high-school-guide-to-machine-learning](https://github.com/kjaisingh/high-school-guide-to-machine-learning) - Being a high schooler myself and having studied Machine Learning and Artificial Intelligence for a year now, I believe that there fails to exist a learning path in this field for High School students.
 - [megagonlabs/HappyDB](https://github.com/megagonlabs/HappyDB) - A corpus of 100,000 happy moments
 - [GalvanizeOpenSource/developer-standards](https://github.com/GalvanizeOpenSource/developer-standards) - Definition what standards/attributes make up a junior, mid, or senior software developer
 - [ysh329/deep-learning-model-convertor](https://github.com/ysh329/deep-learning-model-convertor) - The convertor/conversion of deep learning models for different deep learning frameworks/softwares.
@@ -3125,7 +3117,7 @@
 - [YuyangZhangFTD/awesome-RecSys-papers](https://github.com/YuyangZhangFTD/awesome-RecSys-papers) - The awesome and classic papers in recommendation system!!! Good luck to every RecSys-learner!
 - [syhw/wer_are_we](https://github.com/syhw/wer_are_we) - Attempt at tracking states of the arts and recent results (bibliography) on speech recognition.
 - [koudelka/d3-message-sequence](https://github.com/koudelka/d3-message-sequence) - Dynamic message sequence charts for d3.
-- [RedditSota/state-of-the-art-result-for-machine-learning-problems](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems) - This repository provides state of the art (SoTA) results for all machine learning problems. We do our best to keep this repository up to date.  If you do find a problem's SoTA result is out of date or missing, please raise this as an issue or submit Google form (with this information: research paper name, dataset, metric, source code and year). We will fix it immediately.
+- [RedditSota/state-of-the-art-result-for-machine-learning-problems](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems) - This repository provides state of the art (SoTA) results for all machine learning problems. We do our best to keep this repository up to date.  If you do find a problem's SoTA result is out of date or
 - [igorbarinov/awesome-bitcoin](https://github.com/igorbarinov/awesome-bitcoin) - A curated list of bitcoin services and tools for software developers
 - [7kfpun/awesome-fintech](https://github.com/7kfpun/awesome-fintech) - A curated list of amazingly awesome financial libraries, resources and shiny things.
 - [imbaniac/awesome-blockchain](https://github.com/imbaniac/awesome-blockchain) - Curated list of blockchain services and exchanges 🔥🏦🔥🏦🔥🏦🔥
@@ -3321,7 +3313,7 @@
 - [tlc-pack/relax](https://github.com/tlc-pack/relax) - Temp repo for prototyping relax(relay next), the effort will be upstreamed. We use the wiki pages on this repo to host design docs.
 - [paramiko/paramiko](https://github.com/paramiko/paramiko) - The leading native Python SSHv2 protocol library.
 - [omnilib/aiosqlite](https://github.com/omnilib/aiosqlite) - asyncio bridge to the standard sqlite3 module
-- [PaddlePaddle/PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg) - Easy-to-use image segmentation library with awesome pre-trained model zoo, supporting wide-range of practical tasks in Semantic Segmentation, Interactive Segmentation, Panoptic Segmentation, Image Matting, 3D Segmentation, etc.
+- [PaddlePaddle/PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg) - Easy-to-use image segmentation library with awesome pre-trained model zoo, supporting wide-range of practical tasks in Semantic Segmentation, Interactive Segmentation, Panoptic Segmentation, Image Mat
 - [google-research/scenic](https://github.com/google-research/scenic) - Scenic: A Jax Library for Computer Vision Research and Beyond
 - [aio-libs/aiojobs](https://github.com/aio-libs/aiojobs) - Jobs scheduler for managing background task (asyncio)
 - [achimnol/aiotools](https://github.com/achimnol/aiotools) - Idiomatic asyncio utilties
@@ -3333,7 +3325,7 @@
 - [rentruewang/learning-machine](https://github.com/rentruewang/learning-machine) - A handbook for ML built on answers.
 - [rentruewang/cant-hear](https://github.com/rentruewang/cant-hear) - This is the source code repository for unsupervised noise reduction research.
 - [rentruewang/koila](https://github.com/rentruewang/koila) - Prevent PyTorch's `CUDA error: out of memory` in just 1 line of code.
-- [facebookresearch/denoiser](https://github.com/facebookresearch/denoiser) - Real Time Speech Enhancement in the Waveform Domain (Interspeech 2020)We provide a PyTorch implementation of the paper Real Time Speech Enhancement in the Waveform Domain. In which, we present a causal speech enhancement model working on the raw waveform that runs in real-time on a laptop CPU. The proposed model is based on an encoder-decoder architecture with skip-connections. It is optimized on both time and frequency domains, using multiple loss functions. Empirical evidence shows that it is capable of removing various kinds of background noise including stationary and non-stationary noises, as well as room reverb. Additionally, we suggest a set of data augmentation techniques applied directly on the raw waveform which further improve model performance and its generalization abilities.
+- [facebookresearch/denoiser](https://github.com/facebookresearch/denoiser) - Real Time Speech Enhancement in the Waveform Domain (Interspeech 2020)We provide a PyTorch implementation of the paper Real Time Speech Enhancement in the Waveform Domain. In which, we present a causa
 - [astanin/python-tabulate](https://github.com/astanin/python-tabulate) - Pretty-print tabular data in Python, a library and a command-line utility. Repository migrated from bitbucket.org/astanin/python-tabulate.
 - [MartinPyka/financial_life](https://github.com/MartinPyka/financial_life) - A framework for analysing financial products in personalized contexts
 - [Exa-Networks/exabgp](https://github.com/Exa-Networks/exabgp) - The BGP swiss army knife of networking
@@ -3354,7 +3346,7 @@
 - [Tencent/PatrickStar](https://github.com/Tencent/PatrickStar) - PatrickStar enables Larger, Faster, Greener Pretrained Models for NLP and democratizes AI for everyone.
 - [facebookresearch/xformers](https://github.com/facebookresearch/xformers) - Hackable and optimized Transformers building blocks, supporting a composable construction.
 - [Mayukhdeb/torch-dreams](https://github.com/Mayukhdeb/torch-dreams) - Making neural networks more interpretable, for research and art :mag_right: :computer: :brain: :art:
-- [yoshitomo-matsubara/torchdistill](https://github.com/yoshitomo-matsubara/torchdistill) - A coding-free framework built on PyTorch for reproducible deep learning studies. 🏆20 knowledge distillation methods presented at CVPR, ICLR, ECCV, NeurIPS, ICCV, etc are implemented so far. 🎁 Trained models, training logs and configurations are available for ensuring the reproducibiliy and benchmark.
+- [yoshitomo-matsubara/torchdistill](https://github.com/yoshitomo-matsubara/torchdistill) - A coding-free framework built on PyTorch for reproducible deep learning studies. 🏆20 knowledge distillation methods presented at CVPR, ICLR, ECCV, NeurIPS, ICCV, etc are implemented so far. 🎁 Trained
 - [scikit-hep/awkward](https://github.com/scikit-hep/awkward) - Manipulate JSON-like data with NumPy-like idioms.
 - [PaddlePaddle/Parakeet](https://github.com/PaddlePaddle/Parakeet) - PAddle PARAllel text-to-speech toolKIT (supporting Tacotron2, Transformer TTS, FastSpeech2/FastPitch, SpeedySpeech, WaveFlow  and Parallel WaveGAN)
 - [dateutil/dateutil](https://github.com/dateutil/dateutil) - Useful extensions to the standard Python datetime features
@@ -3367,7 +3359,7 @@
 - [lucidrains/ponder-transformer](https://github.com/lucidrains/ponder-transformer) - Implementation of a Transformer that Ponders, using the scheme from the PonderNet paper
 - [samuelcolvin/arq](https://github.com/samuelcolvin/arq) - Fast job queuing and RPC in python with asyncio and redis.
 - [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
-- [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools and file-types to JSON or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.
+- [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools and file-types to JSON or Dictionaries. This allows piping of output to tools like jq and simplifying automation scri
 - [openvinotoolkit/datumaro](https://github.com/openvinotoolkit/datumaro) - Dataset Management Framework, a Python library and a CLI tool to build, analyze and manage Computer Vision datasets.
 - [facebookincubator/later](https://github.com/facebookincubator/later) - A framework for python asyncio with batteries included for people writing services in python asyncio
 - [Huage001/PaintTransformer](https://github.com/Huage001/PaintTransformer) - Officially unofficial re-implementation of paper: Paint Transformer: Feed Forward Neural Painting with Stroke Prediction, ICCV 2021.
@@ -3447,7 +3439,7 @@
 - [facebookincubator/cinder](https://github.com/facebookincubator/cinder) - Cinder is Meta's internal performance-oriented production version of CPython.
 - [kenjyoung/MinAtar](https://github.com/kenjyoung/MinAtar) - 
 - [pyppeteer/pyppeteer](https://github.com/pyppeteer/pyppeteer) - Headless chrome/chromium automation library (unofficial port of puppeteer)
-- [blockchain-etl/ethereum-etl](https://github.com/blockchain-etl/ethereum-etl) - Python scripts for ETL (extract, transform and load) jobs for Ethereum blocks, transactions, ERC20 / ERC721 tokens, transfers, receipts, logs, contracts, internal transactions. Data is available in Google BigQuery https://goo.gl/oY5BCQ
+- [blockchain-etl/ethereum-etl](https://github.com/blockchain-etl/ethereum-etl) - Python scripts for ETL (extract, transform and load) jobs for Ethereum blocks, transactions, ERC20 / ERC721 tokens, transfers, receipts, logs, contracts, internal transactions. Data is available in Go
 - [openai/baselines](https://github.com/openai/baselines) - OpenAI Baselines: high-quality implementations of reinforcement learning algorithms
 - [dwromero/ckconv](https://github.com/dwromero/ckconv) - Code repository of the paper "CKConv: Continuous Kernel Convolution For Sequential Data" published at ICLR 2022. https://arxiv.org/abs/2102.02611
 - [oap-project/raydp](https://github.com/oap-project/raydp) - RayDP: Distributed data processing library that provides simple APIs for running Spark on Ray and integrating Spark with distributed deep learning and machine learning frameworks.
@@ -3533,15 +3525,15 @@
 - [bytedance/neurst](https://github.com/bytedance/neurst) - Neural end-to-end Speech Translation Toolkit
 - [tencent-ailab/pika](https://github.com/tencent-ailab/pika) - a lightweight speech processing toolkit based on Pytorch and (Py)Kaldi
 - [fepegar/torchio](https://github.com/fepegar/torchio) - TorchIO: medical imaging for deep learning.
-- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.3, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, and 3.10.  You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module.
+- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.3, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, and 3.10.  You feed it your Python app, it does a lot of clever things, a
 - [facebookresearch/hydra](https://github.com/facebookresearch/hydra) - Hydra is a framework for elegantly configuring complex applications
 - [akshaynagpal/w2n](https://github.com/akshaynagpal/w2n) - Convert number words (eg. twenty one) to numeric digits (21)
 - [jitsi/jiwer](https://github.com/jitsi/jiwer) - Evaluate your speech-to-text system with similarity measures such as word error rate (WER)
-- [BuzonIO/zipfly](https://github.com/BuzonIO/zipfly) - Writing large ZIP archives without memory inflation
+- [sandes/zipfly](https://github.com/sandes/zipfly) - Writing large ZIP archives without memory inflation
 - [scikit-multiflow/scikit-multiflow](https://github.com/scikit-multiflow/scikit-multiflow) - A machine learning package for streaming data in Python. The other ancestor of River.
 - [scikit-learn-contrib/boruta_py](https://github.com/scikit-learn-contrib/boruta_py) - Python implementations of the Boruta all-relevant feature selection method.
 - [ltbringer/swiggy-order](https://github.com/ltbringer/swiggy-order) - Order food via terminal.
-- [karthik19967829/InferDoc](https://github.com/karthik19967829/InferDoc) - Generate SQUAD style dataset from raw text file and train a transformer based question answering model .This repo has code from https://github.com/facebookresearch/UnsupervisedQA and https://github.com/deepset-ai/haystack
+- [karthik19967829/InferDoc](https://github.com/karthik19967829/InferDoc) - Generate SQUAD style dataset from raw text file and train a transformer based question answering model .This repo has code from https://github.com/facebookresearch/UnsupervisedQA and https://github.co
 - [graphdeeplearning/graphtransformer](https://github.com/graphdeeplearning/graphtransformer) - Graph Transformer Architecture. Source code for "A Generalization of Transformer Networks to Graphs", DLG-AAAI'21.
 - [argosopentech/argos-translate](https://github.com/argosopentech/argos-translate) - Open-source offline translation library written in Python
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to automate your data
@@ -3600,7 +3592,7 @@
 - [didi/MEEP](https://github.com/didi/MEEP) - End-to-end framework to build automatic agents (chatbots) for task-oriented dialogs
 - [stanfordnlp/stanza](https://github.com/stanfordnlp/stanza) - Official Stanford NLP Python Library for Many Human Languages
 - [ivan-bilan/The-NLP-Pandect](https://github.com/ivan-bilan/The-NLP-Pandect) - A comprehensive reference for all topics related to Natural Language Processing
-- [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment. With Qlib, you can easily try your ideas to create better Quant investment strategies. An increasing number of  SOTA Quant research works/papers are released in Qlib.
+- [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment. With Qlib, you c
 - [mirumee/ariadne](https://github.com/mirumee/ariadne) - Ariadne is a Python library for implementing GraphQL servers using schema-first approach.
 - [facebookresearch/sound-spaces](https://github.com/facebookresearch/sound-spaces) - A first-of-its-kind acoustic simulation platform for audio-visual embodied AI research. It supports training and evaluating multiple tasks and applications.
 - [binarymatt/pyres](https://github.com/binarymatt/pyres) - a resque clone in python
@@ -3662,14 +3654,14 @@
 - [Vin-itall/CloudArcade](https://github.com/Vin-itall/CloudArcade) - CloudArcade Let's You Play Retro Games On  A Web Browser.
 - [PAIR-code/lit](https://github.com/PAIR-code/lit) - The Language Interpretability Tool: Interactively analyze NLP models for model understanding in an extensible and framework agnostic interface.
 - [google/pygtrie](https://github.com/google/pygtrie) - Python library implementing a trie data structure.
-- [TensorSpeech/TensorFlowTTS](https://github.com/TensorSpeech/TensorFlowTTS) - :stuck_out_tongue_closed_eyes: TensorFlowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2 (supported including English, French, Korean, Chinese, German and Easy to adapt for other languages)
+- [TensorSpeech/TensorFlowTTS](https://github.com/TensorSpeech/TensorFlowTTS) - :stuck_out_tongue_closed_eyes: TensorFlowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2 (supported including English, French, Korean, Chinese, German and Easy to adapt for other lan
 - [jonasrauber/eagerpy](https://github.com/jonasrauber/eagerpy) - PyTorch, TensorFlow, JAX and NumPy — all of them natively using the same code
 - [bytedance/fedlearner](https://github.com/bytedance/fedlearner) - A multi-party collaborative machine learning framework
 - [larsmans/seqlearn](https://github.com/larsmans/seqlearn) - Sequence learning toolkit for Python
 - [tyiannak/pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) - Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications
 - [librosa/librosa](https://github.com/librosa/librosa) - Python library for audio and music analysis
 - [deepmind/graph_nets](https://github.com/deepmind/graph_nets) - Build Graph Nets in Tensorflow
-- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and de
 - [magicleap/Atlas](https://github.com/magicleap/Atlas) - Atlas: End-to-End 3D Scene Reconstruction from Posed Images
 - [pandera-dev/pandera](https://github.com/pandera-dev/pandera) - A light-weight, flexible, and expressive data validation library for dataframes
 - [linkedin/detext](https://github.com/linkedin/detext) - DeText: A Deep Neural Text Understanding Framework for Ranking and Classification Tasks
@@ -3689,7 +3681,7 @@
 - [jbesomi/texthero](https://github.com/jbesomi/texthero) - Text preprocessing, representation and visualization from zero to hero.
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
 - [bbc/brave](https://github.com/bbc/brave) - Basic Real-time AV Editor - allowing you to preview, mix, and route live audio and video streams on the cloud
-- [egehatirnaz/auto-zoom-meetings](https://github.com/egehatirnaz/auto-zoom-meetings) - This project is written in response to the Covid-19 crisis and the decisions made by Bilkent University regarding the continuity of education ensured by online classroom meetings from Zoom application. The script will automatically join any meeting with a provided Zoom ID.
+- [egehatirnaz/auto-zoom-meetings](https://github.com/egehatirnaz/auto-zoom-meetings) - This project is written in response to the Covid-19 crisis and the decisions made by Bilkent University regarding the continuity of education ensured by online classroom meetings from Zoom application
 - [BigchillRK/Zoom-Meeting-and-Recording](https://github.com/BigchillRK/Zoom-Meeting-and-Recording) - The python scripts lets you join and record a zoom meeting automatically (this is my first project, any feedback and help is appreciated)
 - [prschmid/zoomus](https://github.com/prschmid/zoomus) - Python client library for the Zoom.us REST API v1 and v2
 - [QData/TextAttack](https://github.com/QData/TextAttack) - TextAttack 🐙  is a Python framework for adversarial attacks, data augmentation, and model training in NLP https://textattack.readthedocs.io/en/master/
@@ -3700,7 +3692,7 @@
 - [Fizzadar/pyinfra](https://github.com/Fizzadar/pyinfra) - pyinfra automates infrastructure super fast at massive scale. It can be used for ad-hoc command execution, service deployment, configuration management and more.
 - [aiortc/aioquic](https://github.com/aiortc/aioquic) - QUIC and HTTP/3 implementation in Python
 - [python-hyper/priority](https://github.com/python-hyper/priority) - A pure-Python implementation of the HTTP/2 priority tree.
-- [facebookresearch/TaBERT](https://github.com/facebookresearch/TaBERT) - This repository contains source code for the TaBERT model, a pre-trained language model for learning joint representations of natural language utterances and (semi-)structured tables for semantic parsing. TaBERT is pre-trained on a massive corpus of 26M Web tables and their associated natural language context, and could be used as a drop-in replacement of a semantic parsers original encoder to compute representations for utterances and table schemas (columns).
+- [facebookresearch/TaBERT](https://github.com/facebookresearch/TaBERT) - This repository contains source code for the TaBERT model, a pre-trained language model for learning joint representations of natural language utterances and (semi-)structured tables for semantic pars
 - [chrismattmann/tika-python](https://github.com/chrismattmann/tika-python) - Tika-Python is a Python binding to the Apache Tika™ REST services allowing Tika to be called natively in the Python community.
 - [VPanjeta/ModiScript](https://github.com/VPanjeta/ModiScript) - Acche din aa gaye
 - [bhaveshpraveen/aiocrontab](https://github.com/bhaveshpraveen/aiocrontab) - Crontab implementation in asyncio
@@ -3820,11 +3812,11 @@
 - [M4cs/pixcryption](https://github.com/M4cs/pixcryption) - :camera: Pixel Safe Encryption - Now Cryptographically Secure :lock:
 - [paulpierre/informer](https://github.com/paulpierre/informer) - A Telegram Mass Surveillance Bot in Python
 - [clovaai/stargan-v2](https://github.com/clovaai/stargan-v2) - StarGAN v2 - Official PyTorch Implementation (CVPR 2020)
-- [Neuraxio/Neuraxle](https://github.com/Neuraxio/Neuraxle) - The world's cleanest AutoML framework ✨ - Do hyperparameter tuning with the right pipeline abstractions to write clean deep learning production pipelines. Let your pipeline steps have hyperparameter spaces. Design steps in your pipeline like components. Compatible with Scikit-Learn, TensorFlow, and most other frameworks and cloud environments.
+- [Neuraxio/Neuraxle](https://github.com/Neuraxio/Neuraxle) - The world's cleanest AutoML framework ✨ - Do hyperparameter tuning with the right pipeline abstractions to write clean deep learning production pipelines. Let your pipeline steps have hyperparameter s
 - [vungocbinh2009/pytexexam](https://github.com/vungocbinh2009/pytexexam) - A simple python package to create latex exam in python
 - [TokenChingy/pytasking](https://github.com/TokenChingy/pytasking) - A simple Python 3.5+ multitasking library.
 - [mardix/assembly](https://github.com/mardix/assembly) - Assembly is a Pythonic Object-Oriented Web Framework built on Flask, that groups your routes by class
-- [mardix/active-alchemy](https://github.com/mardix/active-alchemy) - Active-Alchemy is a framework agnostic wrapper for SQLAlchemy that makes it really easy to use by implementing a simple active record like api, while it still uses the db.session underneath. Inspired by Flask-SQLAlchemy
+- [mardix/active-alchemy](https://github.com/mardix/active-alchemy) - Active-Alchemy is a framework agnostic wrapper for SQLAlchemy that makes it really easy to use by implementing a simple active record like api, while it still uses the db.session underneath. Inspired
 - [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life data science projects with ease!
 - [MMcintire96/python_TinderAPI](https://github.com/MMcintire96/python_TinderAPI) - Tinder API 2019 - Python bindings
 - [dropbox/hydra](https://github.com/dropbox/hydra) - A multi-process MongoDB collection copier.
@@ -3922,7 +3914,7 @@
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [ypeleg/HungaBunga](https://github.com/ypeleg/HungaBunga) - HungaBunga: Brute-Force all sklearn models with all parameters using .fit .predict!
 - [satya77/Entity_Embedding](https://github.com/satya77/Entity_Embedding) - Reference implementation of the paper "Word Embeddings for Entity-annotated Texts"
-- [yuanxiaosc/DeepNude-an-Image-to-Image-technology](https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology) - DeepNude's algorithm and general image generation theory and practice research, including pix2pix, CycleGAN, UGATIT, DCGAN, SinGAN, ALAE, mGANprior, StarGAN-v2 and VAE models (TensorFlow2 implementation). DeepNude的算法以及通用生成对抗网络（GAN,Generative Adversarial Network）图像生成的理论与实践研究。
+- [yuanxiaosc/DeepNude-an-Image-to-Image-technology](https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology) - DeepNude's algorithm and general image generation theory and practice research, including pix2pix, CycleGAN, UGATIT, DCGAN, SinGAN, ALAE, mGANprior, StarGAN-v2 and VAE models (TensorFlow2 implementati
 - [ZichaoHuang/TransE](https://github.com/ZichaoHuang/TransE) - A TensorFlow implementation of TransE model
 - [sigsep/open-unmix-pytorch](https://github.com/sigsep/open-unmix-pytorch) - Open-Unmix - Music Source Separation for PyTorch
 - [sigsep/norbert](https://github.com/sigsep/norbert) - Painless Wiener filters for audio separation
@@ -3938,7 +3930,7 @@
 - [hylang/hy](https://github.com/hylang/hy) - A dialect of Lisp that's embedded in Python
 - [hzlmn/diy-async-web-framework](https://github.com/hzlmn/diy-async-web-framework) - Learn how modern async web frameworks work, by writing simple clone from scratch
 - [boydfd/tqdm_multi_thread](https://github.com/boydfd/tqdm_multi_thread) - A tqdm multi-thread helper
-- [Tencent/MedicalNet](https://github.com/Tencent/MedicalNet) - Many studies have shown that the performance on deep learning is significantly affected by volume of training data. The MedicalNet project provides a series of 3D-ResNet pre-trained models and relative code.
+- [Tencent/MedicalNet](https://github.com/Tencent/MedicalNet) - Many studies have shown that the performance on deep learning is significantly affected by volume of training data. The MedicalNet project provides a series of 3D-ResNet pre-trained models and relativ
 - [benedekrozemberczki/EdMot](https://github.com/benedekrozemberczki/EdMot) - An implementation of "EdMot: An Edge Enhancement Approach for Motif-aware Community Detection" (KDD 2019)
 - [benedekrozemberczki/EgoSplitting](https://github.com/benedekrozemberczki/EgoSplitting) - A NetworkX implementation of "Ego-splitting Framework: from Non-Overlapping to Overlapping Clusters" (KDD 2017).
 - [danijar/handout](https://github.com/danijar/handout) - Turn Python scripts into handouts with Markdown and figures
@@ -3996,10 +3988,10 @@
 - [NVIDIA-AI-IOT/torch2trt](https://github.com/NVIDIA-AI-IOT/torch2trt) - An easy to use PyTorch to TensorRT converter
 - [zihangdai/xlnet](https://github.com/zihangdai/xlnet) - XLNet: Generalized Autoregressive Pretraining for Language Understanding
 - [mewwts/feng](https://github.com/mewwts/feng) - feng - feature engineering for machine-learning champions
-- [paypal/autosklearn-zeroconf](https://github.com/paypal/autosklearn-zeroconf) - autosklearn-zeroconf is a fully automated binary classifier. It is based on the AutoML challenge winner auto-sklearn. Give it a dataset with known outcomes (labels) and it returns a list of predicted outcomes for your new data. It even estimates the precision for you! The engine is tuning massively parallel ensemble of machine learning pipelines for best precision/recall.
+- [paypal/autosklearn-zeroconf](https://github.com/paypal/autosklearn-zeroconf) - autosklearn-zeroconf is a fully automated binary classifier. It is based on the AutoML challenge winner auto-sklearn. Give it a dataset with known outcomes (labels) and it returns a list of predicted
 - [holoviz/holoviews](https://github.com/holoviz/holoviews) - With Holoviews, your data visualizes itself.
 - [JasonKessler/scattertext](https://github.com/JasonKessler/scattertext) - Beautiful visualizations of how language differs among document types.
-- [StackStorm/st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, security responses, troubleshooting, deployments, and more. Includes rules engine, workflow, 160 integration packs with 6000+ actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html. Questions? https://forum.stackstorm.com/.
+- [StackStorm/st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, security responses, troubleshooting, deployments, and more. Includes rules engine, workflow, 160 integration packs wit
 - [facebookresearch/pyrobot](https://github.com/facebookresearch/pyrobot) - PyRobot: An Open Source Robotics Research Platform
 - [rdegges/python-amazonify](https://github.com/rdegges/python-amazonify) - The simplest way to build Amazon Affiliate links, in Python.
 - [sethmlarson/whatwg-url](https://github.com/sethmlarson/whatwg-url) - Python implementation of WHATWG URL Living Standard
@@ -4076,7 +4068,7 @@
 - [InwoongLee/TS-LSTM](https://github.com/InwoongLee/TS-LSTM) - Skeleton-based Action Recognition using TS-LSTM model
 - [Pylons/waitress](https://github.com/Pylons/waitress) - Waitress - A WSGI server for Python 2 and 3
 - [AnjieCheng/MobileNetV3-PyTorch](https://github.com/AnjieCheng/MobileNetV3-PyTorch) - A PyTorch implementation of MobileNetV3
-- [alexandonian/pretorched-x](https://github.com/alexandonian/pretorched-x) - Pretrained Image & Video ConvNets and GANs for PyTorch: NASNet, ResNeXt (2D + 3D), ResNet (2D + 3D), InceptionV4, InceptionResnetV2, Xception, DPN, NonLocalNets, R(2+1)D nets, MultiView CNNs, Temporal Relation Networks, BigGANs StyleGANs, etc.
+- [alexandonian/pretorched-x](https://github.com/alexandonian/pretorched-x) - Pretrained Image & Video ConvNets and GANs for PyTorch: NASNet, ResNeXt (2D + 3D), ResNet (2D + 3D), InceptionV4, InceptionResnetV2, Xception, DPN, NonLocalNets, R(2+1)D nets, MultiView CNNs, Temporal
 - [wkentaro/togif](https://github.com/wkentaro/togif) - Moved to https://github.com/wkentaro/video-cli
 - [waspinator/pycococreator](https://github.com/waspinator/pycococreator) - Helper functions to create COCO datasets
 - [kuangliu/pytorch-roipooling](https://github.com/kuangliu/pytorch-roipooling) - PyTorch roipooling with torchvision
@@ -4103,7 +4095,7 @@
 - [KlugerLab/SpectralNet](https://github.com/KlugerLab/SpectralNet) - Deep network that performs spectral clustering
 - [nshepperd/gpt-2](https://github.com/nshepperd/gpt-2) - Code for the paper "Language Models are Unsupervised Multitask Learners"
 - [deepmind/spectral_inference_networks](https://github.com/deepmind/spectral_inference_networks) - Implementation of Spectral Inference Networks, ICLR 2019
-- [thombashi/pytablewriter](https://github.com/thombashi/pytablewriter) - pytablewriter is a Python library to write a table in various formats: AsciiDoc / CSV / Elasticsearch / HTML / JavaScript / JSON / LaTeX / LDJSON / LTSV / Markdown / MediaWiki / NumPy / Excel / Pandas / Python / reStructuredText / SQLite / TOML / TSV.
+- [thombashi/pytablewriter](https://github.com/thombashi/pytablewriter) - pytablewriter is a Python library to write a table in various formats: AsciiDoc / CSV / Elasticsearch / HTML / JavaScript / JSON / LaTeX / LDJSON / LTSV / Markdown / MediaWiki / NumPy / Excel / Pandas
 - [pyexcel-webwares/Flask-Excel](https://github.com/pyexcel-webwares/Flask-Excel) - A flask extension using pyexcel to read, manipulate and write data in different excel formats: csv, ods, xls, xlsx and xlsm.
 - [cybertronai/pytorch-lamb](https://github.com/cybertronai/pytorch-lamb) - Implementation of  https://arxiv.org/abs/1904.00962
 - [benedekrozemberczki/graph2vec](https://github.com/benedekrozemberczki/graph2vec) - A parallel implementation of "graph2vec: Learning Distributed Representations of Graphs" (MLGWorkshop 2017).
@@ -4143,7 +4135,7 @@
 - [tengteng95/Pose-Transfer](https://github.com/tengteng95/Pose-Transfer) - Code for the paper Progressive Pose Attention for Person Image Generation in CVPR19 (Oral).
 - [NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - Deep Learning Examples
 - [switchablenorms/CelebAMask-HQ](https://github.com/switchablenorms/CelebAMask-HQ) - A large-scale face dataset for face parsing, recognition, generation and editing.
-- [dephell/dephell](https://github.com/dephell/dephell) - :package: :fire: Python project management. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump version.
+- [dephell/dephell](https://github.com/dephell/dephell) - :package: :fire: Python project management. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump versio
 - [socialpoint-labs/sheetfu](https://github.com/socialpoint-labs/sheetfu) - Python library to interact with Google Sheets V4 API
 - [Showmax/conveiro](https://github.com/Showmax/conveiro) - Visualization of filters in convolutional neural networks
 - [jpetrucciani/bash.py](https://github.com/jpetrucciani/bash.py) - An inline Bash script runner, for Python.
@@ -4186,7 +4178,7 @@
 - [explosion/spacy-course](https://github.com/explosion/spacy-course) - 👩‍🏫 Advanced NLP with spaCy: A free online course
 - [dimenwarper/chainlearn](https://github.com/dimenwarper/chainlearn) - Mini module with syntax sugar for pandas/sklearn
 - [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
-- [google-research-datasets/paws](https://github.com/google-research-datasets/paws) - This dataset contains 108,463 human-labeled and 656k noisily labeled pairs that feature the importance of modeling structure, context, and word order information for the problem of paraphrase identification.
+- [google-research-datasets/paws](https://github.com/google-research-datasets/paws) - This dataset contains 108,463 human-labeled and 656k noisily labeled pairs that feature the importance of modeling structure, context, and word order information for the problem of paraphrase identifi
 - [HIT-SCIR/ELMoForManyLangs](https://github.com/HIT-SCIR/ELMoForManyLangs) - Pre-trained ELMo Representations for Many Languages
 - [PolyAI-LDN/conversational-datasets](https://github.com/PolyAI-LDN/conversational-datasets) - Large datasets for conversational AI
 - [nizhib/portrait-demo](https://github.com/nizhib/portrait-demo) - Portrait Segmentation Demo
@@ -4369,7 +4361,7 @@
 - [Octavian-ai/clevr-graph](https://github.com/Octavian-ai/clevr-graph) - CLEVR graph: A dataset for graph based reasoning
 - [osmr/imgclsmob](https://github.com/osmr/imgclsmob) - Sandbox for training deep learning networks
 - [fbessez/Tinder](https://github.com/fbessez/Tinder) - Official November 2019 Documentation for Tinder's API (wrapper included)
-- [FraLotito/pytorch-continuous-bag-of-words](https://github.com/FraLotito/pytorch-continuous-bag-of-words) - The Continuous Bag-of-Words model (CBOW) is frequently used in NLP deep learning. It's a model that tries to predict words given the context of a few words before and a few words after the target word.
+- [FraLotito/pytorch-continuous-bag-of-words](https://github.com/FraLotito/pytorch-continuous-bag-of-words) - The Continuous Bag-of-Words model (CBOW) is frequently used in NLP deep learning. It's a model that tries to predict words given the context of a few words before and a few words after the target word
 - [ibalazevic/TuckER](https://github.com/ibalazevic/TuckER) - TuckER: Tensor Factorization for Knowledge Graph Completion
 - [deepmind/hanabi-learning-environment](https://github.com/deepmind/hanabi-learning-environment) - hanabi_learning_environment is a research platform for Hanabi experiments.
 - [deepmind/grid-cells](https://github.com/deepmind/grid-cells) - Implementation of the supervised learning experiments in Vector-based navigation using grid-like representations in artificial agents, as published at https://www.nature.com/articles/s41586-018-0102-6
@@ -4411,7 +4403,7 @@
 - [facebookresearch/randsent](https://github.com/facebookresearch/randsent) - Exploring Random Encoders for Sentence Classification
 - [Wanggcong/RLD_codes](https://github.com/Wanggcong/RLD_codes) - 
 - [unixpickle/diffeq](https://github.com/unixpickle/diffeq) - Learning about differential equations
-- [BMIRDS/deepslide](https://github.com/BMIRDS/deepslide) - Code for the Nature Scientific Reports paper "Pathologist-level classification of histologic patterns on resected lung adenocarcinoma slides with deep neural networks." A sliding window framework for classification of high resolution whole-slide images, often microscopy or histopathology images.
+- [BMIRDS/deepslide](https://github.com/BMIRDS/deepslide) - Code for the Nature Scientific Reports paper "Pathologist-level classification of histologic patterns on resected lung adenocarcinoma slides with deep neural networks." A sliding window framework for
 - [Thumar/Seq2Seq_NMT](https://github.com/Thumar/Seq2Seq_NMT) - 
 - [guillaumegenthial/tf_ner](https://github.com/guillaumegenthial/tf_ner) - Simple and Efficient Tensorflow implementations of NER models with tf.estimator and tf.data
 - [rezoo/illustration2vec](https://github.com/rezoo/illustration2vec) - A simple deep learning library for estimating a set of tags and extracting semantic feature vectors from given illustrations.
@@ -4435,7 +4427,7 @@
 - [ZhaoJ9014/face.evoLVe](https://github.com/ZhaoJ9014/face.evoLVe) - 🔥🔥High-Performance Face Recognition Library on PaddlePaddle & PyTorch🔥🔥
 - [fredrik-corneliusson/click-web](https://github.com/fredrik-corneliusson/click-web) - Serve click scripts over the web
 - [lark-parser/lark](https://github.com/lark-parser/lark) - Lark is a parsing toolkit for Python, built with a focus on ergonomics, performance and modularity.
-- [fighting41love/funNLP](https://github.com/fighting41love/funNLP) - 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术系列报告、自然语言生成、NLU太难了系列、自动对联数据及机器人、用户名黑名单列表、罪名法务名词及分类模型、微信公众号语料、cs224n深度学习自然语言处理课程、中文手写汉字识别、中文自然语言处理 语料/数据集、变量命名神器、分词语料库+代码、任务型对话英文数据集、ASR 语音数据集 + 基于深度学习的中文语音识别系统、笑声检测器、Microsoft多语言数字/单位/如日期时间识别包、中华新华字典数据库及api(包括常用歇后语、成语、词语和汉字)、文档图谱自动生成、SpaCy 中文模型、Common Voice语音识别数据集新版、神经网络关系抽取、基于bert的命名实体识别、关键词(Keyphrase)抽取包pke、基于医疗领域知识图谱的问答系统、基于依存句法与语义角色标注的事件三元组抽取、依存句法分析4万句高质量标注数据、cnocr：用来做中文OCR的Python3包、中文人物关系知识图谱项目、中文nlp竞赛项目及代码汇总、中文字符数据、speech-aligner: 从“人声语音”及其“语言文本”产生音素级别时间对齐标注的工具、AmpliGraph: 知识图谱表示学习(Python)库：知识图谱概念链接预测、Scattertext 文本可视化(python)、语言/知识表示工具：BERT & ERNIE、中文对比英文自然语言处理NLP的区别综述、Synonyms中文近义词工具包、HarvestText领域自适应文本挖掘工具（新词发现-情感分析-实体链接等）、word2word：(Python)方便易用的多语言词-词对集：62种语言/3,564个多语言对、语音识别语料生成工具：从具有音频/字幕的在线视频创建自动语音识别(ASR)语料库、构建医疗实体识别的模型（包含词典和语料标注）、单文档非监督的关键词抽取、Kashgari中使用gpt-2语言模型、开源的金融投资数据提取工具、文本自动摘要库TextTeaser: 仅支持英文、人民日报语料处理工具集、一些关于自然语言的基本模型、基于14W歌曲知识库的问答尝试--功能包括歌词接龙and已知歌词找歌曲以及歌曲歌手歌词三角关系的问答、基于Siamese bilstm模型的相似句子判定模型并提供训练数据集和测试数据集、用Transformer编解码模型实现的根据Hacker News文章标题自动生成评论、用BERT进行序列标记和文本分类的模板代码、LitBank：NLP数据集——支持自然语言处理和计算人文学科任务的100部带标记英文小说语料、百度开源的基准信息抽取系统、虚假新闻数据集、Facebook: LAMA语言模型分析，提供Transformer-XL/BERT/ELMo/GPT预训练语言模型的统一访问接口、CommonsenseQA：面向常识的英文QA挑战、中文知识图谱资料、数据及工具、各大公司内部里大牛分享的技术文档 PDF 或者 PPT、自然语言生成SQL语句（英文）、中文NLP数据增强（EDA）工具、英文NLP数据增强工具 、基于医药知识图谱的智能问答系统、京东商品知识图谱、基于mongodb存储的军事领域知识图谱问答项目、基于远监督的中文关系抽取、语音情感分析、中文ULMFiT-情感分析-文本分类-语料及模型、一个拍照做题程序、世界各国大规模人名库、一个利用有趣中文语料库 qingyun 训练出来的中文聊天机器人、中文聊天机器人seqGAN、省市区镇行政区划数据带拼音标注、教育行业新闻语料库包含自动文摘功能、开放了对话机器人-知识图谱-语义理解-自然语言处理工具及数据、中文知识图谱：基于百度百科中文页面-抽取三元组信息-构建中文知识图谱、masr: 中文语音识别-提供预训练模型-高识别率、Python音频数据增广库、中文全词覆盖BERT及两份阅读理解数据、ConvLab：开源多域端到端对话系统平台、中文自然语言处理数据集、基于最新版本rasa搭建的对话系统、基于TensorFlow和BERT的管道式实体及关系抽取、一个小型的证券知识图谱/知识库、复盘所有NLP比赛的TOP方案、OpenCLaP：多领域开源中文预训练语言模型仓库、UER：基于不同语料+编码器+目标任务的中文预训练模型仓库、中文自然语言处理向量合集、基于金融-司法领域(兼有闲聊性质)的聊天机器人、g2pC：基于上下文的汉语读音自动标记模块、Zincbase 知识图谱构建工具包、诗歌质量评价/细粒度情感诗歌语料库、快速转化「中文数字」和「阿拉伯数字」、百度知道问答语料库、基于知识图谱的问答系统、jieba_fast 加速版的jieba、正则表达式教程、中文阅读理解数据集、基于BERT等最新语言模型的抽取式摘要提取、Python利用深度学习进行文本摘要的综合指南、知识图谱深度学习相关资料整理、维基大规模平行文本语料、StanfordNLP 0.2.0：纯Python版自然语言处理包、NeuralNLP-NeuralClassifier：腾讯开源深度学习文本分类工具、端到端的封闭域对话系统、中文命名实体识别：NeuroNER vs. BertNER、新闻事件线索抽取、2019年百度的三元组抽取比赛：“科学空间队”源码、基于依存句法的开放域文本知识三元组抽取和知识库构建、中文的GPT2训练代码、ML-NLP - 机器学习(Machine Learning)NLP面试中常考到的知识点和代码实现、nlp4han:中文自然语言处理工具集(断句/分词/词性标注/组块/句法分析/语义分析/NER/N元语法/HMM/代词消解/情感分析/拼写检查、XLM：Facebook的跨语言预训练语言模型、用基于BERT的微调和特征提取方法来进行知识图谱百度百科人物词条属性抽取、中文自然语言处理相关的开放任务-数据集-当前最佳结果、CoupletAI - 基于CNN+Bi-LSTM+Attention 的自动对对联系统、抽象知识图谱、MiningZhiDaoQACorpus - 580万百度知道问答数据挖掘项目、brat rapid annotation tool: 序列标注工具、大规模中文知识图谱数据：1.4亿实体、数据增强在机器翻译及其他nlp任务中的应用及效果、allennlp阅读理解:支持多种数据和模型、PDF表格数据提取工具 、 Graphbrain：AI开源软件库和科研工具，目的是促进自动意义提取和文本理解以及知识的探索和推断、简历自动筛选系统、基于命名实体识别的简历自动摘要、中文语言理解测评基准，包括代表性的数据集&基准模型&语料库&排行榜、树洞 OCR 文字识别 、从包含表格的扫描图片中识别表格和文字、语声迁移、Python口语自然语言处理工具集(英文)、 similarity：相似度计算工具包，java编写、海量中文预训练ALBERT模型 、Transformers 2.0 、基于大规模音频数据集Audioset的音频增强 、Poplar：网页版自然语言标注工具、图片文字去除，可用于漫画翻译 、186种语言的数字叫法库、Amazon发布基于知识的人-人开放领域对话数据集 、中文文本纠错模块代码、繁简体转换 、 Python实现的多种文本可读性评价指标、类似于人名/地名/组织机构名的命名体识别数据集 、东南大学《知识图谱》研究生课程(资料)、. 英文拼写检查库 、 wwsearch是企业微信后台自研的全文检索引擎、CHAMELEON：深度学习新闻推荐系统元架构 、 8篇论文梳理BERT相关模型进展与反思、DocSearch：免费文档搜索引擎、 LIDA：轻量交互式对话标注工具 、aili - the fastest in-memory index in the East 东半球最快并发索引 、知识图谱车音工作项目、自然语言生成资源大全 、中日韩分词库mecab的Python接口库、中文文本摘要/关键词提取、汉字字符特征提取器 (featurizer)，提取汉字的特征（发音特征、字形特征）用做深度学习的特征、中文生成任务基准测评 、中文缩写数据集、中文任务基准测评 - 代表性的数据集-基准(预训练)模型-语料库-baseline-工具包-排行榜、PySS3：面向可解释AI的SS3文本分类器机器可视化工具 、中文NLP数据集列表、COPE - 格律诗编辑程序、doccano：基于网页的开源协同多语言文本标注工具 、PreNLP：自然语言预处理库、简单的简历解析器，用来从简历中提取关键信息、用于中文闲聊的GPT2模型：GPT2-chitchat、基于检索聊天机器人多轮响应选择相关资源列表(Leaderboards、Datasets、Papers)、(Colab)抽象文本摘要实现集锦(教程 、词语拼音数据、高效模糊搜索工具、NLP数据增广资源集、微软对话机器人框架 、 GitHub Typo Corpus：大规模GitHub多语言拼写错误/语法错误数据集、TextCluster：短文本聚类预处理模块 Short text cluster、面向语音识别的中文文本规范化、BLINK：最先进的实体链接库、BertPunc：基于BERT的最先进标点修复模型、Tokenizer：快速、可定制的文本词条化库、中文语言理解测评基准，包括代表性的数据集、基准(预训练)模型、语料库、排行榜、spaCy 医学文本挖掘与信息提取 、 NLP任务示例项目代码集、 python拼写检查库、chatbot-list - 行业内关于智能客服、聊天机器人的应用和架构、算法分享和介绍、语音质量评价指标(MOSNet, BSSEval, STOI, PESQ, SRMR)、 用138GB语料训练的法文RoBERTa预训练语言模型 、BERT-NER-Pytorch：三种不同模式的BERT中文NER实验、无道词典 - 有道词典的命令行版本，支持英汉互查和在线查询、2019年NLP亮点回顾、 Chinese medical dialogue data 中文医疗对话数据集 、最好的汉字数字(中文数字)-阿拉伯数字转换工具、 基于百科知识库的中文词语多词义/义项获取与特定句子词语语义消歧、awesome-nlp-sentiment-analysis - 情感分析、情绪原因识别、评价对象和评价词抽取、LineFlow：面向所有深度学习框架的NLP数据高效加载器、中文医学NLP公开资源整理 、MedQuAD：(英文)医学问答数据集、将自然语言数字串解析转换为整数和浮点数、Transfer Learning in Natural Language Processing (NLP) 、面向语音识别的中文/英文发音辞典、Tokenizers：注重性能与多功能性的最先进分词器、CLUENER 细粒度命名实体识别 Fine Grained Named Entity Recognition、 基于BERT的中文命名实体识别、中文谣言数据库、NLP数据集/基准任务大列表、nlp相关的一些论文及代码, 包括主题模型、词向量(Word Embedding)、命名实体识别(NER)、文本分类(Text Classificatin)、文本生成(Text Generation)、文本相似性(Text Similarity)计算等，涉及到各种与nlp相关的算法，基于keras和tensorflow 、Python文本挖掘/NLP实战示例、 Blackstone：面向非结构化法律文本的spaCy pipeline和NLP模型通过同义词替换实现文本“变脸” 、中文 预训练 ELECTREA 模型: 基于对抗学习 pretrain Chinese Model 、albert-chinese-ner - 用预训练语言模型ALBERT做中文NER 、基于GPT2的特定主题文本生成/文本增广、开源预训练语言模型合集、多语言句向量包、编码、标记和实现：一种可控高效的文本生成方法、 英文脏话大列表 、attnvis：GPT2、BERT等transformer语言模型注意力交互可视化、CoVoST：Facebook发布的多语种语音-文本翻译语料库，包括11种语言(法语、德语、荷兰语、俄语、西班牙语、意大利语、土耳其语、波斯语、瑞典语、蒙古语和中文)的语音、文字转录及英文译文、Jiagu自然语言处理工具 - 以BiLSTM等模型为基础，提供知识图谱关系抽取 中文分词 词性标注 命名实体识别 情感分析 新词发现 关键词 文本摘要 文本聚类等功能、用unet实现对文档表格的自动检测，表格重建、NLP事件提取文献资源列表 、 金融领域自然语言处理研究资源大列表、CLUEDatasetSearch - 中英文NLP数据集：搜索所有中文NLP数据集，附常用英文NLP数据集 、medical_NER - 中文医学知识图谱命名实体识别 、(哈佛)讲因果推理的免费书、知识图谱相关学习资料/数据集/工具资源大列表、Forte：灵活强大的自然语言处理pipeline工具集 、Python字符串相似性算法库、PyLaia：面向手写文档分析的深度学习工具包、TextFooler：针对文本分类/推理的对抗文本生成模块、Haystack：灵活、强大的可扩展问答(QA)框架、中文关键短语抽取工具
+- [fighting41love/funNLP](https://github.com/fighting41love/funNLP) - 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名
 - [dbrgn/tangible](https://github.com/dbrgn/tangible) - Tangible is a Python library to convert data into tangible 3D models.
 - [thearn/stl_tools](https://github.com/thearn/stl_tools) - Python code to produce STL geometry files from plain text, LaTeX code, and 2D numerical arrays (matrices)
 - [facebookresearch/many-to-many-dijkstra](https://github.com/facebookresearch/many-to-many-dijkstra) - A predictive model developed to identify medium-voltage electrical distribution grid infrastructure using publicly available data sources.
@@ -4443,7 +4435,7 @@
 - [IntelAI/nauta](https://github.com/IntelAI/nauta) - A multi-user, distributed computing environment for running DL model training experiments on Intel® Xeon® Scalable processor-based systems
 - [xingyizhou/ExtremeNet](https://github.com/xingyizhou/ExtremeNet) - Bottom-up Object Detection by Grouping Extreme and Center Points
 - [VahidooX/DeepCCA](https://github.com/VahidooX/DeepCCA) - An implementation of Deep Canonical Correlation Analysis (DCCA or Deep CCA) with Keras.
-- [google-research-datasets/natural-questions](https://github.com/google-research-datasets/natural-questions) - Natural Questions (NQ) contains real user questions issued to Google search, and answers found from Wikipedia by annotators. NQ is designed for the training and evaluation of automatic question answering systems.
+- [google-research-datasets/natural-questions](https://github.com/google-research-datasets/natural-questions) - Natural Questions (NQ) contains real user questions issued to Google search, and answers found from Wikipedia by annotators. NQ is designed for the training and evaluation of automatic question answer
 - [FKLC/IGQL](https://github.com/FKLC/IGQL) - Unofficial Instagram GraphQL API to collet data without authentication
 - [borgbase/vorta](https://github.com/borgbase/vorta) - Desktop Backup Client for Borg Backup
 - [noisyboiler/wampy](https://github.com/noisyboiler/wampy) - Websocket RPC and Pub/Sub for Python applications and microservices
@@ -4530,7 +4522,7 @@
 - [jiaaro/pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface
 - [jz462/Large-Scale-VRD.pytorch](https://github.com/jz462/Large-Scale-VRD.pytorch) - Implementation for the AAAI2019 paper "Large-scale Visual Relationship Understanding"
 - [GPflow/GPflow](https://github.com/GPflow/GPflow) - Gaussian processes in TensorFlow
-- [JasperSnoek/spearmint](https://github.com/JasperSnoek/spearmint) - Spearmint is a package to perform Bayesian optimization according to the algorithms outlined in the paper:  Practical Bayesian Optimization of Machine Learning Algorithms. Jasper Snoek, Hugo Larochelle and Ryan P. Adams.  Advances in Neural Information Processing Systems, 2012
+- [JasperSnoek/spearmint](https://github.com/JasperSnoek/spearmint) - Spearmint is a package to perform Bayesian optimization according to the algorithms outlined in the paper:  Practical Bayesian Optimization of Machine Learning Algorithms. Jasper Snoek, Hugo Larochell
 - [maxpumperla/hyperas](https://github.com/maxpumperla/hyperas) - Keras + Hyperopt: A very simple wrapper for convenient hyperparameter optimization
 - [AlexiaJM/relativistic-f-divergences](https://github.com/AlexiaJM/relativistic-f-divergences) - Code from paper "On Relativistic f-divergences" (http://arxiv.org/abs/1901.02474)
 - [devshaaran/Emotion_Recognition](https://github.com/devshaaran/Emotion_Recognition) - A live emotion recognition tool.
@@ -4652,7 +4644,7 @@
 - [junyanz/VON](https://github.com/junyanz/VON) - [NeurIPS 2018] Visual Object Networks: Image Generation with Disentangled 3D Representation.
 - [tensorflow/kfac](https://github.com/tensorflow/kfac) - An implementation of KFAC for TensorFlow
 - [rgeirhos/Stylized-ImageNet](https://github.com/rgeirhos/Stylized-ImageNet) - Code to create Stylized-ImageNet, a stylized version of standard ImageNet (ICLR 2019 Oral)
-- [MIC-DKFZ/trixi](https://github.com/MIC-DKFZ/trixi) - Manage your machine learning experiments with trixi - modular, reproducible, high fashion. An experiment infrastructure optimized for PyTorch, but flexible enough to work for your framework and your tastes.
+- [MIC-DKFZ/trixi](https://github.com/MIC-DKFZ/trixi) - Manage your machine learning experiments with trixi - modular, reproducible, high fashion. An experiment infrastructure optimized for PyTorch, but flexible enough to work for your framework and your t
 - [thanard/causal-infogan](https://github.com/thanard/causal-infogan) - 
 - [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
 - [ZhaoJ9014/High-Performance-Face-Recognition](https://github.com/ZhaoJ9014/High-Performance-Face-Recognition) - 🔥🔥Several High-Performance Models for Unconstrained/Large-Scale/Low-Shot Face Recognition🔥🔥
@@ -4713,8 +4705,7 @@
 - [CSAILVision/gandissect](https://github.com/CSAILVision/gandissect) - Pytorch-based tools for visualizing and understanding the neurons of a GAN.  https://gandissect.csail.mit.edu/
 - [UFAL-DSG/tgen](https://github.com/UFAL-DSG/tgen) - Statistical NLG for spoken dialogue systems
 - [YadiraF/PRNet](https://github.com/YadiraF/PRNet) - Joint 3D Face Reconstruction and Dense Alignment with Position Map Regression Network (ECCV 2018)
-- [chuanconggao/PrefixSpan-py](https://github.com/chuanconggao/PrefixSpan-py) - The shortest yet efficient Python implementation of the sequential pattern mining algorithm PrefixSpan, closed sequential pattern mining algorithm BIDE, and generator sequential pattern mining algorithm FEAT.
-- [1991viet/QuickDraw](https://github.com/1991viet/QuickDraw) - Implementation of Quickdraw - an online game developed by Google
+- [chuanconggao/PrefixSpan-py](https://github.com/chuanconggao/PrefixSpan-py) - The shortest yet efficient Python implementation of the sequential pattern mining algorithm PrefixSpan, closed sequential pattern mining algorithm BIDE, and generator sequential pattern mining algorit
 - [yenchenlin/pix2pix-flow](https://github.com/yenchenlin/pix2pix-flow) - Image-to-image translation with flow-based generative model
 - [jofpin/trape](https://github.com/jofpin/trape) - People tracker on the Internet: OSINT analysis and research tool by Jose Pino
 - [junfu1115/DANet](https://github.com/junfu1115/DANet) - Dual Attention Network for Scene Segmentation (CVPR2019)
@@ -4733,26 +4724,26 @@
 - [darthdeus/bopt](https://github.com/darthdeus/bopt) - Bayesian Optimization using Gaussian Processes + web interface with result visualizations
 - [araffin/rl-baselines-zoo](https://github.com/araffin/rl-baselines-zoo) - A collection of 100+ pre-trained RL agents using Stable Baselines, training and hyperparameter optimization included.
 - [michaelklachko/pnn.pytorch](https://github.com/michaelklachko/pnn.pytorch) - PyTorch implementation of CVPR'18 - Perturbative Neural Networks http://xujuefei.com/pnn.html
-- [juefeix/pnn.pytorch.update](https://github.com/juefeix/pnn.pytorch.update) - This repo houses the new PNN code, along with our responses to the issue raised in the recent Reddit discussion. The code is based on Michael Klachko’s repo with slight modification in model.py and main.py. All changes are marked.
+- [juefeix/pnn.pytorch.update](https://github.com/juefeix/pnn.pytorch.update) - This repo houses the new PNN code, along with our responses to the issue raised in the recent Reddit discussion. The code is based on Michael Klachko’s repo with slight modification in model.py and ma
 - [cvjena/semantic-embeddings](https://github.com/cvjena/semantic-embeddings) - Hierarchy-based Image Embeddings for Semantic Image Retrieval
 - [jbandlow/nb_hugo_exporter](https://github.com/jbandlow/nb_hugo_exporter) - Jupyter notebook exporter to a Markdown format suitable for use with Hugo
 - [regebro/pyroma](https://github.com/regebro/pyroma) - Rate your Python packages package friendliness
 - [cleardusk/3DDFA](https://github.com/cleardusk/3DDFA) - The PyTorch improved version of TPAMI 2017 paper: Face Alignment in Full Pose Range: A 3D Total Solution.
 - [locuslab/lcp-physics](https://github.com/locuslab/lcp-physics) - A differentiable LCP physics engine in PyTorch.
 - [chaiyujin/glow-pytorch](https://github.com/chaiyujin/glow-pytorch) - pytorch implementation of openai paper "Glow: Generative Flow with Invertible 1×1 Convolutions"
-- [akanimax/Variational_Discriminator_Bottleneck](https://github.com/akanimax/Variational_Discriminator_Bottleneck) - Implementation (with some experimentation) of the paper titled "VARIATIONAL DISCRIMINATOR BOTTLENECK: IMPROVING IMITATION LEARNING, INVERSE RL, AND GANS BY CONSTRAINING INFORMATION FLOW" (arxiv -&gt; https://arxiv.org/pdf/1810.00821.pdf)
+- [akanimax/Variational_Discriminator_Bottleneck](https://github.com/akanimax/Variational_Discriminator_Bottleneck) - Implementation (with some experimentation) of the paper titled "VARIATIONAL DISCRIMINATOR BOTTLENECK: IMPROVING IMITATION LEARNING, INVERSE RL, AND GANS BY CONSTRAINING INFORMATION FLOW" (arxiv -&gt; htt
 - [mseitzer/pytorch-fid](https://github.com/mseitzer/pytorch-fid) - Compute FID scores with PyTorch.
 - [PyCQA/pycodestyle](https://github.com/PyCQA/pycodestyle) - Simple Python style checker in one Python file
 - [google/jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
 - [jina-ai/clip-as-service](https://github.com/jina-ai/clip-as-service) - Embed images and sentences into fixed-length vectors with CLIP
 - [kymatio/kymatio](https://github.com/kymatio/kymatio) - Wavelet scattering transforms in Python with GPU acceleration
-- [MIC-DKFZ/medicaldetectiontoolkit](https://github.com/MIC-DKFZ/medicaldetectiontoolkit) - The Medical Detection Toolkit contains 2D + 3D implementations of prevalent object detectors such as Mask R-CNN, Retina Net, Retina U-Net, as well as a training and inference framework focused on dealing with medical images.
+- [MIC-DKFZ/medicaldetectiontoolkit](https://github.com/MIC-DKFZ/medicaldetectiontoolkit) - The Medical Detection Toolkit contains 2D + 3D implementations of prevalent object detectors such as Mask R-CNN, Retina Net, Retina U-Net, as well as a training and inference framework focused on deal
 - [skorokithakis/tbvaccine](https://github.com/skorokithakis/tbvaccine) - A small utility to pretty-print Python tracebacks. ⛺
 - [kastnerkyle/representation_mixing](https://github.com/kastnerkyle/representation_mixing) - Demos, pretrained models, and (WIP) code supporting Representation Mixing
 - [kuangliu/pytorch-cifar](https://github.com/kuangliu/pytorch-cifar) - 95.47% on CIFAR10 with PyTorch
 - [bojone/gan-qp](https://github.com/bojone/gan-qp) - GAN-QP: A Novel GAN Framework without Gradient Vanishing and Lipschitz Constraint
 - [andabi/parallel-wavenet-vocoder](https://github.com/andabi/parallel-wavenet-vocoder) - A WaveNet-based vocoder for fast inference
-- [mravanelli/pytorch-kaldi](https://github.com/mravanelli/pytorch-kaldi) - pytorch-kaldi is a project for developing state-of-the-art DNN/RNN hybrid speech recognition systems. The DNN part is managed by pytorch, while feature extraction, label computation, and decoding are performed with the kaldi toolkit.
+- [mravanelli/pytorch-kaldi](https://github.com/mravanelli/pytorch-kaldi) - pytorch-kaldi is a project for developing state-of-the-art DNN/RNN hybrid speech recognition systems. The DNN part is managed by pytorch, while feature extraction, label computation, and decoding are
 - [gurvindersingh/mlapp](https://github.com/gurvindersingh/mlapp) - ML model serving app based on APIs
 - [Bogdanp/molten](https://github.com/Bogdanp/molten) - A minimal, extensible, fast and productive framework for building HTTP APIs with Python 3.6 and later.
 - [tkipf/relational-gcn](https://github.com/tkipf/relational-gcn) - Keras-based implementation of Relational Graph Convolutional Networks
@@ -5062,7 +5053,6 @@
 - [zhoubolei/TRN-pytorch](https://github.com/zhoubolei/TRN-pytorch) - Temporal Relation Networks
 - [coderSkyChen/Action_Recognition_Zoo](https://github.com/coderSkyChen/Action_Recognition_Zoo) - Codes for popular action recognition models, verified on the something-something data set.
 - [facebookresearch/ParlAI](https://github.com/facebookresearch/ParlAI) - A framework for training and evaluating AI models on a variety of openly available dialogue datasets.
-- [1991viet/ASCII-generator](https://github.com/1991viet/ASCII-generator) - ASCII generator (image to text, image to image, video to video)
 - [alwynmathew/monodepth-pytorch](https://github.com/alwynmathew/monodepth-pytorch) - Pytorch implementation of monodepth
 - [locuslab/icnn](https://github.com/locuslab/icnn) - Input Convex Neural Networks
 - [Trusted-AI/AIF360](https://github.com/Trusted-AI/AIF360) - A comprehensive set of fairness metrics for datasets and machine learning models, explanations for these metrics, and algorithms to mitigate bias in datasets and models.
@@ -5073,7 +5063,7 @@
 - [chiphuyen/sotawhat](https://github.com/chiphuyen/sotawhat) - Returns latest research results by crawling arxiv papers and summarizing abstracts. Helps you stay afloat with so many new papers everyday.
 - [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 - [abewley/sort](https://github.com/abewley/sort) - Simple, online, and realtime tracking of multiple objects in a video sequence.
-- [rlabbe/filterpy](https://github.com/rlabbe/filterpy) - Python Kalman filtering and optimal estimation library. Implements Kalman filter, particle filter, Extended Kalman filter, Unscented Kalman filter, g-h (alpha-beta), least squares, H Infinity, smoothers, and more. Has companion book 'Kalman and Bayesian Filters in Python'.
+- [rlabbe/filterpy](https://github.com/rlabbe/filterpy) - Python Kalman filtering and optimal estimation library. Implements Kalman filter, particle filter, Extended Kalman filter, Unscented Kalman filter, g-h (alpha-beta), least squares, H Infinity, smoothe
 - [pianomania/infoGAN-pytorch](https://github.com/pianomania/infoGAN-pytorch) - implement infoGAN using pytorch
 - [faustomilletari/VNet](https://github.com/faustomilletari/VNet) - 
 - [erikriver/opengraph](https://github.com/erikriver/opengraph) - A python module to parse the Open Graph Protocol
@@ -5110,7 +5100,7 @@
 - [kundajelab/abstention](https://github.com/kundajelab/abstention) - Algorithms for abstention, calibration and domain adaptation to label shift.
 - [giantswarm/operator-example-python](https://github.com/giantswarm/operator-example-python) - 
 - [MVIG-SJTU/AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) - Real-Time and Accurate Full-Body Multi-Person Pose Estimation&Tracking System
-- [microsoft/singleshotpose](https://github.com/microsoft/singleshotpose) - This research project implements a real-time object detection and pose estimation method as described in the paper, Tekin et al. "Real-Time Seamless Single Shot 6D Object Pose Prediction", CVPR 2018. (https://arxiv.org/abs/1711.08848).
+- [microsoft/singleshotpose](https://github.com/microsoft/singleshotpose) - This research project implements a real-time object detection and pose estimation method as described in the paper, Tekin et al. "Real-Time Seamless Single Shot 6D Object Pose Prediction", CVPR 2018.
 - [tamakoji/pytorch-syncbn](https://github.com/tamakoji/pytorch-syncbn) - Synchronized Multi-GPU Batch Normalization
 - [YadiraF/GAN](https://github.com/YadiraF/GAN) - Resources and Implementations of  Generative Adversarial Nets: GAN, DCGAN, WGAN, CGAN, InfoGAN
 - [stellargraph/stellargraph](https://github.com/stellargraph/stellargraph) - StellarGraph - Machine Learning on Graphs
@@ -5123,7 +5113,6 @@
 - [hjmshi/PyTorch-LBFGS](https://github.com/hjmshi/PyTorch-LBFGS) - A PyTorch implementation of L-BFGS.
 - [Ultimaker/Cura](https://github.com/Ultimaker/Cura) - 3D printer / slicing GUI built on top of the Uranium framework
 - [microsoft/graspologic](https://github.com/microsoft/graspologic) - Python package for graph statistics
-- [1991viet/Hierarchical-attention-networks-pytorch](https://github.com/1991viet/Hierarchical-attention-networks-pytorch) - Hierarchical Attention Networks for document classification
 - [andreasveit/convnet-aig](https://github.com/andreasveit/convnet-aig) - PyTorch implementation for Convolutional Networks with Adaptive Inference Graphs
 - [akanimax/msg-gan-v1](https://github.com/akanimax/msg-gan-v1) - MSG-GAN: Multi-Scale Gradients GAN (Architecture inspired from ProGAN but doesn't use layer-wise growing)
 - [alexander-akhmetov/python-shortcuts](https://github.com/alexander-akhmetov/python-shortcuts) - Create Siri Shortcuts with Python
@@ -5137,7 +5126,7 @@
 - [Eloston/ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) - Google Chromium, sans integration with Google
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [cmsflash/beauty-net](https://github.com/cmsflash/beauty-net) - A simple, flexible, and extensible template for PyTorch. It's beautiful.
-- [shawnwun/NNDIAL](https://github.com/shawnwun/NNDIAL) - NNDial is an open source toolkit for building end-to-end trainable task-oriented dialogue models. It is released by Tsung-Hsien (Shawn) Wen from Cambridge Dialogue Systems Group under Apache License 2.0.
+- [shawnwun/NNDIAL](https://github.com/shawnwun/NNDIAL) - NNDial is an open source toolkit for building end-to-end trainable task-oriented dialogue models. It is released by Tsung-Hsien (Shawn) Wen from Cambridge Dialogue Systems Group under Apache License 2
 - [vithursant/VAE-Gumbel-Softmax](https://github.com/vithursant/VAE-Gumbel-Softmax) - An implementation of a Variational-Autoencoder using the Gumbel-Softmax reparametrization trick in TensorFlow (tested on r1.5 CPU and GPU) in ICLR 2017.
 - [GOATmessi7/RFBNet](https://github.com/GOATmessi7/RFBNet) - Receptive Field Block Net for Accurate and Fast Object Detection, ECCV 2018
 - [Anjum48/rl-examples](https://github.com/Anjum48/rl-examples) - Examples of published reinforcement learning algorithms in recent literature implemented in TensorFlow
@@ -5148,7 +5137,7 @@
 - [vacancy/Synchronized-BatchNorm-PyTorch](https://github.com/vacancy/Synchronized-BatchNorm-PyTorch) - Synchronized Batch Normalization implementation in PyTorch.
 - [suragnair/seqGAN](https://github.com/suragnair/seqGAN) - A simplified PyTorch implementation of "SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient." (Yu, Lantao, et al.)
 - [jacobgil/pytorch-explain-black-box](https://github.com/jacobgil/pytorch-explain-black-box) - PyTorch implementation of Interpretable Explanations of Black Boxes by Meaningful Perturbation
-- [uber/petastorm](https://github.com/uber/petastorm) - Petastorm library enables single machine or distributed training and evaluation of deep learning models from datasets in Apache Parquet format. It supports ML frameworks such as Tensorflow, Pytorch, and PySpark and can be used from pure Python code.
+- [uber/petastorm](https://github.com/uber/petastorm) - Petastorm library enables single machine or distributed training and evaluation of deep learning models from datasets in Apache Parquet format. It supports ML frameworks such as Tensorflow, Pytorch, a
 - [uber-research/PyTorch-NEAT](https://github.com/uber-research/PyTorch-NEAT) - 
 - [egorzakharov/PerceptualGAN](https://github.com/egorzakharov/PerceptualGAN) - Pytorch implementation of Image Manipulation with Perceptual Discriminators paper
 - [junqiangchen/MutilGPU2dCNN](https://github.com/junqiangchen/MutilGPU2dCNN) - MutilGPU train CNN
@@ -5158,7 +5147,6 @@
 - [CSAILVision/semantic-segmentation-pytorch](https://github.com/CSAILVision/semantic-segmentation-pytorch) - Pytorch implementation for Semantic Segmentation/Scene Parsing on MIT ADE20K dataset
 - [Mariewelt/OpenChem](https://github.com/Mariewelt/OpenChem) - OpenChem: Deep Learning toolkit for Computational Chemistry and Drug Design Research
 - [cbrueffer/pep8-git-hook](https://github.com/cbrueffer/pep8-git-hook) - Git pre-commit hook that checks for Python PEP8 style compliance.
-- [fperazzi-zz/proSR](https://github.com/fperazzi-zz/proSR) - Repository containing an independent implementation of the paper: "A Fully Progressive Approach to Single-Image Super-Resolution"
 - [hyperopt/hyperopt](https://github.com/hyperopt/hyperopt) - Distributed Asynchronous Hyperparameter Optimization in Python
 - [Kyubyong/transformer](https://github.com/Kyubyong/transformer) - A TensorFlow Implementation of the Transformer: Attention Is All You Need
 - [saranshkarira/Fastest-Object-Detector-of-PyTorch](https://github.com/saranshkarira/Fastest-Object-Detector-of-PyTorch) - This Toolkit is the fastest way to train YOLO-v2 with your own custom dataset from scratch including annotating part
@@ -5203,7 +5191,7 @@
 - [RJT1990/gandecks](https://github.com/RJT1990/gandecks) - AI Generated Skateboard Decks
 - [amdegroot/ssd.pytorch](https://github.com/amdegroot/ssd.pytorch) - A PyTorch Implementation of Single Shot MultiBox Detector
 - [lzx1413/PytorchSSD](https://github.com/lzx1413/PytorchSSD) - pytorch version of SSD and it's enhanced methods such as RFBSSD,FSSD and RefineDet
-- [xinntao/BasicSR](https://github.com/xinntao/BasicSR) - Open Source Image and Video Restoration Toolbox for Super-resolution, Denoise, Deblurring, etc. Currently, it includes EDSR, RCAN, SRResNet, SRGAN, ESRGAN, EDVR, BasicVSR, SwinIR, ECBSR, etc. Also support StyleGAN2, DFDNet.
+- [xinntao/BasicSR](https://github.com/xinntao/BasicSR) - Open Source Image and Video Restoration Toolbox for Super-resolution, Denoise, Deblurring, etc. Currently, it includes EDSR, RCAN, SRResNet, SRGAN, ESRGAN, EDVR, BasicVSR, SwinIR, ECBSR, etc. Also sup
 - [cybertronai/imagenet18_old](https://github.com/cybertronai/imagenet18_old) - Code to reproduce "imagenet in 18 minutes" DAWN-benchmark entry
 - [fengju514/Face-Pose-Net](https://github.com/fengju514/Face-Pose-Net) - Estimate 3D face pose (6DoF) or 11 parameters of 3x4 projection matrix by a Convolutional Neural Network
 - [wangg12/intel-cervical-cancer](https://github.com/wangg12/intel-cervical-cancer) - Team GuYuShiJie~'s 15th (top 2%) solution of cervix type classification in Kaggle 2017 competition, using PyTorch.
@@ -5223,7 +5211,7 @@
 - [ShuLiu1993/PANet](https://github.com/ShuLiu1993/PANet) - PANet for Instance Segmentation and Object Detection
 - [mpastell/Pweave](https://github.com/mpastell/Pweave) - Pweave is a scientific report generator and a literate programming tool for Python. It can capture the results and plots from data analysis and works well with numpy, scipy and matplotlib.
 - [crossbario/autobahn-python](https://github.com/crossbario/autobahn-python) - WebSocket and WAMP in Python for Twisted and asyncio
-- [microsoft/dowhy](https://github.com/microsoft/dowhy) - DoWhy is a Python library for causal inference that supports explicit modeling and testing of causal assumptions. DoWhy is based on a unified language for causal inference, combining causal graphical models and potential outcomes frameworks.
+- [microsoft/dowhy](https://github.com/microsoft/dowhy) - DoWhy is a Python library for causal inference that supports explicit modeling and testing of causal assumptions. DoWhy is based on a unified language for causal inference, combining causal graphical
 - [wlwkgus/DeepSpectralClustering](https://github.com/wlwkgus/DeepSpectralClustering) - Pytorch Implemention of paper "Deep Spectral Clustering Learning", the state of the art of the Deep Metric Learning Paper
 - [mrahtz/ocd-a3c](https://github.com/mrahtz/ocd-a3c) - TensorFlow implementation of asynchronous advantage actor-critic (A3C)
 - [nyu-dl/dl4mt-tutorial](https://github.com/nyu-dl/dl4mt-tutorial) - 
@@ -5248,7 +5236,7 @@
 - [zym1119/ResNet-on-CIFAR](https://github.com/zym1119/ResNet-on-CIFAR) - Codes for implementing ResNet on CIFAR dataset
 - [zym1119/Style_transfer_tf_cs231n](https://github.com/zym1119/Style_transfer_tf_cs231n) - Style transfer python code using cs231n SqueezeNet and tensorflow framework
 - [dansuh17/segan-pytorch](https://github.com/dansuh17/segan-pytorch) - SEGAN pytorch implementation https://arxiv.org/abs/1703.09452
-- [microsoft/MMdnn](https://github.com/microsoft/MMdnn) - MMdnn is a set of tools to help users inter-operate among different deep learning frameworks. E.g. model conversion and visualization. Convert models between Caffe, Keras, MXNet, Tensorflow, CNTK, PyTorch Onnx and CoreML.
+- [microsoft/MMdnn](https://github.com/microsoft/MMdnn) - MMdnn is a set of tools to help users inter-operate among different deep learning frameworks. E.g. model conversion and visualization. Convert models between Caffe, Keras, MXNet, Tensorflow, CNTK, PyT
 - [shmsw25/qa-transfer](https://github.com/shmsw25/qa-transfer) - An original implementation of ACL 2017, "Question Answering through Transfer Learning from Large Fine-grained Supervision Data"
 - [Cloud-CV/EvalAI](https://github.com/Cloud-CV/EvalAI) - :cloud: :rocket: :bar_chart: :chart_with_upwards_trend: Evaluating state of the art in AI
 - [jwyang/fpn.pytorch](https://github.com/jwyang/fpn.pytorch) - Pytorch implementation of Feature Pyramid Network (FPN) for Object Detection
@@ -5259,7 +5247,7 @@
 - [kevinzakka/hypersearch](https://github.com/kevinzakka/hypersearch) - Hyperparameter optimization for PyTorch.
 - [google/gin-config](https://github.com/google/gin-config) - Gin provides a lightweight configuration framework for Python
 - [johngarg/Xarta](https://github.com/johngarg/Xarta) - A command-line tool for organising papers from the arXiv.
-- [huoyijie/AdvancedEAST](https://github.com/huoyijie/AdvancedEAST) - AdvancedEAST is an algorithm used for Scene image text detect, which is primarily based on EAST, and the significant improvement was also made, which make long text predictions more accurate.https://github.com/huoyijie/raspberrypi-car
+- [huoyijie/AdvancedEAST](https://github.com/huoyijie/AdvancedEAST) - AdvancedEAST is an algorithm used for Scene image text detect, which is primarily based on EAST, and the significant improvement was also made, which make long text predictions more accurate.https://
 - [uber-research/ape-x](https://github.com/uber-research/ape-x) - This repo replicates the results Horgan et al obtained in "Distributed Prioritized Experience Replay"
 - [huguyuehuhu/HCN-pytorch](https://github.com/huguyuehuhu/HCN-pytorch) - A  pytorch reproduction of { Co-occurrence Feature Learning from Skeleton Data for Action Recognition and Detection with Hierarchical Aggregation }.
 - [titu1994/Super-Resolution-using-Generative-Adversarial-Networks](https://github.com/titu1994/Super-Resolution-using-Generative-Adversarial-Networks) - An implementation of SRGAN model in Keras
@@ -5312,8 +5300,6 @@
 - [znxlwm/pytorch-apex-experiment](https://github.com/znxlwm/pytorch-apex-experiment) - Simple experiment of Apex (A PyTorch Extension)
 - [NVIDIA/pix2pixHD](https://github.com/NVIDIA/pix2pixHD) - Synthesizing and manipulating 2048x1024 images with conditional GANs
 - [rui1996/DeRaindrop](https://github.com/rui1996/DeRaindrop) - Attentive Generative Adversarial Network for Raindrop Removal from A Single Image (CVPR 2018)
-- [1991viet/Yolo-pytorch](https://github.com/1991viet/Yolo-pytorch) - YOLO for object detection tasks
-- [1991viet/Character-level-cnn-pytorch](https://github.com/1991viet/Character-level-cnn-pytorch) - Character-level CNN for text classification
 - [ThibaultGROUEIX/3D-CODED](https://github.com/ThibaultGROUEIX/3D-CODED) - Pytorch Implementation for the project : `3D-CODED` and `Learning Elementary Structure`
 - [jwyang/faster-rcnn.pytorch](https://github.com/jwyang/faster-rcnn.pytorch) - A faster pytorch implementation of faster r-cnn
 - [gotcha/ipdb](https://github.com/gotcha/ipdb) - Integration of IPython pdb
@@ -5412,7 +5398,7 @@
 - [mapbox/robosat](https://github.com/mapbox/robosat) - Semantic segmentation on aerial and satellite imagery. Extracts features such as: buildings, parking lots, roads, water, clouds
 - [daniilidis-group/neural_renderer](https://github.com/daniilidis-group/neural_renderer) - A PyTorch port of the Neural 3D Mesh Renderer
 - [astorfi/TensorFlow-World](https://github.com/astorfi/TensorFlow-World) - :earth_americas: Simple and ready-to-use tutorials for TensorFlow
-- [TianhongDai/reinforcement-learning-algorithms](https://github.com/TianhongDai/reinforcement-learning-algorithms) - This repository contains most of pytorch implementation based classic deep reinforcement learning algorithms, including - DQN, DDQN, Dueling Network, DDPG, SAC, A2C, PPO, TRPO. (More algorithms are still in progress)
+- [TianhongDai/reinforcement-learning-algorithms](https://github.com/TianhongDai/reinforcement-learning-algorithms) - This repository contains most of pytorch implementation based classic deep reinforcement learning algorithms, including - DQN, DDQN, Dueling Network, DDPG, SAC, A2C, PPO, TRPO. (More algorithms are st
 - [keras-team/autokeras](https://github.com/keras-team/autokeras) - AutoML library for deep learning
 - [mkaz/termgraph](https://github.com/mkaz/termgraph) - a python command-line tool which draws basic graphs in the terminal
 - [evyatarmeged/Raccoon](https://github.com/evyatarmeged/Raccoon) - A high performance offensive security tool for reconnaissance and vulnerability scanning
@@ -5448,7 +5434,7 @@
 - [symoon94/DRQN-keras](https://github.com/symoon94/DRQN-keras) - Atari-DRQN (keras ver.)
 - [pyprob/pyprob](https://github.com/pyprob/pyprob) - A probabilistic programming system for simulators and high-performance computing (HPC), based on PyTorch
 - [pytorchbearer/torchbearer](https://github.com/pytorchbearer/torchbearer) - torchbearer: A model fitting library for PyTorch
-- [ray-project/ray](https://github.com/ray-project/ray) - An open source framework that provides a simple, universal API for building distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.
+- [ray-project/ray](https://github.com/ray-project/ray) - An open source framework that provides a simple, universal API for building distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperp
 - [openai/sonic-on-ray](https://github.com/openai/sonic-on-ray) - Training Sonic with RLlib
 - [openai/retro-baselines](https://github.com/openai/retro-baselines) - Publicly releasable baselines for the Retro contest
 - [BerkeleyAutomation/DART](https://github.com/BerkeleyAutomation/DART) - 
@@ -5532,7 +5518,7 @@
 - [floodsung/LearningToCompare_FSL](https://github.com/floodsung/LearningToCompare_FSL) - PyTorch code for CVPR 2018 paper: Learning to Compare: Relation Network for Few-Shot Learning (Few-Shot Learning part)
 - [taki0112/Switchable_Normalization-Tensorflow](https://github.com/taki0112/Switchable_Normalization-Tensorflow) - Simple Tensorflow implementation of "Switchable Normalization"
 - [ntucllab/libact](https://github.com/ntucllab/libact) - Pool-based active learning in Python
-- [allenai/bi-att-flow](https://github.com/allenai/bi-att-flow) - Bi-directional Attention Flow (BiDAF) network is a multi-stage hierarchical process that represents context at different levels of granularity and uses a bi-directional attention flow mechanism to achieve a query-aware context representation without early summarization.
+- [allenai/bi-att-flow](https://github.com/allenai/bi-att-flow) - Bi-directional Attention Flow (BiDAF) network is a multi-stage hierarchical process that represents context at different levels of granularity and uses a bi-directional attention flow mechanism to ach
 - [Yelrose/RNN_lyrics](https://github.com/Yelrose/RNN_lyrics) - Use RNN to train and generate lyrics of Jay Chou
 - [srio/Diffraction](https://github.com/srio/Diffraction) - Physical Optics Diffraction experiments with Python
 - [quark0/darts](https://github.com/quark0/darts) - Differentiable architecture search for convolutional and recurrent networks
@@ -5697,8 +5683,8 @@
 - [google/pytype](https://github.com/google/pytype) - A static type analyzer for Python code
 - [OlegYurchik/pyInstagram](https://github.com/OlegYurchik/pyInstagram) - This is a simple and easy-to-use library for interacting with the Instagram. The library works through the web interface of the Instagram and does not depend on the official API
 - [cs1707/tldr-alfred](https://github.com/cs1707/tldr-alfred) - tldr alfred workflow
-- [MLBazaar/BTB](https://github.com/MLBazaar/BTB) - A simple, extensible library for developing AutoML systems
 - [alteryx/featuretools](https://github.com/alteryx/featuretools) - An open source python library for automated feature engineering
+- [MLBazaar/BTB](https://github.com/MLBazaar/BTB) - A simple, extensible library for developing AutoML systems
 - [titu1994/keras-one-cycle](https://github.com/titu1994/keras-one-cycle) - Implementation of One-Cycle Learning rate policy (adapted from Fast.ai lib)
 - [alterzero/DBPN-Pytorch](https://github.com/alterzero/DBPN-Pytorch) - The project is an official implement of our CVPR2018 paper "Deep Back-Projection Networks for Super-Resolution" (Winner of NTIRE2018 and PIRM2018)
 - [chaoming0625/NumpyDL](https://github.com/chaoming0625/NumpyDL) - Deep Learning Library. For education. Based on pure Numpy. Support CNN, RNN, LSTM, GRU etc.
@@ -6096,7 +6082,7 @@
 - [Kyubyong/wordvectors](https://github.com/Kyubyong/wordvectors) - Pre-trained word vectors of 30+ languages
 - [tensorflow/fold](https://github.com/tensorflow/fold) - Deep learning with dynamic computation graphs in TensorFlow
 - [lengstrom/fast-style-transfer](https://github.com/lengstrom/fast-style-transfer) - TensorFlow CNN for fast style transfer ⚡🖥🎨🖼
-- [ikostrikov/pytorch-a2c-ppo-acktr-gail](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr-gail) - PyTorch implementation of Advantage Actor Critic (A2C), Proximal Policy Optimization (PPO), Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation (ACKTR) and Generative Adversarial Imitation Learning (GAIL).
+- [ikostrikov/pytorch-a2c-ppo-acktr-gail](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr-gail) - PyTorch implementation of Advantage Actor Critic (A2C), Proximal Policy Optimization (PPO), Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation (ACKTR)
 - [benfred/implicit](https://github.com/benfred/implicit) - Fast Python Collaborative Filtering for Implicit Feedback Datasets
 - [openai/multiagent-competition](https://github.com/openai/multiagent-competition) - Code for the paper "Emergent Complexity via Multi-agent Competition"
 - [explosion/spacymoji](https://github.com/explosion/spacymoji) - 💙 Emoji handling and meta data for spaCy with custom extension attributes
@@ -6237,7 +6223,6 @@
 - [AbinayaM02/Spam-Detection-SMS](https://github.com/AbinayaM02/Spam-Detection-SMS) - Classification of SMS into ham and spam messages
 - [sindbach/doc2vec_pymongo](https://github.com/sindbach/doc2vec_pymongo) - Machine learning prediction of movies genres using Gensim's Doc2Vec and PyMongo - (Python, MongoDB)
 - [nyaadevs/nyaa](https://github.com/nyaadevs/nyaa) - Bittorrent software for cats
-- [mikedory/Tornado-Heroku-Quickstart](https://github.com/mikedory/Tornado-Heroku-Quickstart) - A lil' bootstrap app to create a Tornado project, ready to deploy to Heroku!
 - [tornadoweb/tornado](https://github.com/tornadoweb/tornado) - Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.
 - [ucrbioinfo/EAST](https://github.com/ucrbioinfo/EAST) - EAST: Efficient and Accurate Detection of Topologically Associating Domains from Contact Maps
 - [strawlab/pyopy](https://github.com/strawlab/pyopy) - Python bindings to interesting matlab libraries for data analysis
@@ -6286,7 +6271,7 @@
 - [aromanovich/flask-webtest](https://github.com/aromanovich/flask-webtest) - Utilities for testing Flask applications with WebTest
 - [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
 - [PyMySQL/PyMySQL](https://github.com/PyMySQL/PyMySQL) - Pure Python MySQL Client
-- [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
+- [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud
 - [pytoolz/toolz](https://github.com/pytoolz/toolz) - A functional standard library for Python.
 - [kachayev/fn.py](https://github.com/kachayev/fn.py) - Functional programming in Python: implementation of missing features to enjoy FP
 - [miguelgrinberg/Flask-Migrate](https://github.com/miguelgrinberg/Flask-Migrate) - SQLAlchemy database migrations for Flask applications using Alembic
@@ -6335,11 +6320,11 @@
 - [grocsvs/grocsvs](https://github.com/grocsvs/grocsvs) - Genome-wide reconstruction of complex structural variants
 - [cjgunase/dejavu](https://github.com/cjgunase/dejavu) - Audio fingerprinting and recognition in Python
 - [tariqdaouda/pyGeno](https://github.com/tariqdaouda/pyGeno) - Personalized Genomics and Proteomics. Main diet: Ensembl, side dishes: SNPs
-- [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
+- [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AW
 - [biopython/biopython](https://github.com/biopython/biopython) - Official git repository for Biopython (originally converted from CVS)
 - [cython/cython](https://github.com/cython/cython) - The most widely used Python to C compiler
-- [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
 - [scipy/scipy](https://github.com/scipy/scipy) - SciPy library main repository
+- [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
 - [scikit-image/scikit-image](https://github.com/scikit-image/scikit-image) - Image processing in Python
 - [biocore/scikit-bio](https://github.com/biocore/scikit-bio) - scikit-bio is an open-source, BSD-licensed, Python package providing data structures, algorithms, and educational resources for bioinformatics.
@@ -6388,7 +6373,6 @@
 - [aws-samples/aws-batch-genomics](https://github.com/aws-samples/aws-batch-genomics) - Software sets up and runs an genome sequencing analysis workflow using AWS Batch and AWS Step Functions.
 - [uio-cels/genomicgraphcoords](https://github.com/uio-cels/genomicgraphcoords) - Online material and code base for the article Coordinates and Intervals in Graph Based Reference Genomes
 - [openai/universe](https://github.com/openai/universe) - Universe: a software platform for measuring and training an AI's general intelligence across the world's supply of games, websites and other applications.
-- [ch3ck/programming-ebooks](https://github.com/ch3ck/programming-ebooks) - These are all the programming ebooks that I have collected.
 - [karthikb351/ProntoUsage](https://github.com/karthikb351/ProntoUsage) - A simple command line tool to check a user's VOLSBB usage
 - [keon/algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms in Python
 - [JoseBlanca/franklin](https://github.com/JoseBlanca/franklin) - franklin library for NGS sequencing analysis.
@@ -6398,8 +6382,8 @@
 - [chapmanb/bcbb](https://github.com/chapmanb/bcbb) - Incubator for useful bioinformatics code, primarily in Python and R
 - [brentp/pyfasta](https://github.com/brentp/pyfasta) - fast, memory-efficient, pythonic (and command-line) access to fasta sequence files
 - [tanghaibao/jcvi](https://github.com/tanghaibao/jcvi) - Python library to facilitate genome assembly, annotation, and comparative genomics
-- [martijnvermaat/bio-playground](https://github.com/martijnvermaat/bio-playground) - Random collection of bioinformatics thingies
 - [fls-bioinformatics-core/genomics](https://github.com/fls-bioinformatics-core/genomics) - Scripts, utilities and programs for genomic bioinformatics.
+- [martijnvermaat/bio-playground](https://github.com/martijnvermaat/bio-playground) - Random collection of bioinformatics thingies
 - [vsbuffalo/BioRanges](https://github.com/vsbuffalo/BioRanges) - A small library for ranges/intervals, for use with genomic data.
 - [bcbio/bcbio-nextgen](https://github.com/bcbio/bcbio-nextgen) - Validated, scalable, community developed variant calling, RNA-seq and small RNA analysis
 - [wireservice/csvkit](https://github.com/wireservice/csvkit) - A suite of utilities for converting to and working with CSV, the king of tabular file formats.
@@ -6407,7 +6391,7 @@
 - [openvax/pyensembl](https://github.com/openvax/pyensembl) - Python interface to access reference genome features (such as genes, transcripts, and exons) from Ensembl
 - [konstantint/PyENCODE](https://github.com/konstantint/PyENCODE) - Python convenience package for accessing ENCODE (Encyclopedia of DNA Elements) project data at UCSC
 - [VoigtLab/dnaplotlib](https://github.com/VoigtLab/dnaplotlib) - DNA plotting library for Python
-- [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.
+- [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learnin
 - [bhaveshpraveen/cron-like](https://github.com/bhaveshpraveen/cron-like) - A simple-cron like utility
 - [rushter/MLAlgorithms](https://github.com/rushter/MLAlgorithms) - Minimal and clean examples of machine learning algorithms implementations
 - [yasoob/algorithms](https://github.com/yasoob/algorithms) - Minimal examples of data structures and algorithms in Python
@@ -6451,6 +6435,7 @@
 
 - [ryanlecompte/redis_failover](https://github.com/ryanlecompte/redis_failover) - redis_failover is a ZooKeeper-based automatic master/slave failover solution for Ruby.
 - [drujensen/fib](https://github.com/drujensen/fib) - Performance Benchmark of top Github languages
+- [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 - [twilio/media-streams](https://github.com/twilio/media-streams) - Quick start guides for configuring and consuming Twilio Media Streams
 - [msgpack-rpc/msgpack-rpc](https://github.com/msgpack-rpc/msgpack-rpc) - MessagePack-RPC is an inter-process messaging library that uses MessagePack for object serialization.
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
@@ -6574,7 +6559,7 @@
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [tensorbase/tensorbase](https://github.com/tensorbase/tensorbase) - TensorBase is a new big data warehousing with modern efforts.
 - [guillaume-be/rust-bert](https://github.com/guillaume-be/rust-bert) - Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2,...)
-- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++ or JavaScript.
+- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++ or Ja
 - [travisbrown/cancel-culture](https://github.com/travisbrown/cancel-culture) - Tools for fighting abuse on Twitter
 - [yazgoo/bema](https://github.com/yazgoo/bema) - write your next slideshow in rust 🦀, as a self-contained binary  📦.
 - [Thomasdezeeuw/heph](https://github.com/Thomasdezeeuw/heph) - Heph is an actor framework for Rust based on asynchronous functions.
@@ -6589,7 +6574,7 @@
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded DataFrame library in Rust | Python | Node.js
 - [Byron/google-apis-rs](https://github.com/Byron/google-apis-rs) - A binding and CLI generator for all Google APIs
 - [tafia/calamine](https://github.com/tafia/calamine) - A pure Rust Excel/OpenDocument SpeadSheets file reader: rust on metal sheets
-- [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh) - zenoh unifies data in motion, data in-use, data at rest and computations. It carefully blends traditional pub/sub with geo-distributed storages, queries and computations, while retaining a level of time and space efficiency that is well beyond any of the mainstream stacks.
+- [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh) - zenoh unifies data in motion, data in-use, data at rest and computations. It carefully blends traditional pub/sub with geo-distributed storages, queries and computations, while retaining a level of ti
 - [thoughtbot/complexity](https://github.com/thoughtbot/complexity) - A command line tool to identify complex code
 - [Plume-org/Plume](https://github.com/Plume-org/Plume) - Federated blogging application, thanks to ActivityPub (now on https://git.joinplu.me/ — this is just a mirror)
 - [rust-ml/linfa](https://github.com/rust-ml/linfa) - A Rust machine learning framework.
@@ -6744,7 +6729,7 @@
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
 - [conundrumer/audioscope](https://github.com/conundrumer/audioscope) - audio visualizers true to the sound
 - [mosuka/bayard](https://github.com/mosuka/bayard) - A full-text search and indexing server written in Rust.
-- [cloud-hypervisor/cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) - A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.
+- [cloud-hypervisor/cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) - A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compac
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - Powerful, fast, and an easy to use search engine
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
@@ -6814,7 +6799,7 @@
 
 - [linkedin/feathr](https://github.com/linkedin/feathr) - Feathr – An Enterprise-Grade, High Performance Feature Store
 - [lichess-org/lila](https://github.com/lichess-org/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞
-- [gregdurrett/berkeley-doc-summarizer](https://github.com/gregdurrett/berkeley-doc-summarizer) - The Berkeley Document Summarizer is a learning-based, single-document summarization system that extracts source document content, exploits syntactic information to compress it, and uses coreference constraints to ensure clarity.
+- [gregdurrett/berkeley-doc-summarizer](https://github.com/gregdurrett/berkeley-doc-summarizer) - The Berkeley Document Summarizer is a learning-based, single-document summarization system that extracts source document content, exploits syntactic information to compress it, and uses coreference co
 - [twitter/scalding](https://github.com/twitter/scalding) - A Scala API for Cascading
 - [eaplatanios/tensorflow_scala](https://github.com/eaplatanios/tensorflow_scala) - TensorFlow API for the Scala Programming Language
 - [combust/mleap](https://github.com/combust/mleap) - MLeap: Deploy ML Pipelines to Production
@@ -6868,12 +6853,11 @@
 - [dysfunc/ascii-emoji](https://github.com/dysfunc/ascii-emoji) - Essential Emoji
 - [rear/rear](https://github.com/rear/rear) - Relax-and-Recover - Linux bare metal disaster recovery and system migration solution (cfr. mksysb, ignite)
 - [kaldi-asr/kaldi](https://github.com/kaldi-asr/kaldi) - kaldi-asr/kaldi is the official location of the Kaldi project.
-- [lei-hsia/grokking-system-design](https://github.com/lei-hsia/grokking-system-design) - Grokking system design
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [mvallim/kubernetes-under-the-hood](https://github.com/mvallim/kubernetes-under-the-hood) - This tutorial is someone planning to install a Kubernetes cluster and wants to understand how everything fits together.
 - [xiaohanyu/oh-my-laptop](https://github.com/xiaohanyu/oh-my-laptop) - [Sleepy] Provide some easy to use ansbile playbooks to turn your laptop to awesome.
-- [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 750+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, .tmux.conf, .psqlrc ...
+- [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 750+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDA
 - [replicatedhq/kURL](https://github.com/replicatedhq/kURL) - Production-grade, airgapped Kubernetes installer combining upstream k8s with overlays and popular components
 - [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers
 - [fsquillace/junest](https://github.com/fsquillace/junest) - The lightweight Arch Linux based distro that runs, without root privileges, upon any Linux distro
@@ -6888,7 +6872,7 @@
 - [donnyyou/torchcv](https://github.com/donnyyou/torchcv) - TorchCV: A PyTorch-Based Framework for Deep Learning in Computer Vision
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [jwass/pep8-staged](https://github.com/jwass/pep8-staged) - Git pre-commit hook to run pep8 on staged files.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [s1341/pyenv-alias](https://github.com/s1341/pyenv-alias) - pyenv plugin to allow you to install python versions with user-specified 'aliases'.
 - [tylerbarnum/metagenomics-tutorials](https://github.com/tylerbarnum/metagenomics-tutorials) - Additional scripts from tutorials on tylerbarnum.com
 - [kamranahmedse/git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day. Psst! or be nosy and find what someone else in your team did ;-)
@@ -6897,11 +6881,12 @@
 - [mxbi/shell_scripts](https://github.com/mxbi/shell_scripts) - Various bash scripts useful for setting up machines
 - [deepmind/narrativeqa](https://github.com/deepmind/narrativeqa) - This repository contains the NarrativeQA dataset. It includes the list of documents with Wikipedia summaries, links to full stories, and questions and answers.
 - [google/cityhash](https://github.com/google/cityhash) - Automatically exported from code.google.com/p/cityhash
-- [mitchellkrogza/nginx-ultimate-bad-bot-blocker](https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker) - Nginx Block Bad Bots, Spam Referrer Blocker, Vulnerability Scanners, User-Agents, Malware, Adware, Ransomware, Malicious Sites, with anti-DDOS, Wordpress Theme Detector Blocking and Fail2Ban Jail for Repeat Offenders
+- [mitchellkrogza/nginx-ultimate-bad-bot-blocker](https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker) - Nginx Block Bad Bots, Spam Referrer Blocker, Vulnerability Scanners, User-Agents, Malware, Adware, Ransomware, Malicious Sites, with anti-DDOS, Wordpress Theme Detector Blocking and Fail2Ban Jail for
 - [x4121/tmux-slack-counter](https://github.com/x4121/tmux-slack-counter) - Tmux indicator to show mentions and messages from slack
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [facebookarchive/caffe2](https://github.com/facebookarchive/caffe2) - Caffe2 is a lightweight, modular, and scalable deep learning framework.
 - [ankitshah009/youtube-dl-with-aria](https://github.com/ankitshah009/youtube-dl-with-aria) - Wrapper to download faster youtube-dl with aria to support multi-threaded-output
+- [mikedory/Tornado-Heroku-Quickstart](https://github.com/mikedory/Tornado-Heroku-Quickstart) - A lil' bootstrap app to create a Tornado project, ready to deploy to Heroku!
 - [SchulzLab/EpigenomicsTutorial-ISMB2017](https://github.com/SchulzLab/EpigenomicsTutorial-ISMB2017) - Repository for the Epigenomics Tutorial hold at ISMB 2017 in Prague
 - [bioconda/bioconda-recipes](https://github.com/bioconda/bioconda-recipes) - Conda recipes for the bioconda channel.
 - [squeaky-pl/portable-pypy](https://github.com/squeaky-pl/portable-pypy) - Portable 64 bit x86 PyPy binaries for many Linux distributions.
@@ -6960,7 +6945,7 @@
 - [egoist/bina](https://github.com/egoist/bina) - An installer for self-contained, single-file binaries, no additional CLI needed.
 - [tokiedokie/reveal-markdown](https://github.com/tokiedokie/reveal-markdown) - Revealjs vsCode extension
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
-- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool
+- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performanc
 - [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [kubeflow/metadata](https://github.com/kubeflow/metadata) - Repository for assets related to Metadata.
@@ -7011,7 +6996,7 @@
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [github/stable-socket](https://github.com/github/stable-socket) - A web socket that reconnects.
 - [Novage/p2p-media-loader](https://github.com/Novage/p2p-media-loader) - An open-source engine for P2P streaming of live and on demand video directly in a web browser HTML page
-- [redpanda-data/kowl](https://github.com/redpanda-data/kowl) - Kowl is a developer-friendly UI for managing your Kafka/Redpanda workloads. Kowl gives you a simple, interactive approach for gaining visibility into your topics, masking data, managing consumer groups, and exploring real-time data with time-travel debugging.
+- [redpanda-data/kowl](https://github.com/redpanda-data/kowl) - Kowl is a developer-friendly UI for managing your Kafka/Redpanda workloads. Kowl gives you a simple, interactive approach for gaining visibility into your topics, masking data, managing consumer group
 - [microsoft/fast](https://github.com/microsoft/fast) - The adaptive interface system for modern web experiences.
 - [nsfw-filter/nsfw-filter](https://github.com/nsfw-filter/nsfw-filter) - 🚀 A Google Chrome extension that blocks NSFW images from the web pages that you load using TensorFlow JS.
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
@@ -7027,7 +7012,7 @@
 - [vega/vega-lite](https://github.com/vega/vega-lite) - A concise grammar of interactive graphics, built on Vega.
 - [APIs-guru/graphql-voyager](https://github.com/APIs-guru/graphql-voyager) - 🛰️ Represent any GraphQL API as an interactive graph
 - [jupyterlab/debugger](https://github.com/jupyterlab/debugger) - A visual debugger for Jupyter notebooks, consoles, and source files
-- [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens) - Supercharge Git inside VS Code and unlock untapped knowledge within each repository — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more
+- [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens) - Supercharge Git inside VS Code and unlock untapped knowledge within each repository — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics that you can self-host.
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
