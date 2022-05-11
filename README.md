@@ -1068,7 +1068,7 @@
 - [apptainer/singularity](https://github.com/apptainer/singularity) - Singularity has been EOL'ed, see Apptainer
 - [cri-o/cri-o](https://github.com/cri-o/cri-o) - Open Container Initiative-based implementation of Kubernetes Container Runtime Interface
 - [0xProject/0x-mesh](https://github.com/0xProject/0x-mesh) - A peer-to-peer network for sharing 0x orders
-- [minio/minio](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage
+- [minio/minio](https://github.com/minio/minio) - Multi-Cloud Object Storage
 - [dghubble/go-twitter](https://github.com/dghubble/go-twitter) - Go Twitter REST and Streaming API v1.1
 - [Bytom/bytom](https://github.com/Bytom/bytom) - Official Go implementation of the Bytom protocol
 - [aws/karpenter](https://github.com/aws/karpenter) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
@@ -2201,7 +2201,6 @@
 - [shayneobrien/generative-models](https://github.com/shayneobrien/generative-models) - Annotated, understandable, and visually interpretable PyTorch implementations of: VAE, BIRVAE, NSGAN, MMGAN, WGAN, WGANGP, LSGAN, DRAGAN, BEGAN, RaGAN, InfoGAN, fGAN, FisherGAN
 - [jiasenlu/HieCoAttenVQA](https://github.com/jiasenlu/HieCoAttenVQA) - 
 - [automl/pybnn](https://github.com/automl/pybnn) - Bayesian neural network package
-- [ydataai/pandas-profiling](https://github.com/ydataai/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
 - [prashantg445/Image-Captioning](https://github.com/prashantg445/Image-Captioning) - Used LSTM on Flickr dataset
 - [SuryaThiru/Food-recommendation-PySpark](https://github.com/SuryaThiru/Food-recommendation-PySpark) - PySpark powered food recommendation system based on amazon food review data
 - [omarsar/mri-analysis-pytorch](https://github.com/omarsar/mri-analysis-pytorch) - MRI analysis using PyTorch and MedicalTorch
@@ -3065,7 +3064,7 @@
 - [Mayeu/awesome-open-source-organizations](https://github.com/Mayeu/awesome-open-source-organizations) - ⚡️ A list of organizations that have open sourced everything they do
 - [stacygohyunsi/algorithms-primer](https://github.com/stacygohyunsi/algorithms-primer) - A consolidated collection of resources for you to learn and understand algorithms and data structures easily.
 - [mathsyouth/awesome-text-summarization](https://github.com/mathsyouth/awesome-text-summarization) - A curated list of resources dedicated to text summarization
-- [cncf/mentoring](https://github.com/cncf/mentoring) - 👩🏿‍🎓👨🏽‍🎓👩🏻‍🎓CNCF Mentoring + CommunityBridge + Summer of Code
+- [cncf/mentoring](https://github.com/cncf/mentoring) - 👩🏿‍🎓👨🏽‍🎓👩🏻‍🎓CNCF Mentoring + LFX Mentorship + Summer of Code + Season of Docs
 - [theanalyst/awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems) - A curated list to learn about distributed systems
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
@@ -4927,6 +4926,7 @@
 - [suriyadeepan/tana](https://github.com/suriyadeepan/tana) - This Aint No AutoML
 - [AntreasAntoniou/HowToTrainYourMAMLPytorch](https://github.com/AntreasAntoniou/HowToTrainYourMAMLPytorch) - The original code for the paper "How to train your MAML" along with a replication of the original "Model Agnostic Meta Learning" (MAML) paper in Pytorch.
 - [facebookresearch/maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark) - Fast, modular reference implementation of Instance Segmentation and Object Detection algorithms in PyTorch.
+- [ydataai/pandas-profiling](https://github.com/ydataai/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
 - [merrymercy/NALU](https://github.com/merrymercy/NALU) - Implementation of Neural Arithmetic Logic Units (https://arxiv.org/pdf/1808.00508.pdf)
 - [richardaecn/cvpr18-caption-eval](https://github.com/richardaecn/cvpr18-caption-eval) - Learning to Evaluate Image Captioning. CVPR 2018
 - [Rayhane-mamah/Tacotron-2](https://github.com/Rayhane-mamah/Tacotron-2) - DeepMind's Tacotron-2 Tensorflow implementation
@@ -6456,6 +6456,7 @@
 
 ## Rust 
 
+- [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [krustlet/krustlet](https://github.com/krustlet/krustlet) - Kubernetes Rust Kubelet
 - [zesterer/chumsky](https://github.com/zesterer/chumsky) - A parser library for humans with powerful error recovery.
 - [hotg-ai/rune](https://github.com/hotg-ai/rune) - Rune provides containers to encapsulate and deploy edgeML pipelines and applications
@@ -6484,7 +6485,7 @@
 - [DasEtwas/enginesound](https://github.com/DasEtwas/enginesound) - Procedural engine sound generator controlled via GUI or CLI
 - [thalo-rs/thalo](https://github.com/thalo-rs/thalo) - 🚀 Event sourcing suite for Rust 🦀
 - [prql/prql](https://github.com/prql/prql) - PRQL is a modern language for transforming data — a simpler and more powerful SQL
-- [mitsuhiko/redis-rs](https://github.com/mitsuhiko/redis-rs) - Redis library for rust
+- [redis-rs/redis-rs](https://github.com/redis-rs/redis-rs) - Redis library for rust
 - [sfackler/rust-postgres](https://github.com/sfackler/rust-postgres) - Native PostgreSQL driver for the Rust programming language
 - [weiznich/diesel_async](https://github.com/weiznich/diesel_async) - Diesel async connection implementation
 - [gluon-lang/gluon](https://github.com/gluon-lang/gluon) - A static, type inferred and embeddable language written in Rust.
@@ -6933,6 +6934,7 @@
 
 ## TypeScript 
 
+- [EsperoTech/yaade](https://github.com/EsperoTech/yaade) - Yaade is an open-source, self-hosted, collaborative API development environment.
 - [mil-tokyo/webdnn](https://github.com/mil-tokyo/webdnn) - The Fastest DNN Running Framework on Web Browser
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - mirrord lets you easily mirror traffic from your production environment to your development environment.
 - [komodorio/validkube](https://github.com/komodorio/validkube) - ValidKube combines the best open-source tools to help ensure Kubernetes YAML best practices, hygiene & security.
