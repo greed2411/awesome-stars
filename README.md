@@ -944,7 +944,7 @@
 - [hashicorp/memberlist](https://github.com/hashicorp/memberlist) - Golang package for gossip based membership and failure detection
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [odpf/raccoon](https://github.com/odpf/raccoon) - Raccoon is a high-throughput, low-latency service to collect events in real-time from your web, mobile apps, and services using multiple network protocols.
-- [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd) - Continuous Delivery for Declarative Kubernetes, Serverless and Infrastructure Applications
+- [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd) - The One CD for All {applications, platforms, operations}
 - [IceFireDB/IceFireDB](https://github.com/IceFireDB/IceFireDB) - IceFireDB is a database built for web3 and web2. It strives to fill the gap between web2 and web3 with a friendly database experience, making web3 application data storage more convenient, and making 
 - [facette/facette](https://github.com/facette/facette) - Time series data visualization software
 - [bytedance/ns-x](https://github.com/bytedance/ns-x) - An easy-to-use, flexible network simulator library in Go.
@@ -1329,7 +1329,7 @@
 - [klauspost/compress](https://github.com/klauspost/compress) - Optimized Go Compression Packages
 - [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [coinbase/odin](https://github.com/coinbase/odin) - Archived: Odin deployer to AWS for 12 Factor applications.
-- [aler9/rtsp-simple-server](https://github.com/aler9/rtsp-simple-server) - ready-to-use RTSP / RTMP / HLS server and proxy that allows to read, publish and proxy video and audio streams
+- [aler9/rtsp-simple-server](https://github.com/aler9/rtsp-simple-server) - ready-to-use RTSP / RTMP / LL-HLS server and proxy that allows to read, publish and proxy video and audio streams
 - [smarty-prototypes/go-disruptor](https://github.com/smarty-prototypes/go-disruptor) - A port of the LMAX Disruptor to the Go language.
 - [urfave/negroni](https://github.com/urfave/negroni) - Idiomatic HTTP Middleware for Golang
 - [gorilla/mux](https://github.com/gorilla/mux) - A powerful HTTP router and URL matcher for building Go web servers with 🦍
@@ -1409,7 +1409,7 @@
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [lightningnetwork/lnd](https://github.com/lightningnetwork/lnd) - Lightning Network Daemon ⚡️
 - [joostjager/whatsat](https://github.com/joostjager/whatsat) - End-to-end encrypted, onion-routed, censorship-resistant, peer-to-peer instant messaging over Lightning
-- [milvus-io/milvus](https://github.com/milvus-io/milvus) - An open-source vector database for scalable similarity search and AI applications.
+- [milvus-io/milvus](https://github.com/milvus-io/milvus) - Vector database for scalable similarity search and AI applications.
 - [cointop-sh/cointop](https://github.com/cointop-sh/cointop) - A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies 🚀
 - [bfenetworks/bfe](https://github.com/bfenetworks/bfe) - A modern layer 7 load balancer from baidu
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
@@ -1479,7 +1479,7 @@
 - [abisee/attn_vis](https://github.com/abisee/attn_vis) - Interactive in-browser attention visualizer tool for recurrent networks
 - [Digital-Tamil-Studies/open_tamil_texts](https://github.com/Digital-Tamil-Studies/open_tamil_texts) - For sharing resources related to openly licensed and structured Tamil language texts.
 - [rustviz/rustviz](https://github.com/rustviz/rustviz) - Interactively Visualizing Ownership and Borrowing for Rust
-- [whylabs/whylogs](https://github.com/whylabs/whylogs) - The open source standard for data logging
+- [whylabs/whylogs](https://github.com/whylabs/whylogs) - The open standard for data logging
 - [chiphuyen/ml-interviews-book](https://github.com/chiphuyen/ml-interviews-book) - https://huyenchip.com/ml-interviews-book/
 - [asatarin/testing-distributed-systems](https://github.com/asatarin/testing-distributed-systems) - Curated list of resources on testing distributed systems
 - [abhivaikar/howtheytest](https://github.com/abhivaikar/howtheytest) - A collection of public resources about how software companies test their software
@@ -1769,7 +1769,6 @@
 - [LearnBoost/cluster](https://github.com/LearnBoost/cluster) - Node.JS multi-core server manager with plugins support.
 - [stackshareio/awesome-stacks](https://github.com/stackshareio/awesome-stacks) - A curated list of tech stacks for building different applications & features
 - [zonetti/zonote](https://github.com/zonetti/zonote) - Cross-platform desktop note-taking app. Sticky notes with Markdown and Tabs. All in one .txt file.
-- [aeternity/aepp-sdk-js](https://github.com/aeternity/aepp-sdk-js) - Javascript SDK for the æternity blockchain
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly
 - [p2panda/handbook](https://github.com/p2panda/handbook) - Architectural specification and design of p2:panda_face:
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
@@ -3281,6 +3280,8 @@
 
 ## Python 
 
+- [huggingface/evaluate](https://github.com/huggingface/evaluate) - A library for easily evaluating machine learning models and datasets.
+- [skit-ai/eevee](https://github.com/skit-ai/eevee) - Evaluation utilities
 - [RobertCraigie/prisma-client-py](https://github.com/RobertCraigie/prisma-client-py) - Prisma Client Python is an auto-generated and fully type-safe database client designed for ease of use
 - [rchakode/kube-opex-analytics](https://github.com/rchakode/kube-opex-analytics) - 🎨 Kubernetes Usage Analytics and Accounting for Cost Allocation and Capacity Planning - Hourly Trends, Daily and Monthly Accounting - Prometheus Exporter - Built-in & Grafana Dashboards.
 - [gorilla-co/s3pypi](https://github.com/gorilla-co/s3pypi) - CLI tool for creating a Python Package Repository in an S3 bucket.
@@ -5103,7 +5104,7 @@
 - [suchitj2702/MaskRCNN_custom_training_testing_python](https://github.com/suchitj2702/MaskRCNN_custom_training_testing_python) - 
 - [locuslab/mpc.pytorch](https://github.com/locuslab/mpc.pytorch) - A fast and differentiable model predictive control (MPC) solver for PyTorch.
 - [robmsmt/KerasDeepSpeech](https://github.com/robmsmt/KerasDeepSpeech) - A Keras CTC implementation of Baidu's DeepSpeech for model experimentation
-- [maximecb/gym-minigrid](https://github.com/maximecb/gym-minigrid) - Minimalistic gridworld package for OpenAI Gym
+- [Farama-Foundation/gym-minigrid](https://github.com/Farama-Foundation/gym-minigrid) - Minimalistic gridworld package for OpenAI Gym
 - [openphilanthropy/unrestricted-adversarial-examples](https://github.com/openphilanthropy/unrestricted-adversarial-examples) - Contest Proposal and infrastructure for the Unrestricted Adversarial Examples Challenge
 - [yunjey/mnist-svhn-transfer](https://github.com/yunjey/mnist-svhn-transfer) - PyTorch Implementation of CycleGAN and SSGAN for Domain Transfer (Minimal)
 - [mwouts/jupytext](https://github.com/mwouts/jupytext) - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
@@ -5145,7 +5146,7 @@
 - [sufeidechabei/Gluon-CycleGAN](https://github.com/sufeidechabei/Gluon-CycleGAN) - The implement of CycleGAN by using GLUON
 - [anthony-dipofi/WorldModels](https://github.com/anthony-dipofi/WorldModels) - 
 - [catalyst-team/catalyst](https://github.com/catalyst-team/catalyst) - Accelerated deep learning R&D
-- [Eloston/ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) - Google Chromium, sans integration with Google
+- [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [cmsflash/beauty-net](https://github.com/cmsflash/beauty-net) - A simple, flexible, and extensible template for PyTorch. It's beautiful.
 - [shawnwun/NNDIAL](https://github.com/shawnwun/NNDIAL) - NNDial is an open source toolkit for building end-to-end trainable task-oriented dialogue models. It is released by Tsung-Hsien (Shawn) Wen from Cambridge Dialogue Systems Group under Apache License 2
@@ -5217,7 +5218,7 @@
 - [cybertronai/imagenet18_old](https://github.com/cybertronai/imagenet18_old) - Code to reproduce "imagenet in 18 minutes" DAWN-benchmark entry
 - [fengju514/Face-Pose-Net](https://github.com/fengju514/Face-Pose-Net) - Estimate 3D face pose (6DoF) or 11 parameters of 3x4 projection matrix by a Convolutional Neural Network
 - [wangg12/intel-cervical-cancer](https://github.com/wangg12/intel-cervical-cancer) - Team GuYuShiJie~'s 15th (top 2%) solution of cervix type classification in Kaggle 2017 competition, using PyTorch.
-- [facebookincubator/python-nubia](https://github.com/facebookincubator/python-nubia) - A command-line and interactive shell framework.
+- [facebookarchive/python-nubia](https://github.com/facebookarchive/python-nubia) - A command-line and interactive shell framework.
 - [python-pillow/Pillow](https://github.com/python-pillow/Pillow) - The friendly PIL fork (Python Imaging Library)
 - [jiangxiluning/FOTS.PyTorch](https://github.com/jiangxiluning/FOTS.PyTorch) - FOTS Pytorch Implementation
 - [sri-rad/face-keypoint-pytorch](https://github.com/sri-rad/face-keypoint-pytorch) - PyTorch implementation of face key-point detection from https://github.com/e-lab/pytorch-demos
@@ -6999,6 +7000,7 @@
 - [libp2p/js-libp2p](https://github.com/libp2p/js-libp2p) - The JavaScript Implementation of libp2p networking stack.
 - [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
 - [ethers-io/ethers.js](https://github.com/ethers-io/ethers.js) - Complete Ethereum library and wallet implementation in JavaScript.
+- [aeternity/aepp-sdk-js](https://github.com/aeternity/aepp-sdk-js) - Javascript SDK for the æternity blockchain
 - [chaskiq/chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp, etc ...
 - [antonycourtney/tad](https://github.com/antonycourtney/tad) - A desktop application for viewing and analyzing tabular data
 - [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
