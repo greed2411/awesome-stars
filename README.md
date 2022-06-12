@@ -127,7 +127,7 @@
 - [bitly/dablooms](https://github.com/bitly/dablooms) - scaling, counting, bloom filter library
 - [Legrandin/pycryptodome](https://github.com/Legrandin/pycryptodome) - A self-contained cryptographic library for Python
 - [FastFilter/xor_singleheader](https://github.com/FastFilter/xor_singleheader) - Header-only binary fuse and xor filter library
-- [ApsaraDB/PolarDB-for-PostgreSQL](https://github.com/ApsaraDB/PolarDB-for-PostgreSQL) - "POLARDB_11_STABLE" is the stable branch which is based on PostgreSQL 11.9.  It supports compute-storage separation architecture. The "distributed" branch, which supports distributed architecture.
+- [ApsaraDB/PolarDB-for-PostgreSQL](https://github.com/ApsaraDB/PolarDB-for-PostgreSQL) - A cloud-native database based on PostgreSQL developed by Alibaba Cloud.
 - [ThusWroteNomad/GameNetworkingResources](https://github.com/ThusWroteNomad/GameNetworkingResources) - A Curated List of Game Network Programming Resources
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [nalgeon/sqlean](https://github.com/nalgeon/sqlean) - The ultimate set of SQLite extensions
@@ -2283,7 +2283,6 @@
 - [osh/KerasGAN](https://github.com/osh/KerasGAN) - A couple of simple GANs in Keras
 - [rdempsey/pyspark-for-data-processing](https://github.com/rdempsey/pyspark-for-data-processing) - Code for my presentation: Using PySpark to Process Boat Loads of Data
 - [chenyuntc/pytorch-book](https://github.com/chenyuntc/pytorch-book) - PyTorch tutorials and fun projects including neural talk, neural style, poem writing, anime generation (《深度学习框架PyTorch：入门与实战》)
-- [danielhanchen/hyperlearn](https://github.com/danielhanchen/hyperlearn) - 2-2000x faster ML algos, 50% less memory usage, works on all hardware - new and old.
 - [chitrang6/planet-kaggle](https://github.com/chitrang6/planet-kaggle) - This repo contains the implementation of the Planet Amazon forest deep learning challenge on Kaggle
 - [harshitahluwalia7895/Loan_Prediction](https://github.com/harshitahluwalia7895/Loan_Prediction) - 
 - [AaronYALai/Seq2seqAttn_ECM](https://github.com/AaronYALai/Seq2seqAttn_ECM) - (TensorFlow) Sequence to sequence with attention model, emotion regressor, and Emotional Chatting Machine.
@@ -4789,7 +4788,7 @@
 - [rusty1s/pytorch_scatter](https://github.com/rusty1s/pytorch_scatter) - PyTorch Extension Library of Optimized Scatter Operations
 - [ptrblck/pytorch_misc](https://github.com/ptrblck/pytorch_misc) - Code snippets created for the PyTorch discussion board
 - [taengstagram/instagram-livestream-downloader](https://github.com/taengstagram/instagram-livestream-downloader) - Instagram Live Stream Downloader
-- [dvingerh/PyInstaLive](https://github.com/dvingerh/PyInstaLive) - Python script to download Instagram livestreams and replays.
+- [dvingerh/PyInstaLive](https://github.com/dvingerh/PyInstaLive) - Python script to download Instagram livestreams.
 - [IndexedConv/IndexedConv](https://github.com/IndexedConv/IndexedConv) - Code for the indexed convolution
 - [arogozhnikov/einops](https://github.com/arogozhnikov/einops) - Deep learning operations reinvented (for pytorch, tensorflow, jax and others)
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models.
@@ -5275,6 +5274,7 @@
 - [titu1994/Super-Resolution-using-Generative-Adversarial-Networks](https://github.com/titu1994/Super-Resolution-using-Generative-Adversarial-Networks) - An implementation of SRGAN model in Keras
 - [taki0112/DRIT-Tensorflow](https://github.com/taki0112/DRIT-Tensorflow) - Simple Tensorflow implementation of "Diverse Image-to-Image Translation via Disentangled Representations" (ECCV 2018 Oral)
 - [fengyang0317/video_reloc](https://github.com/fengyang0317/video_reloc) - Code for "Video Re-localization" in ECCV 2018
+- [danielhanchen/hyperlearn](https://github.com/danielhanchen/hyperlearn) - 2-2000x faster ML algos, 50% less memory usage, works on all hardware - new and old.
 - [gokul-uf/TF-Unrolled-GAN](https://github.com/gokul-uf/TF-Unrolled-GAN) - TensorFlow Implementation of Unrolled GANs using DCGANs
 - [dinghanshen/SWEM](https://github.com/dinghanshen/SWEM) - The Tensorflow code for this ACL 2018 paper: "Baseline Needs More Love: On Simple Word-Embedding-Based Models and Associated Pooling Mechanisms"
 - [pangwong/pytorch-multi-label-classifier](https://github.com/pangwong/pytorch-multi-label-classifier) - A pytorch implemented classifier for Multiple-Label classification
@@ -6759,7 +6759,7 @@
 - [mosuka/bayard](https://github.com/mosuka/bayard) - A full-text search and indexing server written in Rust.
 - [cloud-hypervisor/cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) - A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compac
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - Powerful, fast, and an easy to use search engine
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - An open-source, lightning-fast, and hyper-relevant search engine that fits effortlessly into your apps, websites, and workflow.
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
 - [jauhien/iron-kaleidoscope](https://github.com/jauhien/iron-kaleidoscope) - LLVM tutorial in Rust language
@@ -7038,7 +7038,7 @@
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
 - [lithdew/flatend](https://github.com/lithdew/flatend) - Quickly build microservices using p2p networking in NodeJS/Go.
-- [pubkey/rxdb](https://github.com/pubkey/rxdb) - 🔄 A client side, offline-first, reactive database for JavaScript Applications
+- [pubkey/rxdb](https://github.com/pubkey/rxdb) - 🔄 A fast, offline-first, reactive database for JavaScript Applications
 - [codewing-dev/codewing](https://github.com/codewing-dev/codewing) - Next level code navigation for Java and Go on GitHub.
 - [deepkit/deepkit-ml](https://github.com/deepkit/deepkit-ml) - The collaborative real-time open-source machine learning devtool and training suite: Experiment execution, tracking, and debugging. With server and project management tools.
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
