@@ -396,7 +396,7 @@
 - [andreasfertig/cppinsights](https://github.com/andreasfertig/cppinsights) - C++ Insights - See your source code with the eyes of a compiler
 - [0xZ0F/Z0FCourse_ReverseEngineering](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering) - Reverse engineering focusing on x64 Windows.
 - [h2oai/datatable](https://github.com/h2oai/datatable) - A Python package for manipulating 2-dimensional tabular data structures
-- [Tencent/Hippy](https://github.com/Tencent/Hippy) - Hippy is designed for Web developer to easily build cross-platform and high-performance awesome apps. 👏
+- [Tencent/Hippy](https://github.com/Tencent/Hippy) - Hippy is designed for developers to easily build cross-platform and high-performance awesome apps. 👏
 - [inria-thoth/cyanure](https://github.com/inria-thoth/cyanure) - Cyanure: An Open-Source Toolbox for Empirical Risk Minimization
 - [TarsCloud/Tars](https://github.com/TarsCloud/Tars) - Tars is a high-performance RPC framework based on name service and Tars protocol, also integrated administration platform, and implemented hosting-service via flexible schedule.
 - [arvidn/libtorrent](https://github.com/arvidn/libtorrent) - an efficient feature complete C++ bittorrent implementation
@@ -853,6 +853,8 @@
 
 ## Go 
 
+- [vmware-tanzu/buildkit-cli-for-kubectl](https://github.com/vmware-tanzu/buildkit-cli-for-kubectl) - BuildKit CLI for kubectl is a tool for building container images with your Kubernetes cluster
+- [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [mrusme/superhighway84](https://github.com/mrusme/superhighway84) - USENET-inspired, uncensorable, decentralized internet discussion system running on IPFS & OrbitDB
 - [barthr/redo](https://github.com/barthr/redo) - Redo is the ultimate tool to create reusable functions from your history in an interactive way
 - [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) - Add-on agent to generate and expose cluster-level metrics.
@@ -877,7 +879,7 @@
 - [aws/copilot-cli](https://github.com/aws/copilot-cli) - The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on AWS App Runner or Amazon ECS on AWS Fargate.
 - [hbollon/go-edlib](https://github.com/hbollon/go-edlib) - 📚 String comparison and edit distance algorithms library, featuring : Levenshtein, LCS, Hamming, Damerau levenshtein (OSA and Adjacent transpositions algorithms), Jaro-Winkler, Cosine, etc...
 - [up9inc/mizu](https://github.com/up9inc/mizu) - API traffic viewer for Kubernetes enabling you to view all API communication between microservices. Think TCPDump and Wireshark re-invented for Kubernetes
-- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution
+- [markphelps/flipt](https://github.com/markphelps/flipt) - An open source, self-hosted feature flag solution
 - [felixge/benchmore](https://github.com/felixge/benchmore) - 
 - [containrrr/shoutrrr](https://github.com/containrrr/shoutrrr) - Notification library for gophers and their furry friends.
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡
@@ -941,7 +943,6 @@
 - [reugn/go-quartz](https://github.com/reugn/go-quartz) - Minimalist and zero-dependency scheduling library for Go
 - [zmwangx/ets](https://github.com/zmwangx/ets) - Command output timestamper
 - [hashicorp/memberlist](https://github.com/hashicorp/memberlist) - Golang package for gossip based membership and failure detection
-- [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [odpf/raccoon](https://github.com/odpf/raccoon) - Raccoon is a high-throughput, low-latency service to collect events in real-time from your web, mobile apps, and services using multiple network protocols.
 - [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd) - The One CD for All {applications, platforms, operations}
 - [IceFireDB/IceFireDB](https://github.com/IceFireDB/IceFireDB) - IceFireDB is a database built for web3 and web2. It strives to fill the gap between web2 and web3 with a friendly database experience, making web3 application data storage more convenient, and making 
@@ -1052,7 +1053,7 @@
 - [jdxyw/julia](https://github.com/jdxyw/julia) - Generative Julia Set Image in Go
 - [hashicorp/go-discover](https://github.com/hashicorp/go-discover) - Discover nodes in cloud environments
 - [smallnest/rpcx](https://github.com/smallnest/rpcx) - Best microservices framework in Go, like alibaba Dubbo, but with more features, Scale easily. Try it. Test it. If you feel it's better, use it! 𝐉𝐚𝐯𝐚有𝐝𝐮𝐛𝐛𝐨, 𝐆𝐨𝐥𝐚𝐧𝐠有𝐫𝐩𝐜𝐱! build for clound!
-- [tidb-incubator/tinykv](https://github.com/tidb-incubator/tinykv) - A course to build distributed key-value service based on TiKV model
+- [talent-plan/tinykv](https://github.com/talent-plan/tinykv) - A course to build distributed key-value service based on TiKV model
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [irevenko/what-anime-cli](https://github.com/irevenko/what-anime-cli) - ❓🖼 Find the anime scene by image using your terminal
 - [okteto/okteto](https://github.com/okteto/okteto) - Develop your applications directly in your Kubernetes Cluster
@@ -1118,7 +1119,7 @@
 - [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new
 - [rmoff/ksqldb-go](https://github.com/rmoff/ksqldb-go) - A Golang client for ksqlDB
 - [xelaj/mtproto](https://github.com/xelaj/mtproto) - Full-native go implementation of Telegram API
-- [aws/amazon-cloudwatch-agent](https://github.com/aws/amazon-cloudwatch-agent) - 
+- [aws/amazon-cloudwatch-agent](https://github.com/aws/amazon-cloudwatch-agent) - CloudWatch Agent enables you to collect and export host-level metrics and logs on instances running Linux or Windows server.
 - [prisma/prisma-client-go](https://github.com/prisma/prisma-client-go) - Prisma Client Go is an auto-generated and fully type-safe database client
 - [nsqio/nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
 - [mosuka/cete](https://github.com/mosuka/cete) - Cete is a distributed key value store server written in Go built on top of BadgerDB.
@@ -1168,7 +1169,6 @@
 - [vbauerster/mpb](https://github.com/vbauerster/mpb) - multi progress bar for Go cli applications
 - [octoproject/octo-cli](https://github.com/octoproject/octo-cli) - CLI tool to expose data from any database as a serverless web service.
 - [go-goyave/goyave](https://github.com/go-goyave/goyave) - 🍐 Elegant Golang REST API Framework
-- [mlabouardy/komiser](https://github.com/mlabouardy/komiser) - Cloud Environment Inspector 👮:lock: :moneybag:
 - [filecoin-project/lotus](https://github.com/filecoin-project/lotus) - Implementation of the Filecoin protocol, written in Go
 - [Mindinventory/Golang-Project-Structure](https://github.com/Mindinventory/Golang-Project-Structure) - Golang Skeleton With Fully Managed Versions For Kick Start GoLang Project Development
 - [ipfs/go-bitswap](https://github.com/ipfs/go-bitswap) - The golang implementation of the bitswap protocol
@@ -1260,7 +1260,7 @@
 - [contiamo/go-base](https://github.com/contiamo/go-base) - This module contains common packages for Contiamo projects written in Go
 - [gocraft/work](https://github.com/gocraft/work) - Process background jobs in Go
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
-- [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, passwordless.
+- [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recover
 - [ipfs/go-ipfs](https://github.com/ipfs/go-ipfs) - IPFS implementation in Go
 - [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
 - [asdine/storm](https://github.com/asdine/storm) - Simple and powerful toolkit for BoltDB
@@ -1385,7 +1385,7 @@
 - [skeema/skeema](https://github.com/skeema/skeema) - Declarative pure-SQL schema management for MySQL and MariaDB
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
-- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try free: https://tidbcloud.com/signup
+- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try free: https://tidbcloud.com/free-trial
 - [vmware-archive/kubeless](https://github.com/vmware-archive/kubeless) - Kubernetes Native Serverless Framework
 - [rkt/rkt](https://github.com/rkt/rkt) - [Project ended] rkt is a pod-native container engine for Linux. It is composable, secure, and built on standards.
 - [ConsenSys/quorum](https://github.com/ConsenSys/quorum) - A permissioned implementation of Ethereum supporting data privacy
@@ -1490,7 +1490,7 @@
 - [hjacobs/kube-resource-report](https://github.com/hjacobs/kube-resource-report) - Report Kubernetes cluster and pod resource requests vs usage and generate static HTML
 - [orangeduck/BuildYourOwnLisp](https://github.com/orangeduck/BuildYourOwnLisp) - Learn C and build your own programming language in under 1000 lines of code!
 - [sovereign/sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
-- [chiphuyen/machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design) - A booklet on machine learning systems design with exercises: https://huyenchip.com/machine-learning-systems-design/toc.html
+- [chiphuyen/machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design) - A booklet on machine learning systems design with exercises. NOT the repo for the book "Designing Machine Learning Systems"
 - [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [krishnakumarsekar/awesome-quantum-machine-learning](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning) - Here you can get all the Quantum Machine learning Basics, Algorithms ,Study Materials ,Projects and the descriptions of the projects around the web
@@ -1734,7 +1734,7 @@
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [igrigorik/videospeed](https://github.com/igrigorik/videospeed) - HTML5 video speed controller (for Google Chrome)
 - [weinberg/SQLToy](https://github.com/weinberg/SQLToy) - An in-memory SQL database written in Javascript to demonstrate how SQL works.
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is a low-code platform for creating internal apps, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal apps, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform you
 - [foreversd/forever](https://github.com/foreversd/forever) - A simple CLI tool for ensuring that a given script runs continuously (i.e. forever)
 - [skit-ai/dagre-py](https://github.com/skit-ai/dagre-py) - Thin python wrapper around dagre-d3
 - [laxyapahuja/bunken](https://github.com/laxyapahuja/bunken) - A chrome extension to download ebooks directly from Goodreads.
@@ -2191,7 +2191,6 @@
 - [martius-lab/l4-optimizer](https://github.com/martius-lab/l4-optimizer) - Code for paper "L4: Practical loss-based stepsize adaptation for deep learning"
 - [krasserm/bayesian-machine-learning](https://github.com/krasserm/bayesian-machine-learning) - Notebooks about Bayesian methods for machine learning
 - [iamtrask/Grokking-Deep-Learning](https://github.com/iamtrask/Grokking-Deep-Learning) - this repository accompanies the book "Grokking Deep Learning"
-- [jantic/DeOldify](https://github.com/jantic/DeOldify) - A Deep Learning based project for colorizing and restoring old images (and video!)
 - [huseinzol05/malay-dataset](https://github.com/huseinzol05/malay-dataset) - Text corpus for Bahasa Malaysia, https://malaya.readthedocs.io/en/latest/Dataset.html
 - [barbagroup/CFDPython](https://github.com/barbagroup/CFDPython) - A sequence of Jupyter notebooks featuring the "12 Steps to Navier-Stokes" http://lorenabarba.com/
 - [oseledets/nla2017](https://github.com/oseledets/nla2017) - Skoltech 2017 NLA course
@@ -2572,6 +2571,7 @@
 ## Lua 
 
 - [sonoro1234/anima](https://github.com/sonoro1234/anima) - my tools for making videos with opengl watch them at: https://vimeo.com/user67846254
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
 - [szagoruyko/wide-residual-networks](https://github.com/szagoruyko/wide-residual-networks) - 3.8% and 18.3% on CIFAR-10 and CIFAR-100
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
@@ -3278,6 +3278,8 @@
 
 ## Python 
 
+- [google/fiddle](https://github.com/google/fiddle) - 
+- [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV-2 is a RNN with transformer-level performance. It can be directly trained like a GPT transformer (parallelizable). So it's combining the best of RNN and transformer - great performance, fast infe
 - [huggingface/evaluate](https://github.com/huggingface/evaluate) - A library for easily evaluating machine learning models and datasets.
 - [skit-ai/eevee](https://github.com/skit-ai/eevee) - Evaluation utilities
 - [RobertCraigie/prisma-client-py](https://github.com/RobertCraigie/prisma-client-py) - Prisma Client Python is an auto-generated and fully type-safe database client designed for ease of use
@@ -3370,6 +3372,7 @@
 - [scikit-hep/awkward](https://github.com/scikit-hep/awkward) - Manipulate JSON-like data with NumPy-like idioms.
 - [PaddlePaddle/Parakeet](https://github.com/PaddlePaddle/Parakeet) - PAddle PARAllel text-to-speech toolKIT (supporting Tacotron2, Transformer TTS, FastSpeech2/FastPitch, SpeedySpeech, WaveFlow  and Parallel WaveGAN)
 - [dateutil/dateutil](https://github.com/dateutil/dateutil) - Useful extensions to the standard Python datetime features
+- [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [philipperemy/n-beats](https://github.com/philipperemy/n-beats) - Keras/Pytorch implementation of N-BEATS: Neural basis expansion analysis for interpretable time series forecasting.
 - [rhasspy/rhasspy-silence](https://github.com/rhasspy/rhasspy-silence) - Silence detection in audio stream using webrtcvad
 - [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
@@ -3444,7 +3447,7 @@
 - [amundsen-io/amundsen](https://github.com/amundsen-io/amundsen) - Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.
 - [gabrielfalcao/sure](https://github.com/gabrielfalcao/sure) - idiomatic assertion toolkit with human-friendly failure messages, inspired by RSpec Expectations and should.js
 - [riiid/krsh](https://github.com/riiid/krsh) - A declarative KubeFlow Management Tool
-- [PyTorchLightning/lightning-flash](https://github.com/PyTorchLightning/lightning-flash) - Your PyTorch AI Factory - Flash enables you to easily configure and run complex AI recipes for over 15 tasks across 7 data domains
+- [Lightning-AI/lightning-flash](https://github.com/Lightning-AI/lightning-flash) - Your PyTorch AI Factory - Flash enables you to easily configure and run complex AI recipes for over 15 tasks across 7 data domains
 - [omoindrot/simple_casper](https://github.com/omoindrot/simple_casper) - A simple implementation of Casper in python
 - [nackjicholson/aiosql](https://github.com/nackjicholson/aiosql) - Simple SQL in Python
 - [madkote/fastapi-plugins](https://github.com/madkote/fastapi-plugins) - FastAPI framework plugins
@@ -3464,7 +3467,7 @@
 - [dwromero/ckconv](https://github.com/dwromero/ckconv) - Code repository of the paper "CKConv: Continuous Kernel Convolution For Sequential Data" published at ICLR 2022. https://arxiv.org/abs/2102.02611
 - [oap-project/raydp](https://github.com/oap-project/raydp) - RayDP: Distributed data processing library that provides simple APIs for running Spark on Ray and integrating Spark with distributed deep learning and machine learning frameworks.
 - [awslabs/python-deequ](https://github.com/awslabs/python-deequ) - Python API for Deequ
-- [PyTorchLightning/lightning-transformers](https://github.com/PyTorchLightning/lightning-transformers) - Flexible components pairing 🤗 Transformers with Pytorch Lightning
+- [Lightning-AI/lightning-transformers](https://github.com/Lightning-AI/lightning-transformers) - Flexible components pairing 🤗 Transformers with Pytorch Lightning
 - [mljar/mljar-supervised](https://github.com/mljar/mljar-supervised) - Python package for AutoML on Tabular Data with Feature Engineering, Hyper-Parameters Tuning, Explanations and Automatic Documentation
 - [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
 - [huggingface/accelerate](https://github.com/huggingface/accelerate) - 🚀 A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision
@@ -3484,18 +3487,18 @@
 - [facebookresearch/CrypTen](https://github.com/facebookresearch/CrypTen) - A framework for Privacy Preserving Machine Learning
 - [google-research/realworldrl_suite](https://github.com/google-research/realworldrl_suite) - Real-World RL Benchmark Suite
 - [RangiLyu/nanodet](https://github.com/RangiLyu/nanodet) - NanoDet-Plus⚡Super fast and lightweight anchor-free object detection model. 🔥Only 980 KB(int8) / 1.8MB (fp16) and run 97FPS on cellphone🔥
-- [uncertainty-toolbox/uncertainty-toolbox](https://github.com/uncertainty-toolbox/uncertainty-toolbox) - A python toolbox for predictive uncertainty quantification, calibration, metrics, and visualization
+- [uncertainty-toolbox/uncertainty-toolbox](https://github.com/uncertainty-toolbox/uncertainty-toolbox) - Uncertainty Toolbox: a python toolbox for predictive uncertainty quantification, calibration, metrics, and visualization
 - [microsoft/Swin-Transformer](https://github.com/microsoft/Swin-Transformer) - This is an official implementation for "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows".
 - [JohnMcCambridge/flenser](https://github.com/JohnMcCambridge/flenser) - Flenser is a simple, minimal, automated exploratory data analysis tool.
 - [Kaleidophon/deep-significance](https://github.com/Kaleidophon/deep-significance) - Enabling easy statistical significance testing for deep neural networks.
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [cisco/mindmeld](https://github.com/cisco/mindmeld) - An Open Source Conversational AI Platform for Deep-Domain Voice Interfaces and Chatbots.
 - [jim-schwoebel/voicebook](https://github.com/jim-schwoebel/voicebook) - 🗣️ A book and repo to get you started programming voice computing applications in Python (10 chapters and 200+ scripts).
-- [PyTorchLightning/lightning-bolts](https://github.com/PyTorchLightning/lightning-bolts) - Toolbox of models, callbacks, and datasets for AI/ML researchers.
+- [Lightning-AI/lightning-bolts](https://github.com/Lightning-AI/lightning-bolts) - Toolbox of models, callbacks, and datasets for AI/ML researchers.
 - [Borda/lightning-bolts](https://github.com/Borda/lightning-bolts) - Toolbox of models, callbacks, and datasets for AI/ML researchers.
 - [wmuron/motpy](https://github.com/wmuron/motpy) - Library for tracking-by-detection multi object tracking implemented in python
 - [EleutherAI/gpt-neo](https://github.com/EleutherAI/gpt-neo) - An implementation of model parallel GPT-2 and GPT-3-style models using the mesh-tensorflow library.
-- [PyTorchLightning/metrics](https://github.com/PyTorchLightning/metrics) - Machine learning metrics for distributed, scalable PyTorch applications.
+- [Lightning-AI/metrics](https://github.com/Lightning-AI/metrics) - Machine learning metrics for distributed, scalable PyTorch applications.
 - [KatyBrown/CIAlign](https://github.com/KatyBrown/CIAlign) - 
 - [Tencent/Real-SR](https://github.com/Tencent/Real-SR) - Real-World Super-Resolution via Kernel Estimation and Noise Injection
 - [huggingface/transfer-learning-conv-ai](https://github.com/huggingface/transfer-learning-conv-ai) - 🦄 State-of-the-Art Conversational AI with Transfer Learning
@@ -3544,7 +3547,7 @@
 - [spulec/moto](https://github.com/spulec/moto) - A library that allows you to easily mock out tests based on AWS infrastructure.
 - [bytedance/neurst](https://github.com/bytedance/neurst) - Neural end-to-end Speech Translation Toolkit
 - [tencent-ailab/pika](https://github.com/tencent-ailab/pika) - a lightweight speech processing toolkit based on Pytorch and (Py)Kaldi
-- [fepegar/torchio](https://github.com/fepegar/torchio) - TorchIO: medical imaging for deep learning.
+- [fepegar/torchio](https://github.com/fepegar/torchio) - Medical imaging toolkit for deep learning
 - [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.3, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, and 3.10.  You feed it your Python app, it does a lot of clever things, a
 - [facebookresearch/hydra](https://github.com/facebookresearch/hydra) - Hydra is a framework for elegantly configuring complex applications
 - [akshaynagpal/w2n](https://github.com/akshaynagpal/w2n) - Convert number words (eg. twenty one) to numeric digits (21)
@@ -3646,6 +3649,7 @@
 - [Red5d/docker-autocompose](https://github.com/Red5d/docker-autocompose) - Generate a docker-compose yaml definition from a running container
 - [IBM/differential-privacy-library](https://github.com/IBM/differential-privacy-library) - Diffprivlib: The IBM Differential Privacy Library
 - [YashNita/sound-event-detection-winning-method](https://github.com/YashNita/sound-event-detection-winning-method) - 
+- [orchest/orchest](https://github.com/orchest/orchest) - Build data pipelines, the easy way 🛠️
 - [tradytics/eiten](https://github.com/tradytics/eiten) - Statistical and Algorithmic Investing Strategies for Everyone
 - [google/gnxi](https://github.com/google/gnxi) - gNXI Tools - gRPC Network Management/Operations Interface Tools
 - [jfsantos/maracas](https://github.com/jfsantos/maracas) - maracas is a library for corrupting audio files with additive and convolutive noise.
@@ -3733,7 +3737,7 @@
 - [python-zk/kazoo](https://github.com/python-zk/kazoo) - Kazoo is a high-level Python library that makes it easier to use Apache Zookeeper.
 - [jeffknupp/sandman2](https://github.com/jeffknupp/sandman2) - Automatically generate a RESTful API service for your legacy database. No code required!
 - [feast-dev/feast](https://github.com/feast-dev/feast) - Feature Store for Machine Learning
-- [PyTorchLightning/lightning-Covid19](https://github.com/PyTorchLightning/lightning-Covid19) - Classification for covid-19 chest X-ray images using Lightning
+- [Lightning-AI/lightning-Covid19](https://github.com/Lightning-AI/lightning-Covid19) - Classification for covid-19 chest X-ray images using Lightning
 - [cerebroai/reformers](https://github.com/cerebroai/reformers) - Efficient Transformers for research, PyTorch and Tensorflow using Locality Sensitive Hashing
 - [bentoml/BentoML](https://github.com/bentoml/BentoML) - The Unified Model Serving Framework 🍱
 - [uber/fiber](https://github.com/uber/fiber) - Distributed Computing for AI Made Simple
@@ -3859,7 +3863,7 @@
 - [deepjyoti30/ytmdl](https://github.com/deepjyoti30/ytmdl) - A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, Spotify, LastFM, Deezer, Gaana etc.
 - [nschloe/meshio](https://github.com/nschloe/meshio) - :spider_web: input/output for many mesh formats
 - [Kayzaks/HackingNeuralNetworks](https://github.com/Kayzaks/HackingNeuralNetworks) - A small course on exploiting and defending neural networks
-- [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) - The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels
+- [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) - The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
 - [alegonz/baikal](https://github.com/alegonz/baikal) - A graph-based functional API for building complex scikit-learn pipelines.
 - [coleifer/huey](https://github.com/coleifer/huey) - a little task queue for python
 - [manatlan/guy](https://github.com/manatlan/guy) - Graphics User Ynterface : a simple module for making GUI applications (with html/js) for py3 ... to target windows, linux, mac & android
@@ -4190,7 +4194,7 @@
 - [lxtGH/OctaveConv_pytorch](https://github.com/lxtGH/OctaveConv_pytorch) - Pytorch implementation of newly added convolution
 - [utkuozbulak/pytorch-cnn-adversarial-attacks](https://github.com/utkuozbulak/pytorch-cnn-adversarial-attacks) - Pytorch implementation of convolutional neural network adversarial attack techniques
 - [princeton-vl/CornerNet-Lite](https://github.com/princeton-vl/CornerNet-Lite) - 
-- [Megvii-Nanjing/ML-GCN](https://github.com/Megvii-Nanjing/ML-GCN) - PyTorch implementation of Multi-Label Image Recognition with Graph Convolutional Networks, CVPR 2019.
+- [megvii-research/ML-GCN](https://github.com/megvii-research/ML-GCN) - PyTorch implementation of Multi-Label Image Recognition with Graph Convolutional Networks, CVPR 2019.
 - [benkrause/dynamiceval-transformer](https://github.com/benkrause/dynamiceval-transformer) - 
 - [python-attrs/cattrs](https://github.com/python-attrs/cattrs) - Complex custom class converters for attrs.
 - [Tinche/aiofiles](https://github.com/Tinche/aiofiles) - File support for asyncio
@@ -4241,7 +4245,7 @@
 - [deepmind/mathematics_dataset](https://github.com/deepmind/mathematics_dataset) - This dataset code generates mathematical question and answer pairs, from a range of question types at roughly school-level difficulty.
 - [mingdachen/disentangle-semantics-syntax](https://github.com/mingdachen/disentangle-semantics-syntax) - Code for "A Multi-Task Approach for Disentangling Syntax and Semantics in Sentence Representations" (NAACL 2019)
 - [facebookresearch/PyTorch-BigGraph](https://github.com/facebookresearch/PyTorch-BigGraph) - Generate embeddings from large-scale graph-structured data.
-- [PyTorchLightning/pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning) - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
+- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - Build high-performance AI models with PyTorch Lightning (organized PyTorch). Deploy models with Lightning Apps (organized Python to build end-to-end ML systems).
 - [Lotayou/densebody_pytorch](https://github.com/Lotayou/densebody_pytorch) - PyTorch implementation of CloudWalk's recent work DenseBody
 - [falconry/falcon](https://github.com/falconry/falcon) - The no-magic web data plane API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale.
 - [Tsdevendra1/NEAT-Algorithm](https://github.com/Tsdevendra1/NEAT-Algorithm) - 
@@ -4875,9 +4879,10 @@
 - [mahasak/pytorch-deploy-model](https://github.com/mahasak/pytorch-deploy-model) - 
 - [VDIGPKU/M2Det](https://github.com/VDIGPKU/M2Det) - M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network
 - [ppwwyyxx/SoPaper](https://github.com/ppwwyyxx/SoPaper) - Automatically Search and Download Papers
+- [jantic/DeOldify](https://github.com/jantic/DeOldify) - A Deep Learning based project for colorizing and restoring old images (and video!)
 - [wolegechu/ShuffleNetV2.Caffe2](https://github.com/wolegechu/ShuffleNetV2.Caffe2) - A Caffe2 implementation of ShuffleNet V2.
 - [pypa/linehaul](https://github.com/pypa/linehaul) - ARCHIVED, replaced by https://github.com/pypa/linehaul-cloud-function/
-- [kenjewu/CRF](https://github.com/kenjewu/CRF) - Linear chain conditional random fields are implemented using Numpy and Mxnet/Gluon, and batch training is supported, not limited to training the data one by one.
+- [vanewu/CRF](https://github.com/vanewu/CRF) - Linear chain conditional random fields are implemented using Numpy and Mxnet/Gluon, and batch training is supported, not limited to training the data one by one.
 - [tonysy/CapsuleNet-Gluon](https://github.com/tonysy/CapsuleNet-Gluon) - Implemention of Capsule Net from the paper Dynamic Routing Between Capsules
 - [openai/random-network-distillation](https://github.com/openai/random-network-distillation) - Code for the paper "Exploration by Random Network Distillation"
 - [miha-skalic/youtube8mchallenge](https://github.com/miha-skalic/youtube8mchallenge) - 1st place solution to Kaggle's 2018 YouTube-8M Video Understanding Challenge
@@ -4906,7 +4911,7 @@
 - [kubeflow/katib](https://github.com/kubeflow/katib) - Repository for hyperparameter tuning
 - [fuenwang/3D-BoundingBox](https://github.com/fuenwang/3D-BoundingBox) - PyTorch implementation for 3D Bounding Box Estimation Using Deep Learning and Geometry
 - [tf-encrypted/tf-encrypted](https://github.com/tf-encrypted/tf-encrypted) - A Framework for Encrypted Machine Learning in TensorFlow
-- [lukemelas/image-paragraph-captioning](https://github.com/lukemelas/image-paragraph-captioning) - PyTorch implementation of Training for Diversity in Image Paragraph Captioning (EMNLP 2018)
+- [lukemelas/image-paragraph-captioning](https://github.com/lukemelas/image-paragraph-captioning) - [EMNLP 2018] Training for Diversity in Image Paragraph Captioning
 - [AdaCompNUS/qmdp-net](https://github.com/AdaCompNUS/qmdp-net) - QMDP-Net implementation
 - [lRomul/argus-tgs-salt](https://github.com/lRomul/argus-tgs-salt) - Kaggle | 14th place solution for TGS Salt Identification Challenge
 - [lRomul/argus](https://github.com/lRomul/argus) - Lightweight library for training neural networks in PyTorch
@@ -5044,7 +5049,7 @@
 - [NVIDIA/OpenSeq2Seq](https://github.com/NVIDIA/OpenSeq2Seq) - Toolkit for efficient experimentation with Speech Recognition, Text2Speech and NLP
 - [ShuangXieIrene/ssds.pytorch](https://github.com/ShuangXieIrene/ssds.pytorch) - Repository for Single Shot MultiBox Detector and its variants, implemented with pytorch, python3.
 - [YadiraF/face3d](https://github.com/YadiraF/face3d) - Python tools for 3D face: 3DMM, Mesh processing(transform, camera, light, render), 3D face representations.
-- [modin-project/modin](https://github.com/modin-project/modin) - Modin: Speed up your Pandas workflows by changing a single line of code
+- [modin-project/modin](https://github.com/modin-project/modin) - Modin: Scale your Pandas workflows by changing a single line of code
 - [ckyrkou/CNN_Car_Detector](https://github.com/ckyrkou/CNN_Car_Detector) - Training a deep-learning classifier for aerial top view detection of vehicles.
 - [jingyang2017/Face-and-Image-super-resolution](https://github.com/jingyang2017/Face-and-Image-super-resolution) - 
 - [NirantK/pytorch-web-deploy](https://github.com/NirantK/pytorch-web-deploy) - Simple, fast web deployment for your PyTorch models
@@ -6482,7 +6487,7 @@
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [krustlet/krustlet](https://github.com/krustlet/krustlet) - Kubernetes Rust Kubelet
 - [zesterer/chumsky](https://github.com/zesterer/chumsky) - A parser library for humans with powerful error recovery.
-- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - mirrord lets you easily mirror traffic from your production environment to your development environment.
+- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - By mirroring traffic to and from your machine, mirrord surrounds your local service with a mirror image of its cloud environment.
 - [hotg-ai/rune](https://github.com/hotg-ai/rune) - Rune provides containers to encapsulate and deploy edgeML pipelines and applications
 - [singularity-data/risingwave](https://github.com/singularity-data/risingwave) - RisingWave: the next-generation streaming database in the cloud.
 - [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates
@@ -6524,7 +6529,7 @@
 - [bytecodealliance/rustix](https://github.com/bytecodealliance/rustix) - Safe Rust bindings to POSIX-ish APIs
 - [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn't ever lose your work if you're using Git
 - [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Friendly React-like crossplatform app development for desktop, web, mobile, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Friendly React-like GUI library for desktop, web, mobile, and more.
 - [tesselode/kira](https://github.com/tesselode/kira) - Library for expressive game audio.
 - [Rust-GPU/Rust-CUDA](https://github.com/Rust-GPU/Rust-CUDA) - Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust.
 - [adwhit/itchy-rust](https://github.com/adwhit/itchy-rust) - NASDAQ ITCH parser in Rust
@@ -6624,7 +6629,7 @@
 - [lemunozm/message-io](https://github.com/lemunozm/message-io) - Fast and easy-to-use event-driven network library.
 - [salmans/codd](https://github.com/salmans/codd) - A minimal in-memory database with relational algebraic expressions as queries
 - [Xudong-Huang/may](https://github.com/Xudong-Huang/may) - rust stackful coroutine library
-- [mufeedvh/binserve](https://github.com/mufeedvh/binserve) - A fast static web server with routing, templating, and security in a single binary you can set up with zero code.
+- [mufeedvh/binserve](https://github.com/mufeedvh/binserve) - A fast static web server with TLS (HTTPS), routing, hot reloading, caching, templating, and security in a single-binary you can set up with zero code. :zap:
 - [AsafFisher/Oxidiscovery](https://github.com/AsafFisher/Oxidiscovery) - A peer to peer library build with rust.
 - [outbrain/fwumious_wabbit](https://github.com/outbrain/fwumious_wabbit) - Fwumious Wabbit, fast on-line machine learning toolkit written in Rust
 - [metrics-rs/metrics](https://github.com/metrics-rs/metrics) - A metrics ecosystem for Rust.
@@ -6885,7 +6890,7 @@
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [mvallim/kubernetes-under-the-hood](https://github.com/mvallim/kubernetes-under-the-hood) - This tutorial is someone planning to install a Kubernetes cluster and wants to understand how everything fits together.
 - [xiaohanyu/oh-my-laptop](https://github.com/xiaohanyu/oh-my-laptop) - [Sleepy] Provide some easy to use ansbile playbooks to turn your laptop to awesome.
-- [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 750+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDA
+- [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 800+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDA
 - [replicatedhq/kURL](https://github.com/replicatedhq/kURL) - Production-grade, airgapped Kubernetes installer combining upstream k8s with overlays and popular components
 - [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers
 - [fsquillace/junest](https://github.com/fsquillace/junest) - The lightweight Arch Linux based distro that runs, without root privileges, upon any Linux distro
@@ -7018,7 +7023,7 @@
 - [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
 - [elsaland/elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal, fast and secure runtime for JavaScript and TypeScript written in Go
 - [codemix/ts-sql](https://github.com/codemix/ts-sql) - A SQL database implemented purely in TypeScript type annotations.
-- [orchest/orchest](https://github.com/orchest/orchest) - Build data pipelines, the easy way 🛠️
+- [mlabouardy/komiser](https://github.com/mlabouardy/komiser) - Cloud Environment Inspector 👮:lock: :moneybag:
 - [microsoft/FluidFramework](https://github.com/microsoft/FluidFramework) - Library for building distributed, real-time collaborative web  applications
 - [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
 - [esrlabs/chipmunk](https://github.com/esrlabs/chipmunk) - log analysis tool
@@ -7030,7 +7035,7 @@
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [github/stable-socket](https://github.com/github/stable-socket) - A web socket that reconnects.
 - [Novage/p2p-media-loader](https://github.com/Novage/p2p-media-loader) - An open-source engine for P2P streaming of live and on demand video directly in a web browser HTML page
-- [redpanda-data/kowl](https://github.com/redpanda-data/kowl) - Kowl is a developer-friendly UI for managing your Kafka/Redpanda workloads. Kowl gives you a simple, interactive approach for gaining visibility into your topics, masking data, managing consumer group
+- [redpanda-data/console](https://github.com/redpanda-data/console) - Redpanda Console is a developer-friendly UI for managing your Kafka/Redpanda workloads. Console gives you a simple, interactive approach for gaining visibility into your topics, masking data, managing
 - [microsoft/fast](https://github.com/microsoft/fast) - The adaptive interface system for modern web experiences.
 - [nsfw-filter/nsfw-filter](https://github.com/nsfw-filter/nsfw-filter) - 🚀 A Google Chrome extension that blocks NSFW images from websites using TensorFlow JS.
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
@@ -7099,7 +7104,6 @@
 ## Vim script 
 
 - [VundleVim/Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vundle, the plug-in manager for Vim
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 - [fatih/vim-go](https://github.com/fatih/vim-go) - Go development plugin for Vim
 - [onivim/libvim](https://github.com/onivim/libvim) - libvim: The core Vim editing engine as a minimal C library
 - [vimwiki/vimwiki](https://github.com/vimwiki/vimwiki) - Personal Wiki for Vim
