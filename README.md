@@ -3354,7 +3354,7 @@
 - [antiboredom/audiogrep](https://github.com/antiboredom/audiogrep) - Creates audio supercuts.
 - [google/budoux](https://github.com/google/budoux) - 
 - [rish-16/CycleGANsformer](https://github.com/rish-16/CycleGANsformer) - Unpaired Image-to-Image Translation with Transformer-based GANs in PyTorch [WIP]
-- [microsoft/torchgeo](https://github.com/microsoft/torchgeo) - TorchGeo: datasets, transforms, and models for geospatial data
+- [microsoft/torchgeo](https://github.com/microsoft/torchgeo) - TorchGeo: datasets, samplers, transforms, and pre-trained models for geospatial data
 - [koaning/doubtlab](https://github.com/koaning/doubtlab) - Doubt your data, find bad labels.
 - [mvrozanti/dte](https://github.com/mvrozanti/dte) - 🕟 date and time processing language
 - [skit-ai/sentinel](https://github.com/skit-ai/sentinel) - Skit's call monitoring and filtering framework.
@@ -6629,7 +6629,7 @@
 - [lemunozm/message-io](https://github.com/lemunozm/message-io) - Fast and easy-to-use event-driven network library.
 - [salmans/codd](https://github.com/salmans/codd) - A minimal in-memory database with relational algebraic expressions as queries
 - [Xudong-Huang/may](https://github.com/Xudong-Huang/may) - rust stackful coroutine library
-- [mufeedvh/binserve](https://github.com/mufeedvh/binserve) - A fast static web server with TLS (HTTPS), routing, hot reloading, caching, templating, and security in a single-binary you can set up with zero code. :zap:
+- [mufeedvh/binserve](https://github.com/mufeedvh/binserve) - A fast production-ready static web server with TLS (HTTPS), routing, hot reloading, caching, templating, and security in a single-binary you can set up with zero code. :zap:
 - [AsafFisher/Oxidiscovery](https://github.com/AsafFisher/Oxidiscovery) - A peer to peer library build with rust.
 - [outbrain/fwumious_wabbit](https://github.com/outbrain/fwumious_wabbit) - Fwumious Wabbit, fast on-line machine learning toolkit written in Rust
 - [metrics-rs/metrics](https://github.com/metrics-rs/metrics) - A metrics ecosystem for Rust.
