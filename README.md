@@ -594,6 +594,7 @@
 - [NVIDIA/DALI](https://github.com/NVIDIA/DALI) - A GPU-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications.
 - [projectchrono/chrono](https://github.com/projectchrono/chrono) - High-performance C++ library for multiphysics and multibody dynamics simulations
 - [amazon-archives/amazon-dsstne](https://github.com/amazon-archives/amazon-dsstne) - Deep Scalable Sparse Tensor Network Engine (DSSTNE) is an Amazon developed library for building Deep Learning (DL) machine learning (ML) models
+- [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [nickgillian/grt](https://github.com/nickgillian/grt) - gesture recognition toolkit
 - [longcw/RoIAlign.pytorch](https://github.com/longcw/RoIAlign.pytorch) - RoIAlign & crop_and_resize for PyTorch
 - [PX4/eigen](https://github.com/PX4/eigen) - Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.
@@ -5597,7 +5598,6 @@
 - [msracver/Relation-Networks-for-Object-Detection](https://github.com/msracver/Relation-Networks-for-Object-Detection) - Relation Networks for Object Detection
 - [huggingface/pytorch-openai-transformer-lm](https://github.com/huggingface/pytorch-openai-transformer-lm) - 🐥A PyTorch implementation of OpenAI's finetuned transformer language model with a script to import the weights pre-trained by OpenAI
 - [openai/finetune-transformer-lm](https://github.com/openai/finetune-transformer-lm) - Code and model for the paper "Improving Language Understanding by Generative Pre-Training"
-- [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [facebookresearch/clevr-dataset-gen](https://github.com/facebookresearch/clevr-dataset-gen) - A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning
 - [flyyufelix/sonic_contest](https://github.com/flyyufelix/sonic_contest) - Source code for OpenAI Retro Contest for Sonic the Hedgehog
 - [hiroharu-kato/mesh_reconstruction](https://github.com/hiroharu-kato/mesh_reconstruction) - Code of single-image 3D reconstruction "Neural 3D Mesh Renderer" by H. Kato, Y. Ushiku, and T. Harada.
@@ -6830,6 +6830,7 @@
 
 ## Scala 
 
+- [rtyley/bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
 - [linkedin/feathr](https://github.com/linkedin/feathr) - Feathr – An Enterprise-Grade, High Performance Feature Store
 - [lichess-org/lila](https://github.com/lichess-org/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞
 - [gregdurrett/berkeley-doc-summarizer](https://github.com/gregdurrett/berkeley-doc-summarizer) - The Berkeley Document Summarizer is a learning-based, single-document summarization system that extracts source document content, exploits syntactic information to compress it, and uses coreference co
@@ -6975,7 +6976,7 @@
 - [ngneat/falso](https://github.com/ngneat/falso) - All the Fake Data for All Your Real Needs 🙂
 - [yatki/vscode-surround](https://github.com/yatki/vscode-surround) - 🔥A simple yet powerful extension to add wrapper templates around your code blocks
 - [JaosnHsieh/github-star-search](https://github.com/JaosnHsieh/github-star-search) - A CLI that search your github starred repositories offline through README , description and other fields.
-- [haskell-spotlight/haskell-spotlight](https://github.com/haskell-spotlight/haskell-spotlight) - Follow us: https://twitter.com/HaskellSpot Support the project: https://ko-fi.com/visortelle
+- [haskell-spotlight/haskell-spotlight](https://github.com/haskell-spotlight/haskell-spotlight) - VSCode extension for Haskell
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [slashbase/slashbase](https://github.com/slashbase/slashbase) - The open-source collaborative IDE for your databases.
 - [egoist/bina](https://github.com/egoist/bina) - An installer for self-contained, single-file binaries, no additional CLI needed.
