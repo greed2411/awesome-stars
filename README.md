@@ -2164,7 +2164,7 @@
 - [radekosmulski/whale](https://github.com/radekosmulski/whale) - 
 - [ANIME305/Anime-GAN-tensorflow](https://github.com/ANIME305/Anime-GAN-tensorflow) - The BIGGAN based Anime generation implemented with tensorflow. All training data has been open sourced.
 - [ignacio-rocco/ncnet](https://github.com/ignacio-rocco/ncnet) - PyTorch code for Neighbourhood Consensus Networks
-- [GokuMohandas/MadeWithML](https://github.com/GokuMohandas/MadeWithML) - Learn how to responsibly deliver value with ML.
+- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to responsibly deliver value with ML.
 - [zake7749/DeepToxic](https://github.com/zake7749/DeepToxic) - top 1% solution to toxic comment classification challenge on Kaggle.
 - [microsoft/Elevation](https://github.com/microsoft/Elevation) - End-to-end guide design for CRISPR/Cas9 with machine learning
 - [aliasvishnu/EEGNet](https://github.com/aliasvishnu/EEGNet) - [Old version] PyTorch implementation of EEGNet: A Compact Convolutional Network for EEG-based Brain-Computer Interfaces - https://arxiv.org/pdf/1611.08024.pdf
@@ -3080,7 +3080,6 @@
 - [prichemond/introdeeprl](https://github.com/prichemond/introdeeprl) - Slides for my intro to deep reinforcement learning at Imperial College
 - [hgrif/airflow-tutorial](https://github.com/hgrif/airflow-tutorial) - Airflow basics tutorial
 - [benstew/blockchain-for-software-engineers](https://github.com/benstew/blockchain-for-software-engineers) - A curated list of resources for blockchain engineers
-- [clearspandex/cracking-the-data-science-interview](https://github.com/clearspandex/cracking-the-data-science-interview) - Resources for Oreilly's "Cracking the Data Science Interview" video series.
 - [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts
 - [ramnes/awesome-mongodb](https://github.com/ramnes/awesome-mongodb) - :leaves: A curated list of awesome MongoDB resources, libraries, tools and applications
 - [NirantK/awesome-project-ideas](https://github.com/NirantK/awesome-project-ideas) - Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas
