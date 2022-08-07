@@ -130,7 +130,7 @@
 - [Legrandin/pycryptodome](https://github.com/Legrandin/pycryptodome) - A self-contained cryptographic library for Python
 - [FastFilter/xor_singleheader](https://github.com/FastFilter/xor_singleheader) - Header-only binary fuse and xor filter library
 - [ApsaraDB/PolarDB-for-PostgreSQL](https://github.com/ApsaraDB/PolarDB-for-PostgreSQL) - A cloud-native database based on PostgreSQL developed by Alibaba Cloud.
-- [ThusWroteNomad/GameNetworkingResources](https://github.com/ThusWroteNomad/GameNetworkingResources) - A Curated List of Game Network Programming Resources
+- [ThusSpokeNomad/GameNetworkingResources](https://github.com/ThusSpokeNomad/GameNetworkingResources) - A Curated List of Game Network Programming Resources
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [nalgeon/sqlean](https://github.com/nalgeon/sqlean) - The ultimate set of SQLite extensions
 - [emikulic/darkhttpd](https://github.com/emikulic/darkhttpd) - When you need a web server in a hurry.
@@ -1574,6 +1574,7 @@
 
 ## Haskell 
 
+- [commercialhaskell/stack](https://github.com/commercialhaskell/stack) - The Haskell Tool Stack
 - [graninas/Functional-Design-and-Architecture](https://github.com/graninas/Functional-Design-and-Architecture) - Code and materials for my book "Functional Design and Architecture"
 - [facebook/Haxl](https://github.com/facebook/Haxl) - A Haskell library that simplifies access to remote data, such as databases or web-based services.
 - [google/haskell-trainings](https://github.com/google/haskell-trainings) - Haskell 101 and 102: slides and codelabs
@@ -1735,6 +1736,7 @@
 
 ## JavaScript 
 
+- [olsonpm/sqlite-to-rest](https://github.com/olsonpm/sqlite-to-rest) - 
 - [LingDong-/nonflowers](https://github.com/LingDong-/nonflowers) - Procedurally generated paintings of nonexistent flowers.
 - [LingDong-/fishdraw](https://github.com/LingDong-/fishdraw) - procedurally generated fish drawings
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
@@ -1916,7 +1918,6 @@
 - [RelaxedJS/ReLaXed](https://github.com/RelaxedJS/ReLaXed) - Create PDF documents using web technologies
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [yarnpkg/yarn](https://github.com/yarnpkg/yarn) - The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry
-- [vercel/micro](https://github.com/vercel/micro) - Asynchronous HTTP microservices
 - [FaisalUmair/udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui) - A desktop application for downloading Udemy Courses
 - [santinic/how2](https://github.com/santinic/how2) - stackoverflow from the terminal
 - [PAIR-code/cam-scroller](https://github.com/PAIR-code/cam-scroller) - Cam Scroller is an open-source Chrome extension that uses your webcam and deeplearn.js to enable scrolling through webpages using custom gestures that you define.
@@ -2686,6 +2687,7 @@
 
 ## Others 
 
+- [heejkoo/Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models) - A collection of resources and papers on Diffusion Models and Score-based Models, a darkhorse in the field of Generative Models
 - [jorgef/engineeringladders](https://github.com/jorgef/engineeringladders) - A framework for Engineering Managers
 - [skit-ai/phone-number-entity-dataset](https://github.com/skit-ai/phone-number-entity-dataset) - Dataset Release for Phone Number Entity capture task
 - [krishnadey30/LeetCode-Questions-CompanyWise](https://github.com/krishnadey30/LeetCode-Questions-CompanyWise) - Contains Company Wise Questions sorted based on Frequency and all time
@@ -3299,6 +3301,7 @@
 
 ## Python 
 
+- [moyix/fauxpilot](https://github.com/moyix/fauxpilot) - FauxPilot - an open-source GitHub Copilot server
 - [Erotemic/ubelt](https://github.com/Erotemic/ubelt) - A Python utility library with a stdlib like feel and extra batteries. Paths, Progress, Dicts, Downloads, Caching, Hashing: ubelt makes it easy!
 - [linkedin/shiv](https://github.com/linkedin/shiv) - shiv is a command line utility for building fully self contained Python zipapps as outlined in PEP 441, but with all their dependencies included.
 - [msgi/nlp-journey](https://github.com/msgi/nlp-journey) - Documents, papers and codes related to  Natural Language Processing, including Topic Model, Word Embedding, Named Entity Recognition, Text Classificatin, Text Generation, Text Similarity, Machine Tran
@@ -5489,7 +5492,7 @@
 - [symoon94/DRQN-keras](https://github.com/symoon94/DRQN-keras) - Atari-DRQN (keras ver.)
 - [pyprob/pyprob](https://github.com/pyprob/pyprob) - A probabilistic programming system for simulators and high-performance computing (HPC), based on PyTorch
 - [pytorchbearer/torchbearer](https://github.com/pytorchbearer/torchbearer) - torchbearer: A model fitting library for PyTorch
-- [ray-project/ray](https://github.com/ray-project/ray) - A unified framework for scalable computing. Ray is packaged with scalable libraries for data processing (Ray Datasets), training (Ray Train), hyperparameter tuning (Ray Tune), reinforcement learning (
+- [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML workloads.
 - [openai/sonic-on-ray](https://github.com/openai/sonic-on-ray) - Training Sonic with RLlib
 - [openai/retro-baselines](https://github.com/openai/retro-baselines) - Publicly releasable baselines for the Retro contest
 - [BerkeleyAutomation/DART](https://github.com/BerkeleyAutomation/DART) - 
@@ -5894,7 +5897,7 @@
 - [smoqadam/PyFladesk](https://github.com/smoqadam/PyFladesk) - create desktop application by using Flask and QtWebKit
 - [bisguzar/twitter-scraper](https://github.com/bisguzar/twitter-scraper) - Scrape the Twitter Frontend API without authentication.
 - [llSourcell/Landing-a-SpaceX-Falcon-Heavy-Rocket](https://github.com/llSourcell/Landing-a-SpaceX-Falcon-Heavy-Rocket) - This is the code for "Landing a SpaceX Falcon Heavy Rocket" By Siraj Raval on Youtube
-- [megvii-research/NIPS2017-LearningToRunACE](https://github.com/megvii-research/NIPS2017-LearningToRunACE) - 2nd solution of NIPS2017 LearningToRun Competition.
+- [megvii-research/NIPS2017-LearningToRunACE](https://github.com/megvii-research/NIPS2017-LearningToRunACE) - 2nd place solution of NIPS2017 LearningToRun Competition.
 - [shekkizh/ImageProcessingProjects](https://github.com/shekkizh/ImageProcessingProjects) - Image processing using python and opencv
 - [miguelgrinberg/python-socketio](https://github.com/miguelgrinberg/python-socketio) - Python Socket.IO server and client
 - [hhsecond/PyTorchDemystified](https://github.com/hhsecond/PyTorchDemystified) - Introduction to PyTorch and dynamic computation graph
@@ -6507,6 +6510,7 @@
 
 ## Rust 
 
+- [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C++) libraries.
 - [losfair/mvsqlite](https://github.com/losfair/mvsqlite) - Distributed, MVCC SQLite that runs on FoundationDB.
 - [cberner/redb](https://github.com/cberner/redb) - An embedded key-value database in pure Rust
 - [lightningdevkit/rust-lightning](https://github.com/lightningdevkit/rust-lightning) - A highly modular Bitcoin Lightning library written in Rust. It's rust-lightning, not Rusty's Lightning!
@@ -7122,6 +7126,7 @@
 - [vega/voyager](https://github.com/vega/voyager) - Visualization Tool for Data Exploration
 - [vega/vega-datasets](https://github.com/vega/vega-datasets) - Common repository for example datasets used by Vega-related projects
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
+- [vercel/micro](https://github.com/vercel/micro) - Asynchronous HTTP microservices
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [PaddlePaddle/VisualDL](https://github.com/PaddlePaddle/VisualDL) - Deep Learning Visualization Toolkit（『飞桨』深度学习可视化工具 ）
 - [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
