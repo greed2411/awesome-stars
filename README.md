@@ -286,6 +286,7 @@
 
 ## C++ 
 
+- [nnextdb/nnext](https://github.com/nnextdb/nnext) - Main NNext Application Code
 - [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [an-tao/trantor](https://github.com/an-tao/trantor) - a non-blocking I/O tcp network lib based on c++14/17
@@ -861,6 +862,7 @@
 
 ## Go 
 
+- [ajinasokan/apkc](https://github.com/ajinasokan/apkc) - apkc is a bare-bones Android app build system that lets you build simple native Android apps without entire Android IDE
 - [twitter/scoot](https://github.com/twitter/scoot) - Scoot is a distributed task runner, supporting both a proprietary API and Bazel's Remote Execution.
 - [cloudflare/gokey](https://github.com/cloudflare/gokey) - A simple vaultless password manager in Go
 - [superfly/litefs](https://github.com/superfly/litefs) - FUSE-based file system for replicating SQLite databases across a cluster of machines
@@ -3301,6 +3303,8 @@
 
 ## Python 
 
+- [Idlak/Living-Audio-Dataset](https://github.com/Idlak/Living-Audio-Dataset) - A "Crowd-Built" continuously growing speech dataset with transcripts. The dataset contains multiple languages and is intended for anyone to be able to add to it.
+- [FFRI/ProjectChampollion](https://github.com/FFRI/ProjectChampollion) - Reverse engineering Rosetta 2 on M1 Mac
 - [moyix/fauxpilot](https://github.com/moyix/fauxpilot) - FauxPilot - an open-source GitHub Copilot server
 - [Erotemic/ubelt](https://github.com/Erotemic/ubelt) - A Python utility library with a stdlib like feel and extra batteries. Paths, Progress, Dicts, Downloads, Caching, Hashing: ubelt makes it easy!
 - [linkedin/shiv](https://github.com/linkedin/shiv) - shiv is a command line utility for building fully self contained Python zipapps as outlined in PEP 441, but with all their dependencies included.
@@ -3439,7 +3443,7 @@
 - [Ezibenroc/PyRoaringBitMap](https://github.com/Ezibenroc/PyRoaringBitMap) - An efficient and light-weight ordered set of 32 bits integers.
 - [SethMMorton/natsort](https://github.com/SethMMorton/natsort) - Simple yet flexible natural sorting in Python.
 - [aiogram/aiogram](https://github.com/aiogram/aiogram) - Is a pretty simple and fully asynchronous framework for Telegram Bot API written in Python 3.7 with asyncio and aiohttp.
-- [deepmind/android_env](https://github.com/deepmind/android_env) - A library for doing RL research on Android devices.
+- [deepmind/android_env](https://github.com/deepmind/android_env) - RL research on Android devices.
 - [SeldonIO/alibi-detect](https://github.com/SeldonIO/alibi-detect) - Algorithms for outlier, adversarial and drift detection
 - [jacopotagliabue/you-dont-need-a-bigger-boat](https://github.com/jacopotagliabue/you-dont-need-a-bigger-boat) - An end-to-end implementation of intent prediction with Metaflow and other cool tools
 - [datamade/parserator](https://github.com/datamade/parserator) - :bookmark: A toolkit for making domain-specific probabilistic parsers
@@ -5139,7 +5143,7 @@
 - [suchitj2702/MaskRCNN_custom_training_testing_python](https://github.com/suchitj2702/MaskRCNN_custom_training_testing_python) - 
 - [locuslab/mpc.pytorch](https://github.com/locuslab/mpc.pytorch) - A fast and differentiable model predictive control (MPC) solver for PyTorch.
 - [robmsmt/KerasDeepSpeech](https://github.com/robmsmt/KerasDeepSpeech) - A Keras CTC implementation of Baidu's DeepSpeech for model experimentation
-- [Farama-Foundation/gym-minigrid](https://github.com/Farama-Foundation/gym-minigrid) - Minimalistic gridworld package for OpenAI Gym
+- [Farama-Foundation/gym-minigrid](https://github.com/Farama-Foundation/gym-minigrid) - Minimalistic Gridworld Package for Gym by the Farama Foundation
 - [openphilanthropy/unrestricted-adversarial-examples](https://github.com/openphilanthropy/unrestricted-adversarial-examples) - Contest Proposal and infrastructure for the Unrestricted Adversarial Examples Challenge
 - [yunjey/mnist-svhn-transfer](https://github.com/yunjey/mnist-svhn-transfer) - PyTorch Implementation of CycleGAN and SSGAN for Domain Transfer (Minimal)
 - [mwouts/jupytext](https://github.com/mwouts/jupytext) - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
