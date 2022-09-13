@@ -288,6 +288,7 @@
 
 ## C++ 
 
+- [BehaviorTree/BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP) - Behavior Trees Library in C++. Batteries included.
 - [facebookincubator/velox](https://github.com/facebookincubator/velox) - A C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems.
 - [google/liburing_cpp](https://github.com/google/liburing_cpp) - 
 - [sogou/workflow](https://github.com/sogou/workflow) - C++ Parallel Computing and Asynchronous Networking Engine
@@ -609,7 +610,6 @@
 - [NVIDIA/DALI](https://github.com/NVIDIA/DALI) - A GPU-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications.
 - [projectchrono/chrono](https://github.com/projectchrono/chrono) - High-performance C++ library for multiphysics and multibody dynamics simulations
 - [amazon-archives/amazon-dsstne](https://github.com/amazon-archives/amazon-dsstne) - Deep Scalable Sparse Tensor Network Engine (DSSTNE) is an Amazon developed library for building Deep Learning (DL) machine learning (ML) models
-- [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [nickgillian/grt](https://github.com/nickgillian/grt) - gesture recognition toolkit
 - [longcw/RoIAlign.pytorch](https://github.com/longcw/RoIAlign.pytorch) - RoIAlign & crop_and_resize for PyTorch
 - [PX4/eigen](https://github.com/PX4/eigen) - Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.
@@ -711,6 +711,8 @@
 
 ## Clojure 
 
+- [korma/Korma](https://github.com/korma/Korma) - Tasty SQL for Clojure.
+- [metabase/toucan](https://github.com/metabase/toucan) - A classy high-level Clojure library for defining application models and retrieving them from a DB
 - [bortexz/graphcom](https://github.com/bortexz/graphcom) - Dependency graph computations for Clojure
 - [HumbleUI/HumbleUI](https://github.com/HumbleUI/HumbleUI) - Clojure Desktop UI framework
 - [Workiva/morphe](https://github.com/Workiva/morphe) - A Clojure utility for defining and applying aspects to function definitions.
@@ -815,7 +817,7 @@
 ## Cython 
 
 - [mrjbq7/ta-lib](https://github.com/mrjbq7/ta-lib) - Python wrapper for TA-Lib (http://ta-lib.org/).
-- [luvsound/pippi](https://github.com/luvsound/pippi) - computer music with python
+- [luvsound/pippi](https://github.com/luvsound/pippi) - computer music with python. this is a mirror of https://git.sr.ht/~hecanjog/pippi
 - [rushter/selectolax](https://github.com/rushter/selectolax) - Python binding to Modest and Lexbor engines (fast HTML5 parser with CSS selectors).
 - [MagicStack/uvloop](https://github.com/MagicStack/uvloop) - Ultra fast asyncio event loop.
 
@@ -880,6 +882,11 @@
 
 ## Go 
 
+- [viant/afs](https://github.com/viant/afs) - Abstract File Storage
+- [bramvdbogaerde/go-scp](https://github.com/bramvdbogaerde/go-scp) - Simple Golang scp client
+- [soypat/gopherlings](https://github.com/soypat/gopherlings) - 📘️ Learn Go by fixing tiny incorrect programs
+- [vmware-tanzu/kubeapps](https://github.com/vmware-tanzu/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
+- [theriault/maths](https://github.com/theriault/maths) - Maths includes mathematical functions not defined in the standard Go math package.
 - [nkanaev/yarr](https://github.com/nkanaev/yarr) - yet another rss reader
 - [ConsenSys/gnark](https://github.com/ConsenSys/gnark) - gnark is a fast zk-SNARK library that offers a high-level API to design circuits. The library is open source and developed under the Apache 2.0 license
 - [jetpack-io/devbox](https://github.com/jetpack-io/devbox) - Instant, easy, predictable shells and containers.
@@ -1331,7 +1338,7 @@
 - [bojand/ghz](https://github.com/bojand/ghz) - Simple gRPC benchmarking and load testing tool
 - [noisetorch/NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Real-time microphone noise suppression on Linux.
 - [holiman/bloomfilter](https://github.com/holiman/bloomfilter) - Face-meltingly fast, thread-safe, marshalable, unionable, probability- and optimal-size-calculating Bloom filter in go
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform web server with automatic HTTPS
 - [gorgonia/gorgonia](https://github.com/gorgonia/gorgonia) - Gorgonia is a library that helps facilitate machine learning in Go.
 - [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) - A QUIC implementation in pure go
 - [libp2p/go-libp2p](https://github.com/libp2p/go-libp2p) - libp2p implementation in Go
@@ -1607,6 +1614,8 @@
 
 ## Haskell 
 
+- [yesodweb/yesod](https://github.com/yesodweb/yesod) - A RESTful Haskell web framework built on WAI.
+- [yesodweb/persistent](https://github.com/yesodweb/persistent) - Persistence interface for Haskell allowing multiple storage methods.
 - [commercialhaskell/stack](https://github.com/commercialhaskell/stack) - The Haskell Tool Stack
 - [graninas/Functional-Design-and-Architecture](https://github.com/graninas/Functional-Design-and-Architecture) - Code and materials for my book "Functional Design and Architecture"
 - [facebook/Haxl](https://github.com/facebook/Haxl) - A Haskell library that simplifies access to remote data, such as databases or web-based services.
@@ -1804,7 +1813,7 @@
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
 - [clio-lang/clio](https://github.com/clio-lang/clio) - Clio is a functional, parallel, distributed programming language.
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
-- [jozsefsallai/insomnia-documenter](https://github.com/jozsefsallai/insomnia-documenter) - Tool to create minimalist and beautiful API documentation pages using your Insomnia workspace export file.
+- [insomnia-documenter/insomnia-documenter](https://github.com/insomnia-documenter/insomnia-documenter) - Tool to create minimalist and beautiful API documentation pages using your Insomnia workspace export file.
 - [knex/knex](https://github.com/knex/knex) - A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
 - [breck7/scroll](https://github.com/breck7/scroll) - An extensible alternative to Markdown.
 - [statsd/statsd](https://github.com/statsd/statsd) - Daemon for easy but powerful stats aggregation
@@ -2039,7 +2048,8 @@
 
 ## Jupyter Notebook 
 
-- [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - 
+- [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) - Neural Networks: Zero to Hero
+- [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [pesser/stable-diffusion](https://github.com/pesser/stable-diffusion) - 
 - [kuutsav/information-retrieval](https://github.com/kuutsav/information-retrieval) - Neural information retrieval / semantic-search / Bi-Encoders
 - [srush/GPU-Puzzles](https://github.com/srush/GPU-Puzzles) - Solve puzzles. Learn CUDA.
@@ -2221,7 +2231,7 @@
 - [radekosmulski/whale](https://github.com/radekosmulski/whale) - 
 - [ANIME305/Anime-GAN-tensorflow](https://github.com/ANIME305/Anime-GAN-tensorflow) - The BIGGAN based Anime generation implemented with tensorflow. All training data has been open sourced.
 - [ignacio-rocco/ncnet](https://github.com/ignacio-rocco/ncnet) - PyTorch code for Neighbourhood Consensus Networks
-- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to responsibly deliver value with ML.
+- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to responsibly deliver value with machine learning.
 - [zake7749/DeepToxic](https://github.com/zake7749/DeepToxic) - top 1% solution to toxic comment classification challenge on Kaggle.
 - [microsoft/Elevation](https://github.com/microsoft/Elevation) - End-to-end guide design for CRISPR/Cas9 with machine learning
 - [aliasvishnu/EEGNet](https://github.com/aliasvishnu/EEGNet) - [Old version] PyTorch implementation of EEGNet: A Compact Convolutional Network for EEG-based Brain-Computer Interfaces - https://arxiv.org/pdf/1611.08024.pdf
@@ -2725,6 +2735,7 @@
 - [skit-ai/speech-to-intent-dataset](https://github.com/skit-ai/speech-to-intent-dataset) - Dataset Release for Intent Classification from Speech
 - [notpresident35/learn-awesome-gamedev](https://github.com/notpresident35/learn-awesome-gamedev) - A curated collection of game development learning resources
 - [GT-RIPL/Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics) - A comprehensive list of papers using large language/multi-modal models for Robotics/RL, including papers, codes, and related websites
+- [nnextdb/nnext](https://github.com/nnextdb/nnext) - Main NNext Application Code
 - [heejkoo/Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models) - A collection of resources and papers on Diffusion Models and Score-based Models, a darkhorse in the field of Generative Models
 - [jorgef/engineeringladders](https://github.com/jorgef/engineeringladders) - A framework for Engineering Managers
 - [skit-ai/phone-number-entity-dataset](https://github.com/skit-ai/phone-number-entity-dataset) - Dataset Release for Phone Number Entity capture task
@@ -3056,7 +3067,7 @@
 - [xialeiliu/Awesome-Incremental-Learning](https://github.com/xialeiliu/Awesome-Incremental-Learning) - Awesome Incremental Learning
 - [sungyongs/graph-based-nn](https://github.com/sungyongs/graph-based-nn) - Graph Convolutional Networks (GCNs)
 - [zhaoxin94/awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation) - A collection of AWESOME things about domian adaptation
-- [zziz/pwc](https://github.com/zziz/pwc) - Papers with code. Sorted by stars. Updated weekly.
+- [zziz/pwc](https://github.com/zziz/pwc) - This repository is no longer maintained.
 - [fwang91/residual-attention-network](https://github.com/fwang91/residual-attention-network) - Residual Attention Network for Image Classification
 - [timofurrer/awesome-asyncio](https://github.com/timofurrer/awesome-asyncio) - A curated list of awesome Python asyncio frameworks, libraries, software and resources
 - [Scitator/papers](https://github.com/Scitator/papers) - 
@@ -3272,7 +3283,7 @@
 - [ossu/bioinformatics](https://github.com/ossu/bioinformatics) - :microscope: Path to a free self-taught education in Bioinformatics!
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [hangtwenty/python-tips](https://github.com/hangtwenty/python-tips) - [Archived.] Teammates asked for Python resources; here ya go! :)  For more up to date resources go here: https://github.com/alexmojaki/futurecoder and https://github.com/vinta/awesome-python#resources
-- [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Free ways to dive into machine learning with Python and Jupyter Notebook. Notebooks, courses, and other links. (First posted in 2016.)
+- [dive-into-machine-learning/dive-into-machine-learning](https://github.com/dive-into-machine-learning/dive-into-machine-learning) - Free ways to dive into machine learning with Python and Jupyter Notebook. Notebooks, courses, and other links. (First posted in 2016.)
 - [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 - [charlieg/A-Smattering-of-NLP-in-Python](https://github.com/charlieg/A-Smattering-of-NLP-in-Python) - A very brief introduction to Natural Language Processing programming in Python
 - [Treblesteph/awesome-open-science](https://github.com/Treblesteph/awesome-open-science) - :microscope: A curated list of projects, communities, and other resources related to open science :unlock:
@@ -3340,6 +3351,8 @@
 
 ## Python 
 
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
+- [lucidrains/audiolm-pytorch](https://github.com/lucidrains/audiolm-pytorch) - Implementation of AudioLM, a Language Modeling Approach to Audio Generation out of Google Research, in Pytorch
 - [alibaba/AliceMind](https://github.com/alibaba/AliceMind) - ALIbaba's Collection of Encoder-decoders from MinD (Machine IntelligeNce of Damo) Lab
 - [funkelab/daisy](https://github.com/funkelab/daisy) - Block-wise task scheduling for large nD volumes.
 - [munificent/vigil](https://github.com/munificent/vigil) - Vigil, the eternal morally vigilant programming language
@@ -3916,7 +3929,7 @@
 - [f-prime/arcanevm](https://github.com/f-prime/arcanevm) - A Fully Homomorphic Encryption Brainfuck virtual machine
 - [srlearn/srlearn](https://github.com/srlearn/srlearn) - ☕ A Python library for gradient-boosted statistical relational models / learning probabilistic relational programs.
 - [tssm/up-to-date-real-world-haskell](https://github.com/tssm/up-to-date-real-world-haskell) - I'm trying to update the Real World Haskell book
-- [edgedb/edgedb](https://github.com/edgedb/edgedb) - A next-generation graph-relational database.
+- [edgedb/edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
 - [Zhenye-Na/reinforcement-learning-stanford](https://github.com/Zhenye-Na/reinforcement-learning-stanford) - 🕹️ CS234: Reinforcement Learning, Winter 2019 | YouTube videos 👉
 - [LingDong-/ci-ren](https://github.com/LingDong-/ci-ren) - Generative Chinese poetry
 - [M4cs/pixcryption](https://github.com/M4cs/pixcryption) - :camera: Pixel Safe Encryption - Now Cryptographically Secure :lock:
@@ -5681,6 +5694,7 @@
 - [msracver/Relation-Networks-for-Object-Detection](https://github.com/msracver/Relation-Networks-for-Object-Detection) - Relation Networks for Object Detection
 - [huggingface/pytorch-openai-transformer-lm](https://github.com/huggingface/pytorch-openai-transformer-lm) - 🐥A PyTorch implementation of OpenAI's finetuned transformer language model with a script to import the weights pre-trained by OpenAI
 - [openai/finetune-transformer-lm](https://github.com/openai/finetune-transformer-lm) - Code and model for the paper "Improving Language Understanding by Generative Pre-Training"
+- [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [facebookresearch/clevr-dataset-gen](https://github.com/facebookresearch/clevr-dataset-gen) - A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning
 - [flyyufelix/sonic_contest](https://github.com/flyyufelix/sonic_contest) - Source code for OpenAI Retro Contest for Sonic the Hedgehog
 - [hiroharu-kato/mesh_reconstruction](https://github.com/hiroharu-kato/mesh_reconstruction) - Code of single-image 3D reconstruction "Neural 3D Mesh Renderer" by H. Kato, Y. Ushiku, and T. Harada.
@@ -5940,6 +5954,7 @@
 - [eriklindernoren/Keras-GAN](https://github.com/eriklindernoren/Keras-GAN) - Keras implementations of Generative Adversarial Networks.
 - [HIPS/autograd](https://github.com/HIPS/autograd) - Efficiently computes derivatives of numpy code.
 - [ReactiveX/RxPY](https://github.com/ReactiveX/RxPY) - ReactiveX for Python
+- [deepmipt/DeepPavlov](https://github.com/deepmipt/DeepPavlov) - An open source library for deep learning end-to-end dialog systems and chatbots.
 - [NVIDIA/FastPhotoStyle](https://github.com/NVIDIA/FastPhotoStyle) - Style transfer, deep learning, feature transform
 - [sjvasquez/handwriting-synthesis](https://github.com/sjvasquez/handwriting-synthesis) - Handwriting Synthesis with RNNs ✏️
 - [marshmallow-code/flask-marshmallow](https://github.com/marshmallow-code/flask-marshmallow) - Flask + marshmallow for beautiful APIs
@@ -6562,6 +6577,8 @@
 
 ## Rust 
 
+- [pcwalton/cxx-async](https://github.com/pcwalton/cxx-async) - Simple interoperability between C++ coroutines and asynchronous Rust
+- [purefinance/mmb](https://github.com/purefinance/mmb) - Trading bot implemented in Rust, with market making and strategy automation for any exchange or blockchain.
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
 - [rust-hosted-langs/book](https://github.com/rust-hosted-langs/book) - Writing Interpreters in Rust: a Guide
 - [rustwasm/walrus](https://github.com/rustwasm/walrus) - Walrus is a WebAssembly transformation library 🌊🐘
@@ -6573,12 +6590,11 @@
 - [tcdi/pgx](https://github.com/tcdi/pgx) - Build Postgres Extensions with Rust!
 - [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
 - [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — Headless Business Intelligence for Building Data Applications
-- [parseablehq/parseable](https://github.com/parseablehq/parseable) - Cloud native log storage and management for Kubernetes, containerised workloads
+- [parseablehq/parseable](https://github.com/parseablehq/parseable) - Log storage and observability platform for cloud native workloads
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
 - [roc-lang/roc](https://github.com/roc-lang/roc) - Roc is a language for making delightful software.
 - [containers/krunvm](https://github.com/containers/krunvm) - Create microVMs from OCI images
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.
-- [nnextdb/nnext](https://github.com/nnextdb/nnext) - Main NNext Application Code
 - [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C++) libraries.
 - [losfair/mvsqlite](https://github.com/losfair/mvsqlite) - Distributed, MVCC SQLite that runs on FoundationDB.
 - [cberner/redb](https://github.com/cberner/redb) - An embedded key-value database in pure Rust
@@ -6938,7 +6954,7 @@
 ## Scala 
 
 - [rtyley/bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
-- [linkedin/feathr](https://github.com/linkedin/feathr) - Feathr – An Enterprise-Grade, High Performance Feature Store
+- [feathr-ai/feathr](https://github.com/feathr-ai/feathr) - Feathr – An Enterprise-Grade, High Performance Feature Store
 - [lichess-org/lila](https://github.com/lichess-org/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞
 - [gregdurrett/berkeley-doc-summarizer](https://github.com/gregdurrett/berkeley-doc-summarizer) - The Berkeley Document Summarizer is a learning-based, single-document summarization system that extracts source document content, exploits syntactic information to compress it, and uses coreference co
 - [twitter/scalding](https://github.com/twitter/scalding) - A Scala API for Cascading
@@ -7074,6 +7090,7 @@
 
 ## TypeScript 
 
+- [meienberger/runtipi](https://github.com/meienberger/runtipi) - ⛺️ Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [deislabs/hippo](https://github.com/deislabs/hippo) - The WebAssembly Platform
 - [soketi/soketi](https://github.com/soketi/soketi) - Just another simple, fast, and resilient open-source WebSockets server. 📣
