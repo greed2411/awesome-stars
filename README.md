@@ -114,7 +114,7 @@
 - [mlochbaum/rhsort](https://github.com/mlochbaum/rhsort) - Robin Hood Sort, for uniform data
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [libsql/libsql](https://github.com/libsql/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
-- [2ndQuadrant/pglogical](https://github.com/2ndQuadrant/pglogical) - Logical Replication extension for PostgreSQL 14, 13, 12, 11, 10, 9.6, 9.5, 9.4 (Postgres), providing much faster replication than Slony, Bucardo or Londiste, as well as cross-version upgrades.
+- [2ndQuadrant/pglogical](https://github.com/2ndQuadrant/pglogical) - Logical Replication extension for PostgreSQL 15, 14, 13, 12, 11, 10, 9.6, 9.5, 9.4 (Postgres), providing much faster replication than Slony, Bucardo or Londiste, as well as cross-version upgrades.
 - [citusdata/cstore_fdw](https://github.com/citusdata/cstore_fdw) - Columnar storage extension for Postgres built as a foreign data wrapper. Check out https://github.com/citusdata/citus for a modernized columnar storage implementation built as a table access method.
 - [greenplum-db/gpdb](https://github.com/greenplum-db/gpdb) - Greenplum Database - Massively Parallel PostgreSQL for Analytics. An open-source massively parallel data platform for analytics, machine learning and AI.
 - [citusdata/pg_cron](https://github.com/citusdata/pg_cron) - Run periodic jobs in PostgreSQL
@@ -690,7 +690,7 @@
 - [facebookresearch/StarSpace](https://github.com/facebookresearch/StarSpace) - Learning embeddings for classification, retrieval and ranking.
 - [apache/incubator-mxnet](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more
 - [fetlang/fetlang](https://github.com/fetlang/fetlang) - Fetish-themed programming language
-- [PaddlePaddle/Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite) - Multi-platform high performance  deep learning inference engine (飞桨多端多平台高性能深度学习推理引擎）
+- [PaddlePaddle/Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite) - PaddlePaddle High Performance Deep Learning Inference Engine for Mobile and Edge (飞桨高性能深度学习端侧推理引擎）
 - [spotify/annoy](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
@@ -740,7 +740,7 @@
 - [kachayev/muse](https://github.com/kachayev/muse) - Clojure library that makes remote data access code elegant and efficient at the same time
 - [day8/re-frame](https://github.com/day8/re-frame) - A ClojureScript framework for building user interfaces, leveraging React
 - [mikera/core.matrix](https://github.com/mikera/core.matrix) - core.matrix : Multi-dimensional array programming API for Clojure
-- [smothers/cause](https://github.com/smothers/cause) - An EDN-like CRDT (Causal Tree) for Clojure & ClojureScript that automatically tracks history and resolves conflicts.
+- [becomingbabyman/cause](https://github.com/becomingbabyman/cause) - An EDN-like CRDT (Causal Tree) for Clojure & ClojureScript that automatically tracks history and resolves conflicts.
 - [jepsen-io/jepsen](https://github.com/jepsen-io/jepsen) - A framework for distributed systems verification, with fault injection
 - [edn-query-language/eql](https://github.com/edn-query-language/eql) - EQL is a declarative way to make hierarchical (and possibly nested) selections of information about data requirements. This repository contains the base specs and definitions for EQL parsing, AST, etc
 - [clojurenlp/core](https://github.com/clojurenlp/core) - Clojure wrapper for the Stanford CoreNLP Java library
@@ -903,6 +903,9 @@
 
 ## Go 
 
+- [cloudwego/kitex](https://github.com/cloudwego/kitex) - A high-performance and strong-extensibility Go RPC framework that helps developers build microservices.
+- [cloudwego/hertz](https://github.com/cloudwego/hertz) - A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices.
+- [GoogleCloudPlatform/spark-on-k8s-operator](https://github.com/GoogleCloudPlatform/spark-on-k8s-operator) - Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes.
 - [argoproj/argo-events](https://github.com/argoproj/argo-events) - Event-driven automation framework
 - [observIQ/bindplane-op](https://github.com/observIQ/bindplane-op) - BindPlane OP is an open source observability pipeline
 - [k8spacket/k8spacket](https://github.com/k8spacket/k8spacket) - k8spacket - packets traffic visualization for kubernetes
@@ -1061,7 +1064,7 @@
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 - [mattn/go-generics-example](https://github.com/mattn/go-generics-example) - Example code for Go generics
 - [nwtgck/go-fakelish](https://github.com/nwtgck/go-fakelish) - Fake English word generator for Go and CLI
-- [uber-go/ratelimit](https://github.com/uber-go/ratelimit) - A Golang blocking leaky-bucket rate limit implementation
+- [uber-go/ratelimit](https://github.com/uber-go/ratelimit) - A Go blocking leaky-bucket rate limit implementation
 - [odpf/optimus](https://github.com/odpf/optimus) - Optimus is an easy-to-use, reliable, and performant workflow orchestrator for data transformation, data modeling, pipelines, and data quality management.
 - [TheYkk/git-switcher](https://github.com/TheYkk/git-switcher) - Switch between your git profiles easily
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
@@ -1364,7 +1367,7 @@
 - [zeebo/xxh3](https://github.com/zeebo/xxh3) - XXH3 algorithm in Go
 - [rook/rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
-- [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library. It is designed to maintain result reliability with an increased number of threads.
+- [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
 - [contiamo/go-base](https://github.com/contiamo/go-base) - This module contains common packages for Contiamo projects written in Go
 - [gocraft/work](https://github.com/gocraft/work) - Process background jobs in Go
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
@@ -1720,6 +1723,7 @@
 
 ## Java 
 
+- [apple/batch-processing-gateway](https://github.com/apple/batch-processing-gateway) - The gateway component to make Spark on K8s much easier for Spark users.
 - [AzBuilder/terrakube](https://github.com/AzBuilder/terrakube) - Open source tool to handle remote terraform workspace in organizations and handle all the lifecycle (plan, apply, destroy).
 - [queer/utt](https://github.com/queer/utt) - utt is the universal text transformer
 - [apache/chukwa](https://github.com/apache/chukwa) - Mirror of Apache Chukwa
@@ -2102,6 +2106,7 @@
 
 ## Jupyter Notebook 
 
+- [input-output-hk/haskell-course](https://github.com/input-output-hk/haskell-course) - This course is designed to teach students Haskell from zero to everything needed to work with Marlowe and Plutus. The course itself doesn't contain content specific to Marlowe or Plutus. So, if you wa
 - [google/prompt-to-prompt](https://github.com/google/prompt-to-prompt) - 
 - [microsoft/archai](https://github.com/microsoft/archai) - Archai accelerates Neural Architecture Search (NAS) through fast, reproducible and modular research.
 - [google-research/rliable](https://github.com/google-research/rliable) - [NeurIPS'21 Outstanding Paper] Library for reliable evaluation on RL and ML benchmarks, even with only a handful of seeds.
@@ -4682,7 +4687,7 @@
 - [clips/pattern](https://github.com/clips/pattern) - Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.
 - [alexander-rakhlin/ICIAR2018](https://github.com/alexander-rakhlin/ICIAR2018) - Our solution for ICIAR 2018 Grand Challenge
 - [Kaixhin/spinning-up-basic](https://github.com/Kaixhin/spinning-up-basic) - Basic versions of agents from Spinning Up in Deep RL written in PyTorch
-- [automl/SMAC3](https://github.com/automl/SMAC3) - Sequential Model-based Algorithm Configuration
+- [automl/SMAC3](https://github.com/automl/SMAC3) - SMAC3: A Versatile Bayesian Optimization Package for Hyperparameter Optimization
 - [magic282/NQG](https://github.com/magic282/NQG) - Code for the paper "Neural Question Generation from Text: A Preliminary Study"
 - [davidsandberg/facenet](https://github.com/davidsandberg/facenet) - Face recognition using Tensorflow
 - [sanket0211/WK-VQA](https://github.com/sanket0211/WK-VQA) - World Knowledge Based Visual Question Answering
@@ -6647,6 +6652,7 @@
 
 ## Ruby 
 
+- [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [lobsters/lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion
 - [ryanlecompte/redis_failover](https://github.com/ryanlecompte/redis_failover) - redis_failover is a ZooKeeper-based automatic master/slave failover solution for Ruby.
 - [drujensen/fib](https://github.com/drujensen/fib) - Performance Benchmark of top Github languages
@@ -6715,7 +6721,7 @@
 - [tcdi/pgx](https://github.com/tcdi/pgx) - Build Postgres Extensions with Rust!
 - [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
 - [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — Headless Business Intelligence for Building Data Applications
-- [parseablehq/parseable](https://github.com/parseablehq/parseable) - Simple, efficient log storage and observability platform. Indexing free, high performance. Open source alternative to Splunk, DataDog.
+- [parseablehq/parseable](https://github.com/parseablehq/parseable) - Kubernetes native log storage and observability platform. Open source alternative to Splunk, DataDog.
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
 - [roc-lang/roc](https://github.com/roc-lang/roc) - Roc is a language for making delightful software.
 - [containers/krunvm](https://github.com/containers/krunvm) - Create microVMs from OCI images
@@ -7122,6 +7128,7 @@
 
 ## Shell 
 
+- [basho/riak](https://github.com/basho/riak) - Riak is a decentralized datastore from Basho Technologies.
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an 
 - [Bugswriter/notflix](https://github.com/Bugswriter/notflix) - Notflix is a shell script to search and stream torrent.
 - [hexive/sunpaper](https://github.com/hexive/sunpaper) - Dynamic wallpaper changes based on the sun.
@@ -7323,7 +7330,7 @@
 - [huggingface/Mongoku](https://github.com/huggingface/Mongoku) - 🔥The Web-scale GUI for MongoDB
 - [vultix/ts-results](https://github.com/vultix/ts-results) - A typescript implementation of Rust's Result object.
 - [SkalskiP/make-sense](https://github.com/SkalskiP/make-sense) - Free to use online tool for labelling photos. https://makesense.ai
-- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Convert cURL commands to Python, JavaScript, PHP, R, Go, Ruby, Rust, Elixir, Java, MATLAB, C#, Dart and more
+- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Convert cURL commands to Python, JavaScript, PHP, R, Go, Ruby, Rust, Elixir, Java, MATLAB, C#, Dart, CFML, Ansible, Strest or JSON
 - [hastic-zzz/hastic-server](https://github.com/hastic-zzz/hastic-server) - Hastic data management server for analyzing patterns and anomalies from Grafana
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [TimoStaudinger/sprite](https://github.com/TimoStaudinger/sprite) - 🖌 Draw charts in code. Render in real-time. Embed anywhere as .png.
