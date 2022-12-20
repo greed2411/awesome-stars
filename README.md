@@ -914,6 +914,7 @@
 
 ## Go 
 
+- [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock) - Lock, Stock, and Two Smoking MicroVMs. Create and manage the lifecycle of MicroVMs backed by containerd.
 - [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go) - Testcontainers for Go is a Golang library that provides a friendly API to run Docker containers. It is designed to create a runtime testing environment to use during your automatic tests.
 - [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go.
 - [google/mangle](https://github.com/google/mangle) - 
@@ -2905,7 +2906,7 @@
 - [ckaestne/seaibib](https://github.com/ckaestne/seaibib) - Software Engineering for AI/ML -- An Annotated Bibliography
 - [jsg71/Deep-Hedging](https://github.com/jsg71/Deep-Hedging) - 
 - [matthen/dstc](https://github.com/matthen/dstc) - Dialog State Tracking Challenge 2 & 3 Data
-- [cedrickchee/awesome-transformer-nlp](https://github.com/cedrickchee/awesome-transformer-nlp) - A curated list of NLP resources focused on Transformer networks, attention mechanism, GPT, BERT, ChatGPT, and transfer learning.
+- [cedrickchee/awesome-transformer-nlp](https://github.com/cedrickchee/awesome-transformer-nlp) - A curated list of NLP resources focused on Transformer networks, attention mechanism, GPT, BERT, ChatGPT, LLMs, and transfer learning.
 - [oleg-agapov/data-engineering-book](https://github.com/oleg-agapov/data-engineering-book) - Accumulated knowledge and experience in the field of Data Engineering
 - [DanieleGravina/divergence-and-quality-diversity](https://github.com/DanieleGravina/divergence-and-quality-diversity) - A collection of papers on divergence and quality diversity
 - [redpanda-data/awesome-distributed-transactions](https://github.com/redpanda-data/awesome-distributed-transactions) - Awesome list of distributed transactions
@@ -3449,6 +3450,10 @@
 
 ## Python 
 
+- [loglabs/mltrace](https://github.com/loglabs/mltrace) - Coarse-grained lineage and tracing for machine learning pipelines.
+- [boxed/django-fastdev](https://github.com/boxed/django-fastdev) - An app to make it faster and more fun to develop in Django
+- [bashu/django-maintenancemode](https://github.com/bashu/django-maintenancemode) - 🛠 django-maintenancemode allows you to temporary shutdown your site for maintenance work
+- [Lenders-Cooperative/django-migration-snapshots](https://github.com/Lenders-Cooperative/django-migration-snapshots) - Create migration history snapshots for your Django project
 - [testcontainers/testcontainers-python](https://github.com/testcontainers/testcontainers-python) - Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests.
 - [code-kern-ai/bricks](https://github.com/code-kern-ai/bricks) - Open-source natural language enrichments at your fingertips.
 - [pytorch/torcharrow](https://github.com/pytorch/torcharrow) - A Pandas-inspired DataFrame library for SQL-like transformation with Pythonic and imperative-style API. Typical use case includes data preprocessing in ML models.
@@ -3969,6 +3974,7 @@
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [r-anime/holo](https://github.com/r-anime/holo) - Episode discussion bot for /r/anime.
+- [determined-ai/determined](https://github.com/determined-ai/determined) - Determined: Deep Learning Training Platform
 - [hitachi-speech/EEND](https://github.com/hitachi-speech/EEND) - End-to-End Neural Diarization
 - [mewwts/addict](https://github.com/mewwts/addict) - The Python Dict that's better than heroin.
 - [Kharacternyk/dotcommon](https://github.com/Kharacternyk/dotcommon) - What do people have in their dotfiles?
@@ -6730,7 +6736,7 @@
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [tokio-rs/async-backtrace](https://github.com/tokio-rs/async-backtrace) - 
 - [khvzak/mlua](https://github.com/khvzak/mlua) - High level Lua 5.4/5.3/5.2/5.1 (including LuaJIT) and Roblox Luau bindings to Rust with async/await support
-- [cozodb/cozo](https://github.com/cozodb/cozo) - A general-purpose, transactional, relational database that uses Datalog and focuses on graph data and algorithms
+- [cozodb/cozo](https://github.com/cozodb/cozo) - A general-purpose, transactional, relational database that uses Datalog and focuses on graph data and algorithms. And it is performant!
 - [sfu-db/connector-x](https://github.com/sfu-db/connector-x) - Fastest library to load data from DB to DataFrames in Rust and Python
 - [burn-rs/burn](https://github.com/burn-rs/burn) - BURN: Burn Unstoppable Rusty Neurons
 - [sycamore-rs/sycamore](https://github.com/sycamore-rs/sycamore) - A library for creating reactive web apps in Rust and WebAssembly
@@ -7192,6 +7198,7 @@
 
 ## Shell 
 
+- [jordanwilson230/kubectl-plugins](https://github.com/jordanwilson230/kubectl-plugins) - A Collection of Plugins for kubectl Integration (exec as any user, context switching, etc).
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing
 - [basho/riak](https://github.com/basho/riak) - Riak is a decentralized datastore from Basho Technologies.
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an 
@@ -7384,7 +7391,6 @@
 - [deepkit/deepkit-ml](https://github.com/deepkit/deepkit-ml) - The collaborative real-time open-source machine learning devtool and training suite: Experiment execution, tracking, and debugging. With server and project management tools.
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 - [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
-- [determined-ai/determined](https://github.com/determined-ai/determined) - Determined: Deep Learning Training Platform
 - [vega/vega-lite](https://github.com/vega/vega-lite) - A concise grammar of interactive graphics, built on Vega.
 - [IvanGoncharov/graphql-voyager](https://github.com/IvanGoncharov/graphql-voyager) - 🛰️ Represent any GraphQL API as an interactive graph
 - [jupyterlab/debugger](https://github.com/jupyterlab/debugger) - A visual debugger for Jupyter notebooks, consoles, and source files
