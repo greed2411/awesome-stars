@@ -923,6 +923,7 @@
 
 ## Go 
 
+- [coderanger/migrations-operator](https://github.com/coderanger/migrations-operator) - 
 - [nikoksr/notify](https://github.com/nikoksr/notify) - A dead simple Go library for sending notifications to various messaging services.
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [mr-karan/balance](https://github.com/mr-karan/balance) - Minimal Golang library for implemeting weighted round robin load balancing.
@@ -3695,7 +3696,7 @@
 - [heartexlabs/label-studio](https://github.com/heartexlabs/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [faviq/faviq](https://github.com/faviq/faviq) - FaVIQ: Fact Verification from Information-seeking Questions
 - [SethMMorton/natsort](https://github.com/SethMMorton/natsort) - Simple yet flexible natural sorting in Python.
-- [aiogram/aiogram](https://github.com/aiogram/aiogram) - Is a pretty simple and fully asynchronous framework for Telegram Bot API written in Python 3.7 with asyncio and aiohttp.
+- [aiogram/aiogram](https://github.com/aiogram/aiogram) - aiogram is a modern and fully asynchronous framework for Telegram Bot API written in Python using asyncio
 - [deepmind/android_env](https://github.com/deepmind/android_env) - RL research on Android devices.
 - [SeldonIO/alibi-detect](https://github.com/SeldonIO/alibi-detect) - Algorithms for outlier, adversarial and drift detection
 - [jacopotagliabue/you-dont-need-a-bigger-boat](https://github.com/jacopotagliabue/you-dont-need-a-bigger-boat) - An end-to-end implementation of intent prediction with Metaflow and other cool tools
@@ -7529,7 +7530,7 @@
 - [lithdew/snow](https://github.com/lithdew/snow) - A small, fast, cross-platform, async Zig networking framework built on top of lithdew/pike.
 - [prime31/zig-ecs](https://github.com/prime31/zig-ecs) - 
 - [iansimonson/ztor](https://github.com/iansimonson/ztor) - A (partial) bittorrent client in zig
-- [zigtools/zls](https://github.com/zigtools/zls) - The officially unofficial @ziglang language server
+- [zigtools/zls](https://github.com/zigtools/zls) - The @ziglang language server for all your Zig editor tooling needs, from autocomplete to goto-def!
 - [Sobeston/ziglearn](https://github.com/Sobeston/ziglearn) - Repo for https://ziglearn.org content. Get up to speed with Zig quickly.
 - [lithdew/pike](https://github.com/lithdew/pike) - Async I/O for Zig
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
