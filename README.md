@@ -1691,6 +1691,7 @@
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [emilwallner/Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website.
 - [aaalgo/picpac](https://github.com/aaalgo/picpac) - An image database for deep learning.
+- [shagunsodhani/papers-I-read](https://github.com/shagunsodhani/papers-I-read) - A-Paper-A-Week
 - [yanhann10/opendata_viz](https://github.com/yanhann10/opendata_viz) - Code behind medium blog
 - [lgreski/datasciencectacontent](https://github.com/lgreski/datasciencectacontent) - repository for Community Mentor content related to the Johns Hopkins University Data Science Specialization on Coursera
 - [datitran/jupyter2slides](https://github.com/datitran/jupyter2slides) - Cloud Native Presentation Slides with Jupyter Notebook + Reveal.js
@@ -2055,7 +2056,7 @@
 - [PiSimo/DeepChart](https://github.com/PiSimo/DeepChart) - Generate images of neural network achitectures.
 - [r-spacex/SpaceX-API](https://github.com/r-spacex/SpaceX-API) - :rocket: Open Source REST API for SpaceX launch, rocket, core, capsule, starlink, launchpad, and landing pad data.
 - [paschmann/rasa-ui](https://github.com/paschmann/rasa-ui) - Rasa UI is a frontend for the Rasa Framework
-- [tuxor1337/hidetopbar](https://github.com/tuxor1337/hidetopbar) - GNOME extension to hide the top bar except in overview mode
+- [tuxor1337/hidetopbar](https://github.com/tuxor1337/hidetopbar) - Read-only mirror of https://gitlab.gnome.org/tuxor1337/hidetopbar. Pull requests and issues on GitHub cannot be accepted and will be automatically closed.
 - [alephdata/aleph](https://github.com/alephdata/aleph) - Search and browse documents and data; find the people and companies you look for.
 - [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
 - [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning, and machine learning models
@@ -3117,7 +3118,7 @@
 - [Conchylicultor/Deep-Learning-Tricks](https://github.com/Conchylicultor/Deep-Learning-Tricks) - Enumerate diverse machine learning training tricks.
 - [dgryski/awesome-consensus](https://github.com/dgryski/awesome-consensus) - Awesome list for Paxos and friends
 - [AbangLZU/Awesome-Autonomous-Driving](https://github.com/AbangLZU/Awesome-Autonomous-Driving) - 
-- [fregu856/papers](https://github.com/fregu856/papers) - I categorize, annotate and write comments for all research papers I read (220+ papers since 2018).
+- [fregu856/papers](https://github.com/fregu856/papers) - I categorize, annotate and write comments for all research papers I read (230+ papers since 2018).
 - [sshkhr/awesome-mlss](https://github.com/sshkhr/awesome-mlss) - List of summer schools in machine learning + related fields across the globe
 - [dakshshah96/awesome-startup-credits](https://github.com/dakshshah96/awesome-startup-credits) - ✨ A collection of awesome companies offering free/discounted plans for eligible startups
 - [jinwchoi/awesome-action-recognition](https://github.com/jinwchoi/awesome-action-recognition) - A curated list of action recognition and related area resources
@@ -6769,6 +6770,7 @@
 
 ## Rust 
 
+- [pykeio/ort](https://github.com/pykeio/ort) - A Rust wrapper for ONNX Runtime
 - [jaemk/self_update](https://github.com/jaemk/self_update) - Self updates for rust executables
 - [orlp/glidesort](https://github.com/orlp/glidesort) - A Rust implementation of Glidesort, my stable adaptive quicksort/mergesort hybrid sorting algorithm.
 - [yvan-sraka/hs-bindgen](https://github.com/yvan-sraka/hs-bindgen) - Handy macro to generate C-FFI bindings to Rust for Haskell
@@ -7194,7 +7196,6 @@
 
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 🔥 Hugo website builder, Hugo themes & Hugo CMS. No code, easily build with blocks! 创建在线课程，学术简历或初创网站。#OpenScience
-- [shagunsodhani/papers-I-read](https://github.com/shagunsodhani/papers-I-read) - A-Paper-A-Week
 
 ## Sass 
 
@@ -7458,7 +7459,7 @@
 - [huggingface/Mongoku](https://github.com/huggingface/Mongoku) - 🔥The Web-scale GUI for MongoDB
 - [vultix/ts-results](https://github.com/vultix/ts-results) - A typescript implementation of Rust's Result object.
 - [SkalskiP/make-sense](https://github.com/SkalskiP/make-sense) - Free to use online tool for labelling photos. https://makesense.ai
-- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Convert cURL commands to Python, JavaScript, Java, C#, PHP, Go, Dart, R, Ruby, Rust, MATLAB, Elixir, CFML, Ansible or JSON
+- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Convert cURL commands to code
 - [hastic-zzz/hastic-server](https://github.com/hastic-zzz/hastic-server) - Hastic data management server for analyzing patterns and anomalies from Grafana
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
