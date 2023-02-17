@@ -2854,7 +2854,7 @@
 - [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook) - A playbook for systematically maximizing the performance of deep learning models.
 - [chanakaudaya/solution-architecture-patterns](https://github.com/chanakaudaya/solution-architecture-patterns) - Reusable, vendor-neutral, industry-specific, vendor-specific solution architecture patterns for enterprise
 - [pawl/awesome-etl](https://github.com/pawl/awesome-etl) - A curated list of awesome ETL frameworks, libraries, and software.
-- [sw-yx/ai-notes](https://github.com/sw-yx/ai-notes) - notes for software engineers covering new AI developments. Serves as datastore for lspace.swyx.io writing, and product brainstorming, but has cleaned up canonical references under the /Resources folde
+- [sw-yx/ai-notes](https://github.com/sw-yx/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for lspace.swyx.io writing, and product brainstorming, but has cleaned up canonical references under the /R
 - [akuity/awesome-argo](https://github.com/akuity/awesome-argo) - A curated list of awesome projects and resources related to Argo (a CNCF graduated project)
 - [subeeshvasu/Awesome-Learning-with-Label-Noise](https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise) - A curated list of resources for Learning with Noisy Labels
 - [aya-rs/awesome-aya](https://github.com/aya-rs/awesome-aya) - A curated list of awesome eBPF 🐝 projects using aya-rs and Rust 🦀
@@ -3480,6 +3480,7 @@
 
 ## Python 
 
+- [deepmind/mctx](https://github.com/deepmind/mctx) - Monte Carlo tree search in JAX
 - [hidet-org/hidet](https://github.com/hidet-org/hidet) - An open-source efficient deep learning framework.
 - [EMI-Group/evox](https://github.com/EMI-Group/evox) - A Distributed GPU-accelerated Library towards Scalable Evolutionary Computation
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
@@ -5781,7 +5782,7 @@
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [harvardnlp/var-attn](https://github.com/harvardnlp/var-attn) - Latent Alignment and Variational Attention
 - [wiseodd/generative-models](https://github.com/wiseodd/generative-models) - Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow.
-- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - Data science on data without acquiring a copy
+- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - data science on data without acquiring a copy
 - [mozilla/agithub](https://github.com/mozilla/agithub) - Agnostic Github client API -- An EDSL for connecting to REST servers
 - [jmtomczak/vae_vpflows](https://github.com/jmtomczak/vae_vpflows) - Code in PyTorch for the convex combination linear IAF and the Householder Flow, J.M. Tomczak & M. Welling
 - [pytorch/contrib](https://github.com/pytorch/contrib) - Implementations of ideas from recent papers
@@ -6062,7 +6063,7 @@
 - [maciejkula/spotlight](https://github.com/maciejkula/spotlight) - Deep recommender models using PyTorch.
 - [hhsecond/HandsOnDeepLearningWithPytorch](https://github.com/hhsecond/HandsOnDeepLearningWithPytorch) - Code snippets and applications explained in the book - HandsOnDeepLearningWithPytorch
 - [tensorflow/hub](https://github.com/tensorflow/hub) - A library for transfer learning by reusing parts of TensorFlow models.
-- [pymc-devs/pymc](https://github.com/pymc-devs/pymc) - Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with PyTensor
+- [pymc-devs/pymc](https://github.com/pymc-devs/pymc) - Bayesian Modeling in Python
 - [jazzsaxmafia/examples](https://github.com/jazzsaxmafia/examples) - A set of examples around pytorch in Vision, Text, Reinforcement Learning, etc.
 - [RedaOps/ann-visualizer](https://github.com/RedaOps/ann-visualizer) - A python library for visualizing Artificial Neural Networks (ANN)
 - [Kyubyong/expressive_tacotron](https://github.com/Kyubyong/expressive_tacotron) - Tensorflow Implementation of Expressive Tacotron
