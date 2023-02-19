@@ -925,6 +925,7 @@
 
 ## Go 
 
+- [gorilla/websocket](https://github.com/gorilla/websocket) - A fast, well-tested and widely used WebSocket implementation for Go.
 - [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A Docker-powered stateless API for PDF files.
 - [coderanger/migrations-operator](https://github.com/coderanger/migrations-operator) - 
 - [nikoksr/notify](https://github.com/nikoksr/notify) - A dead simple Go library for sending notifications to various messaging services.
@@ -3483,7 +3484,7 @@
 ## Python 
 
 - [deepmind/mctx](https://github.com/deepmind/mctx) - Monte Carlo tree search in JAX
-- [hidet-org/hidet](https://github.com/hidet-org/hidet) - An open-source efficient deep learning framework.
+- [hidet-org/hidet](https://github.com/hidet-org/hidet) - An open-source efficient deep learning framework/compiler, written in python.
 - [EMI-Group/evox](https://github.com/EMI-Group/evox) - A Distributed GPU-accelerated Library towards Scalable Evolutionary Computation
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [lvwerra/trl](https://github.com/lvwerra/trl) - Train transformer language models with reinforcement learning.
@@ -6779,6 +6780,8 @@
 
 ## Rust 
 
+- [LeonHartley/Coerce-rs](https://github.com/LeonHartley/Coerce-rs) - Actor runtime and distributed systems framework for Rust
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - Vector Search Engine and Database for the next generation of AI applications. Also available in the cloud https://qdrant.to/cloud
 - [pykeio/ort](https://github.com/pykeio/ort) - A Rust wrapper for ONNX Runtime
 - [jaemk/self_update](https://github.com/jaemk/self_update) - Self updates for rust executables
 - [orlp/glidesort](https://github.com/orlp/glidesort) - A Rust implementation of Glidesort, my stable adaptive quicksort/mergesort hybrid sorting algorithm.
