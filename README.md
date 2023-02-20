@@ -2050,7 +2050,7 @@
 - [tensorspace-team/tensorspace](https://github.com/tensorspace-team/tensorspace) - Neural network 3D visualization framework, build interactive and intuitive model in browsers, support pre-trained deep learning models from TensorFlow, Keras, TensorFlow.js
 - [rajpurkar/SQuAD-explorer](https://github.com/rajpurkar/SQuAD-explorer) - Visually Explore the Stanford Question Answering Dataset
 - [maximwebb/cryptography](https://github.com/maximwebb/cryptography) - A set of tools for breaking classical ciphers
-- [danburzo/percollate](https://github.com/danburzo/percollate) - A command-line tool to turn web pages into beautiful, readable PDF, EPUB, or HTML docs.
+- [danburzo/percollate](https://github.com/danburzo/percollate) - A command-line tool to turn web pages into readable PDF, EPUB, HTML, or MD docs.
 - [AquiGorka/webrtc-qr](https://github.com/AquiGorka/webrtc-qr) - WebRTC Connect Experiment - https://aquigorka.com/webrtc-qr/
 - [williamFalcon/test-tube](https://github.com/williamFalcon/test-tube) - Python library to easily log experiments and parallelize hyperparameter search for neural networks
 - [embarklabs/embark](https://github.com/embarklabs/embark) - Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms
@@ -6404,7 +6404,7 @@
 - [openai/generating-reviews-discovering-sentiment](https://github.com/openai/generating-reviews-discovering-sentiment) - Code for "Learning to Generate Reviews and Discovering Sentiment"
 - [victorneo/Twitter-Sentimental-Analysis](https://github.com/victorneo/Twitter-Sentimental-Analysis) - 
 - [airbnb/streamalert](https://github.com/airbnb/streamalert) - StreamAlert is a serverless, realtime data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using datasources and alerting logic you define.
-- [sanic-org/sanic](https://github.com/sanic-org/sanic) - Next generation Python web server/framework | Build fast. Run fast.
+- [sanic-org/sanic](https://github.com/sanic-org/sanic) - Accelerate your web app development  | Build fast. Run fast.
 - [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [Kyubyong/wordvectors](https://github.com/Kyubyong/wordvectors) - Pre-trained word vectors of 30+ languages
 - [tensorflow/fold](https://github.com/tensorflow/fold) - Deep learning with dynamic computation graphs in TensorFlow
