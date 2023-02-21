@@ -4341,7 +4341,7 @@
 - [lukemelas/EfficientNet-PyTorch](https://github.com/lukemelas/EfficientNet-PyTorch) - A PyTorch implementation of EfficientNet and EfficientNetV2 (coming soon!)
 - [jab/bidict](https://github.com/jab/bidict) - The bidirectional mapping library for Python.
 - [qubvel/classification_models](https://github.com/qubvel/classification_models) - Classification models trained on ImageNet. Keras.
-- [rwightman/pytorch-image-models](https://github.com/rwightman/pytorch-image-models) - PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more
+- [huggingface/pytorch-image-models](https://github.com/huggingface/pytorch-image-models) - PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more
 - [AnjieCheng/InstaNAS](https://github.com/AnjieCheng/InstaNAS) - ⚡️ [AAAI'20][ICML'19 AutoML] InstaNAS: Instance-aware Neural Architecture Search
 - [qubvel/efficientnet](https://github.com/qubvel/efficientnet) - Implementation of EfficientNet model. Keras and TensorFlow Keras.
 - [zasdfgbnm/TorchSnooper](https://github.com/zasdfgbnm/TorchSnooper) - Debug PyTorch code using PySnooper
