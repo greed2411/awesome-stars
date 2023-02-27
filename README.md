@@ -1484,7 +1484,7 @@
 - [klauspost/compress](https://github.com/klauspost/compress) - Optimized Go Compression Packages
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [coinbase/odin](https://github.com/coinbase/odin) - Archived: Odin deployer to AWS for 12 Factor applications.
-- [aler9/rtsp-simple-server](https://github.com/aler9/rtsp-simple-server) - ready-to-use RTSP / RTMP / LL-HLS / WebRTC server and proxy that allows to read, publish and proxy video and audio streams
+- [aler9/rtsp-simple-server](https://github.com/aler9/rtsp-simple-server) - ready-to-use RTSP / RTMP / LL-HLS / WebRTC server and proxy that allows to read, publish and proxy video and audio streams. Also known as MediaMTX
 - [smarty-prototypes/go-disruptor](https://github.com/smarty-prototypes/go-disruptor) - A port of the LMAX Disruptor to the Go language.
 - [urfave/negroni](https://github.com/urfave/negroni) - Idiomatic HTTP Middleware for Golang
 - [gorilla/mux](https://github.com/gorilla/mux) - A powerful HTTP router and URL matcher for building Go web servers with 🦍
