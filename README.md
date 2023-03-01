@@ -13,7 +13,6 @@
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
-- [CMake](#cmake)
 - [CSS](#css)
 - [Clojure](#clojure)
 - [Common Lisp](#common-lisp)
@@ -720,10 +719,6 @@
 - [DaehwanKimLab/hisat2](https://github.com/DaehwanKimLab/hisat2) - Graph-based alignment (Hierarchical Graph FM index)
 - [arangodb/arangodb](https://github.com/arangodb/arangodb) - 🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScrip
 
-## CMake 
-
-- [mint-lab/3dv_tutorial](https://github.com/mint-lab/3dv_tutorial) - An Invitation to 3D Vision: A Tutorial for Everyone
-
 ## CSS 
 
 - [cfsamson/books-futures-explained](https://github.com/cfsamson/books-futures-explained) - The repository for the book Futures Explained in 200 lines of Rust
@@ -1123,7 +1118,7 @@
 - [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
 - [panjf2000/ants](https://github.com/panjf2000/ants) - 🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go, inspired by fasthttp./ ants 是一个高性能且低损耗的 goroutine 池。
 - [Iceber/iouring-go](https://github.com/Iceber/iouring-go) - Provides easy-to-use async IO interface with io_uring
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code cloud development environments.
 - [gorse-io/gorse](https://github.com/gorse-io/gorse) - An open source recommender system service written in Go
 - [lni/dragonboat](https://github.com/lni/dragonboat) - A feature complete and high performance multi-group Raft library in Go.
 - [mumax/3](https://github.com/mumax/3) - GPU-accelerated micromagnetic simulator
@@ -1279,7 +1274,7 @@
 - [prisma/prisma-client-go](https://github.com/prisma/prisma-client-go) - Prisma Client Go is an auto-generated and fully type-safe database client
 - [nsqio/nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
 - [mosuka/cete](https://github.com/mosuka/cete) - Cete is a distributed key value store server written in Go built on top of BadgerDB.
-- [earthly/earthly](https://github.com/earthly/earthly) - The effortless CI/CD framework that runs anywhere
+- [earthly/earthly](https://github.com/earthly/earthly) - Super simple CI/CD framework with repeatable builds that you write once and run anywhere – laptop, remote, or any CI
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
@@ -2406,6 +2401,7 @@
 - [YueDongCS/Deep-Reinforced-Abstractive-Summarization](https://github.com/YueDongCS/Deep-Reinforced-Abstractive-Summarization) - Pytorch implementation of "A Deep Reinforced Model for Abstractive Summarization"(https://arxiv.org/abs/1705.04304)
 - [TropComplique/image-classification-caltech-256](https://github.com/TropComplique/image-classification-caltech-256) - Exploring CNNs and model quantization on Caltech-256 dataset
 - [SeongokRyu/Graph-neural-networks](https://github.com/SeongokRyu/Graph-neural-networks) - 
+- [mint-lab/3dv_tutorial](https://github.com/mint-lab/3dv_tutorial) - An Invitation to 3D Vision: A Tutorial for Everyone
 - [fredguth/fastai_playground](https://github.com/fredguth/fastai_playground) - Notebooks of experiences with the fastai library
 - [kumar-shridhar/Very-Deep-Learning-CNN](https://github.com/kumar-shridhar/Very-Deep-Learning-CNN) - Everything you need to know about CNN in PyTorch
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
@@ -3923,7 +3919,7 @@
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 - [torchexpo/torchexpo](https://github.com/torchexpo/torchexpo) - Collection of models and extensions for deployment in PyTorch
 - [NVlabs/imaginaire](https://github.com/NVlabs/imaginaire) - NVIDIA's Deep Imagination Team's PyTorch Library
-- [s3prl/s3prl](https://github.com/s3prl/s3prl) - Self-Supervised Speech/Sound Pre-training and Representation Learning Toolkit
+- [s3prl/s3prl](https://github.com/s3prl/s3prl) - Audio Foundation Models (Self-Supervised Speech/Sound Pre-training and Representation Learning Toolkit)
 - [johannfaouzi/pyts](https://github.com/johannfaouzi/pyts) - A Python package for time series classification
 - [dhaitz/mplcyberpunk](https://github.com/dhaitz/mplcyberpunk) - "Cyberpunk style" for matplotlib plots
 - [yiranran/Audio-driven-TalkingFace-HeadPose](https://github.com/yiranran/Audio-driven-TalkingFace-HeadPose) - Code for "Audio-driven Talking Face Video Generation with Learning-based Personalized Head Pose"
@@ -7055,7 +7051,6 @@
 - [async-raft/async-raft](https://github.com/async-raft/async-raft) - An implementation of the Raft distributed consensus protocol using the Tokio framework.
 - [petgraph/petgraph](https://github.com/petgraph/petgraph) - Graph data structure library for Rust.
 - [dtolnay/cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C++
-- [bladehliu/cubedb](https://github.com/bladehliu/cubedb) - A structured data system on top of CubeFS.
 - [ragona/clobber](https://github.com/ragona/clobber) - TCP load testing tool, written in async Rust
 - [facebookarchive/propfuzz](https://github.com/facebookarchive/propfuzz) - A Rust toolkit to combine property-based testing and fuzzing.
 - [LemonVM/LemonVMAlpha](https://github.com/LemonVM/LemonVMAlpha) - A Register Based VM. 柠檬手写的看起来像栈机的寄存器机
