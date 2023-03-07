@@ -3544,7 +3544,7 @@
 - [quic/aimet](https://github.com/quic/aimet) - AIMET is a library that provides advanced quantization and compression techniques for trained neural network models.
 - [k2-fsa/icefall](https://github.com/k2-fsa/icefall) - 
 - [nschloe/tuna](https://github.com/nschloe/tuna) - :fish: Python profile viewer
-- [ashleve/lightning-hydra-template](https://github.com/ashleve/lightning-hydra-template) - PyTorch Lightning + Hydra. A very user-friendly template for rapid and reproducible ML experimentation with best practices.  ⚡🔥⚡
+- [ashleve/lightning-hydra-template](https://github.com/ashleve/lightning-hydra-template) - PyTorch Lightning + Hydra. A very user-friendly template for ML experimentation.  ⚡🔥⚡
 - [debanjum/khoj](https://github.com/debanjum/khoj) - Natural Language Search Assistant for your Org-Mode and Markdown notes, Beancount transactions and Photos
 - [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite) - Wasm powered Jupyter running in the browser 💡
 - [cjdrake/pyeda](https://github.com/cjdrake/pyeda) - Python EDA
@@ -3602,7 +3602,7 @@
 - [someengineering/resoto](https://github.com/someengineering/resoto) - Resoto creates an inventory of your cloud ☁️, provides deep visibility 👀, and reacts to changes in your infrastructure 🌐.
 - [adriangb/xpresso](https://github.com/adriangb/xpresso) - A composable Python ASGI web framework
 - [vitalik/django-ninja](https://github.com/vitalik/django-ninja) - 💨  Fast, Async-ready, Openapi, type hints based framework for building APIs
-- [locustio/locust](https://github.com/locustio/locust) - Scalable load testing tool written in Python
+- [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
 - [DarshanDeshpande/jax-models](https://github.com/DarshanDeshpande/jax-models) - Unofficial JAX implementations of deep learning research papers
 - [NVIDIA-Merlin/Transformers4Rec](https://github.com/NVIDIA-Merlin/Transformers4Rec) - Transformers4Rec is a flexible and efficient library for sequential and session-based recommendation and works with PyTorch.
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Kubernetes observability and automation, with an awesome Prometheus integration
@@ -4198,7 +4198,6 @@
 - [freewym/espresso](https://github.com/freewym/espresso) - Espresso: A Fast End-to-End Neural Speech Recognition Toolkit
 - [timothycrosley/hypothesis-auto](https://github.com/timothycrosley/hypothesis-auto) - An extensions for Hypothesis that provides fully automatic testing for type hinted functions
 - [learnables/learn2learn](https://github.com/learnables/learn2learn) - A PyTorch Library for Meta-learning Research
-- [xSetrox/pytextbooks](https://github.com/xSetrox/pytextbooks) - Python 3.7 program to search Library Genesis via ISBN and fetch direct download links
 - [google/bi-tempered-loss](https://github.com/google/bi-tempered-loss) - Robust Bi-Tempered Logistic Loss Based on Bregman Divergences. https://arxiv.org/pdf/1906.03361.pdf
 - [Delta-ML/delta](https://github.com/Delta-ML/delta) - DELTA is a deep learning based natural language and speech processing platform.
 - [vita-epfl/monoloco](https://github.com/vita-epfl/monoloco) - A 3D vision library from 2D keypoints: monocular and stereo 3D detection for humans, social distancing, and body orientation.
@@ -4560,7 +4559,7 @@
 - [EricssonResearch/calvin-base](https://github.com/EricssonResearch/calvin-base) - Calvin is an application environment that lets things talk to things, among other things.
 - [dask/fastparquet](https://github.com/dask/fastparquet) - python implementation of the parquet columnar file format.
 - [imWildCat/scylla](https://github.com/imWildCat/scylla) - Intelligent proxy pool for Humans™
-- [microsoft/pyright](https://github.com/microsoft/pyright) - Static type checker for Python
+- [microsoft/pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python
 - [Suor/funcy](https://github.com/Suor/funcy) - A fancy and practical functional tools
 - [bunchesofdonald/photohash](https://github.com/bunchesofdonald/photohash) - A Python Perceptual Image Hashing Module
 - [tbepler/protein-sequence-embedding-iclr2019](https://github.com/tbepler/protein-sequence-embedding-iclr2019) - Source code for "Learning protein sequence embeddings using information from structure" - ICLR 2019
