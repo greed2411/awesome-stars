@@ -2185,7 +2185,6 @@
 - [mchong6/GANsNRoses](https://github.com/mchong6/GANsNRoses) - Official PyTorch repo for GAN's N' Roses. Diverse im2im and vid2vid selfie to anime translation.
 - [mchong6/SOAT](https://github.com/mchong6/SOAT) - Official PyTorch repo for StyleGAN of All Trades: Image Manipulation with Only Pretrained StyleGAN.
 - [oracle/macest](https://github.com/oracle/macest) - Model Agnostic Confidence Estimator (MACEST) - A Python library for calibrating Machine Learning models' confidence scores
-- [openvinotoolkit/datumaro](https://github.com/openvinotoolkit/datumaro) - Dataset Management Framework, a Python library and a CLI tool to build, analyze and manage Computer Vision datasets.
 - [burstable-ai/burst](https://github.com/burstable-ai/burst) - Command-line tool to remotely execute code in the cloud
 - [bmabey/pyLDAvis](https://github.com/bmabey/pyLDAvis) - Python library for interactive topic model visualization. Port of the R LDAvis package.
 - [mindslab-ai/wavegrad2](https://github.com/mindslab-ai/wavegrad2) - Unofficial Pytorch Implementation of WaveGrad2
@@ -3683,6 +3682,7 @@
 - [samuelcolvin/arq](https://github.com/samuelcolvin/arq) - Fast job queuing and RPC in python with asyncio and redis.
 - [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
+- [openvinotoolkit/datumaro](https://github.com/openvinotoolkit/datumaro) - Dataset Management Framework, a Python library and a CLI tool to build, analyze and manage Computer Vision datasets.
 - [facebookincubator/later](https://github.com/facebookincubator/later) - A framework for python asyncio with batteries included for people writing services in python asyncio
 - [Huage001/PaintTransformer](https://github.com/Huage001/PaintTransformer) - Officially unofficial re-implementation of paper: Paint Transformer: Feed Forward Neural Painting with Stroke Prediction, ICCV 2021.
 - [TylerYep/torchinfo](https://github.com/TylerYep/torchinfo) - View model summaries in PyTorch!
