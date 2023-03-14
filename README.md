@@ -2513,6 +2513,7 @@
 - [ternaus/robot-surgery-segmentation](https://github.com/ternaus/robot-surgery-segmentation) - Wining solution and its improvement for MICCAI 2017 Robotic Instrument Segmentation Sub-Challenge
 - [pandeykartikey/Hierarchical-Attention-Network](https://github.com/pandeykartikey/Hierarchical-Attention-Network) - Implementation of Hierarchical Attention Networks in PyTorch
 - [jacobkimmel/pytorch_modelsize](https://github.com/jacobkimmel/pytorch_modelsize) - Estimates the size of a PyTorch model in memory
+- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - data science on data without acquiring a copy
 - [ahirner/pytorch-retraining](https://github.com/ahirner/pytorch-retraining) - Transfer Learning Shootout for PyTorch's model zoo (torchvision)
 - [LMescheder/GAN_stability](https://github.com/LMescheder/GAN_stability) - Code for paper "Which Training Methods for GANs do actually Converge? (ICML 2018)"
 - [udacity/deep-reinforcement-learning](https://github.com/udacity/deep-reinforcement-learning) - Repo for the Deep Reinforcement Learning Nanodegree program
@@ -5782,7 +5783,6 @@
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [harvardnlp/var-attn](https://github.com/harvardnlp/var-attn) - Latent Alignment and Variational Attention
 - [wiseodd/generative-models](https://github.com/wiseodd/generative-models) - Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow.
-- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - data science on data without acquiring a copy
 - [mozilla/agithub](https://github.com/mozilla/agithub) - Agnostic Github client API -- An EDSL for connecting to REST servers
 - [jmtomczak/vae_vpflows](https://github.com/jmtomczak/vae_vpflows) - Code in PyTorch for the convex combination linear IAF and the Householder Flow, J.M. Tomczak & M. Welling
 - [pytorch/contrib](https://github.com/pytorch/contrib) - Implementations of ideas from recent papers
@@ -7212,6 +7212,7 @@
 
 ## Scala 
 
+- [apache/incubator-streampark](https://github.com/apache/incubator-streampark) - StreamPark, Make stream processing easier! easy-to-use streaming application development framework and operation platform
 - [losfair/gkv](https://github.com/losfair/gkv) - Geo-replicated eventually-consistent KV store
 - [broadinstitute/cromwell](https://github.com/broadinstitute/cromwell) - Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments
 - [rtyley/bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
@@ -7358,7 +7359,6 @@
 ## TypeScript 
 
 - [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
-- [apache/incubator-streampark](https://github.com/apache/incubator-streampark) - StreamPark, Make stream processing easier! easy-to-use streaming application development framework and operation platform
 - [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) - Cloud Database Manager
 - [facebookresearch/shumai](https://github.com/facebookresearch/shumai) - Fast Differentiable Tensor Library in JavaScript and TypeScript with Bun + Flashlight
 - [denosaurs/bench](https://github.com/denosaurs/bench) - 📊 Comparing deno & node HTTP frameworks
