@@ -792,7 +792,7 @@
 - [walmartlabs/lacinia](https://github.com/walmartlabs/lacinia) - GraphQL implementation in pure Clojure
 - [ptaoussanis/tufte](https://github.com/ptaoussanis/tufte) - Simple profiling and performance monitoring for Clojure/Script
 - [xtdb/xtdb](https://github.com/xtdb/xtdb) - General-purpose bitemporal database for SQL, Datalog & graph queries. Developed by @juxt
-- [metosin/malli](https://github.com/metosin/malli) - Data-Driven Schemas for Clojure/Script.
+- [metosin/malli](https://github.com/metosin/malli) - High-performance Data-Driven Data Specification Library for Clojure/Script.
 - [siclait/6.824-cljlabs-2020](https://github.com/siclait/6.824-cljlabs-2020) - Clojure ports for the Spring 2020 labs of MIT's 6.824: Distributed Systems
 - [clojure-clutch/clutch](https://github.com/clojure-clutch/clutch) - A Clojure library for Apache CouchDB.
 - [FundingCircle/jackdaw](https://github.com/FundingCircle/jackdaw) - A Clojure library for the Apache Kafka distributed streaming platform.
@@ -920,6 +920,7 @@
 
 ## Go 
 
+- [inqueryio/inquery](https://github.com/inqueryio/inquery) - Safeguard your Postgres database
 - [XenitAB/spegel](https://github.com/XenitAB/spegel) - Stateless cluster local OCI registry mirror.
 - [backube/volsync](https://github.com/backube/volsync) - Asynchronous data replication for Kubernetes volumes
 - [gorilla/websocket](https://github.com/gorilla/websocket) - A fast, well-tested and widely used WebSocket implementation for Go.
@@ -984,6 +985,7 @@
 - [viant/afs](https://github.com/viant/afs) - Abstract File Storage
 - [bramvdbogaerde/go-scp](https://github.com/bramvdbogaerde/go-scp) - Simple Golang scp client
 - [soypat/gopherlings](https://github.com/soypat/gopherlings) - 📘️ Learn Go by fixing tiny incorrect programs
+- [vmware-tanzu/kubeapps](https://github.com/vmware-tanzu/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [theriault/maths](https://github.com/theriault/maths) - Maths includes mathematical functions not defined in the standard Go math package.
 - [nkanaev/yarr](https://github.com/nkanaev/yarr) - yet another rss reader
 - [ConsenSys/gnark](https://github.com/ConsenSys/gnark) - gnark is a fast zk-SNARK library that offers a high-level API to design circuits. The library is open source and developed under the Apache 2.0 license
@@ -2167,7 +2169,6 @@
 - [input-output-hk/haskell-course](https://github.com/input-output-hk/haskell-course) - This course is designed to teach students Haskell from zero to everything needed to work with Marlowe and Plutus. The course itself doesn't contain content specific to Marlowe or Plutus. So, if you wa
 - [google/prompt-to-prompt](https://github.com/google/prompt-to-prompt) - 
 - [google-research/rliable](https://github.com/google-research/rliable) - [NeurIPS'21 Outstanding Paper] Library for reliable evaluation on RL and ML benchmarks, even with only a handful of seeds.
-- [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) - Neural Networks: Zero to Hero
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [pesser/stable-diffusion](https://github.com/pesser/stable-diffusion) - 
@@ -3545,6 +3546,7 @@
 - [Farama-Foundation/Metaworld](https://github.com/Farama-Foundation/Metaworld) - Collections of robotics environments geared towards benchmarking multi-task and meta reinforcement learning
 - [quic/aimet](https://github.com/quic/aimet) - AIMET is a library that provides advanced quantization and compression techniques for trained neural network models.
 - [k2-fsa/icefall](https://github.com/k2-fsa/icefall) - 
+- [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [nschloe/tuna](https://github.com/nschloe/tuna) - :fish: Python profile viewer
 - [ashleve/lightning-hydra-template](https://github.com/ashleve/lightning-hydra-template) - PyTorch Lightning + Hydra. A very user-friendly template for ML experimentation.  ⚡🔥⚡
 - [debanjum/khoj](https://github.com/debanjum/khoj) - Natural Language Search Assistant for your Org-Mode and Markdown notes, Beancount transactions and Photos
@@ -3857,7 +3859,7 @@
 - [karthik19967829/InferDoc](https://github.com/karthik19967829/InferDoc) - Generate SQUAD style dataset from raw text file and train a transformer based question answering model .This repo has code from https://github.com/facebookresearch/UnsupervisedQA and https://github.co
 - [graphdeeplearning/graphtransformer](https://github.com/graphdeeplearning/graphtransformer) - Graph Transformer Architecture. Source code for "A Generalization of Transformer Networks to Graphs", DLG-AAAI'21.
 - [argosopentech/argos-translate](https://github.com/argosopentech/argos-translate) - Open-source offline translation library written in Python
-- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to coordinate your dataflow
+- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to orchestrate and observe your data pipelines
 - [xlwings/xlwings](https://github.com/xlwings/xlwings) - xlwings is a Python library that makes it easy to call Python from Excel and vice versa. It works with Excel on Windows and macOS as well as with Google Sheets and Excel on the web.
 - [aio-libs/aiokafka](https://github.com/aio-libs/aiokafka) - asyncio client for kafka
 - [lightly-ai/lightly](https://github.com/lightly-ai/lightly) - A python library for self-supervised learning on images.
@@ -7366,7 +7368,6 @@
 - [MichalLytek/typegraphql-prisma](https://github.com/MichalLytek/typegraphql-prisma) - Prisma generator to emit TypeGraphQL types and CRUD resolvers from your Prisma schema
 - [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite) - Wasm powered Jupyter running in the browser 💡
 - [meienberger/runtipi](https://github.com/meienberger/runtipi) - Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
-- [vmware-tanzu/kubeapps](https://github.com/vmware-tanzu/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [deislabs/hippo](https://github.com/deislabs/hippo) - The WebAssembly Platform
 - [soketi/soketi](https://github.com/soketi/soketi) - Just another simple, fast, and resilient open-source WebSockets server. 📣
