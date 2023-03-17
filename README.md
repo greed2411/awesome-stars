@@ -131,7 +131,7 @@
 - [liztio/k8s-fdw](https://github.com/liztio/k8s-fdw) - Go project template for Foreign Data Wrappers for PostgreSQL
 - [briandowns/pass](https://github.com/briandowns/pass) - Simple CLI Password Manager
 - [athena-team/athena-signal](https://github.com/athena-team/athena-signal) - 
-- [pikasTech/PikaPython](https://github.com/pikasTech/PikaPython) - PikaPython - Python runs with  only 4KB of RAM, zero dependencies, easy to bind with C. Similar project: MicroPython, JerryScript.
+- [pikasTech/PikaPython](https://github.com/pikasTech/PikaPython) - An ultra-lightweight Python interpreter that runs with only 4KB of RAM, zero dependencies. It is ready to use out of the box without any configuration required and easy to extend with C. Similar proje
 - [berty/go-libtor](https://github.com/berty/go-libtor) - Self-contained Tor from Go
 - [lh3/gwfa](https://github.com/lh3/gwfa) - Proof-of-concept implementation of GWFA for sequence-to-graph alignment
 - [erthink/libmdbx](https://github.com/erthink/libmdbx) - One of the fastest embeddable key-value ACID database without WAL. libmdbx surpasses the legendary LMDB in terms of reliability, features and performance.
@@ -1153,7 +1153,7 @@
 - [ledisdb/ledisdb](https://github.com/ledisdb/ledisdb) - A high performance NoSQL Database Server powered by Go
 - [kelindar/column](https://github.com/kelindar/column) - High-performance, columnar, in-memory store with bitmap indexing in Go
 - [p2pderivatives/dlc](https://github.com/p2pderivatives/dlc) - Discreet Log Contracts library
-- [neilotoole/sq](https://github.com/neilotoole/sq) - swiss-army knife for data
+- [neilotoole/sq](https://github.com/neilotoole/sq) - data wrangler
 - [openacid/slim](https://github.com/openacid/slim) - Surprisingly space efficient trie in Golang(11 bits/key; 100 ns/get).
 - [alitto/pond](https://github.com/alitto/pond) - 🔘 Minimalistic and High-performance goroutine worker pool written in Go
 - [tidwall/redcon](https://github.com/tidwall/redcon) - Redis compatible server framework for Go
@@ -2142,7 +2142,6 @@
 ## Jsonnet 
 
 - [kubeflow/examples](https://github.com/kubeflow/examples) - A repository to host extended examples and tutorials
-- [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
 
 ## Julia 
 
@@ -2651,7 +2650,6 @@
 - [lium-lst/nmtpytorch](https://github.com/lium-lst/nmtpytorch) - Sequence-to-Sequence Framework in PyTorch
 - [HarshTrivedi/nmn-pytorch](https://github.com/HarshTrivedi/nmn-pytorch) - Neural Module Network for VQA in Pytorch
 - [skorch-dev/skorch](https://github.com/skorch-dev/skorch) - A scikit-learn compatible neural network library that wraps PyTorch
-- [czbiohub/hermione](https://github.com/czbiohub/hermione) - Horizon plots and more for single cells
 - [slundberg/shap](https://github.com/slundberg/shap) - A game theoretic approach to explain the output of any machine learning model.
 - [norvig/pytudes](https://github.com/norvig/pytudes) - Python programs, usually short, of considerable difficulty, to perfect particular skills.
 - [blei-lab/edward](https://github.com/blei-lab/edward) - A probabilistic programming language in TensorFlow. Deep generative models, variational inference.
@@ -2811,7 +2809,7 @@
 - [masmullin2000/bpf_with_go](https://github.com/masmullin2000/bpf_with_go) - BPF with GO and Docker
 - [kubealex/k8s-mediaserver-operator](https://github.com/kubealex/k8s-mediaserver-operator) - Repository for k8s Mediaserver Operator project
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
-- [WICG/floc](https://github.com/WICG/floc) - FLoC
+- [WICG/floc](https://github.com/WICG/floc) - This proposal has been replaced by the Topics API.
 - [niudai/How-to-be-a-good-programmer](https://github.com/niudai/How-to-be-a-good-programmer) - I'm here to tell you some amazing stuff which teacher would never tell you.
 - [thockin/go-build-template](https://github.com/thockin/go-build-template) - A Makefile/Dockerfile example for Go projects.
 - [bitemyapp/learnhaskell](https://github.com/bitemyapp/learnhaskell) - Learn Haskell
@@ -4386,7 +4384,7 @@
 - [barisgecer/facegan](https://github.com/barisgecer/facegan) - TF implementation of our ECCV 2018 paper:  Semi-supervised Adversarial Learning to Generate Photorealistic Face Images of New Identities from 3D Morphable Model
 - [TDAmeritrade/stumpy](https://github.com/TDAmeritrade/stumpy) - STUMPY is a powerful and scalable Python library for modern time series analysis
 - [NVIDIA/MinkowskiEngine](https://github.com/NVIDIA/MinkowskiEngine) - Minkowski Engine is an auto-diff neural network library for high-dimensional sparse tensors
-- [evernote/evernote-sdk-python3](https://github.com/evernote/evernote-sdk-python3) - Testing the Evernote Cloud API for Python 3
+- [Evernote/evernote-sdk-python3](https://github.com/Evernote/evernote-sdk-python3) - Testing the Evernote Cloud API for Python 3
 - [chaonan99/ppt_presenter](https://github.com/chaonan99/ppt_presenter) - Convert ppt to video with audio track, using text to speech synthesis
 - [NVlabs/FUNIT](https://github.com/NVlabs/FUNIT) - Translate images to unseen domains in the test time with few example images.
 - [InwoongLee/TS-LSTM](https://github.com/InwoongLee/TS-LSTM) - Skeleton-based Action Recognition using TS-LSTM model
@@ -6875,7 +6873,7 @@
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [krustlet/krustlet](https://github.com/krustlet/krustlet) - Kubernetes Rust Kubelet
-- [zesterer/chumsky](https://github.com/zesterer/chumsky) - Blindingly quick parsers for humans with expressive errors, powerful recovery, zero-copy parsing, built-in span support, and much more. All in an easy to use package.
+- [zesterer/chumsky](https://github.com/zesterer/chumsky) - Write expressive, high-performance parsers with ease.
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
 - [hotg-ai/rune](https://github.com/hotg-ai/rune) - Rune provides containers to encapsulate and deploy edgeML pipelines and applications
 - [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - RisingWave: A Distributed SQL Database for Stream Processing
@@ -7415,7 +7413,7 @@
 - [libp2p/js-libp2p](https://github.com/libp2p/js-libp2p) - The JavaScript Implementation of libp2p networking stack.
 - [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
 - [ethers-io/ethers.js](https://github.com/ethers-io/ethers.js) - Complete Ethereum library and wallet implementation in JavaScript.
-- [aeternity/aepp-sdk-js](https://github.com/aeternity/aepp-sdk-js) - Javascript SDK for the æternity blockchain
+- [aeternity/aepp-sdk-js](https://github.com/aeternity/aepp-sdk-js) - JavaScript SDK for the æternity blockchain
 - [chaskiq/chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp, etc ...
 - [antonycourtney/tad](https://github.com/antonycourtney/tad) - A desktop application for viewing and analyzing tabular data
 - [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
@@ -7471,7 +7469,7 @@
 - [huggingface/Mongoku](https://github.com/huggingface/Mongoku) - 🔥The Web-scale GUI for MongoDB
 - [vultix/ts-results](https://github.com/vultix/ts-results) - A typescript implementation of Rust's Result object.
 - [SkalskiP/make-sense](https://github.com/SkalskiP/make-sense) - Free to use online tool for labelling photos. https://makesense.ai
-- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Convert cURL commands to code
+- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Generate code from cURL commands
 - [hastic-zzz/hastic-server](https://github.com/hastic-zzz/hastic-server) - Hastic data management server for analyzing patterns and anomalies from Grafana
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
@@ -7504,6 +7502,7 @@
 - [nhn/tui.chart](https://github.com/nhn/tui.chart) - 🍞📊  Beautiful chart for data visualization.
 - [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [jupyter/jupyter-drive](https://github.com/jupyter/jupyter-drive) - Google drive for jupyter notebooks
+- [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
 - [reiinakano/fast-style-transfer-deeplearnjs](https://github.com/reiinakano/fast-style-transfer-deeplearnjs) - Demo of in-browser Fast Neural Style Transfer with deeplearn.js library
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
