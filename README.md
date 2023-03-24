@@ -1092,7 +1092,7 @@
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang. For distributed and Geo-targeted load testing: Ddosify Cloud - https://ddosify.com 🚀
 - [skit-ai/trail](https://github.com/skit-ai/trail) - CLI to run your dataframes against SLU service and generated labeled dataframe.
 - [mr-karan/nomad-events-sink](https://github.com/mr-karan/nomad-events-sink) - An events collection agent which processes Nomad Events and dumps to external sink providers like HTTP
-- [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
+- [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - Open Source, MongoDB-compatible document database
 - [DiscoRiver/massh](https://github.com/DiscoRiver/massh) - Go package for running Linux distributed shell commands via SSH.
 - [aws/eks-anywhere](https://github.com/aws/eks-anywhere) - Run Amazon EKS on your own infrastructure 🚀
 - [coreos/go-systemd](https://github.com/coreos/go-systemd) - Go bindings to systemd socket activation, journal, D-Bus, and unit files
@@ -1101,7 +1101,7 @@
 - [hashicorp/memberlist](https://github.com/hashicorp/memberlist) - Golang package for gossip based membership and failure detection
 - [odpf/raccoon](https://github.com/odpf/raccoon) - Raccoon is a high-throughput, low-latency service to collect events in real-time from your web, mobile apps, and services using multiple network protocols.
 - [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd) - The One CD for All {applications, platforms, operations}
-- [IceFireDB/IceFireDB](https://github.com/IceFireDB/IceFireDB) - IceFireDB is a database built for web3 and web2. It strives to fill the gap between web2 and web3 with a friendly database experience, making web3 application data storage more convenient, and making 
+- [IceFireDB/IceFireDB](https://github.com/IceFireDB/IceFireDB) - @IceFireLabs -&gt; IceFireDB is a database built for web3 and web2. It strives to fill the gap between web2 and web3 with a friendly database experience, making web3 application data storage more conv
 - [facette/facette](https://github.com/facette/facette) - Time series data visualization software
 - [bytedance/ns-x](https://github.com/bytedance/ns-x) - An easy-to-use, flexible network simulator library in Go.
 - [alda-lang/alda](https://github.com/alda-lang/alda) - A music programming language for musicians. :notes:
@@ -1122,7 +1122,7 @@
 - [boltdb/bolt](https://github.com/boltdb/bolt) - An embedded key/value database for Go.
 - [etcd-io/bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go.
 - [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
-- [panjf2000/ants](https://github.com/panjf2000/ants) - 🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go, inspired by fasthttp./ ants 是一个高性能且低损耗的 goroutine 池。
+- [panjf2000/ants](https://github.com/panjf2000/ants) - 🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go./ ants 是一个高性能且低损耗的 goroutine 池。
 - [Iceber/iouring-go](https://github.com/Iceber/iouring-go) - Provides easy-to-use async IO interface with io_uring
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code cloud development environments.
 - [gorse-io/gorse](https://github.com/gorse-io/gorse) - An open source recommender system service written in Go
@@ -2756,7 +2756,7 @@
 
 ## Lua 
 
-- [sonoro1234/anima](https://github.com/sonoro1234/anima) - my tools for making videos with opengl watch them at: https://vimeo.com/user67846254
+- [sonoro1234/anima](https://github.com/sonoro1234/anima) - my tools for making videos with opengl. Watch them at: https://vimeo.com/user67846254
 - [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
 - [szagoruyko/wide-residual-networks](https://github.com/szagoruyko/wide-residual-networks) - 3.8% and 18.3% on CIFAR-10 and CIFAR-100
@@ -3089,7 +3089,6 @@
 - [sheqi/GAN_Review](https://github.com/sheqi/GAN_Review) - A Survey and Taxonomy of the Recent GANs Development，computer vision & time series
 - [vasanthk/how-web-works](https://github.com/vasanthk/how-web-works) - What happens behind the scenes when we type www.google.com in a browser?
 - [aphyr/distsys-class](https://github.com/aphyr/distsys-class) - Class materials for a distributed systems lecture series
-- [RadeonOpenCompute/ROCm](https://github.com/RadeonOpenCompute/ROCm) - ROCm -  Open Software Platform for GPU Compute
 - [YiChenCityU/Recent_SLAM_Research](https://github.com/YiChenCityU/Recent_SLAM_Research) - Track Advancement of SLAM 跟踪SLAM前沿动态【2021 version】業務調整，暫停更新
 - [joho/awesome-code-review](https://github.com/joho/awesome-code-review) - An "Awesome" list of code review resources - articles, papers, tools, etc
 - [lorin/resilience-engineering](https://github.com/lorin/resilience-engineering) - Resilience engineering papers
@@ -3517,7 +3516,7 @@
 - [django-cms/django-cms](https://github.com/django-cms/django-cms) - The easy-to-use and developer-friendly enterprise CMS powered by Django
 - [django-cms/djangocms-video](https://github.com/django-cms/djangocms-video) - django CMS Video is a set of plugins for django CMS that allow you to publish video content on your site.
 - [nyu-mll/quality](https://github.com/nyu-mll/quality) - 
-- [huggingface/optimum](https://github.com/huggingface/optimum) - 🏎️ Accelerate training and inference of 🤗 Transformers with easy to use hardware optimization tools
+- [huggingface/optimum](https://github.com/huggingface/optimum) - 🚀 Accelerate training and inference of 🤗 Transformers with easy to use hardware optimization tools
 - [argoproj-labs/hera-workflows](https://github.com/argoproj-labs/hera-workflows) - Hera is an Argo Workflows Python SDK. Hera aims to make workflow construction and submission easy and accessible to everyone! Hera abstracts away workflow setup details while still maintaining a consi
 - [geohot/tinygrad](https://github.com/geohot/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
 - [AstraZeneca/chemicalx](https://github.com/AstraZeneca/chemicalx) - A PyTorch and TorchDrug based deep learning library for drug pair scoring. (KDD 2022)
@@ -3897,6 +3896,7 @@
 - [google-research/multilingual-t5](https://github.com/google-research/multilingual-t5) - 
 - [allegroai/clearml-agent](https://github.com/allegroai/clearml-agent) - ClearML Agent - ML-Ops made easy. ML-Ops scheduler & orchestration solution
 - [P403n1x87/pytest-austin](https://github.com/P403n1x87/pytest-austin) - Python Performance Testing with Austin
+- [aimhubio/aim](https://github.com/aimhubio/aim) - Aim 💫 — easy-to-use and performant open-source ML experiment tracker.
 - [nimarb/pytorch_influence_functions](https://github.com/nimarb/pytorch_influence_functions) - This is a PyTorch reimplementation of Influence Functions from the ICML2017 best paper: Understanding Black-box Predictions via Influence Functions by Pang Wei Koh and Percy Liang.
 - [qiujiali/lattice_rnn](https://github.com/qiujiali/lattice_rnn) - Bi-directional Lattice Recurrent Neural Networks for Confidence Estimation
 - [andy194673/nlg-sclstm-multiwoz](https://github.com/andy194673/nlg-sclstm-multiwoz) - 
@@ -5270,7 +5270,7 @@
 - [airbnb/knowledge-repo](https://github.com/airbnb/knowledge-repo) - A next-generation curated knowledge sharing platform for data scientists and other technical professions.
 - [hityzy1122/opencv_transforms_torchvision](https://github.com/hityzy1122/opencv_transforms_torchvision) - opencv reimplement for transforms in torchvision
 - [jonasrothfuss/ProMP](https://github.com/jonasrothfuss/ProMP) - Implementation of Proximal Meta-Policy Search (ProMP) as well as related Meta-RL algorithm. Includes a useful experiment framework for Meta-RL.
-- [layumi/Person_reID_baseline_pytorch](https://github.com/layumi/Person_reID_baseline_pytorch) - Pytorch ReID: A tiny, friendly, strong pytorch implement of object re-identification baseline. Tutorial 👉https://github.com/layumi/Person_reID_baseline_pytorch/tree/master/tutorial
+- [layumi/Person_reID_baseline_pytorch](https://github.com/layumi/Person_reID_baseline_pytorch) - :woman_juggling: Pytorch ReID: A tiny, friendly, strong pytorch implement of object re-identification baseline. Tutorial 👉https://github.com/layumi/Person_reID_baseline_pytorch/tree/master/tutorial
 - [KuNyaa/berkeleydeeprlcourse-homework-pytorch](https://github.com/KuNyaa/berkeleydeeprlcourse-homework-pytorch) - Assignments for CS294-112 Fall2018 in Pytorch
 - [alexa-samples/skill-sample-python-fact](https://github.com/alexa-samples/skill-sample-python-fact) - An Alexa Skill Sample showing how to build a fact skill in Python.
 - [crowdAI/marLo](https://github.com/crowdAI/marLo) - Multi Agent Reinforcement Learning using MalmÖ
@@ -5976,7 +5976,6 @@
 - [Naresh1318/Adversarial_Autoencoder](https://github.com/Naresh1318/Adversarial_Autoencoder) - A wizard's guide to Adversarial Autoencoders
 - [xkumiyu/numpy-data-augmentation](https://github.com/xkumiyu/numpy-data-augmentation) - Data Augmentation using NumPy
 - [yehiahesham/Movie_Sentiment_Analysis](https://github.com/yehiahesham/Movie_Sentiment_Analysis) - Classify the sentiment of sentences from the Rotten Tomatoes dataset
-- [duckietown/gym-duckietown](https://github.com/duckietown/gym-duckietown) - Self-driving car simulator for the Duckietown universe
 - [charlesq34/pointnet-autoencoder](https://github.com/charlesq34/pointnet-autoencoder) - Autoencoder for Point Clouds
 - [richliao/textClassifier](https://github.com/richliao/textClassifier) - Text classifier for Hierarchical Attention Networks for Document Classification
 - [openai/weightnorm](https://github.com/openai/weightnorm) - Example code for Weight Normalization, from "Weight Normalization: A Simple Reparameterization to Accelerate Training of Deep Neural Networks"
@@ -6767,6 +6766,7 @@
 - [que-rb/que](https://github.com/que-rb/que) - A Ruby job queue that uses PostgreSQL's advisory locks for speed and reliability.
 - [mllocs/zoomus](https://github.com/mllocs/zoomus) - Ruby wrapper gem for zoom.us API.
 - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
+- [RadeonOpenCompute/ROCm](https://github.com/RadeonOpenCompute/ROCm) - ROCm -  Open Software Platform for GPU Compute
 - [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
@@ -7422,7 +7422,6 @@
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [aws/jsii](https://github.com/aws/jsii) - jsii allows code in any language to naturally interact with JavaScript classes. It is the technology that enables the AWS Cloud Development Kit to deliver polyglot libraries from a single codebase!
-- [aimhubio/aim](https://github.com/aimhubio/aim) - Aim 💫 — easy-to-use and performant open-source ML experiment tracker.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [inkandswitch/cambria-project](https://github.com/inkandswitch/cambria-project) - Schema evolution with bi-directional lenses.
 - [quasilyte/gopherkon](https://github.com/quasilyte/gopherkon) - Go mascot image constructor. Create your cute own gopher.
