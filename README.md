@@ -94,7 +94,6 @@
 ## Assembly 
 
 - [ROCmSoftwarePlatform/MIOpen](https://github.com/ROCmSoftwarePlatform/MIOpen) - AMD's Machine Intelligence Library
-- [algorithm-archivists/algorithm-archive](https://github.com/algorithm-archivists/algorithm-archive) - A collaborative book on algorithms
 - [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25 and 2.0, for reference purposes
 - [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 
@@ -112,7 +111,7 @@
 
 ## C 
 
-- [hydradatabase/hydra](https://github.com/hydradatabase/hydra) - The open source Snowflake alternative. OLAP Postgres.
+- [hydradatabase/hydra](https://github.com/hydradatabase/hydra) - OLAP Postgres. A modern, open source replacement for enterprise data warehouses
 - [danielealbano/cachegrand](https://github.com/danielealbano/cachegrand) - cachegrand - a modern OSS Key-Value store built for today's hardware
 - [jart/blink](https://github.com/jart/blink) - tiniest x86-64-linux emulator
 - [postgres/postgres](https://github.com/postgres/postgres) - Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_
@@ -921,6 +920,7 @@
 
 ## Go 
 
+- [benthosdev/benthos](https://github.com/benthosdev/benthos) - Fancy stream processing made operationally mundane
 - [rilldata/rill-developer](https://github.com/rilldata/rill-developer) - Rill is a tool for effortlessly transforming data sets into powerful, opinionated dashboards using SQL.  BI-as-code.
 - [sosedoff/pgweb](https://github.com/sosedoff/pgweb) - Cross-platform client for PostgreSQL databases
 - [inqueryio/inquery](https://github.com/inqueryio/inquery) - Safeguard your Postgres database
@@ -1632,6 +1632,7 @@
 ## HTML 
 
 - [livebook-dev/livebook.dev](https://github.com/livebook-dev/livebook.dev) - Landing page for Livebook
+- [heejkoo/Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models) - A collection of resources and papers on Diffusion Models
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes
 - [h-enk/doks](https://github.com/h-enk/doks) - Hugo theme helping you build modern documentation websites.
 - [YerevaNN/A-Guide-to-Deep-Learning](https://github.com/YerevaNN/A-Guide-to-Deep-Learning) - 📚 A detailed guide to deep learning: http://yerevann.com/a-guide-to-deep-learning/
@@ -2870,7 +2871,6 @@
 - [matter-labs/awesome-zero-knowledge-proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs) - A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).
 - [notpresident35/awesome-learn-gamedev](https://github.com/notpresident35/awesome-learn-gamedev) - A curated collection of game development learning resources
 - [GT-RIPL/Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics) - A comprehensive list of papers using large language/multi-modal models for Robotics/RL, including papers, codes, and related websites
-- [heejkoo/Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models) - A collection of resources and papers on Diffusion Models
 - [jorgef/engineeringladders](https://github.com/jorgef/engineeringladders) - A framework for Engineering Managers
 - [skit-ai/phone-number-entity-dataset](https://github.com/skit-ai/phone-number-entity-dataset) - Dataset Release for Phone Number Entity capture task
 - [krishnadey30/LeetCode-Questions-CompanyWise](https://github.com/krishnadey30/LeetCode-Questions-CompanyWise) - Contains Company Wise Questions sorted based on Frequency and all time
@@ -3143,7 +3143,7 @@
 - [naver/biobert-pretrained](https://github.com/naver/biobert-pretrained) - BioBERT: a pre-trained biomedical language representation model for biomedical text mining
 - [kweonwooj/papers](https://github.com/kweonwooj/papers) - summary of ML papers I've read
 - [Cryptorating/whitepapers](https://github.com/Cryptorating/whitepapers) - Cryptocurrency white papers
-- [ciconia/awesome-music](https://github.com/ciconia/awesome-music) - Awesome Music Projects
+- [noteflakes/awesome-music](https://github.com/noteflakes/awesome-music) - Awesome Music Projects
 - [jslee02/awesome-robotics-libraries](https://github.com/jslee02/awesome-robotics-libraries) - :sunglasses: A curated list of robotics libraries and software
 - [Seth-Park/viewpoint-invariant-change-captioning](https://github.com/Seth-Park/viewpoint-invariant-change-captioning) - Code and dataset release for Park et al., Viewpoint Invariant Change Captioning
 - [openbiox/awosome-bioinformatics](https://github.com/openbiox/awosome-bioinformatics) - A curated list of resources for learning bioinformatics.
@@ -3529,7 +3529,7 @@
 - [django-cms/djangocms-video](https://github.com/django-cms/djangocms-video) - django CMS Video is a set of plugins for django CMS that allow you to publish video content on your site.
 - [nyu-mll/quality](https://github.com/nyu-mll/quality) - 
 - [huggingface/optimum](https://github.com/huggingface/optimum) - 🚀 Accelerate training and inference of 🤗 Transformers and 🤗 Diffusers with easy to use hardware optimization tools
-- [argoproj-labs/hera-workflows](https://github.com/argoproj-labs/hera-workflows) - Hera is an Argo Workflows Python SDK. Hera aims to make workflow construction and submission easy and accessible to everyone! Hera abstracts away workflow setup details while still maintaining a consi
+- [argoproj-labs/hera](https://github.com/argoproj-labs/hera) - Hera is an Argo Python SDK. Hera aims to make construction and submission of various Argo Project resources easy and accessible to everyone! Hera abstracts away low-level setup details while still mai
 - [geohot/tinygrad](https://github.com/geohot/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
 - [AstraZeneca/chemicalx](https://github.com/AstraZeneca/chemicalx) - A PyTorch and TorchDrug based deep learning library for drug pair scoring. (KDD 2022)
 - [some9000/StylePile](https://github.com/some9000/StylePile) - A prompt generation helper script for AUTOMATIC1111/stable-diffusion-webui
@@ -3757,7 +3757,7 @@
 - [amundsen-io/amundsen](https://github.com/amundsen-io/amundsen) - Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.
 - [gabrielfalcao/sure](https://github.com/gabrielfalcao/sure) - idiomatic assertion toolkit with human-friendly failure messages, inspired by RSpec Expectations and should.js
 - [riiid/krsh](https://github.com/riiid/krsh) - A declarative KubeFlow Management Tool
-- [Lightning-AI/lightning-flash](https://github.com/Lightning-AI/lightning-flash) - Your PyTorch AI Factory - Flash enables you to easily configure and run complex AI recipes for over 15 tasks across 7 data domains
+- [Lightning-Universe/lightning-flash](https://github.com/Lightning-Universe/lightning-flash) - Your PyTorch AI Factory - Flash enables you to easily configure and run complex AI recipes for over 15 tasks across 7 data domains
 - [omoindrot/simple_casper](https://github.com/omoindrot/simple_casper) - A simple implementation of Casper in python
 - [nackjicholson/aiosql](https://github.com/nackjicholson/aiosql) - Simple SQL in Python
 - [madkote/fastapi-plugins](https://github.com/madkote/fastapi-plugins) - FastAPI framework plugins
@@ -3777,7 +3777,7 @@
 - [dwromero/ckconv](https://github.com/dwromero/ckconv) - Code repository of the paper "CKConv: Continuous Kernel Convolution For Sequential Data" published at ICLR 2022. https://arxiv.org/abs/2102.02611
 - [oap-project/raydp](https://github.com/oap-project/raydp) - RayDP provides simple APIs for running Spark on Ray and integrating Spark with AI libraries.
 - [awslabs/python-deequ](https://github.com/awslabs/python-deequ) - Python API for Deequ
-- [Lightning-AI/lightning-transformers](https://github.com/Lightning-AI/lightning-transformers) - Flexible components pairing 🤗 Transformers with :zap: Pytorch Lightning
+- [Lightning-Universe/lightning-transformers](https://github.com/Lightning-Universe/lightning-transformers) - Flexible components pairing 🤗 Transformers with :zap: Pytorch Lightning
 - [mljar/mljar-supervised](https://github.com/mljar/mljar-supervised) - Python package for AutoML on Tabular Data with Feature Engineering, Hyper-Parameters Tuning, Explanations and Automatic Documentation
 - [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
 - [huggingface/accelerate](https://github.com/huggingface/accelerate) - 🚀 A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision
@@ -3804,11 +3804,11 @@
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [cisco/mindmeld](https://github.com/cisco/mindmeld) - An Open Source Conversational AI Platform for Deep-Domain Voice Interfaces and Chatbots.
 - [jim-schwoebel/voicebook](https://github.com/jim-schwoebel/voicebook) - 🗣️ A book and repo to get you started programming voice computing applications in Python (10 chapters and 200+ scripts).
-- [Lightning-AI/lightning-bolts](https://github.com/Lightning-AI/lightning-bolts) - Toolbox of models, callbacks, and datasets for AI/ML researchers.
+- [Lightning-Universe/lightning-bolts](https://github.com/Lightning-Universe/lightning-bolts) - Toolbox of models, callbacks, and datasets for AI/ML researchers.
 - [Borda/lightning-bolts](https://github.com/Borda/lightning-bolts) - Toolbox of models, callbacks, and datasets for AI/ML researchers.
 - [wmuron/motpy](https://github.com/wmuron/motpy) - Library for tracking-by-detection multi object tracking implemented in python
 - [EleutherAI/gpt-neo](https://github.com/EleutherAI/gpt-neo) - An implementation of model parallel GPT-2 and GPT-3-style models using the mesh-tensorflow library.
-- [Lightning-AI/metrics](https://github.com/Lightning-AI/metrics) - Machine learning metrics for distributed, scalable PyTorch applications.
+- [Lightning-AI/torchmetrics](https://github.com/Lightning-AI/torchmetrics) - Torchmetrics - Machine learning metrics for distributed, scalable PyTorch applications.
 - [KatyBrown/CIAlign](https://github.com/KatyBrown/CIAlign) - 
 - [Tencent/Real-SR](https://github.com/Tencent/Real-SR) - Real-World Super-Resolution via Kernel Estimation and Noise Injection
 - [huggingface/transfer-learning-conv-ai](https://github.com/huggingface/transfer-learning-conv-ai) - 🦄 State-of-the-Art Conversational AI with Transfer Learning
@@ -4048,7 +4048,7 @@
 - [python-zk/kazoo](https://github.com/python-zk/kazoo) - Kazoo is a high-level Python library that makes it easier to use Apache Zookeeper.
 - [jeffknupp/sandman2](https://github.com/jeffknupp/sandman2) - Automatically generate a RESTful API service for your legacy database. No code required!
 - [feast-dev/feast](https://github.com/feast-dev/feast) - Feature Store for Machine Learning
-- [Lightning-AI/lightning-Covid19](https://github.com/Lightning-AI/lightning-Covid19) - Classification for covid-19 chest X-ray images using Lightning
+- [Lightning-Universe/lightning-Covid19](https://github.com/Lightning-Universe/lightning-Covid19) - Classification for covid-19 chest X-ray images using Lightning
 - [cerebroai/reformers](https://github.com/cerebroai/reformers) - Efficient Transformers for research, PyTorch and Tensorflow using Locality Sensitive Hashing
 - [bentoml/BentoML](https://github.com/bentoml/BentoML) - Unified Model Serving Framework 🍱
 - [uber/fiber](https://github.com/uber/fiber) - Distributed Computing for AI Made Simple
@@ -4632,6 +4632,7 @@
 - [junior08/Competitive-Programming-CodeChef](https://github.com/junior08/Competitive-Programming-CodeChef) - Solutions to problems on Codechef
 - [titu1994/keras-adabound](https://github.com/titu1994/keras-adabound) - Keras implementation of AdaBound
 - [mherrmann/fbs](https://github.com/mherrmann/fbs) - Create Python GUIs with Qt in minutes
+- [algorithm-archivists/algorithm-archive](https://github.com/algorithm-archivists/algorithm-archive) - A collaborative book on algorithms
 - [cheran-senthil/PyRival](https://github.com/cheran-senthil/PyRival) - ⚡ Competitive Programming Library
 - [tgGuo15/PriorImageCaption](https://github.com/tgGuo15/PriorImageCaption) - 
 - [tensorflow/federated](https://github.com/tensorflow/federated) - A framework for implementing federated learning
@@ -5269,7 +5270,7 @@
 - [uclanlp/NamedEntityLanguageModel](https://github.com/uclanlp/NamedEntityLanguageModel) - 
 - [ruotianluo/neural-summ-cnndm-pytorch](https://github.com/ruotianluo/neural-summ-cnndm-pytorch) - neural abstractive summarization in pytorch on CNN/Daily Mail
 - [svishnu88/TGS-SaltNet](https://github.com/svishnu88/TGS-SaltNet) - Kaggle | 21st place solution for TGS Salt Identification Challenge
-- [PyCQA/pylint](https://github.com/PyCQA/pylint) - It's not just a linter that annoys you!
+- [pylint-dev/pylint](https://github.com/pylint-dev/pylint) - It's not just a linter that annoys you!
 - [rainofmine/Face_Attention_Network](https://github.com/rainofmine/Face_Attention_Network) - Pytorch implementation of face attention network
 - [markriedl/WikiPlots](https://github.com/markriedl/WikiPlots) - A dataset containing story plots from Wikipedia (books, movies, etc.) and the code for the extractor.
 - [gmalivenko/pytorch2keras](https://github.com/gmalivenko/pytorch2keras) - PyTorch to Keras model convertor
