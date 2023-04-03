@@ -923,7 +923,7 @@
 - [benthosdev/benthos](https://github.com/benthosdev/benthos) - Fancy stream processing made operationally mundane
 - [rilldata/rill-developer](https://github.com/rilldata/rill-developer) - Rill is a tool for effortlessly transforming data sets into powerful, opinionated dashboards using SQL.  BI-as-code.
 - [sosedoff/pgweb](https://github.com/sosedoff/pgweb) - Cross-platform client for PostgreSQL databases
-- [inqueryio/inquery](https://github.com/inqueryio/inquery) - Safeguard your Postgres database
+- [inqueryio/inquery](https://github.com/inqueryio/inquery) - Superpowers for PostgreSQL
 - [XenitAB/spegel](https://github.com/XenitAB/spegel) - Stateless cluster local OCI registry mirror.
 - [backube/volsync](https://github.com/backube/volsync) - Asynchronous data replication for Kubernetes volumes
 - [gorilla/websocket](https://github.com/gorilla/websocket) - A fast, well-tested and widely used WebSocket implementation for Go.
@@ -1486,7 +1486,7 @@
 - [klauspost/compress](https://github.com/klauspost/compress) - Optimized Go Compression Packages
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [coinbase/odin](https://github.com/coinbase/odin) - Archived: Odin deployer to AWS for 12 Factor applications.
-- [aler9/rtsp-simple-server](https://github.com/aler9/rtsp-simple-server) - ready-to-use RTSP / RTMP / LL-HLS / WebRTC server and proxy that allows to read, publish and proxy video and audio streams. Also known as MediaMTX
+- [aler9/mediamtx](https://github.com/aler9/mediamtx) - Also known as rtsp-simple-server. ready-to-use RTSP / RTMP / LL-HLS / WebRTC server and proxy that allows to read, publish and proxy video and audio streams.
 - [smarty-prototypes/go-disruptor](https://github.com/smarty-prototypes/go-disruptor) - A port of the LMAX Disruptor to the Go language.
 - [urfave/negroni](https://github.com/urfave/negroni) - Idiomatic HTTP Middleware for Golang
 - [gorilla/mux](https://github.com/gorilla/mux) - A powerful HTTP router and URL matcher for building Go web servers with 🦍
@@ -2860,7 +2860,7 @@
 - [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook) - A playbook for systematically maximizing the performance of deep learning models.
 - [chanakaudaya/solution-architecture-patterns](https://github.com/chanakaudaya/solution-architecture-patterns) - Reusable, vendor-neutral, industry-specific, vendor-specific solution architecture patterns for enterprise
 - [pawl/awesome-etl](https://github.com/pawl/awesome-etl) - A curated list of awesome ETL frameworks, libraries, and software.
-- [sw-yx/ai-notes](https://github.com/sw-yx/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for lspace.swyx.io writing, and product brainstorming, but has cleaned up canonical references under the /R
+- [sw-yx/ai-notes](https://github.com/sw-yx/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under 
 - [akuity/awesome-argo](https://github.com/akuity/awesome-argo) - A curated list of awesome projects and resources related to Argo (a CNCF graduated project)
 - [subeeshvasu/Awesome-Learning-with-Label-Noise](https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise) - A curated list of resources for Learning with Noisy Labels
 - [aya-rs/awesome-aya](https://github.com/aya-rs/awesome-aya) - A curated list of awesome eBPF 🐝 projects using aya-rs and Rust 🦀
@@ -3485,9 +3485,10 @@
 
 ## Python 
 
+- [twitter/the-algorithm-ml](https://github.com/twitter/the-algorithm-ml) - Source code for Twitter's Recommendation Algorithm
 - [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered search engine for your organization 🔎
 - [toluaina/pgsync](https://github.com/toluaina/pgsync) - Postgres to Elasticsearch/OpenSearch sync
-- [scottpersinger/pgwarehouse](https://github.com/scottpersinger/pgwarehouse) - Easily sync your Postgres database to a Snowflake or Clickhouse warehouse
+- [scottpersinger/pgwarehouse](https://github.com/scottpersinger/pgwarehouse) - Easily sync your Postgres database to a Snowflake, ClickHouse, or DuckDB warehouse.
 - [meltano/meltano](https://github.com/meltano/meltano) - Extract & Load /with joy/ — CLI & version control for ELT without limitations. No more black box. Let your creativity flow.
 - [singer-io/tap-postgres](https://github.com/singer-io/tap-postgres) - tap-postgres
 - [jiamo/python-psql-replication](https://github.com/jiamo/python-psql-replication) - postgres  logic replication using python and wal2json
@@ -4623,7 +4624,7 @@
 - [odegeasslbc/pytorch-IBGAN](https://github.com/odegeasslbc/pytorch-IBGAN) - A pytorch implementation of Information Bottleneck GAN
 - [xwhan/One-shot-Relational-Learning](https://github.com/xwhan/One-shot-Relational-Learning) - Code for One-shot Relational Learning for Knowledge Graphs (EMNLP18)
 - [baharefatemi/SimplE](https://github.com/baharefatemi/SimplE) - Implementation of SimplE Embedding for Link Prediction in Knowledge Graphs in PyTorch
-- [cdeweyx/DS-Career-Resources](https://github.com/cdeweyx/DS-Career-Resources) - Compilation of resources and insights that helped me on my journey to data scientist
+- [cdeweyx/DS-Career-Resources](https://github.com/cdeweyx/DS-Career-Resources) - Compilation of resources for aspiring data scientists
 - [Kyubyong/lm_finetuning](https://github.com/Kyubyong/lm_finetuning) - Language Model Fine-tuning for Moby Dick
 - [google-research/nasbench](https://github.com/google-research/nasbench) - NASBench: A Neural Architecture Search Dataset and Benchmark
 - [boramalper/pydis](https://github.com/boramalper/pydis) - A redis clone in Python 3 to disprove some falsehoods about performance.
@@ -5380,7 +5381,7 @@
 - [BYU-PCCL/holodeck](https://github.com/BYU-PCCL/holodeck) - High Fidelity Simulator for Reinforcement Learning and Robotics Research.
 - [lixilinx/psgd_torch](https://github.com/lixilinx/psgd_torch) - Pytorch implementation of preconditioned stochastic gradient descent
 - [kentonl/e2e-coref](https://github.com/kentonl/e2e-coref) - End-to-end Neural Coreference Resolution
-- [texturedesign/texturize](https://github.com/texturedesign/texturize) - 🤖🖌️ Generate photo-realistic textures based on source images. Remix, remake, mashup! Useful if you want to create variations on a theme or elaborate on an existing texture.
+- [texturedesign/texturize](https://github.com/texturedesign/texturize) - 🤖🖌️ Generate photo-realistic textures based on source images or (soon) PBR materials. Remix, remake, mashup! Useful if you want to create variations on a theme or elaborate on an existing texture.
 - [yjxiong/temporal-segment-networks](https://github.com/yjxiong/temporal-segment-networks) - Code & Models for Temporal Segment Networks (TSN) in ECCV 2016
 - [zhoubolei/TRN-pytorch](https://github.com/zhoubolei/TRN-pytorch) - Temporal Relation Networks
 - [coderSkyChen/Action_Recognition_Zoo](https://github.com/coderSkyChen/Action_Recognition_Zoo) - Codes for popular action recognition models, verified on the something-something data set.
