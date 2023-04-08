@@ -22,7 +22,6 @@
 - [Cython](#cython)
 - [D](#d)
 - [DIGITAL Command Language](#digital-command-language)
-- [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
 - [Emacs Lisp](#emacs-lisp)
@@ -30,7 +29,6 @@
 - [Fortran](#fortran)
 - [GDScript](#gdscript)
 - [Gherkin](#gherkin)
-- [Gnuplot](#gnuplot)
 - [Go](#go)
 - [HCL](#hcl)
 - [HTML](#html)
@@ -63,6 +61,7 @@
 - [Pony](#pony)
 - [PostScript](#postscript)
 - [Processing](#processing)
+- [Prolog](#prolog)
 - [PureBasic](#purebasic)
 - [Python](#python)
 - [R](#r)
@@ -864,10 +863,6 @@
 
 - [udacity/ud120-projects](https://github.com/udacity/ud120-projects) - Starter project code for students taking Udacity ud120
 
-## Dart 
-
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
-
 ## Dockerfile 
 
 - [valerauko/clojure-graalvm-native](https://github.com/valerauko/clojure-graalvm-native) - Docker image for building Clojure GraalVM native images
@@ -914,12 +909,11 @@
 
 - [Xe/when-then-zen](https://github.com/Xe/when-then-zen) - Meditation instructions from spiritual texts ripped out of the contexts of their spirituality and presented in the universal format of Gherkin
 
-## Gnuplot 
-
-- [nasa-jpl/open-source-rover](https://github.com/nasa-jpl/open-source-rover) - A build-it-yourself, 6-wheel rover based on the rovers on Mars!
-
 ## Go 
 
+- [lib/pq](https://github.com/lib/pq) - Pure Go Postgres driver for database/sql
+- [datashim-io/datashim](https://github.com/datashim-io/datashim) - A kubernetes based framework for hassle free handling of datasets
+- [upper/db](https://github.com/upper/db) - Data access layer for PostgreSQL, CockroachDB, MySQL, SQLite and MongoDB with ORM-like features.
 - [benthosdev/benthos](https://github.com/benthosdev/benthos) - Fancy stream processing made operationally mundane
 - [rilldata/rill-developer](https://github.com/rilldata/rill-developer) - Rill is a tool for effortlessly transforming data sets into powerful, opinionated dashboards using SQL.  BI-as-code.
 - [sosedoff/pgweb](https://github.com/sosedoff/pgweb) - Cross-platform client for PostgreSQL databases
@@ -946,7 +940,7 @@
 - [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners
 - [natesales/q](https://github.com/natesales/q) - A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH.
 - [ktock/buildg](https://github.com/ktock/buildg) - Interactive debugger for Dockerfile, with support for IDEs (VS Code, Emacs, Neovim, etc.)
-- [airwallex/k8s-pod-restart-info-collector](https://github.com/airwallex/k8s-pod-restart-info-collector) - A simple K8s customer controller to automate troubleshooting of Kubernetes Pods issues. Automatically collect K8s pod restart reasons, logs, and events.
+- [airwallex/k8s-pod-restart-info-collector](https://github.com/airwallex/k8s-pod-restart-info-collector) - Automated troubleshooting of Kubernetes Pods issues. Collect K8s pod restart reasons, logs, and events automatically.
 - [grafana/phlare](https://github.com/grafana/phlare) - 🔥 horizontally-scalable, highly-available, multi-tenant continuous profiling aggregation system
 - [cloudwego/kitex](https://github.com/cloudwego/kitex) - Go RPC framework with high-performance and strong-extensibility for building micro-services.
 - [cloudwego/hertz](https://github.com/cloudwego/hertz) - Go HTTP framework with high-performance and strong-extensibility for building micro-services.
@@ -969,7 +963,7 @@
 - [samber/do](https://github.com/samber/do) - ⚙️  A dependency injection toolkit based on Go 1.18+ Generics.
 - [coroot/coroot](https://github.com/coroot/coroot) - A zero-instrumentation observability tool for microservice architectures.
 - [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
-- [yohamta/dagu](https://github.com/yohamta/dagu) - Just another Cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
+- [yohamta/dagu](https://github.com/yohamta/dagu) - Powerful Cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
 - [aquasecurity/tracee](https://github.com/aquasecurity/tracee) - Linux Runtime Security and Forensics using eBPF
 - [pion/opus](https://github.com/pion/opus) - Pure Go implementation of Opus
 - [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler) - Descheduler for Kubernetes
@@ -1505,6 +1499,7 @@
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [bradfitz/shotizam](https://github.com/bradfitz/shotizam) - Shotizam analyzes the size of Go binaries
 - [MariaLetta/free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) - ✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos
+- [determined-ai/determined](https://github.com/determined-ai/determined) - Determined: Deep Learning Training Platform
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [mcuadros/ofelia](https://github.com/mcuadros/ofelia) - A docker job scheduler (aka. crontab for docker)
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
@@ -1720,6 +1715,7 @@
 
 ## Handlebars 
 
+- [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns) - A catalogue of Rust design patterns, anti-patterns and idioms
 - [kathyqian/crisp](https://github.com/kathyqian/crisp) - A minimalist, responsive, and open-source two-column theme for the Ghost publishing platform
 
 ## Haskell 
@@ -2165,7 +2161,7 @@
 
 - [leotac/joypy](https://github.com/leotac/joypy) - Joyplots in Python with matplotlib & pandas :chart_with_upwards_trend:
 - [pnnl/HyperNetX](https://github.com/pnnl/HyperNetX) - Python package for hypergraph analysis and visualization.
-- [GokuMohandas/mlops-course](https://github.com/GokuMohandas/mlops-course) - A project-based course on the foundations of MLOps to responsibly develop, deploy and maintain ML.
+- [GokuMohandas/mlops-course](https://github.com/GokuMohandas/mlops-course) - Learn how to design, develop, deploy and maintain an end-to-end ML application at scale.
 - [huggingface/diffusion-models-class](https://github.com/huggingface/diffusion-models-class) - Materials for the Hugging Face Diffusion Models Course
 - [xl0/lovely-tensors](https://github.com/xl0/lovely-tensors) - Tensors, ready for human consumption
 - [LexPredict/lexpredict-lexnlp](https://github.com/LexPredict/lexpredict-lexnlp) - LexNLP by LexPredict
@@ -2916,7 +2912,7 @@
 - [mjhea0/awesome-fastapi](https://github.com/mjhea0/awesome-fastapi) - A curated list of awesome things related to FastAPI
 - [chaincodelabs/bitcoin-curriculum](https://github.com/chaincodelabs/bitcoin-curriculum) - Bitcoin Protocol Development Curriculum
 - [benthecoder/yt-channels-DS-AI-ML-CS](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS) - A comprehensive list of 180+ YouTube Channels for Data Science,  Data Engineering, Machine Learning, Deep learning, Computer Science, programming, software engineering, etc.
-- [codersguild/System-Design](https://github.com/codersguild/System-Design) - It's fascinating. How is modern software designed? 🤔 Some design-level considerations for scalability, maintainability eventual consistency, availability & reliability. 👨‍💻 Interview Prep. 👨‍💻
+- [codersguild/System-Design](https://github.com/codersguild/System-Design) - It's just fascinating. How is modern software designed? 🤔 Some design-level considerations for scalability, maintainability eventual consistency, availability & reliability. 👨‍💻 Interview Prep. 👨‍💻
 - [freereadorg/awesome-libgen](https://github.com/freereadorg/awesome-libgen) - 😎 Awesome list of Library Genesis, the world's largest free library.
 - [fuzhenxin/Style-Transfer-in-Text](https://github.com/fuzhenxin/Style-Transfer-in-Text) - Paper List for Style Transfer in Text
 - [nrdmn/awesome-zig](https://github.com/nrdmn/awesome-zig) - 
@@ -2962,7 +2958,6 @@
 - [jwiegley/git-from-the-bottom-up](https://github.com/jwiegley/git-from-the-bottom-up) - An introduction to the architecture and design of the Git content manager
 - [resumejob/system-design-algorithms](https://github.com/resumejob/system-design-algorithms) - Advanced data structure and algorithm for system design，系统设计需要了解的算法
 - [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
-- [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns) - A catalogue of Rust design patterns, anti-patterns and idioms
 - [dgryski/awesome-go-style](https://github.com/dgryski/awesome-go-style) - A collection of Go style guides
 - [erikgrinaker/readings](https://github.com/erikgrinaker/readings) - Interesting readings and talks on computer science
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
@@ -3479,12 +3474,17 @@
 
 - [jordanorelli/no_water](https://github.com/jordanorelli/no_water) - particle system with forces
 
+## Prolog 
+
+- [nasa-jpl/open-source-rover](https://github.com/nasa-jpl/open-source-rover) - A build-it-yourself, 6-wheel rover based on the rovers on Mars!
+
 ## PureBasic 
 
 - [alibaba/x-deeplearning](https://github.com/alibaba/x-deeplearning) - An industrial deep learning framework for high-dimension sparse data
 
 ## Python 
 
+- [collerek/ormar](https://github.com/collerek/ormar) - python async orm with fastapi in mind and pydantic validation
 - [twitter/the-algorithm-ml](https://github.com/twitter/the-algorithm-ml) - Source code for Twitter's Recommendation Algorithm
 - [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered search engine for your organization 🔎
 - [toluaina/pgsync](https://github.com/toluaina/pgsync) - Postgres to Elasticsearch/OpenSearch sync
@@ -3639,7 +3639,7 @@
 - [nat-n/poethepoet](https://github.com/nat-n/poethepoet) - A task runner that works well with poetry.
 - [mpi4jax/mpi4jax](https://github.com/mpi4jax/mpi4jax) - Zero-copy MPI communication of JAX arrays, for turbo-charged HPC applications in Python :zap:
 - [LukasMasuch/streamlit-pydantic](https://github.com/LukasMasuch/streamlit-pydantic) - 🪄 Auto-generate Streamlit UI from Pydantic Models and Dataclasses.
-- [Fatal1ty/mashumaro](https://github.com/Fatal1ty/mashumaro) - Fast and well tested serialization framework on top of dataclasses
+- [Fatal1ty/mashumaro](https://github.com/Fatal1ty/mashumaro) - Fast and well tested serialization library on top of dataclasses
 - [tusharsadhwani/zxpy](https://github.com/tusharsadhwani/zxpy) - Shell scripts made simple 🐚
 - [ganeti/ganeti](https://github.com/ganeti/ganeti) - Ganeti is a virtual machine cluster management tool built on top of existing virtualization technologies such as Xen or KVM and other open source software.
 - [openai/glide-text2im](https://github.com/openai/glide-text2im) - GLIDE: a diffusion-based text-conditional image synthesis model
@@ -3789,10 +3789,10 @@
 - [huggingface/autotrain-advanced](https://github.com/huggingface/autotrain-advanced) - 🤗 AutoTrain Advanced
 - [modoboa/modoboa](https://github.com/modoboa/modoboa) - Mail hosting made simple
 - [bexxmodd/vizex](https://github.com/bexxmodd/vizex) - Visualize disk space and disk usage in your UNIX\Linux terminal
-- [open-mmlab/mmclassification](https://github.com/open-mmlab/mmclassification) - OpenMMLab Image Classification Toolbox and Benchmark
+- [open-mmlab/mmpretrain](https://github.com/open-mmlab/mmpretrain) - OpenMMLab Pre-training Toolbox and Benchmark
 - [patrick-kidger/torchtyping](https://github.com/patrick-kidger/torchtyping) - Type annotations and dynamic checking for a tensor's shape, dtype, names, etc.
 - [ucinlp/autoprompt](https://github.com/ucinlp/autoprompt) - AutoPrompt: Automatic Prompt Construction for Masked Language Models.
-- [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Build multimodal AI services via cloud native technologies · Neural Search · Generative AI · Cloud Native
+- [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Build multimodal AI services via cloud native technologies
 - [jina-ai/examples](https://github.com/jina-ai/examples) - Jina examples and demos to help you get started
 - [bashtage/arch](https://github.com/bashtage/arch) - ARCH models in Python
 - [facebookresearch/CrypTen](https://github.com/facebookresearch/CrypTen) - A framework for Privacy Preserving Machine Learning
@@ -3859,7 +3859,7 @@
 - [bytedance/neurst](https://github.com/bytedance/neurst) - Neural end-to-end Speech Translation Toolkit
 - [tencent-ailab/pika](https://github.com/tencent-ailab/pika) - a lightweight speech processing toolkit based on Pytorch and (Py)Kaldi
 - [fepegar/torchio](https://github.com/fepegar/torchio) - Medical imaging toolkit for deep learning
-- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.3, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, and 3.10.  You feed it your Python app, it does a lot of clever things, a
+- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, 3.10, and 3.11. You feed it your Python app, it does a lot of clever things, a
 - [facebookresearch/hydra](https://github.com/facebookresearch/hydra) - Hydra is a framework for elegantly configuring complex applications
 - [akshaynagpal/w2n](https://github.com/akshaynagpal/w2n) - Convert number words (eg. twenty one) to numeric digits (21)
 - [jitsi/jiwer](https://github.com/jitsi/jiwer) - Evaluate your speech-to-text system with similarity measures such as word error rate (WER)
@@ -3909,7 +3909,7 @@
 - [google-research/multilingual-t5](https://github.com/google-research/multilingual-t5) - 
 - [allegroai/clearml-agent](https://github.com/allegroai/clearml-agent) - ClearML Agent - ML-Ops made easy. ML-Ops scheduler & orchestration solution
 - [P403n1x87/pytest-austin](https://github.com/P403n1x87/pytest-austin) - Python Performance Testing with Austin
-- [aimhubio/aim](https://github.com/aimhubio/aim) - Aim 💫 — easy-to-use and performant open-source ML experiment tracker.
+- [aimhubio/aim](https://github.com/aimhubio/aim) - Aim 💫 — An easy-to-use & supercharged open-source AI metadata tracker (experiment tracking, prompt engineering)
 - [nimarb/pytorch_influence_functions](https://github.com/nimarb/pytorch_influence_functions) - This is a PyTorch reimplementation of Influence Functions from the ICML2017 best paper: Understanding Black-box Predictions via Influence Functions by Pang Wei Koh and Percy Liang.
 - [qiujiali/lattice_rnn](https://github.com/qiujiali/lattice_rnn) - Bi-directional Lattice Recurrent Neural Networks for Confidence Estimation
 - [andy194673/nlg-sclstm-multiwoz](https://github.com/andy194673/nlg-sclstm-multiwoz) - 
@@ -4037,7 +4037,6 @@
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [r-anime/holo](https://github.com/r-anime/holo) - Episode discussion bot for /r/anime.
-- [determined-ai/determined](https://github.com/determined-ai/determined) - Determined: Deep Learning Training Platform
 - [hitachi-speech/EEND](https://github.com/hitachi-speech/EEND) - End-to-End Neural Diarization
 - [mewwts/addict](https://github.com/mewwts/addict) - The Python Dict that's better than heroin.
 - [Kharacternyk/dotcommon](https://github.com/Kharacternyk/dotcommon) - What do people have in their dotfiles?
@@ -6788,6 +6787,7 @@
 
 ## Rust 
 
+- [pythonspeed/filprofiler](https://github.com/pythonspeed/filprofiler) - A Python memory profiler for data processing and scientific computing applications
 - [second-state/microservice-rust-mysql](https://github.com/second-state/microservice-rust-mysql) - A template project for building a database-driven microservice in Rust and run it in the WasmEdge sandbox.
 - [LeonHartley/Coerce-rs](https://github.com/LeonHartley/Coerce-rs) - Actor runtime and distributed systems framework for Rust
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - Vector Search Engine and Database for the next generation of AI applications. Also available in the cloud https://cloud.qdrant.io/
@@ -6948,6 +6948,7 @@
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [Qovery/engine](https://github.com/Qovery/engine) - The Orchestration Engine To Deliver Self-Service Infrastructure Faster ⚡️
 - [losfair/blueboat](https://github.com/losfair/blueboat) - All-in-one, multi-tenant serverless JavaScript runtime.
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - High-velocity, monorepo-scale workflow for Git
 - [dylanhart/ulid-rs](https://github.com/dylanhart/ulid-rs) - This is a Rust implementation of the ulid project
 - [facebook/sapling](https://github.com/facebook/sapling) - A Scalable, User-Friendly Source Control System.
@@ -7271,6 +7272,7 @@
 
 ## Shell 
 
+- [fphilipe/psql2csv](https://github.com/fphilipe/psql2csv) - Run a query in psql and output the result as CSV.
 - [Wowu/docker-rollout](https://github.com/Wowu/docker-rollout) - 🚀 Zero Downtime Deployment for Docker Compose
 - [jordanwilson230/kubectl-plugins](https://github.com/jordanwilson230/kubectl-plugins) - A Collection of Plugins for kubectl Integration (exec as any user, context switching, etc).
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing
