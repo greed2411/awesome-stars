@@ -741,6 +741,7 @@
 
 ## Clojure 
 
+- [tonsky/datascript](https://github.com/tonsky/datascript) - Immutable database and Datalog query engine for Clojure, ClojureScript and JS
 - [phronmophobic/dewey](https://github.com/phronmophobic/dewey) - Index of Clojure libraries available on github.
 - [babashka/process](https://github.com/babashka/process) - Clojure library for shelling out / spawning sub-processes
 - [clojure/core.logic](https://github.com/clojure/core.logic) - 
@@ -1771,6 +1772,7 @@
 
 ## Java 
 
+- [apache/iceberg](https://github.com/apache/iceberg) - Apache Iceberg
 - [yahoo/validatar](https://github.com/yahoo/validatar) - Functional testing framework for Big Data pipelines.
 - [bytedeco/javacpp](https://github.com/bytedeco/javacpp) - The missing bridge between Java and native C++
 - [apache/drill](https://github.com/apache/drill) - Apache Drill is a distributed MPP query layer for self describing data
@@ -4902,7 +4904,7 @@
 - [facebookresearch/instpred](https://github.com/facebookresearch/instpred) - Predicting Future Instance Segmentation by Forecasting Convolutional Features
 - [jalexvig/cnns](https://github.com/jalexvig/cnns) - Barebones implementations of CNNs
 - [Breakend/AdversarialGain](https://github.com/Breakend/AdversarialGain) - 
-- [iterative/dvc](https://github.com/iterative/dvc) - 🦉Data Version Control | Git for Data & Models | ML Experiments Management
+- [iterative/dvc](https://github.com/iterative/dvc) - 🦉 Data Version Control | Git for Data & Models | ML Experiments Management
 - [inclement/lapidary-ai](https://github.com/inclement/lapidary-ai) - 
 - [AMLab-Amsterdam/L0_regularization](https://github.com/AMLab-Amsterdam/L0_regularization) - Learning Sparse Neural Networks through L0 regularization
 - [lrjconan/LanczosNetwork](https://github.com/lrjconan/LanczosNetwork) - Lanczos Network, Graph Neural Networks, Deep Graph Convolutional Networks, Deep Learning on Graph Structured Data, QM8 Quantum Chemistry Benchmark, ICLR 2019
