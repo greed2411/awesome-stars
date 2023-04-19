@@ -965,7 +965,7 @@
 - [samber/do](https://github.com/samber/do) - ⚙️  A dependency injection toolkit based on Go 1.18+ Generics.
 - [coroot/coroot](https://github.com/coroot/coroot) - A zero-instrumentation observability tool for microservice architectures.
 - [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
-- [yohamta/dagu](https://github.com/yohamta/dagu) - Just another Cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
+- [dagu-labs/dagu](https://github.com/dagu-labs/dagu) - Just another Cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
 - [aquasecurity/tracee](https://github.com/aquasecurity/tracee) - Linux Runtime Security and Forensics using eBPF
 - [pion/opus](https://github.com/pion/opus) - Pure Go implementation of Opus
 - [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler) - Descheduler for Kubernetes
@@ -1229,7 +1229,7 @@
 - [apptainer/singularity](https://github.com/apptainer/singularity) - Singularity has been renamed to Apptainer as part of us moving the project to the Linux Foundation. This repo has been persisted as a snapshot right before the changes.
 - [cri-o/cri-o](https://github.com/cri-o/cri-o) - Open Container Initiative-based implementation of Kubernetes Container Runtime Interface
 - [0xProject/0x-mesh](https://github.com/0xProject/0x-mesh) - A peer-to-peer network for sharing 0x orders
-- [minio/minio](https://github.com/minio/minio) - Multi-Cloud :cloud: Object Storage
+- [minio/minio](https://github.com/minio/minio) - High Performance Object Storage for AI
 - [dghubble/go-twitter](https://github.com/dghubble/go-twitter) - Go Twitter REST and Streaming API v1.1
 - [Bytom/bytom](https://github.com/Bytom/bytom) - Official Go implementation of the Bytom protocol
 - [aws/karpenter](https://github.com/aws/karpenter) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
@@ -2283,7 +2283,6 @@
 - [shayneobrien/ml-from-scratch](https://github.com/shayneobrien/ml-from-scratch) - Implementations of basic machine learning algorithms using only numpy, pandas, and matplotlib.
 - [zaidalyafeai/Notebooks](https://github.com/zaidalyafeai/Notebooks) - Machine learning notebooks in different subjects optimized to run in google collaboratory
 - [ericjang/maml-jax](https://github.com/ericjang/maml-jax) - Implementation of Model-Agnostic Meta-Learning (MAML) in Jax
-- [cvxgrp/cvxportfolio](https://github.com/cvxgrp/cvxportfolio) - Portfolio optimization.
 - [tifgan/stftGAN](https://github.com/tifgan/stftGAN) - TiFGAN: Time Frequency Generative Adversarial Networks
 - [kyle-dorman/bayesian-neural-network-blogpost](https://github.com/kyle-dorman/bayesian-neural-network-blogpost) - Building a Bayesian deep learning classifier
 - [nitarshan/bayes-by-backprop](https://github.com/nitarshan/bayes-by-backprop) - PyTorch implementation of "Weight Uncertainty in Neural Networks"
@@ -3452,7 +3451,7 @@
 
 - [cybertec-postgresql/pgwatch2](https://github.com/cybertec-postgresql/pgwatch2) - PostgreSQL metrics monitor/dashboard
 - [theory/pg-semver](https://github.com/theory/pg-semver) - A semantic version data type for PostgreSQL
-- [zombodb/zombodb](https://github.com/zombodb/zombodb) - Making Postgres and Elasticsearch work together like it's 2022
+- [zombodb/zombodb](https://github.com/zombodb/zombodb) - Making Postgres and Elasticsearch work together like it's 2023
 - [retro/penkala](https://github.com/retro/penkala) - Composable query builder for PostgreSQL written in Clojure.
 
 ## Perl 
@@ -4207,7 +4206,7 @@
 - [facebookresearch/TorchRay](https://github.com/facebookresearch/TorchRay) - Understanding Deep Networks via Extremal Perturbations and Smooth Masks
 - [vxgmichel/aiostream](https://github.com/vxgmichel/aiostream) - Generator-based operators for asynchronous iteration
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [maxhumber/gazpacho](https://github.com/maxhumber/gazpacho) - 🥫 The simple, fast, and modern web scraping library
 - [graykode/distribution-is-all-you-need](https://github.com/graykode/distribution-is-all-you-need) - The basic distribution probability Tutorial for Deep Learning Researchers
 - [gnes-ai/gnes](https://github.com/gnes-ai/gnes) - GNES is Generic Neural Elastic Search, a cloud-native semantic search system based on deep neural network.
@@ -4493,7 +4492,7 @@
 - [google-research/morph-net](https://github.com/google-research/morph-net) - Fast & Simple Resource-Constrained Learning of Deep Network Structure
 - [lolemacs/soft-sharing](https://github.com/lolemacs/soft-sharing) - Implementation of soft parameter sharing for neural networks
 - [kyleolsz/TB-Networks](https://github.com/kyleolsz/TB-Networks) - 
-- [mathLab/PyDMD](https://github.com/mathLab/PyDMD) - Python Dynamic Mode Decomposition
+- [PyDMD/PyDMD](https://github.com/PyDMD/PyDMD) - Python Dynamic Mode Decomposition
 - [zllrunning/SiameseX.PyTorch](https://github.com/zllrunning/SiameseX.PyTorch) - A simplified PyTorch implementation of Siamese networks for tracking: SiamFC, SiamRPN, SiamRPN++, SiamVGG, SiamDW, SiamRPN-VGG.
 - [tommikaikkonen/prettyprinter](https://github.com/tommikaikkonen/prettyprinter) - Syntax-highlighting, declarative and composable pretty printer for Python 3.5+
 - [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
@@ -4655,6 +4654,7 @@
 - [facebookresearch/spreadingvectors](https://github.com/facebookresearch/spreadingvectors) - Open source implementation of  "Spreading Vectors for Similarity Search"
 - [THUNLP-MT/Document-Transformer](https://github.com/THUNLP-MT/Document-Transformer) - Improving the Transformer translation model with document-level context
 - [r9y9/nnmnkwii](https://github.com/r9y9/nnmnkwii) - Library to build speech synthesis systems designed for easy and fast prototyping.
+- [cvxgrp/cvxportfolio](https://github.com/cvxgrp/cvxportfolio) - Portfolio optimization.
 - [soerenab/AudioMNIST](https://github.com/soerenab/AudioMNIST) - 
 - [Oldpan/Faceswap-Deepfake-Pytorch](https://github.com/Oldpan/Faceswap-Deepfake-Pytorch) - Faceswap with Pytorch or DeepFake with Pytorch
 - [pierreablin/autoptim](https://github.com/pierreablin/autoptim) - Automatic differentiation + optimization
@@ -6868,7 +6868,7 @@
 - [rust-bio/rust-bio](https://github.com/rust-bio/rust-bio) - This library provides implementations of many algorithms and data structures that are useful for bioinformatics. All provided implementations are rigorously tested via continuous integration.
 - [10XGenomics/rust-pseudoaligner](https://github.com/10XGenomics/rust-pseudoaligner) - Single-Cell RNA-seq pseudo-aligner
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
-- [tcdi/pgx](https://github.com/tcdi/pgx) - Build Postgres Extensions with Rust!
+- [tcdi/pgrx](https://github.com/tcdi/pgrx) - Build Postgres Extensions with Rust!
 - [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — The Semantic Layer for Building Data Applications
 - [parseablehq/parseable](https://github.com/parseablehq/parseable) - Parseable is a lightweight log observability system written in Rust. It is built for cloud native environments.
@@ -7223,7 +7223,7 @@
 ## SCSS 
 
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
-- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 🔥 Hugo website builder, Hugo themes & Hugo CMS. No code, easily build with blocks! 创建在线课程，学术简历或初创网站。#OpenScience
+- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN! 创建在线课程，学术简历或初创网站。#OpenScience
 
 ## Sass 
 
