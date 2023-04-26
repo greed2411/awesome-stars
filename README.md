@@ -874,6 +874,7 @@
 
 ## Elixir 
 
+- [supabase/supavisor](https://github.com/supabase/supavisor) - A cloud-native, multi-tenant Postgres connection pooler.
 - [dashbitco/flow](https://github.com/dashbitco/flow) - Computational parallel flows on top of GenStage
 - [elixir-lang/gen_stage](https://github.com/elixir-lang/gen_stage) - Producer and consumer actors with back-pressure for Elixir
 - [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Automate code & data workflows with interactive Elixir notebooks
@@ -1016,7 +1017,7 @@
 - [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - Build NodeJS / GO APIs in 5 minutes not weeks
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations
 - [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
-- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find credentials all over the place
+- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find and verify credentials
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [helm/chartmuseum](https://github.com/helm/chartmuseum) - helm chart repository server
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
@@ -1111,7 +1112,7 @@
 - [uber-go/ratelimit](https://github.com/uber-go/ratelimit) - A Go blocking leaky-bucket rate limit implementation
 - [odpf/optimus](https://github.com/odpf/optimus) - Optimus is an easy-to-use, reliable, and performant workflow orchestrator for data transformation, data modeling, pipelines, and data quality management.
 - [TheYkk/git-switcher](https://github.com/TheYkk/git-switcher) - Switch between your git profiles easily
-- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
+- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
 - [bchadwic/gh-graph](https://github.com/bchadwic/gh-graph) - An extension for the GitHub Cli application that displays your current contribution graph
 - [platoneko/tinykv](https://github.com/platoneko/tinykv) - Talent Plan 2.0
 - [lesismal/arpc](https://github.com/lesismal/arpc) - More effective network communication, two-way calling, notify and broadcast supported.
@@ -1153,7 +1154,7 @@
 - [ledisdb/ledisdb](https://github.com/ledisdb/ledisdb) - A high performance NoSQL Database Server powered by Go
 - [kelindar/column](https://github.com/kelindar/column) - High-performance, columnar, in-memory store with bitmap indexing in Go
 - [p2pderivatives/dlc](https://github.com/p2pderivatives/dlc) - Discreet Log Contracts library
-- [neilotoole/sq](https://github.com/neilotoole/sq) - sq: the missing data wrangler
+- [neilotoole/sq](https://github.com/neilotoole/sq) - sq: data wrangler
 - [openacid/slim](https://github.com/openacid/slim) - Surprisingly space efficient trie in Golang(11 bits/key; 100 ns/get).
 - [alitto/pond](https://github.com/alitto/pond) - 🔘 Minimalistic and High-performance goroutine worker pool written in Go
 - [tidwall/redcon](https://github.com/tidwall/redcon) - Redis compatible server framework for Go
@@ -1797,7 +1798,7 @@
 - [RaiMan/SikuliX1](https://github.com/RaiMan/SikuliX1) - SikuliX version 2.0.0+ (2019+)
 - [jitsi/jitsi-webrtc-vad-wrapper](https://github.com/jitsi/jitsi-webrtc-vad-wrapper) - A java wrapper around the WebRTC Voice Activity Detection library
 - [VertaAI/modeldb](https://github.com/VertaAI/modeldb) - Open Source ML Model Versioning, Metadata, and Experiment Management
-- [http-kit/http-kit](https://github.com/http-kit/http-kit) - http-kit is a minimalist, event-driven, high-performance Clojure HTTP server/client library with WebSocket and asynchronous support
+- [http-kit/http-kit](https://github.com/http-kit/http-kit) - Simple, high-performance event-driven HTTP client+server for Clojure
 - [netty/netty](https://github.com/netty/netty) - Netty project - an event-driven asynchronous network application framework
 - [slackapi/java-slack-sdk](https://github.com/slackapi/java-slack-sdk) - Slack Developer Kit (including Bolt for Java) for any JVM language
 - [stanfordnlp/CoreNLP](https://github.com/stanfordnlp/CoreNLP) - Stanford CoreNLP: A Java suite of core NLP tools.
@@ -1858,7 +1859,7 @@
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
 - [prestodb/presto](https://github.com/prestodb/presto) - The official home of the Presto distributed SQL query engine for big data
 - [graphhopper/jsprit](https://github.com/graphhopper/jsprit) - jsprit is a java based, open source toolkit for solving rich vehicle routing problems
-- [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) - Apache DolphinScheduler is the modern data workflow orchestration platform with powerful user interface, dedicated to solving complex task dependencies in the data pipeline and providing various types
+- [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) - Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code
 - [ambiverse-nlu/ambiverse-nlu](https://github.com/ambiverse-nlu/ambiverse-nlu) - AmbiverseNLU: A Natural Language Understanding suite by Max Planck Institute for Informatics
 - [OrderLab/leaseos_frameworks_base](https://github.com/OrderLab/leaseos_frameworks_base) - AOSP frameworks/base repo with Lease OS changes
 - [google/live-transcribe-speech-engine](https://github.com/google/live-transcribe-speech-engine) - Live Transcribe is an Android application that provides real-time captioning for people who are deaf or hard of hearing. This repository contains the Android client libraries for communicating with Go
@@ -4238,7 +4239,7 @@
 - [facebookresearch/SpanBERT](https://github.com/facebookresearch/SpanBERT) - Code for using and evaluating SpanBERT.
 - [t04glovern/selfie2anime](https://github.com/t04glovern/selfie2anime) - Anime2Selfie Backend Services - Lambda, Queue, API Gateway and traffic processing
 - [gpleiss/efficient_densenet_pytorch](https://github.com/gpleiss/efficient_densenet_pytorch) - A memory-efficient implementation of DenseNets
-- [open-mmlab/mmediting](https://github.com/open-mmlab/mmediting) - OpenMMLab Image and Video Restoration, Editing and Generation Toolbox
+- [open-mmlab/mmagic](https://github.com/open-mmlab/mmagic) - OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox
 - [timesler/facenet-pytorch](https://github.com/timesler/facenet-pytorch) - Pretrained Pytorch face detection (MTCNN) and facial recognition (InceptionResnet) models
 - [blue-season/pywarm](https://github.com/blue-season/pywarm) - A cleaner way to build neural networks for PyTorch.
 - [nd-ball/py-irt](https://github.com/nd-ball/py-irt) - Bayesian IRT models in Python
@@ -6929,7 +6930,7 @@
 - [dpc/pariter](https://github.com/dpc/pariter) - Parallel iterator processing library for Rust
 - [pancake-db/pancake-db](https://github.com/pancake-db/pancake-db) - 
 - [drifting-in-space/plane](https://github.com/drifting-in-space/plane) - Session backend orchestrator for ambitious browser-based apps.
-- [webonnx/wonnx](https://github.com/webonnx/wonnx) - A GPU-accelerated ONNX inference run-time written 100% in Rust, ready for the web
+- [webonnx/wonnx](https://github.com/webonnx/wonnx) - A WebGPU-accelerated ONNX inference run-time written 100% in Rust, ready for native and the web
 - [koto-lang/koto](https://github.com/koto-lang/koto) - A simple, expressive, embeddable programming language, made with Rust
 - [libpnet/libpnet](https://github.com/libpnet/libpnet) - Cross-platform, low level networking using the Rust programming language.
 - [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
@@ -7384,6 +7385,8 @@
 
 ## TypeScript 
 
+- [hocus-dev/hocus](https://github.com/hocus-dev/hocus) - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
+- [getcursor/cursor](https://github.com/getcursor/cursor) - An editor made for programming with AI 🤖
 - [firecow/gitlab-ci-local](https://github.com/firecow/gitlab-ci-local) - Tired of pushing to test your .gitlab-ci.yml?
 - [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
 - [apache/incubator-streampark](https://github.com/apache/incubator-streampark) - StreamPark, Make stream processing easier! easy-to-use streaming application development framework and operation platform
