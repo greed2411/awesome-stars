@@ -267,7 +267,6 @@
 - [explosion/lightnet](https://github.com/explosion/lightnet) - 🌓 Bringing pjreddie's DarkNet out of the shadows #yolo
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [addy-dclxvi/almighty-dotfiles](https://github.com/addy-dclxvi/almighty-dotfiles) - A dump repository of my dotfiles since the first time I learned ricing. So everything is really messy here.
-- [catboost/catboost](https://github.com/catboost/catboost) - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computa
 - [twitter/twemproxy](https://github.com/twitter/twemproxy) - A fast, light-weight proxy for memcached and redis
 - [pjreddie/darknet](https://github.com/pjreddie/darknet) - Convolutional Neural Networks
 - [wrathematics/getip](https://github.com/wrathematics/getip) - IP address lookup from R
@@ -1939,7 +1938,7 @@
 - [statsd/statsd](https://github.com/statsd/statsd) - Daemon for easy but powerful stats aggregation
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
 - [google/tracing-framework](https://github.com/google/tracing-framework) - Web Tracing Framework libraries and extensions.
-- [mafintosh/hyperbeam](https://github.com/mafintosh/hyperbeam) - A 1-1 end-to-end encrypted internet pipe powered by Hyperswarm
+- [holepunchto/hyperbeam](https://github.com/holepunchto/hyperbeam) - A 1-1 end-to-end encrypted internet pipe powered by Hyperswarm
 - [manojVivek/medium-unlimited](https://github.com/manojVivek/medium-unlimited) - A browser extension to read medium.com articles for free without membership.
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
 - [yieldfarming/yieldfarming](https://github.com/yieldfarming/yieldfarming) - 🧑‍🌾 It ain't much, but it's an honest work
@@ -3734,7 +3733,7 @@
 - [kubeflow-kale/kale](https://github.com/kubeflow-kale/kale) - Kubeflow’s superfood for Data Scientists
 - [leohowell/redis-lru](https://github.com/leohowell/redis-lru) - LRU cache for Python. Use Redis as backend. Provides a dictionary-like object as well as a method decorator. pip install redis-lru
 - [chrislit/abydos](https://github.com/chrislit/abydos) - Abydos NLP/IR library for Python
-- [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Anywhere.
+- [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Everywhere.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [karlicoss/cachew](https://github.com/karlicoss/cachew) - Transparent and persistent cache/serialization powered by type hints
@@ -4102,7 +4101,7 @@
 - [jonnyhyman/Chaos](https://github.com/jonnyhyman/Chaos) - Visualizations of the connections between chaos theory and fractals through the logistic map; made for Veritasium YouTube video
 - [scikit-fuzzy/scikit-fuzzy](https://github.com/scikit-fuzzy/scikit-fuzzy) - Fuzzy Logic SciKit (Toolkit for SciPy)
 - [suriyadeepan/neural-pde](https://github.com/suriyadeepan/neural-pde) - A Deep Learning library for Partial Differential Equations
-- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Kubernetes-native workflow automation platform for complex, mission-critical data and ML processes at scale. It has been battle-tested at Lyft, Spotify, Freenome, and others and is truly open-source.
+- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
 - [matousc89/padasip](https://github.com/matousc89/padasip) - Python Adaptive Signal Processing
 - [explosion/thinc](https://github.com/explosion/thinc) - 🔮 A refreshing functional take on deep learning, compatible with your favorite libraries
 - [interpretml/DiCE](https://github.com/interpretml/DiCE) - Generate Diverse Counterfactual Explanations for any machine learning model.
@@ -6134,6 +6133,7 @@
 - [PetrochukM/PyTorch-NLP](https://github.com/PetrochukM/PyTorch-NLP) - Basic Utilities for PyTorch Natural Language Processing (NLP)
 - [adamyala/Your_First_Decentralized_Application_Python](https://github.com/adamyala/Your_First_Decentralized_Application_Python) - An up to date and bare minimum tutorial on deploying smart contracts with python
 - [philipperemy/my-first-bitcoin-miner](https://github.com/philipperemy/my-first-bitcoin-miner) - For the curious minds who want to understand how Bitcoin Blockchain works!
+- [catboost/catboost](https://github.com/catboost/catboost) - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computa
 - [elleryqueenhomels/arbitrary_style_transfer](https://github.com/elleryqueenhomels/arbitrary_style_transfer) - Fast Neural Style Transfer with Arbitrary Style using AdaIN Layer - Based on Huang et al. "Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization"
 - [aws/chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
 - [tensorlayer/TensorLayer](https://github.com/tensorlayer/TensorLayer) - Deep Learning and Reinforcement Learning Library for Scientists and Engineers
@@ -7436,7 +7436,7 @@
 - [nteract/nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
 - [adelsz/pgtyped](https://github.com/adelsz/pgtyped) - pgTyped - Typesafe SQL in TypeScript
-- [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software. Get Solidity stack traces & console.log.
+- [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software.
 - [streamr-dev/streamr-client-javascript](https://github.com/streamr-dev/streamr-client-javascript) - JS library for interacting with Streamr APIs: publishing and subscribing to data, creating streams, etc.
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
 - [inversify/InversifyJS](https://github.com/inversify/InversifyJS) - A powerful and lightweight inversion of control container  for JavaScript & Node.js apps powered by TypeScript.
