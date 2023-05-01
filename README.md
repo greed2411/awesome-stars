@@ -963,7 +963,7 @@
 - [verifa/terraplate](https://github.com/verifa/terraplate) - DRY Terraform with Go Templates
 - [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🦩 Tools for Go projects
 - [samber/do](https://github.com/samber/do) - ⚙️  A dependency injection toolkit based on Go 1.18+ Generics.
-- [coroot/coroot](https://github.com/coroot/coroot) - A zero-instrumentation observability tool for microservice architectures.
+- [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source eBPF-based observability tool that turns telemetry data into actionable insights, helping you identify and resolve application issues quickly
 - [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
 - [dagu-labs/dagu](https://github.com/dagu-labs/dagu) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
 - [aquasecurity/tracee](https://github.com/aquasecurity/tracee) - Linux Runtime Security and Forensics using eBPF
@@ -1123,7 +1123,7 @@
 - [panjf2000/ants](https://github.com/panjf2000/ants) - 🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go./ ants 是一个高性能且低损耗的 goroutine 池。
 - [Iceber/iouring-go](https://github.com/Iceber/iouring-go) - Provides easy-to-use async IO interface with io_uring
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code cloud development environments.
-- [gorse-io/gorse](https://github.com/gorse-io/gorse) - An open source recommender system service written in Go
+- [gorse-io/gorse](https://github.com/gorse-io/gorse) - Gorse open source recommender system engine
 - [lni/dragonboat](https://github.com/lni/dragonboat) - A feature complete and high performance multi-group Raft library in Go.
 - [mumax/3](https://github.com/mumax/3) - GPU-accelerated micromagnetic simulator
 - [VictoriaMetrics/fastcache](https://github.com/VictoriaMetrics/fastcache) - Fast thread-safe inmemory cache for big number of entries in Go. Minimizes GC overhead
@@ -1138,7 +1138,7 @@
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [RoaringBitmap/roaring](https://github.com/RoaringBitmap/roaring) - Roaring bitmaps in Go (golang)
 - [deso-protocol/core](https://github.com/deso-protocol/core) - DeSo core node
-- [cloudwego/netpoll](https://github.com/cloudwego/netpoll) - A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance.
+- [cloudwego/netpoll](https://github.com/cloudwego/netpoll) - A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by CloudWeGo.
 - [zhangyunhao116/skipmap](https://github.com/zhangyunhao116/skipmap) - skipmap is a high-performance, scalable concurrent sorted map based on skip-list. Up to 10x faster than sync.Map in the typical pattern.
 - [dustinxie/lockfree](https://github.com/dustinxie/lockfree) - Golang lock-free Hashmap and List
 - [tidwall/buntdb](https://github.com/tidwall/buntdb) - BuntDB is an embeddable, in-memory key/value database for Go with custom indexing and geospatial support
@@ -2855,6 +2855,8 @@
 
 ## Others 
 
+- [Mooler0410/LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide) - A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers)
+- [getcursor/cursor](https://github.com/getcursor/cursor) - An editor made for programming with AI 🤖
 - [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook) - A playbook for systematically maximizing the performance of deep learning models.
 - [chanakaudaya/solution-architecture-patterns](https://github.com/chanakaudaya/solution-architecture-patterns) - Reusable, vendor-neutral, industry-specific, vendor-specific solution architecture patterns for enterprise
 - [pawl/awesome-etl](https://github.com/pawl/awesome-etl) - A curated list of awesome ETL frameworks, libraries, and software.
@@ -4237,7 +4239,7 @@
 - [facebookresearch/SpanBERT](https://github.com/facebookresearch/SpanBERT) - Code for using and evaluating SpanBERT.
 - [t04glovern/selfie2anime](https://github.com/t04glovern/selfie2anime) - Anime2Selfie Backend Services - Lambda, Queue, API Gateway and traffic processing
 - [gpleiss/efficient_densenet_pytorch](https://github.com/gpleiss/efficient_densenet_pytorch) - A memory-efficient implementation of DenseNets
-- [open-mmlab/mmagic](https://github.com/open-mmlab/mmagic) - OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox
+- [open-mmlab/mmagic](https://github.com/open-mmlab/mmagic) - OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Unlock the magic 🪄: Generative-AI (AIGC), easy-to-use APIs, awsome model zoo, diffusion models, image/video restoration/enh
 - [timesler/facenet-pytorch](https://github.com/timesler/facenet-pytorch) - Pretrained Pytorch face detection (MTCNN) and facial recognition (InceptionResnet) models
 - [blue-season/pywarm](https://github.com/blue-season/pywarm) - A cleaner way to build neural networks for PyTorch.
 - [nd-ball/py-irt](https://github.com/nd-ball/py-irt) - Bayesian IRT models in Python
@@ -6795,6 +6797,7 @@
 
 ## Rust 
 
+- [aaronabramov/k9](https://github.com/aaronabramov/k9) - Rust testing library
 - [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3) - A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
 - [tcdi/plrust](https://github.com/tcdi/plrust) - A Rust procedural language handler for PostgreSQL
 - [pythonspeed/filprofiler](https://github.com/pythonspeed/filprofiler) - A Python memory profiler for data processing and scientific computing applications
@@ -7386,7 +7389,6 @@
 ## TypeScript 
 
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
-- [getcursor/cursor](https://github.com/getcursor/cursor) - An editor made for programming with AI 🤖
 - [firecow/gitlab-ci-local](https://github.com/firecow/gitlab-ci-local) - Tired of pushing to test your .gitlab-ci.yml?
 - [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
 - [apache/incubator-streampark](https://github.com/apache/incubator-streampark) - StreamPark, Make stream processing easier! easy-to-use streaming application development framework and operation platform
