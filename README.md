@@ -7,6 +7,7 @@
 
 - [AsciiDoc](#asciidoc)
 - [Assembly](#assembly)
+- [Astro](#astro)
 - [Awk](#awk)
 - [Batchfile](#batchfile)
 - [Bikeshed](#bikeshed)
@@ -98,6 +99,10 @@
 - [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25 and 2.0, for reference purposes
 - [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 
+## Astro 
+
+- [livebook-dev/livebook.dev](https://github.com/livebook-dev/livebook.dev) - Landing page for Livebook
+
 ## Awk 
 
 - [soimort/translate-shell](https://github.com/soimort/translate-shell) - :speech_balloon: Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
@@ -112,6 +117,7 @@
 
 ## C 
 
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon
 - [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
 - [hydradatabase/hydra](https://github.com/hydradatabase/hydra) - A modern, open source replacement for enterprise data warehouses
@@ -227,6 +233,7 @@
 - [metacall/core](https://github.com/metacall/core) - MetaCall: The ultimate polyglot programming experience.
 - [jitspoe/starviewer](https://github.com/jitspoe/starviewer) - Simple program that renders stars in 3D from the HYG database.  Based on the Paintball2/Quake2/id Tech 2 engine.
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
+- [meekrosoft/fff](https://github.com/meekrosoft/fff) - A testing micro framework for creating function test doubles
 - [google/honggfuzz](https://github.com/google/honggfuzz) - Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based)
 - [zchunk/zchunk](https://github.com/zchunk/zchunk) - A file format designed for highly efficient deltas while maintaining good compression
 - [xiph/rnnoise](https://github.com/xiph/rnnoise) - Recurrent neural network for audio noise reduction
@@ -293,7 +300,7 @@
 
 ## C# # 
 
-- [betwixt-labs/bebop](https://github.com/betwixt-labs/bebop) - An extremely simple, fast, efficient, cross-platform serialization format
+- [betwixt-labs/bebop](https://github.com/betwixt-labs/bebop) - 🎷No ceremony, just code. Blazing fast, typesafe binary serialization.
 - [RolandPheasant/TailBlazer](https://github.com/RolandPheasant/TailBlazer) - A modern file tail utility based on Rx.Net which show cases reactive programming and Dynamic Data (see https://github.com/RolandPheasant/DynamicData)
 - [subhra74/xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
 - [Tyrrrz/YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) - Abstraction layer over YouTube's internal API
@@ -311,6 +318,7 @@
 
 ## C++ 
 
+- [go-skynet/go-llama.cpp](https://github.com/go-skynet/go-llama.cpp) - LLama.cpp golang bindings
 - [duckdb/duckdb-wasm](https://github.com/duckdb/duckdb-wasm) - WebAssembly version of DuckDB
 - [oneapi-src/oneTBB](https://github.com/oneapi-src/oneTBB) - oneAPI Threading Building Blocks (oneTBB)
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
@@ -480,7 +488,6 @@
 - [lucasjinreal/hdl_graph_slam](https://github.com/lucasjinreal/hdl_graph_slam) - Graph slam using lidar
 - [google/zetasql](https://github.com/google/zetasql) - ZetaSQL - Analyzer Framework for SQL
 - [KlugerLab/FIt-SNE](https://github.com/KlugerLab/FIt-SNE) - Fast Fourier Transform-accelerated Interpolation-based  t-SNE (FIt-SNE)
-- [meekrosoft/fff](https://github.com/meekrosoft/fff) - A testing micro framework for creating function test doubles
 - [pdziepak/codegen](https://github.com/pdziepak/codegen) - Experimental wrapper over LLVM for generating and compiling code at run-time.
 - [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive & portable high-performance programming in Python.
 - [microsoft/SPTAG](https://github.com/microsoft/SPTAG) - A distributed approximate nearest neighborhood search (ANN) library which provides a high quality vector index build, search and distributed online serving toolkits for large scale vector search scena
@@ -744,6 +751,7 @@
 
 ## Clojure 
 
+- [AlexR2D2/metabase_duckdb_driver](https://github.com/AlexR2D2/metabase_duckdb_driver) - Metabase DuckDB Driver shipped as 3rd party plugin
 - [Tensegritics/ClojureDart](https://github.com/Tensegritics/ClojureDart) - Clojure dialect for Flutter and Dart
 - [tonsky/datascript](https://github.com/tonsky/datascript) - Immutable database and Datalog query engine for Clojure, ClojureScript and JS
 - [phronmophobic/dewey](https://github.com/phronmophobic/dewey) - Index of Clojure libraries available on github.
@@ -917,6 +925,8 @@
 
 ## Go 
 
+- [kubewharf/kubebrain](https://github.com/kubewharf/kubebrain) - A High Performance Metadata System for Kubernetes
+- [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) - Kubernetes-native Job Queueing
 - [Shopify/kubeaudit](https://github.com/Shopify/kubeaudit) - kubeaudit helps you audit your Kubernetes clusters against common security controls
 - [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open source vector database that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-nati
 - [lib/pq](https://github.com/lib/pq) - Pure Go Postgres driver for database/sql
@@ -998,7 +1008,7 @@
 - [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes) - 📖 100 Go Mistakes and How to Avoid Them
 - [itchyny/gojq](https://github.com/itchyny/gojq) - Pure Go implementation of jq
 - [ochinchina/supervisord](https://github.com/ochinchina/supervisord) - a go-lang supervisor implementation
-- [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal client
+- [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal client.
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 - [benbjohnson/postlite](https://github.com/benbjohnson/postlite) - Postgres wire compatible SQLite proxy.
 - [antelman107/net-wait-go](https://github.com/antelman107/net-wait-go) - Utility and GO library that helps wait for network port to open on server side
@@ -1043,7 +1053,6 @@
 - [felixge/benchmore](https://github.com/felixge/benchmore) - 
 - [containrrr/shoutrrr](https://github.com/containrrr/shoutrrr) - Notification library for gophers and their furry friends.
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧
-- [postgres-ai/database-lab-engine](https://github.com/postgres-ai/database-lab-engine) - DLE enables 🖖 DB branching and ⚡️ thin cloning for any Postgres database and empowers DB testing in CI/CD. This optimizes database-related costs while improving time-to-market and software quality. Fo
 - [ConduitIO/conduit](https://github.com/ConduitIO/conduit) - Conduit streams data between data stores. Kafka Connect replacement. No JVM required.
 - [rjeczalik/interfaces](https://github.com/rjeczalik/interfaces) - Code generation tools for Go.
 - [clusterpedia-io/clusterpedia](https://github.com/clusterpedia-io/clusterpedia) - The Encyclopedia of Kubernetes clusters
@@ -1128,7 +1137,7 @@
 - [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
 - [panjf2000/ants](https://github.com/panjf2000/ants) - 🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go./ ants 是一个高性能且低损耗的 goroutine 池。
 - [Iceber/iouring-go](https://github.com/Iceber/iouring-go) - Provides easy-to-use async IO interface with io_uring
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code cloud development environments.
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [gorse-io/gorse](https://github.com/gorse-io/gorse) - Gorse open source recommender system engine
 - [lni/dragonboat](https://github.com/lni/dragonboat) - A feature complete and high performance multi-group Raft library in Go.
 - [mumax/3](https://github.com/mumax/3) - GPU-accelerated micromagnetic simulator
@@ -1633,8 +1642,7 @@
 
 ## HTML 
 
-- [livebook-dev/livebook.dev](https://github.com/livebook-dev/livebook.dev) - Landing page for Livebook
-- [heejkoo/Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models) - A collection of resources and papers on Diffusion Models
+- [heejkoo/Awesome-Score-based-Diffusion-Models](https://github.com/heejkoo/Awesome-Score-based-Diffusion-Models) - A collection of resources and papers on Diffusion Models
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes
 - [h-enk/doks](https://github.com/h-enk/doks) - Hugo theme helping you build modern documentation websites.
 - [YerevaNN/A-Guide-to-Deep-Learning](https://github.com/YerevaNN/A-Guide-to-Deep-Learning) - 📚 A detailed guide to deep learning: http://yerevann.com/a-guide-to-deep-learning/
@@ -1787,13 +1795,13 @@
 - [apache/drill](https://github.com/apache/drill) - Apache Drill is a distributed MPP query layer for self describing data
 - [pytorch/serve](https://github.com/pytorch/serve) - Serve, optimize and scale PyTorch models in production
 - [apple/batch-processing-gateway](https://github.com/apple/batch-processing-gateway) - The gateway component to make Spark on K8s much easier for Spark users.
-- [AzBuilder/terrakube](https://github.com/AzBuilder/terrakube) - Open source tool to handle remote terraform workspace in organizations and handle all the lifecycle (plan, apply, destroy).
+- [AzBuilder/terrakube](https://github.com/AzBuilder/terrakube) - Open source IaC Automation and Collaboration Software.
 - [queer/utt](https://github.com/queer/utt) - utt is the universal text transformer
 - [apache/chukwa](https://github.com/apache/chukwa) - Mirror of Apache Chukwa
 - [google/copybara](https://github.com/google/copybara) - Copybara: A tool for transforming and moving code between repositories.
 - [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Metadata Platform for the Modern Data Stack
 - [real-logic/aeron](https://github.com/real-logic/aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport
-- [apache/incubator-seatunnel](https://github.com/apache/incubator-seatunnel) - SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time).
+- [apache/seatunnel](https://github.com/apache/seatunnel) - SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time).
 - [spotify/mobius](https://github.com/spotify/mobius) - A functional reactive framework for managing state evolution and side-effects.
 - [apache/zeppelin](https://github.com/apache/zeppelin) - Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.
 - [flink-extended/dl-on-flink](https://github.com/flink-extended/dl-on-flink) - Deep Learning on Flink aims to integrate Flink and deep learning frameworks (e.g. TensorFlow, PyTorch, etc) to enable distributed deep learning training and inference on a Flink cluster.
@@ -2169,8 +2177,8 @@
 
 ## Jupyter Notebook 
 
+- [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
 - [leotac/joypy](https://github.com/leotac/joypy) - Joyplots in Python with matplotlib & pandas :chart_with_upwards_trend:
-- [pnnl/HyperNetX](https://github.com/pnnl/HyperNetX) - Python package for hypergraph analysis and visualization.
 - [GokuMohandas/mlops-course](https://github.com/GokuMohandas/mlops-course) - Learn how to design, develop, deploy and maintain an end-to-end ML application at scale.
 - [huggingface/diffusion-models-class](https://github.com/huggingface/diffusion-models-class) - Materials for the Hugging Face Diffusion Models Course
 - [xl0/lovely-tensors](https://github.com/xl0/lovely-tensors) - Tensors, ready for human consumption
@@ -2522,6 +2530,7 @@
 - [ternaus/robot-surgery-segmentation](https://github.com/ternaus/robot-surgery-segmentation) - Wining solution and its improvement for MICCAI 2017 Robotic Instrument Segmentation Sub-Challenge
 - [pandeykartikey/Hierarchical-Attention-Network](https://github.com/pandeykartikey/Hierarchical-Attention-Network) - Implementation of Hierarchical Attention Networks in PyTorch
 - [jacobkimmel/pytorch_modelsize](https://github.com/jacobkimmel/pytorch_modelsize) - Estimates the size of a PyTorch model in memory
+- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - data science on data without acquiring a copy
 - [ahirner/pytorch-retraining](https://github.com/ahirner/pytorch-retraining) - Transfer Learning Shootout for PyTorch's model zoo (torchvision)
 - [LMescheder/GAN_stability](https://github.com/LMescheder/GAN_stability) - Code for paper "Which Training Methods for GANs do actually Converge? (ICML 2018)"
 - [udacity/deep-reinforcement-learning](https://github.com/udacity/deep-reinforcement-learning) - Repo for the Deep Reinforcement Learning Nanodegree program
@@ -2866,7 +2875,7 @@
 - [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook) - A playbook for systematically maximizing the performance of deep learning models.
 - [chanakaudaya/solution-architecture-patterns](https://github.com/chanakaudaya/solution-architecture-patterns) - Reusable, vendor-neutral, industry-specific, vendor-specific solution architecture patterns for enterprise
 - [pawl/awesome-etl](https://github.com/pawl/awesome-etl) - A curated list of awesome ETL frameworks, libraries, and software.
-- [sw-yx/ai-notes](https://github.com/sw-yx/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under 
+- [swyxio/ai-notes](https://github.com/swyxio/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under 
 - [akuity/awesome-argo](https://github.com/akuity/awesome-argo) - A curated list of awesome projects and resources related to Argo (a CNCF graduated project)
 - [subeeshvasu/Awesome-Learning-with-Label-Noise](https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise) - A curated list of resources for Learning with Noisy Labels
 - [aya-rs/awesome-aya](https://github.com/aya-rs/awesome-aya) - A curated list of awesome eBPF 🐝 projects using aya-rs and Rust 🦀
@@ -3494,6 +3503,11 @@
 
 ## Python 
 
+- [abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python) - Python bindings for llama.cpp
+- [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
+- [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large languages. Release repo for Vicuna and FastChat-T5.
+- [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
+- [OptimalScale/LMFlow](https://github.com/OptimalScale/LMFlow) - An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Model for All.
 - [biobootloader/wolverine](https://github.com/biobootloader/wolverine) - 
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
@@ -3518,6 +3532,7 @@
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [PRQL/pyprql](https://github.com/PRQL/pyprql) - Python extensions for PRQL
 - [lucidrains/PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch) - Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM
+- [pnnl/HyperNetX](https://github.com/pnnl/HyperNetX) - Python package for hypergraph analysis and visualization.
 - [m-bain/whisperX](https://github.com/m-bain/whisperX) - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
 - [facebookresearch/DiT](https://github.com/facebookresearch/DiT) - Official PyTorch Implementation of "Scalable Diffusion Models with Transformers"
 - [openai/point-e](https://github.com/openai/point-e) - Point cloud diffusion for 3D model synthesis
@@ -3743,6 +3758,7 @@
 - [chrislit/abydos](https://github.com/chrislit/abydos) - Abydos NLP/IR library for Python
 - [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Everywhere.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [karlicoss/cachew](https://github.com/karlicoss/cachew) - Transparent and persistent cache/serialization powered by type hints
 - [bryanveloso/geopatterns](https://github.com/bryanveloso/geopatterns) - A Python-port of @jasonlong's lovely SVG generation library.
 - [pytries/marisa-trie](https://github.com/pytries/marisa-trie) - Static memory-efficient Trie-like structures for Python (2.x and 3.x) based on marisa-trie C++ library.
@@ -3955,7 +3971,7 @@
 - [lucasjinreal/nb](https://github.com/lucasjinreal/nb) - Neural Network Blocks - Collect all kinds of fancy model blocks for you to build more powerful neural network model.
 - [kwotsin/mimicry](https://github.com/kwotsin/mimicry) - [CVPR 2020 Workshop] A PyTorch GAN library that reproduces research results for popular GANs.
 - [Netflix/dispatch](https://github.com/Netflix/dispatch) - All of the ad-hoc things you're doing to manage incidents today, done for you, and much more!
-- [AI4Bharat/indic-bert](https://github.com/AI4Bharat/indic-bert) - BERT-based Multilingual Model for Indian Languages
+- [AI4Bharat/Indic-BERT-v1](https://github.com/AI4Bharat/Indic-BERT-v1) - Indic-BERT-v1: BERT-based Multilingual Model for 11 Indic Languages and Indian-English. For latest Indic-BERT v2, check: https://github.com/AI4Bharat/IndicBERT
 - [w86763777/pytorch-gan-collections](https://github.com/w86763777/pytorch-gan-collections) - PyTorch implementation of DCGAN, WGAN-GP and SNGAN.
 - [ming024/FastSpeech2](https://github.com/ming024/FastSpeech2) - An implementation of Microsoft's "FastSpeech 2: Fast and High-Quality End-to-End Text to Speech"
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
@@ -5807,7 +5823,6 @@
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [harvardnlp/var-attn](https://github.com/harvardnlp/var-attn) - Latent Alignment and Variational Attention
 - [wiseodd/generative-models](https://github.com/wiseodd/generative-models) - Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow.
-- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - data science on data without acquiring a copy
 - [mozilla/agithub](https://github.com/mozilla/agithub) - Agnostic Github client API -- An EDSL for connecting to REST servers
 - [jmtomczak/vae_vpflows](https://github.com/jmtomczak/vae_vpflows) - Code in PyTorch for the convex combination linear IAF and the Householder Flow, J.M. Tomczak & M. Welling
 - [pytorch/contrib](https://github.com/pytorch/contrib) - Implementations of ideas from recent papers
@@ -6862,7 +6877,7 @@
 - [roapi/roapi](https://github.com/roapi/roapi) - Create full-fledged APIs for slowly moving datasets without writing a single line of code.
 - [josephg/diamond-types](https://github.com/josephg/diamond-types) - The world's fastest CRDT. WIP.
 - [belchior/sql_query_builder](https://github.com/belchior/sql_query_builder) - Write SQL queries in a simple and composable way
-- [postgresml/postgresml](https://github.com/postgresml/postgresml) - PostgresML is an AI application database. You can use open source models from Huggingface, or train your own, to create and index LLM embeddings, generate text, or make online predictions using only S
+- [postgresml/postgresml](https://github.com/postgresml/postgresml) - PostgresML is an AI application database. Download open source models from Huggingface, or train your own, to create and index LLM embeddings, generate text, or make online predictions using only SQL.
 - [davechallis/rust-xgboost](https://github.com/davechallis/rust-xgboost) - Rust bindings for XGBoost.
 - [vaaaaanquish/lightgbm-rs](https://github.com/vaaaaanquish/lightgbm-rs) - LightGBM Rust binding
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
@@ -7007,7 +7022,7 @@
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [tensorbase/tensorbase](https://github.com/tensorbase/tensorbase) - TensorBase is a new big data warehousing with modern efforts.
 - [guillaume-be/rust-bert](https://github.com/guillaume-be/rust-bert) - Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2,...)
-- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++, or J
+- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for applications that are written in Rust, C++, or JavaScript.
 - [travisbrown/cancel-culture](https://github.com/travisbrown/cancel-culture) - Tools for fighting abuse on Twitter
 - [yazgoo/bema](https://github.com/yazgoo/bema) - write your next slideshow in rust 🦀, as a self-contained binary  📦.
 - [Thomasdezeeuw/heph](https://github.com/Thomasdezeeuw/heph) - Heph is an actor framework for Rust based on asynchronous functions.
@@ -7290,7 +7305,6 @@
 
 ## Shell 
 
-- [AlexR2D2/metabase_duckdb_driver](https://github.com/AlexR2D2/metabase_duckdb_driver) - Metabase DuckDB Driver shipped as 3rd party plugin
 - [tensorchord/Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps) - An awesome & curated list of best LLMOps tools for developers
 - [fphilipe/psql2csv](https://github.com/fphilipe/psql2csv) - Run a query in psql and output the result as CSV.
 - [Wowu/docker-rollout](https://github.com/Wowu/docker-rollout) - 🚀 Zero Downtime Deployment for Docker Compose
@@ -7418,6 +7432,7 @@
 - [zidoro/pomatez](https://github.com/zidoro/pomatez) - Stay Focused. Take a Break.
 - [ngneat/falso](https://github.com/ngneat/falso) - All the Fake Data for All Your Real Needs 🙂
 - [yatki/vscode-surround](https://github.com/yatki/vscode-surround) - 🔥A simple yet powerful extension to add wrapper templates around your code blocks
+- [postgres-ai/database-lab-engine](https://github.com/postgres-ai/database-lab-engine) - DLE enables 🖖 DB branching and ⚡️ thin cloning for any Postgres database and empowers DB testing in CI/CD. This optimizes database-related costs while improving time-to-market and software quality. Fo
 - [JaosnHsieh/github-star-search](https://github.com/JaosnHsieh/github-star-search) - A CLI that search your github starred repositories offline through README , description and other fields.
 - [haskell-spotlight/haskell-spotlight](https://github.com/haskell-spotlight/haskell-spotlight) - VSCode extension for Haskell
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Framework to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
