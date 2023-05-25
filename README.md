@@ -756,7 +756,7 @@
 - [tonsky/datascript](https://github.com/tonsky/datascript) - Immutable database and Datalog query engine for Clojure, ClojureScript and JS
 - [phronmophobic/dewey](https://github.com/phronmophobic/dewey) - Index of Clojure libraries available on github.
 - [babashka/process](https://github.com/babashka/process) - Clojure library for shelling out / spawning sub-processes
-- [clojure/core.logic](https://github.com/clojure/core.logic) - 
+- [clojure/core.logic](https://github.com/clojure/core.logic) - A logic programming library for Clojure & ClojureScript
 - [bbenzikry/metabase-neo4j-driver](https://github.com/bbenzikry/metabase-neo4j-driver) - Provides SQL and Cypher support for working with neo4j from metabase
 - [korma/Korma](https://github.com/korma/Korma) - Tasty SQL for Clojure.
 - [metabase/toucan](https://github.com/metabase/toucan) - A classy high-level Clojure library for defining application models and retrieving them from a DB
@@ -825,7 +825,7 @@
 - [venantius/ultra](https://github.com/venantius/ultra) - A Leiningen plugin for a superior development environment
 - [Netflix/PigPen](https://github.com/Netflix/PigPen) - Map-Reduce for Clojure
 - [technomancy/leiningen](https://github.com/technomancy/leiningen) - Moved to Codeberg; this is a convenience mirror
-- [clojure/algo.monads](https://github.com/clojure/algo.monads) - 
+- [clojure/algo.monads](https://github.com/clojure/algo.monads) - Macros for defining monads, and definition of the most common monads
 - [damballa/parkour](https://github.com/damballa/parkour) - Hadoop MapReduce in idiomatic Clojure.
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 
@@ -1064,7 +1064,7 @@
 - [distributedio/titan](https://github.com/distributedio/titan) - A Distributed Redis Protocol Compatible NoSQL Database
 - [jinzhu/now](https://github.com/jinzhu/now) - Now is a time toolkit for golang
 - [jackc/pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go
-- [knadh/koanf](https://github.com/knadh/koanf) - Simple, lightweight, extensible, configuration management library for Go. Support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper.
+- [knadh/koanf](https://github.com/knadh/koanf) - Simple, extremely lightweight, extensible, configuration management library for Go. Support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper.
 - [db47h/ragel](https://github.com/db47h/ragel) - Go driver for ragel scanners
 - [openark/orchestrator](https://github.com/openark/orchestrator) - MySQL replication topology management and HA
 - [kubeshop/kusk-gen](https://github.com/kubeshop/kusk-gen) - Kusk Gen generates Ingress-controller configurations from your OpenAPI definition
@@ -1642,7 +1642,7 @@
 
 ## HTML 
 
-- [heejkoo/Awesome-Score-based-Diffusion-Models](https://github.com/heejkoo/Awesome-Score-based-Diffusion-Models) - A collection of resources and papers on Diffusion Models
+- [heejkoo/Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models) - A collection of resources and papers on Diffusion Models
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes
 - [h-enk/doks](https://github.com/h-enk/doks) - Hugo theme helping you build modern documentation websites.
 - [YerevaNN/A-Guide-to-Deep-Learning](https://github.com/YerevaNN/A-Guide-to-Deep-Learning) - 📚 A detailed guide to deep learning: http://yerevann.com/a-guide-to-deep-learning/
@@ -1925,7 +1925,7 @@
 - [LingDong-/fishdraw](https://github.com/LingDong-/fishdraw) - procedurally generated fish drawings
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension and CLI tool for saving a faithful copy of an entire web page in a single HTML file
 - [daniel-bogdoll/ad-datasets](https://github.com/daniel-bogdoll/ad-datasets) - Complete* list of autonomous driving related datasets
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Bu
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop 
 - [nodejs/undici](https://github.com/nodejs/undici) - An HTTP/1.1 client, written from scratch for Node.js
 - [just-js/just](https://github.com/just-js/just) - a very small v8 javascript runtime for linux only
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
@@ -2017,7 +2017,7 @@
 - [midas-research/audino](https://github.com/midas-research/audino) - Open source audio annotation tool for humans
 - [Link-/starred_search](https://github.com/Link-/starred_search) - Search your starred ★ repositories on GitHub from your terminal
 - [michaelklishin/pantomime](https://github.com/michaelklishin/pantomime) - A tiny Clojure library that deals with MIME types (Internet media types)
-- [hypercore-protocol/hyperdrive](https://github.com/hypercore-protocol/hyperdrive) - Hyperdrive is a secure, real time distributed file system
+- [holepunchto/hyperdrive](https://github.com/holepunchto/hyperdrive) - Hyperdrive is a secure, real time distributed file system
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
@@ -3955,7 +3955,7 @@
 - [didi/MEEP](https://github.com/didi/MEEP) - End-to-end framework to build automatic agents (chatbots) for task-oriented dialogs
 - [stanfordnlp/stanza](https://github.com/stanfordnlp/stanza) - Official Stanford NLP Python Library for Many Human Languages
 - [ivan-bilan/The-NLP-Pandect](https://github.com/ivan-bilan/The-NLP-Pandect) - A comprehensive reference for all topics related to Natural Language Processing
-- [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment. With Qlib, you c
+- [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to
 - [mirumee/ariadne](https://github.com/mirumee/ariadne) - Python library for implementing GraphQL servers using schema-first approach.
 - [facebookresearch/sound-spaces](https://github.com/facebookresearch/sound-spaces) - A first-of-its-kind acoustic simulation platform for audio-visual embodied AI research. It supports training and evaluating multiple tasks and applications.
 - [binarymatt/pyres](https://github.com/binarymatt/pyres) - a resque clone in python
@@ -5378,7 +5378,7 @@
 - [luannd/MinutiaeNet](https://github.com/luannd/MinutiaeNet) - Code and models for paper "Robust Minutiae Extractor: Integrating Deep Networks and Fingerprint Domain Knowledge" at International Conference on Biometrics (ICB) 2018
 - [brain-research/self-attention-gan](https://github.com/brain-research/self-attention-gan) - 
 - [zeusees/License-Plate-Detector](https://github.com/zeusees/License-Plate-Detector) - 基于Yolov5车牌检测,更快更准.
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - A low-code Machine Learning platform to help developers build #AI solutions
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB is a Server for Artificial Intelligence Logic. Enabling developers to ship AI powered projects to production in a fast and scalable way.
 - [minosworld/minos](https://github.com/minosworld/minos) - MINOS: Multimodal Indoor Simulator
 - [leonardblier/alrao](https://github.com/leonardblier/alrao) - Implementation of "Learning with Random Learning Rates" in PyTorch.
 - [NVIDIA/OpenSeq2Seq](https://github.com/NVIDIA/OpenSeq2Seq) - Toolkit for efficient experimentation with Speech Recognition, Text2Speech and NLP
