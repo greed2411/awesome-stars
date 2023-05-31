@@ -80,7 +80,6 @@
 - [Shell](#shell)
 - [Solidity](#solidity)
 - [Starlark](#starlark)
-- [Svelte](#svelte)
 - [Swift](#swift)
 - [TeX](#tex)
 - [TypeScript](#typescript)
@@ -1518,7 +1517,6 @@
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [bradfitz/shotizam](https://github.com/bradfitz/shotizam) - Shotizam analyzes the size of Go binaries
 - [MariaLetta/free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) - ✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos
-- [determined-ai/determined](https://github.com/determined-ai/determined) - Determined: Deep Learning Training Platform
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [mcuadros/ofelia](https://github.com/mcuadros/ofelia) - A docker job scheduler (aka. crontab for docker)
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
@@ -1912,6 +1910,7 @@
 
 ## JavaScript 
 
+- [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build polished data products with SQL and markdown
 - [schibsted/WAAS](https://github.com/schibsted/WAAS) - Whisper as a Service (GUI and API with queuing for OpenAI Whisper)
 - [netarchivesuite/heatmap](https://github.com/netarchivesuite/heatmap) - A GitHub-inspired graph for visualising activity
 - [rstudio/py-shiny](https://github.com/rstudio/py-shiny) - Shiny for Python
@@ -2251,7 +2250,6 @@
 - [SachsLab/IntracranialNeurophysDL](https://github.com/SachsLab/IntracranialNeurophysDL) - A short course for getting started with deep learning for intracranial extracellular neurophysiology.
 - [mchengny/RWF2000-Video-Database-for-Violence-Detection](https://github.com/mchengny/RWF2000-Video-Database-for-Violence-Detection) - A large scale video database for violence detection, which has 2,000 video clips containing violent or non-violent behaviours.
 - [Horea94/Fruit-Images-Dataset](https://github.com/Horea94/Fruit-Images-Dataset) - Fruits-360: A dataset of images containing fruits and vegetables
-- [calico/basenji](https://github.com/calico/basenji) - Sequential regulatory activity predictions with deep convolutional neural networks.
 - [polynote/polynote](https://github.com/polynote/polynote) - A better notebook for Scala (and more)
 - [Qwicen/node](https://github.com/Qwicen/node) - Neural Oblivious Decision Ensembles for Deep Learning on Tabular Data
 - [aiXander/StyleGAN-Resolution-Convertor](https://github.com/aiXander/StyleGAN-Resolution-Convertor) - A Google Colab notebook to convert your low-resolution StyleGAN models into higher-resolution checkpoints so you can continue training!
@@ -4071,6 +4069,7 @@
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [r-anime/holo](https://github.com/r-anime/holo) - Episode discussion bot for /r/anime.
+- [determined-ai/determined](https://github.com/determined-ai/determined) - Determined: Deep Learning Training Platform
 - [Picovoice/leopard](https://github.com/Picovoice/leopard) - On-device speech-to-text engine powered by deep learning
 - [hitachi-speech/EEND](https://github.com/hitachi-speech/EEND) - End-to-End Neural Diarization
 - [mewwts/addict](https://github.com/mewwts/addict) - The Python Dict that's better than heroin.
@@ -4222,6 +4221,7 @@
 - [deezer/spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
 - [avinassh/rockstar](https://github.com/avinassh/rockstar) - Makes you a Rockstar C++ Programmer in 2 minutes
 - [tamarott/SinGAN](https://github.com/tamarott/SinGAN) - Official pytorch implementation of the paper: "SinGAN: Learning a Generative Model from a Single Natural Image"
+- [calico/basenji](https://github.com/calico/basenji) - Sequential regulatory activity predictions with deep convolutional neural networks.
 - [brohrer/cottonwood](https://github.com/brohrer/cottonwood) - A flexible neural network framework for running experiments and trying ideas.
 - [facebookresearch/pycls](https://github.com/facebookresearch/pycls) - Codebase for Image Classification Research, written in PyTorch.
 - [OverLordGoldDragon/keras-adamw](https://github.com/OverLordGoldDragon/keras-adamw) - Keras/TF implementation of AdamW, SGDW, NadamW, Warm Restarts, and Learning Rate multipliers
@@ -6823,6 +6823,7 @@
 
 ## Rust 
 
+- [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
 - [aaronabramov/k9](https://github.com/aaronabramov/k9) - Rust testing library
 - [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3) - A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
 - [tcdi/plrust](https://github.com/tcdi/plrust) - A Rust procedural language handler for PostgreSQL
@@ -7376,10 +7377,6 @@
 ## Starlark 
 
 - [rabbitmq/rabbitmq-server](https://github.com/rabbitmq/rabbitmq-server) - Open source RabbitMQ: core server and tier 1 (built-in) plugins
-
-## Svelte 
-
-- [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build polished data products with SQL and markdown
 
 ## Swift 
 
