@@ -80,6 +80,7 @@
 - [Shell](#shell)
 - [Solidity](#solidity)
 - [Starlark](#starlark)
+- [Svelte](#svelte)
 - [Swift](#swift)
 - [TeX](#tex)
 - [TypeScript](#typescript)
@@ -1078,7 +1079,7 @@
 - [mosuka/phalanx](https://github.com/mosuka/phalanx) - Phalanx is a cloud-native distributed search engine that provides endpoints through gRPC and traditional RESTful API.
 - [jucardi/go-streams](https://github.com/jucardi/go-streams) - Stream Collections for Go. Inspired in Java 8 Streams and .NET Linq
 - [efficient/epaxos](https://github.com/efficient/epaxos) - 
-- [duke-git/lancet](https://github.com/duke-git/lancet) - A comprehensive, efficient, and reusable util function library of go.
+- [duke-git/lancet](https://github.com/duke-git/lancet) - A comprehensive, efficient, and reusable util function library of Go.
 - [Workiva/go-datastructures](https://github.com/Workiva/go-datastructures) - A collection of useful, performant, and threadsafe Go datastructures.
 - [armon/go-radix](https://github.com/armon/go-radix) - Golang implementation of Radix trees
 - [tinyzimmer/go-gst](https://github.com/tinyzimmer/go-gst) - Gstreamer bindings and utilities for golang
@@ -1645,7 +1646,6 @@
 ## HTML 
 
 - [heejkoo/Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models) - A collection of resources and papers on Diffusion Models
-- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes
 - [h-enk/doks](https://github.com/h-enk/doks) - Hugo theme helping you build modern documentation websites.
 - [YerevaNN/A-Guide-to-Deep-Learning](https://github.com/YerevaNN/A-Guide-to-Deep-Learning) - 📚 A detailed guide to deep learning: http://yerevann.com/a-guide-to-deep-learning/
 - [abisee/attn_vis](https://github.com/abisee/attn_vis) - Interactive in-browser attention visualizer tool for recurrent networks
@@ -1913,7 +1913,6 @@
 
 ## JavaScript 
 
-- [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build polished data products with SQL and markdown
 - [schibsted/WAAS](https://github.com/schibsted/WAAS) - Whisper as a Service (GUI and API with queuing for OpenAI Whisper)
 - [netarchivesuite/heatmap](https://github.com/netarchivesuite/heatmap) - A GitHub-inspired graph for visualising activity
 - [rstudio/py-shiny](https://github.com/rstudio/py-shiny) - Shiny for Python
@@ -3148,7 +3147,7 @@
 - [Conchylicultor/Deep-Learning-Tricks](https://github.com/Conchylicultor/Deep-Learning-Tricks) - Enumerate diverse machine learning training tricks.
 - [dgryski/awesome-consensus](https://github.com/dgryski/awesome-consensus) - Awesome list for Paxos and friends
 - [AbangLZU/Awesome-Autonomous-Driving](https://github.com/AbangLZU/Awesome-Autonomous-Driving) - 
-- [fregu856/papers](https://github.com/fregu856/papers) - I categorize, annotate and write comments for all research papers I read (290+ papers since 2018).
+- [fregu856/papers](https://github.com/fregu856/papers) - I categorize, annotate and write comments for all research papers I read (300+ papers since 2018).
 - [sshkhr/awesome-mlss](https://github.com/sshkhr/awesome-mlss) - List of summer schools in machine learning + related fields across the globe
 - [dakshshah96/awesome-startup-credits](https://github.com/dakshshah96/awesome-startup-credits) - ✨ A collection of awesome companies offering free/discounted plans for eligible startups
 - [jinwchoi/awesome-action-recognition](https://github.com/jinwchoi/awesome-action-recognition) - A curated list of action recognition and related area resources
@@ -3508,6 +3507,7 @@
 
 ## Python 
 
+- [blueswen/gunicorn-monitoring](https://github.com/blueswen/gunicorn-monitoring) - Monitor Gunicorn application (e.g. Flask) through build-in instrumentation feature using the statsD protocol over UDP with Prometheus and Grafana.
 - [mher/flower](https://github.com/mher/flower) - Real-time monitor and web admin for Celery distributed task queue
 - [django/asgiref](https://github.com/django/asgiref) - ASGI specification and utilities
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run 100B+ language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
@@ -3595,7 +3595,7 @@
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [nschloe/tuna](https://github.com/nschloe/tuna) - :fish: Python profile viewer
 - [ashleve/lightning-hydra-template](https://github.com/ashleve/lightning-hydra-template) - PyTorch Lightning + Hydra. A very user-friendly template for ML experimentation.  ⚡🔥⚡
-- [debanjum/khoj](https://github.com/debanjum/khoj) - Search assistant for your org-mode, markdown notes, beancount transaction and images 🦅
+- [debanjum/khoj](https://github.com/debanjum/khoj) - An AI personal assistant for your digital brain 🦅
 - [cjdrake/pyeda](https://github.com/cjdrake/pyeda) - Python EDA
 - [CQCL/lambeq](https://github.com/CQCL/lambeq) - A high-level Python library for Quantum Natural Language Processing
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
@@ -3638,6 +3638,7 @@
 - [hack4impact/flask-base](https://github.com/hack4impact/flask-base) - A simple Flask boilerplate app with SQLAlchemy, Redis, User Authentication, and more.
 - [bprinty/Flask-Authorize](https://github.com/bprinty/Flask-Authorize) - Authorization and access control for Flask
 - [dpgaspar/Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder) - Simple and rapid application development framework, built on top of Flask. includes detailed security, auto CRUD generation for your models, google charts and much more. Demo (login with guest/welcome
+- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes
 - [lepture/mistune](https://github.com/lepture/mistune) - A fast yet powerful Python Markdown parser with renderers and plugins.
 - [BernhardWenzel/markdown-search](https://github.com/BernhardWenzel/markdown-search) - Search engine for markdown files with tagging
 - [mchaput/whoosh](https://github.com/mchaput/whoosh) - Pure-Python full-text search library
@@ -3861,7 +3862,7 @@
 - [hcmlab/vadnet](https://github.com/hcmlab/vadnet) - Real-time Voice Activity Detection in Noisy Eniviroments using Deep Neural Networks
 - [FederatedAI/FATE](https://github.com/FederatedAI/FATE) - An Industrial Grade Federated Learning Framework
 - [zhouhaoyi/Informer2020](https://github.com/zhouhaoyi/Informer2020) - The GitHub repository for the paper "Informer" accepted by AAAI 2021.
-- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
+- [unifyai/ivy](https://github.com/unifyai/ivy) - Unified AI
 - [gvanrossum/patma](https://github.com/gvanrossum/patma) - Pattern Matching
 - [cvxgrp/pymde](https://github.com/cvxgrp/pymde) - Minimum-distortion embedding with PyTorch
 - [sumanbanerjee1/Code-Mixed-Dialog](https://github.com/sumanbanerjee1/Code-Mixed-Dialog) - 
@@ -7381,6 +7382,10 @@
 ## Starlark 
 
 - [rabbitmq/rabbitmq-server](https://github.com/rabbitmq/rabbitmq-server) - Open source RabbitMQ: core server and tier 1 (built-in) plugins
+
+## Svelte 
+
+- [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build polished data products with SQL and markdown
 
 ## Swift 
 
