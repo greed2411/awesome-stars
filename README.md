@@ -23,6 +23,7 @@
 - [Cython](#cython)
 - [D](#d)
 - [DIGITAL Command Language](#digital-command-language)
+- [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
 - [Emacs Lisp](#emacs-lisp)
@@ -876,6 +877,10 @@
 
 - [udacity/ud120-projects](https://github.com/udacity/ud120-projects) - Starter project code for students taking Udacity ud120
 
+## Dart 
+
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
+
 ## Dockerfile 
 
 - [valerauko/clojure-graalvm-native](https://github.com/valerauko/clojure-graalvm-native) - Docker image for building Clojure GraalVM native images
@@ -938,7 +943,7 @@
 - [datashim-io/datashim](https://github.com/datashim-io/datashim) - A kubernetes based framework for hassle free handling of datasets
 - [upper/db](https://github.com/upper/db) - Data access layer for PostgreSQL, CockroachDB, MySQL, SQLite and MongoDB with ORM-like features.
 - [benthosdev/benthos](https://github.com/benthosdev/benthos) - Fancy stream processing made operationally mundane
-- [rilldata/rill-developer](https://github.com/rilldata/rill-developer) - Rill is a tool for effortlessly transforming data sets into powerful, opinionated dashboards using SQL.  BI-as-code.
+- [rilldata/rill](https://github.com/rilldata/rill) - Rill is a tool for effortlessly transforming data sets into powerful, opinionated dashboards using SQL.  BI-as-code.
 - [sosedoff/pgweb](https://github.com/sosedoff/pgweb) - Cross-platform client for PostgreSQL databases
 - [inqueryio/inquery](https://github.com/inqueryio/inquery) - Superpowers for PostgreSQL
 - [XenitAB/spegel](https://github.com/XenitAB/spegel) - Stateless cluster local OCI registry mirror.
@@ -1648,7 +1653,7 @@
 ## HTML 
 
 - [heejkoo/Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models) - A collection of resources and papers on Diffusion Models
-- [h-enk/doks](https://github.com/h-enk/doks) - Hugo theme helping you build modern documentation websites.
+- [h-enk/doks](https://github.com/h-enk/doks) - Build a custom, production-ready documentation website in no time.
 - [YerevaNN/A-Guide-to-Deep-Learning](https://github.com/YerevaNN/A-Guide-to-Deep-Learning) - 📚 A detailed guide to deep learning: http://yerevann.com/a-guide-to-deep-learning/
 - [abisee/attn_vis](https://github.com/abisee/attn_vis) - Interactive in-browser attention visualizer tool for recurrent networks
 - [Digital-Tamil-Studies/open_tamil_texts](https://github.com/Digital-Tamil-Studies/open_tamil_texts) - For sharing resources related to openly licensed and structured Tamil language texts.
@@ -4021,7 +4026,7 @@
 - [endolith/waveform_analysis](https://github.com/endolith/waveform_analysis) - Functions and scripts for analyzing waveforms, primarily audio.  This is currently somewhat disorganized and unfinished.
 - [vinayak-mehta/present](https://github.com/vinayak-mehta/present) - A terminal-based presentation tool with colors and effects.
 - [KevinMusgrave/pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning) - The easiest way to use deep metric learning in your application. Modular, flexible, and extensible. Written in PyTorch.
-- [woven-planet/l5kit](https://github.com/woven-planet/l5kit) - L5Kit - https://level-5.global/
+- [woven-planet/l5kit](https://github.com/woven-planet/l5kit) - L5Kit - https://woven.toyota
 - [novnc/websockify](https://github.com/novnc/websockify) - Websockify is a WebSocket to TCP proxy/bridge. This allows a browser to connect  to any application/server/service.
 - [kororo/excelcy](https://github.com/kororo/excelcy) - Excel Integration with spaCy. Training NER using Excel/XLSX from PDF, DOCX, PPT, PNG or JPG.
 - [Vin-itall/CloudArcade](https://github.com/Vin-itall/CloudArcade) - CloudArcade Let's You Play Retro Games On  A Web Browser.
@@ -4271,7 +4276,7 @@
 - [facebookresearch/SpanBERT](https://github.com/facebookresearch/SpanBERT) - Code for using and evaluating SpanBERT.
 - [t04glovern/selfie2anime](https://github.com/t04glovern/selfie2anime) - Anime2Selfie Backend Services - Lambda, Queue, API Gateway and traffic processing
 - [gpleiss/efficient_densenet_pytorch](https://github.com/gpleiss/efficient_densenet_pytorch) - A memory-efficient implementation of DenseNets
-- [open-mmlab/mmagic](https://github.com/open-mmlab/mmagic) - OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Unlock the magic 🪄: Generative-AI (AIGC), easy-to-use APIs, awsome model zoo, diffusion models, image/video restoration/enh
+- [open-mmlab/mmagic](https://github.com/open-mmlab/mmagic) - OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Unlock the magic 🪄: Generative-AI (AIGC), easy-to-use APIs, awsome model zoo, diffusion models, for text-to-image generatio
 - [timesler/facenet-pytorch](https://github.com/timesler/facenet-pytorch) - Pretrained Pytorch face detection (MTCNN) and facial recognition (InceptionResnet) models
 - [blue-season/pywarm](https://github.com/blue-season/pywarm) - A cleaner way to build neural networks for PyTorch.
 - [nd-ball/py-irt](https://github.com/nd-ball/py-irt) - Bayesian IRT models in Python
@@ -6994,7 +6999,6 @@
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [Qovery/engine](https://github.com/Qovery/engine) - The Orchestration Engine To Deliver Self-Service Infrastructure Faster ⚡️
 - [losfair/blueboat](https://github.com/losfair/blueboat) - All-in-one, multi-tenant serverless JavaScript runtime.
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - High-velocity, monorepo-scale workflow for Git
 - [dylanhart/ulid-rs](https://github.com/dylanhart/ulid-rs) - This is a Rust implementation of the ulid project
 - [facebook/sapling](https://github.com/facebook/sapling) - A Scalable, User-Friendly Source Control System.
@@ -7071,7 +7075,7 @@
 - [lemunozm/message-io](https://github.com/lemunozm/message-io) - Fast and easy-to-use event-driven network library.
 - [salmans/codd](https://github.com/salmans/codd) - A minimal in-memory database with relational algebraic expressions as queries
 - [Xudong-Huang/may](https://github.com/Xudong-Huang/may) - rust stackful coroutine library
-- [mufeedvh/binserve](https://github.com/mufeedvh/binserve) - A fast production-ready static web server with TLS (HTTPS), routing, hot reloading, caching, templating, and security in a single-binary you can set up with zero code. :zap:
+- [mufeedvh/binserve](https://github.com/mufeedvh/binserve) - A fast production-ready static web server with TLS (HTTPS), routing, hot reloading, caching, templating, and security in a single-binary you can set up with zero code.
 - [AsafFisher/Oxidiscovery](https://github.com/AsafFisher/Oxidiscovery) - A peer to peer library build with rust.
 - [outbrain/fwumious_wabbit](https://github.com/outbrain/fwumious_wabbit) - Fwumious Wabbit, fast on-line machine learning toolkit written in Rust
 - [metrics-rs/metrics](https://github.com/metrics-rs/metrics) - A metrics ecosystem for Rust.
