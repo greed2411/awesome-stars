@@ -399,7 +399,7 @@
 - [microsoft/BlingFire](https://github.com/microsoft/BlingFire) - A lightning fast Finite State machine and REgular expression manipulation library.
 - [eBay/Jungle](https://github.com/eBay/Jungle) - An embedded key-value store library specialized for building state machine and log store
 - [ggerganov/wave-share](https://github.com/ggerganov/wave-share) - Serverless, peer-to-peer, local file sharing through sound
-- [apache/incubator-kvrocks](https://github.com/apache/incubator-kvrocks) - Kvrocks is a distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol.
+- [apache/kvrocks](https://github.com/apache/kvrocks) - Kvrocks is a distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol.
 - [tabokie/sBase](https://github.com/tabokie/sBase) - An extremely loose-coupled modular database, remake of previous parallel relational database with B-flow tree design.
 - [tabokie/portal-db](https://github.com/tabokie/portal-db) - persistent and scalable in-memory key-value engine.
 - [NVIDIA/libcudacxx](https://github.com/NVIDIA/libcudacxx) - The C++ Standard Library for your entire system.
@@ -3018,7 +3018,7 @@
 - [matthiasn/Clojure-Resources](https://github.com/matthiasn/Clojure-Resources) - Compilation of useful links and resources for learning Clojure and ClojureScript
 - [cassidoo/getting-a-gig](https://github.com/cassidoo/getting-a-gig) - Guide for getting a gig as a tech student.
 - [mr-karan/awesome-investing](https://github.com/mr-karan/awesome-investing) - 💸💸 Curated list of investment & finance related resources
-- [georgezouq/awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) - 🔬 A curated list of awesome machine learning strategies & tools in financial market.
+- [georgezouq/awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) - 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market.
 - [servo/servo](https://github.com/servo/servo) - The Servo Browser Engine
 - [priyankavergadia/google-cloud-4-words](https://github.com/priyankavergadia/google-cloud-4-words) - The Google Cloud Developer's Cheat Sheet
 - [madd86/awesome-system-design](https://github.com/madd86/awesome-system-design) - A curated list of awesome System Design (A.K.A. Distributed Systems) resources.
@@ -6847,7 +6847,6 @@
 - [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
 - [aaronabramov/k9](https://github.com/aaronabramov/k9) - Rust testing library
 - [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3) - A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
-- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [tcdi/plrust](https://github.com/tcdi/plrust) - A Rust procedural language handler for PostgreSQL
 - [pythonspeed/filprofiler](https://github.com/pythonspeed/filprofiler) - A Python memory profiler for data processing and scientific computing applications
 - [second-state/microservice-rust-mysql](https://github.com/second-state/microservice-rust-mysql) - A template project for building a database-driven microservice in Rust and run it in the WasmEdge sandbox.
@@ -7439,6 +7438,7 @@
 - [vercel-labs/ai](https://github.com/vercel-labs/ai) - Build AI-powered applications with React, Svelte, and Vue
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
+- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [firecow/gitlab-ci-local](https://github.com/firecow/gitlab-ci-local) - Tired of pushing to test your .gitlab-ci.yml?
 - [tableflowhq/tableflow](https://github.com/tableflowhq/tableflow) - The open source CSV importer
 - [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
