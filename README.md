@@ -1655,7 +1655,7 @@
 ## HTML 
 
 - [heejkoo/Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models) - A collection of resources and papers on Diffusion Models
-- [h-enk/doks](https://github.com/h-enk/doks) - Build a custom, production-ready documentation website in no time.
+- [h-enk/doks](https://github.com/h-enk/doks) - Build beautiful, high-performance documentation websites with Doks
 - [YerevaNN/A-Guide-to-Deep-Learning](https://github.com/YerevaNN/A-Guide-to-Deep-Learning) - 📚 A detailed guide to deep learning: http://yerevann.com/a-guide-to-deep-learning/
 - [abisee/attn_vis](https://github.com/abisee/attn_vis) - Interactive in-browser attention visualizer tool for recurrent networks
 - [Digital-Tamil-Studies/open_tamil_texts](https://github.com/Digital-Tamil-Studies/open_tamil_texts) - For sharing resources related to openly licensed and structured Tamil language texts.
@@ -1922,6 +1922,7 @@
 
 ## JavaScript 
 
+- [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
 - [schibsted/WAAS](https://github.com/schibsted/WAAS) - Whisper as a Service (GUI and API with queuing for OpenAI Whisper)
 - [netarchivesuite/heatmap](https://github.com/netarchivesuite/heatmap) - A GitHub-inspired graph for visualising activity
 - [open-duelyst/duelyst](https://github.com/open-duelyst/duelyst) - Duelyst is a digital collectible card game and turn-based strategy hybrid, developed by Counterplay Games.
@@ -3525,7 +3526,7 @@
 - [blueswen/gunicorn-monitoring](https://github.com/blueswen/gunicorn-monitoring) - Monitor Gunicorn application (e.g. Flask) through build-in instrumentation feature using the statsD protocol over UDP with Prometheus and Grafana.
 - [mher/flower](https://github.com/mher/flower) - Real-time monitor and web admin for Celery distributed task queue
 - [django/asgiref](https://github.com/django/asgiref) - ASGI specification and utilities
-- [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run 100B+ language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
+- [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run large language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 - [abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python) - Python bindings for llama.cpp
 - [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and FastChat-T5.
