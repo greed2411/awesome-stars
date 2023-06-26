@@ -2408,7 +2408,7 @@
 - [martius-lab/l4-optimizer](https://github.com/martius-lab/l4-optimizer) - Code for paper "L4: Practical loss-based stepsize adaptation for deep learning"
 - [krasserm/bayesian-machine-learning](https://github.com/krasserm/bayesian-machine-learning) - Notebooks about Bayesian methods for machine learning
 - [iamtrask/Grokking-Deep-Learning](https://github.com/iamtrask/Grokking-Deep-Learning) - this repository accompanies the book "Grokking Deep Learning"
-- [huseinzol05/malay-dataset](https://github.com/huseinzol05/malay-dataset) - Text corpus for Bahasa Malaysia, https://malaya.readthedocs.io/en/latest/Dataset.html
+- [huseinzol05/malay-dataset](https://github.com/huseinzol05/malay-dataset) - Text corpus for Malaysia, https://malaya.readthedocs.io/en/latest/Dataset.html
 - [barbagroup/CFDPython](https://github.com/barbagroup/CFDPython) - A sequence of Jupyter notebooks featuring the "12 Steps to Navier-Stokes" http://lorenabarba.com/
 - [oseledets/nla2017](https://github.com/oseledets/nla2017) - Skoltech 2017 NLA course
 - [richardaecn/cvpr18-inaturalist-transfer](https://github.com/richardaecn/cvpr18-inaturalist-transfer) - Large Scale Fine-Grained Categorization  and Domain-Specific Transfer Learning. CVPR 2018
@@ -6949,7 +6949,7 @@
 - [zesterer/chumsky](https://github.com/zesterer/chumsky) - Write expressive, high-performance parsers with ease.
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
 - [hotg-ai/rune](https://github.com/hotg-ai/rune) - Rune provides containers to encapsulate and deploy edgeML pipelines and applications
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - 🚀SQL stream processing with Postgres-like experience. 🪄More than a modern alternative to Apache Flink.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - 🚀 SQL stream processing with Postgres-like experience. 🪄 10X faster and more cost-efficient than Apache Flink.
 - [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates
 - [JasonShin/elemental-system-designs](https://github.com/JasonShin/elemental-system-designs) - System Designs open for everyone
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
