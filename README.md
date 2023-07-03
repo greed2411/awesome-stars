@@ -578,7 +578,6 @@
 - [tangzhenyu/Scene-Text-Understanding](https://github.com/tangzhenyu/Scene-Text-Understanding) - OCR, Scene-Text-Understanding, Text Recognition
 - [mit-han-lab/proxylessnas](https://github.com/mit-han-lab/proxylessnas) - [ICLR 2019] ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware
 - [openai/coinrun](https://github.com/openai/coinrun) - Code for the paper "Quantifying Transfer in Reinforcement Learning"
-- [vtraag/leidenalg](https://github.com/vtraag/leidenalg) - Implementation of the Leiden algorithm for various quality functions to be used with igraph in Python.
 - [CarsonScott/Prediction-Template-Learning](https://github.com/CarsonScott/Prediction-Template-Learning) - Online machine learning algorithm that makes predictions about the environment to improve itself.
 - [rapidsai/cudf](https://github.com/rapidsai/cudf) - cuDF - GPU DataFrame Library
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
@@ -929,6 +928,7 @@
 
 ## Go 
 
+- [arttor/helmify](https://github.com/arttor/helmify) - Creates Helm chart from Kubernetes yaml
 - [tetratelabs/wazero](https://github.com/tetratelabs/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
 - [no-src/gofs](https://github.com/no-src/gofs) - A cross-platform real-time file synchronization tool out of the box based on Golang
 - [janpfeifer/monitored_rsync](https://github.com/janpfeifer/monitored_rsync) - 
@@ -1353,7 +1353,7 @@
 - [uber-go/goleak](https://github.com/uber-go/goleak) - Goroutine leak detector
 - [vbauerster/mpb](https://github.com/vbauerster/mpb) - multi progress bar for Go cli applications
 - [octoproject/octo-cli](https://github.com/octoproject/octo-cli) - CLI tool to expose data from any database as a serverless web service.
-- [go-goyave/goyave](https://github.com/go-goyave/goyave) - 🍐 Elegant Golang REST API Framework (v5 WIP)
+- [go-goyave/goyave](https://github.com/go-goyave/goyave) - 🍐 Elegant Golang REST API Framework (v5 preview available)
 - [tailwarden/komiser](https://github.com/tailwarden/komiser) - Build your cloud asset inventory and break down your cost at the resource level 💰
 - [filecoin-project/lotus](https://github.com/filecoin-project/lotus) - Reference implementation of the Filecoin protocol, written in Go
 - [Mindinventory/Golang-Project-Structure](https://github.com/Mindinventory/Golang-Project-Structure) - Golang Skeleton With Fully Managed Versions For Kick Start GoLang Project Development
@@ -1512,7 +1512,7 @@
 - [klauspost/compress](https://github.com/klauspost/compress) - Optimized Go Compression Packages
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [coinbase/odin](https://github.com/coinbase/odin) - Archived: Odin deployer to AWS for 12 Factor applications.
-- [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use RTSP / RTMP / LL-HLS / WebRTC server and proxy that allows to read, publish and proxy video and audio streams. Formerly known as rtsp-simple-server.
+- [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use RTSP / RTMP / LL-HLS / WebRTC media server and media proxy that allows to read, publish and proxy video and audio streams.
 - [smarty-prototypes/go-disruptor](https://github.com/smarty-prototypes/go-disruptor) - A port of the LMAX Disruptor to the Go language.
 - [urfave/negroni](https://github.com/urfave/negroni) - Idiomatic HTTP Middleware for Golang
 - [gorilla/mux](https://github.com/gorilla/mux) - A powerful HTTP router and URL matcher for building Go web servers with 🦍
@@ -2412,7 +2412,7 @@
 - [martius-lab/l4-optimizer](https://github.com/martius-lab/l4-optimizer) - Code for paper "L4: Practical loss-based stepsize adaptation for deep learning"
 - [krasserm/bayesian-machine-learning](https://github.com/krasserm/bayesian-machine-learning) - Notebooks about Bayesian methods for machine learning
 - [iamtrask/Grokking-Deep-Learning](https://github.com/iamtrask/Grokking-Deep-Learning) - this repository accompanies the book "Grokking Deep Learning"
-- [huseinzol05/malay-dataset](https://github.com/huseinzol05/malay-dataset) - Text corpus for Malaysia, https://malaya.readthedocs.io/en/latest/Dataset.html
+- [huseinzol05/malaysian-dataset](https://github.com/huseinzol05/malaysian-dataset) - Text corpus for Malaysia, https://malaya.readthedocs.io/en/latest/Dataset.html
 - [barbagroup/CFDPython](https://github.com/barbagroup/CFDPython) - A sequence of Jupyter notebooks featuring the "12 Steps to Navier-Stokes" http://lorenabarba.com/
 - [oseledets/nla2017](https://github.com/oseledets/nla2017) - Skoltech 2017 NLA course
 - [richardaecn/cvpr18-inaturalist-transfer](https://github.com/richardaecn/cvpr18-inaturalist-transfer) - Large Scale Fine-Grained Categorization  and Domain-Specific Transfer Learning. CVPR 2018
@@ -3538,7 +3538,7 @@
 - [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and FastChat-T5.
 - [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
-- [OptimalScale/LMFlow](https://github.com/OptimalScale/LMFlow) - An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Model for All.
+- [OptimalScale/LMFlow](https://github.com/OptimalScale/LMFlow) - An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Models for All.
 - [biobootloader/wolverine](https://github.com/biobootloader/wolverine) - 
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
 - [collerek/ormar](https://github.com/collerek/ormar) - python async orm with fastapi in mind and pydantic validation
@@ -5082,6 +5082,7 @@
 - [declare-lab/MELD](https://github.com/declare-lab/MELD) - MELD: A Multimodal Multi-Party Dataset for Emotion Recognition in Conversation
 - [optuna/optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework
 - [zalandoresearch/famos](https://github.com/zalandoresearch/famos) - Adversarial Framework for (non-) Parametric Image Stylisation Mosaics
+- [vtraag/leidenalg](https://github.com/vtraag/leidenalg) - Implementation of the Leiden algorithm for various quality functions to be used with igraph in Python.
 - [funnyzhou/FPN-Pytorch](https://github.com/funnyzhou/FPN-Pytorch) - 
 - [ronghanghu/snmn](https://github.com/ronghanghu/snmn) - Code release for Hu et al., Explainable Neural Computation via Stack Neural Module Networks. in ECCV, 2018
 - [anuragranj/back2future.pytorch](https://github.com/anuragranj/back2future.pytorch) - Unsupervised Learning of Multi-Frame Optical Flow with Occlusions
@@ -6578,7 +6579,7 @@
 - [JacobChrist/YouTube-Caption](https://github.com/JacobChrist/YouTube-Caption) - YoutTube Caption API Python example converted to Python 3
 - [llSourcell/tensorflow_chatbot](https://github.com/llSourcell/tensorflow_chatbot) - Tensorflow chatbot demo by @Sirajology on Youtube
 - [holoviz/geoviews](https://github.com/holoviz/geoviews) - Simple, concise geographical visualization in Python
-- [onejgordon/flow-dashboard](https://github.com/onejgordon/flow-dashboard) - A goal, task & habit tracker + personal dashboard to focus on what matters
+- [onejgordon/flow-dashboard](https://github.com/onejgordon/flow-dashboard) - [UNMAINTAINED] A goal, task & habit tracker + personal dashboard to focus on what matters
 - [chiphuyen/stanford-tensorflow-tutorials](https://github.com/chiphuyen/stanford-tensorflow-tutorials) - This repository contains code examples for the Stanford's course: TensorFlow for Deep Learning Research.
 - [adicu/learn-python](https://github.com/adicu/learn-python) - Learn to program in Python!
 - [kootenpv/neural_complete](https://github.com/kootenpv/neural_complete) - A neural network trained to help writing neural network code using autocomplete
@@ -7070,7 +7071,7 @@
 - [mattsse/chromiumoxide](https://github.com/mattsse/chromiumoxide) - Chrome Devtools Protocol rust API
 - [graphql-rust/graphql-parser](https://github.com/graphql-rust/graphql-parser) - A graphql query language and schema definition language parser and formatter for rust
 - [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust
-- [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js
+- [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends
 - [Byron/google-apis-rs](https://github.com/Byron/google-apis-rs) - A binding and CLI generator for all Google APIs
 - [tafia/calamine](https://github.com/tafia/calamine) - A pure Rust Excel/OpenDocument SpeadSheets file reader: rust on metal sheets
 - [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh) - zenoh unifies data in motion, data in-use, data at rest and computations. It carefully blends traditional pub/sub with geo-distributed storages, queries and computations, while retaining a level of ti
