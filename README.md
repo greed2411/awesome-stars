@@ -1491,7 +1491,7 @@
 - [liftbridge-io/liftbridge](https://github.com/liftbridge-io/liftbridge) - Lightweight, fault-tolerant message streams.
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [alibaba/sentinel-golang](https://github.com/alibaba/sentinel-golang) - Sentinel Go enables reliability and resiliency for Go microservices
-- [Shopify/sarama](https://github.com/Shopify/sarama) - Sarama is a Go library for Apache Kafka.
+- [markrcote/sarama](https://github.com/markrcote/sarama) - Sarama is a Go library for Apache Kafka.
 - [felixge/fgprof](https://github.com/felixge/fgprof) - 🚀 fgprof is a sampling Go profiler that allows you to analyze On-CPU as well as Off-CPU (e.g. I/O) time together.
 - [hashicorp/nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and sc
 - [nlpodyssey/spago](https://github.com/nlpodyssey/spago) - Self-contained Machine Learning and Natural Language Processing library in Go
@@ -1659,7 +1659,7 @@
 
 ## HTML 
 
-- [heejkoo/Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models) - A collection of resources and papers on Diffusion Models
+- [diff-usion/Awesome-Diffusion-Models](https://github.com/diff-usion/Awesome-Diffusion-Models) - A collection of resources and papers on Diffusion Models
 - [h-enk/doks](https://github.com/h-enk/doks) - Build beautiful, high-performance documentation websites with Doks
 - [YerevaNN/A-Guide-to-Deep-Learning](https://github.com/YerevaNN/A-Guide-to-Deep-Learning) - 📚 A detailed guide to deep learning: http://yerevann.com/a-guide-to-deep-learning/
 - [abisee/attn_vis](https://github.com/abisee/attn_vis) - Interactive in-browser attention visualizer tool for recurrent networks
@@ -2198,6 +2198,7 @@
 
 - [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
 - [leotac/joypy](https://github.com/leotac/joypy) - Joyplots in Python with matplotlib & pandas :chart_with_upwards_trend:
+- [neonbjb/tortoise-tts](https://github.com/neonbjb/tortoise-tts) - A multi-voice TTS system trained with an emphasis on quality
 - [GokuMohandas/mlops-course](https://github.com/GokuMohandas/mlops-course) - Learn how to design, develop, deploy and maintain an end-to-end ML application at scale.
 - [huggingface/diffusion-models-class](https://github.com/huggingface/diffusion-models-class) - Materials for the Hugging Face Diffusion Models Course
 - [xl0/lovely-tensors](https://github.com/xl0/lovely-tensors) - Tensors, ready for human consumption
@@ -3525,6 +3526,7 @@
 
 ## Python 
 
+- [databrickslabs/pyspark-ai](https://github.com/databrickslabs/pyspark-ai) - English SDK for Apache Spark
 - [Django-LiveView/starter-template](https://github.com/Django-LiveView/starter-template) - Django LiveView: Framework for creating Realtime SPAs using HTML over the Wire technology
 - [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
 - [vocodedev/vocode-python](https://github.com/vocodedev/vocode-python) - 🤖 Build voice-based LLM agents. Modular + open source.
@@ -3560,7 +3562,6 @@
 - [bytedance/monolith](https://github.com/bytedance/monolith) - ByteDance's Recommendation System
 - [rstudio/py-shiny](https://github.com/rstudio/py-shiny) - Shiny for Python
 - [embeddings-benchmark/mteb](https://github.com/embeddings-benchmark/mteb) - MTEB: Massive Text Embedding Benchmark
-- [neonbjb/tortoise-tts](https://github.com/neonbjb/tortoise-tts) - A multi-voice TTS system trained with an emphasis on quality
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [PRQL/pyprql](https://github.com/PRQL/pyprql) - Python extensions for PRQL
 - [lucidrains/PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch) - Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM
@@ -3591,7 +3592,7 @@
 - [nyu-mll/quality](https://github.com/nyu-mll/quality) - 
 - [huggingface/optimum](https://github.com/huggingface/optimum) - 🚀 Accelerate training and inference of 🤗 Transformers and 🤗 Diffusers with easy to use hardware optimization tools
 - [argoproj-labs/hera](https://github.com/argoproj-labs/hera) - Hera is an Argo Python SDK. Hera aims to make construction and submission of various Argo Project resources easy and accessible to everyone! Hera abstracts away low-level setup details while still mai
-- [geohot/tinygrad](https://github.com/geohot/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
+- [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
 - [AstraZeneca/chemicalx](https://github.com/AstraZeneca/chemicalx) - A PyTorch and TorchDrug based deep learning library for drug pair scoring. (KDD 2022)
 - [some9000/StylePile](https://github.com/some9000/StylePile) - A prompt generation helper script for AUTOMATIC1111/stable-diffusion-webui and compatible forks
 - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A modular SQL linter and auto-formatter with support for multiple dialects and templated code.
@@ -3852,7 +3853,7 @@
 - [open-mmlab/mmpretrain](https://github.com/open-mmlab/mmpretrain) - OpenMMLab Pre-training Toolbox and Benchmark
 - [patrick-kidger/torchtyping](https://github.com/patrick-kidger/torchtyping) - Type annotations and dynamic checking for a tensor's shape, dtype, names, etc.
 - [ucinlp/autoprompt](https://github.com/ucinlp/autoprompt) - AutoPrompt: Automatic Prompt Construction for Masked Language Models.
-- [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Build multimodal AI services via cloud native technologies
+- [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Multimodal AI services & pipelines with cloud-native stack: gRPC, Kubernetes, Docker, OpenTelemetry, Prometheus, Jaeger, etc.
 - [jina-ai/examples](https://github.com/jina-ai/examples) - Jina examples and demos to help you get started
 - [bashtage/arch](https://github.com/bashtage/arch) - ARCH models in Python
 - [facebookresearch/CrypTen](https://github.com/facebookresearch/CrypTen) - A framework for Privacy Preserving Machine Learning
@@ -5291,7 +5292,7 @@
 - [facebookarchive/Audio2BodyDynamics](https://github.com/facebookarchive/Audio2BodyDynamics) - Audio To Body Dynamics, CVPR 2018
 - [kmaninis/OSVOS-PyTorch](https://github.com/kmaninis/OSVOS-PyTorch) - PyTorch implementation of One-Shot Video Object Segmentation (OSVOS)
 - [mps-youtube/yewtube](https://github.com/mps-youtube/yewtube) - yewtube, forked from mps-youtube , is a Terminal based YouTube player and downloader. No Youtube API key required.
-- [brettcannon/gidgethub](https://github.com/brettcannon/gidgethub) - An async GitHub API library for Python
+- [gidgethub/gidgethub](https://github.com/gidgethub/gidgethub) - An async GitHub API library for Python
 - [charlesq34/frustum-pointnets](https://github.com/charlesq34/frustum-pointnets) - Frustum PointNets for 3D Object Detection from RGB-D Data
 - [KleinYuan/tf-3d-object-detection](https://github.com/KleinYuan/tf-3d-object-detection) - Detect object in 3D with Point Cloud and Image.
 - [qipeng/gcn-over-pruned-trees](https://github.com/qipeng/gcn-over-pruned-trees) - Graph Convolution over Pruned Dependency Trees Improves Relation Extraction (authors' PyTorch implementation)
@@ -6933,7 +6934,7 @@
 - [rust-bio/rust-bio](https://github.com/rust-bio/rust-bio) - This library provides implementations of many algorithms and data structures that are useful for bioinformatics. All provided implementations are rigorously tested via continuous integration.
 - [10XGenomics/rust-pseudoaligner](https://github.com/10XGenomics/rust-pseudoaligner) - Single-Cell RNA-seq pseudo-aligner
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
-- [tcdi/pgrx](https://github.com/tcdi/pgrx) - Build Postgres Extensions with Rust!
+- [pgcentralfoundation/pgrx](https://github.com/pgcentralfoundation/pgrx) - Build Postgres Extensions with Rust!
 - [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — The Semantic Layer for Building Data Applications
 - [parseablehq/parseable](https://github.com/parseablehq/parseable) - Parseable is a log analytics system written in Rust. It is built for high throughput log ingestion cases.
@@ -6959,7 +6960,7 @@
 - [zesterer/chumsky](https://github.com/zesterer/chumsky) - Write expressive, high-performance parsers with ease.
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
 - [hotg-ai/rune](https://github.com/hotg-ai/rune) - Rune provides containers to encapsulate and deploy edgeML pipelines and applications
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - 🚀 SQL stream processing with Postgres-like experience. 🪄 10X faster and more cost-efficient than Apache Flink.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - The distributed streaming database: SQL stream processing with Postgres-like experience 🪄. 10X faster and more cost-efficient than Apache Flink 🚀.
 - [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates
 - [JasonShin/elemental-system-designs](https://github.com/JasonShin/elemental-system-designs) - System Designs open for everyone
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
@@ -7182,7 +7183,7 @@
 - [console-rs/console](https://github.com/console-rs/console) - A rust console and terminal abstraction
 - [orhun/kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
-- [Sreyas-Sreelal/malluscript](https://github.com/Sreyas-Sreelal/malluscript) - A simple,gentle,humble scripting language for mallus, based on malayalam memes.
+- [Sreyas-Sreelal/malluscript](https://github.com/Sreyas-Sreelal/malluscript) - An esoteric Malayalam programming language
 - [jix/varisat](https://github.com/jix/varisat) - SAT solver written in Rust
 - [aaronjanse/dns-over-wikipedia](https://github.com/aaronjanse/dns-over-wikipedia) - Redirect `.idk` domains using Wikipedia
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
@@ -7632,7 +7633,7 @@
 - [hexops/fastfilter](https://github.com/hexops/fastfilter) - fastfilter: Binary fuse & xor filters for Zig (faster and smaller than bloom filters)
 - [MasterQ32/asciitable](https://github.com/MasterQ32/asciitable) - A very basic tool that just prints the ascii table
 - [lithdew/rheia](https://github.com/lithdew/rheia) - A blockchain written in Zig.
-- [tigerbeetledb/tigerbeetle](https://github.com/tigerbeetledb/tigerbeetle) - The distributed financial accounting database designed for mission critical safety and performance.
+- [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The distributed financial accounting database designed for mission critical safety and performance.
 - [ratfactor/ziglings](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs.
 - [lithdew/snow](https://github.com/lithdew/snow) - A small, fast, cross-platform, async Zig networking framework built on top of lithdew/pike.
 - [prime31/zig-ecs](https://github.com/prime31/zig-ecs) - 
