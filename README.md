@@ -174,6 +174,7 @@
 - [chyyuu/aos_course_info](https://github.com/chyyuu/aos_course_info) - advanced os course info & some os papers
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [nikhilm/uvbook](https://github.com/nikhilm/uvbook) - An Introduction to libuv
+- [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser, powered by WebAssembly
 - [Juniper/grpc-c](https://github.com/Juniper/grpc-c) - C implementation of gRPC layered on top of core library
 - [freeswitch/sofia-sip](https://github.com/freeswitch/sofia-sip) - Sofia-SIP is an open-source SIP User-Agent library, compliant with the IETF RFC3261 specification.
 - [apache/apr](https://github.com/apache/apr) - Mirror of Apache Portable Runtime
@@ -395,7 +396,7 @@
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [RainerKuemmerle/g2o](https://github.com/RainerKuemmerle/g2o) - g2o: A General Framework for Graph Optimization
 - [OpenAtomFoundation/pika](https://github.com/OpenAtomFoundation/pika) - Pika is a NoSQL database compatible with redis which is developed by Qihoo's infrastructure team.
-- [facebookincubator/mvfst](https://github.com/facebookincubator/mvfst) - An implementation of the QUIC transport protocol.
+- [facebook/mvfst](https://github.com/facebook/mvfst) - An implementation of the QUIC transport protocol.
 - [microsoft/BlingFire](https://github.com/microsoft/BlingFire) - A lightning fast Finite State machine and REgular expression manipulation library.
 - [eBay/Jungle](https://github.com/eBay/Jungle) - An embedded key-value store library specialized for building state machine and log store
 - [ggerganov/wave-share](https://github.com/ggerganov/wave-share) - Serverless, peer-to-peer, local file sharing through sound
@@ -801,7 +802,7 @@
 - [clj-commons/ordered](https://github.com/clj-commons/ordered) - Ordered sets and maps, implemented in pure clojure
 - [matthiasn/systems-toolbox](https://github.com/matthiasn/systems-toolbox) - Tools and building blocks for building Systems in Clojure and ClojureScript
 - [walmartlabs/lacinia](https://github.com/walmartlabs/lacinia) - GraphQL implementation in pure Clojure
-- [ptaoussanis/tufte](https://github.com/ptaoussanis/tufte) - Simple performance monitoring for Clojure/Script applications
+- [taoensso/tufte](https://github.com/taoensso/tufte) - Simple performance monitoring for Clojure/Script applications
 - [xtdb/xtdb](https://github.com/xtdb/xtdb) - General-purpose bitemporal database for SQL, Datalog & graph queries. Developed by @juxt
 - [metosin/malli](https://github.com/metosin/malli) - High-performance Data-Driven Data Specification Library for Clojure/Script.
 - [siclait/6.824-cljlabs-2020](https://github.com/siclait/6.824-cljlabs-2020) - Clojure ports for the Spring 2020 labs of MIT's 6.824: Distributed Systems
@@ -1002,7 +1003,7 @@
 - [pion/opus](https://github.com/pion/opus) - Pure Go implementation of Opus
 - [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler) - Descheduler for Kubernetes
 - [iovisor/kubectl-trace](https://github.com/iovisor/kubectl-trace) - Schedule bpftrace programs on your kubernetes cluster using the kubectl
-- [kyleconroy/sqlc](https://github.com/kyleconroy/sqlc) - Generate type-safe code from SQL
+- [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 - [openziti/ziti](https://github.com/openziti/ziti) - The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network
 - [felixge/fgtrace](https://github.com/felixge/fgtrace) - fgtrace is an experimental profiler/tracer that is capturing wallclock timelines for each goroutine. It's very similar to the Chrome profiler.
 - [bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets
@@ -1987,7 +1988,6 @@
 - [LearnBoost/cluster](https://github.com/LearnBoost/cluster) - Node.JS multi-core server manager with plugins support.
 - [stackshareio/awesome-stacks](https://github.com/stackshareio/awesome-stacks) - A curated list of tech stacks for building different applications & features
 - [zonetti/zonote](https://github.com/zonetti/zonote) - Cross-platform desktop note-taking app. Sticky notes with Markdown and Tabs. All in one .txt file.
-- [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 - [necolas/react-native-web](https://github.com/necolas/react-native-web) - Cross-platform React UI packages
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
@@ -2199,7 +2199,7 @@
 - [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
 - [leotac/joypy](https://github.com/leotac/joypy) - Joyplots in Python with matplotlib & pandas :chart_with_upwards_trend:
 - [neonbjb/tortoise-tts](https://github.com/neonbjb/tortoise-tts) - A multi-voice TTS system trained with an emphasis on quality
-- [GokuMohandas/mlops-course](https://github.com/GokuMohandas/mlops-course) - Learn how to design, develop, deploy and maintain an end-to-end ML application at scale.
+- [GokuMohandas/mlops-course](https://github.com/GokuMohandas/mlops-course) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
 - [huggingface/diffusion-models-class](https://github.com/huggingface/diffusion-models-class) - Materials for the Hugging Face Diffusion Models Course
 - [xl0/lovely-tensors](https://github.com/xl0/lovely-tensors) - Tensors, ready for human consumption
 - [LexPredict/lexpredict-lexnlp](https://github.com/LexPredict/lexpredict-lexnlp) - LexNLP by LexPredict
@@ -2291,6 +2291,7 @@
 - [bentrevett/pytorch-rl](https://github.com/bentrevett/pytorch-rl) - Tutorials for reinforcement learning in PyTorch and Gym by implementing a few of the popular algorithms. [IN PROGRESS]
 - [timsainb/tensorflow2-generative-models](https://github.com/timsainb/tensorflow2-generative-models) - Implementations of a number of generative models in Tensorflow 2. GAN, VAE, Seq2Seq, VAEGAN, GAIA, Spectrogram Inversion. Everything is self contained in a jupyter notebook for easy export to colab.
 - [jax-md/jax-md](https://github.com/jax-md/jax-md) - Differentiable, Hardware Accelerated, Molecular Dynamics
+- [facebook/Ax](https://github.com/facebook/Ax) - Adaptive Experimentation Platform
 - [pytorch/botorch](https://github.com/pytorch/botorch) - Bayesian optimization in PyTorch
 - [Ranlot/single-parameter-fit](https://github.com/Ranlot/single-parameter-fit) - Real numbers, data science and chaos: How to fit any dataset with a single parameter
 - [EmilienDupont/neural-processes](https://github.com/EmilienDupont/neural-processes) - Pytorch implementation of Neural Processes for functions and images :fireworks:
@@ -3549,7 +3550,7 @@
 - [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered enterprise search engine 🔎
 - [toluaina/pgsync](https://github.com/toluaina/pgsync) - Postgres to Elasticsearch/OpenSearch sync
 - [scottpersinger/pgwarehouse](https://github.com/scottpersinger/pgwarehouse) - Easily sync your Postgres database to a Snowflake, ClickHouse, or DuckDB warehouse.
-- [meltano/meltano](https://github.com/meltano/meltano) - Extract & Load with joy — CLI & version control for ELT without limitations. No more black box. Let your creativity flow.
+- [meltano/meltano](https://github.com/meltano/meltano) - Meltano: the declarative code-first data integration engine that powers your wildest data and ML-powered product ideas. Say goodbye to writing, maintaining, and scaling your own API integrations.
 - [singer-io/tap-postgres](https://github.com/singer-io/tap-postgres) - tap-postgres
 - [jiamo/python-psql-replication](https://github.com/jiamo/python-psql-replication) - postgres  logic replication using python and wal2json
 - [deepmind/mctx](https://github.com/deepmind/mctx) - Monte Carlo tree search in JAX
@@ -3580,7 +3581,7 @@
 - [allenai/RL4LMs](https://github.com/allenai/RL4LMs) - A modular RL library to fine-tune language models to human preferences
 - [davabase/whisper_real_time](https://github.com/davabase/whisper_real_time) - Real time transcription with OpenAI Whisper.
 - [BenBrock/reple](https://github.com/BenBrock/reple) - "Replay-based" REPLs for compiled languages.
-- [microsoft/torchscale](https://github.com/microsoft/torchscale) - Transformers at any scale
+- [microsoft/torchscale](https://github.com/microsoft/torchscale) - Foundation Architecture for (M)LLMs
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [kzl/decision-transformer](https://github.com/kzl/decision-transformer) - Official codebase for Decision Transformer: Reinforcement Learning via Sequence Modeling.
 - [FlagAI-Open/FlagAI](https://github.com/FlagAI-Open/FlagAI) - FlagAI (Fast LArge-scale General AI models) is a fast, easy-to-use and extensible toolkit for large-scale model.
@@ -3642,7 +3643,7 @@
 - [nnaisense/evotorch](https://github.com/nnaisense/evotorch) - Advanced evolutionary computation library built directly on top of PyTorch, created at NNAISENSE.
 - [aidos-lab/pytorch-topological](https://github.com/aidos-lab/pytorch-topological) - A topological machine learning framework based on PyTorch
 - [Idlak/Living-Audio-Dataset](https://github.com/Idlak/Living-Audio-Dataset) - A "Crowd-Built" continuously growing speech dataset with transcripts. The dataset contains multiple languages and is intended for anyone to be able to add to it.
-- [nnextai/nnext](https://github.com/nnextai/nnext) - 🪢 Splice - The fastest way to build, deploy, and manage LLM-powered agents on dataframes
+- [nnextai/aigent](https://github.com/nnextai/aigent) - 🦾 Aigent - The fastest way to build, deploy, and manage LLM-powered agents on tabular data (dataframes, SQL tables and Spreadsheets).
 - [FFRI/ProjectChampollion](https://github.com/FFRI/ProjectChampollion) - Reverse engineering Rosetta 2 on M1 Mac
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
 - [Erotemic/ubelt](https://github.com/Erotemic/ubelt) - A Python utility library with a stdlib like feel and extra batteries. Paths, Progress, Dicts, Downloads, Caching, Hashing: ubelt makes it easy!
@@ -4496,7 +4497,6 @@
 - [cybertronai/pytorch-lamb](https://github.com/cybertronai/pytorch-lamb) - Implementation of  https://arxiv.org/abs/1904.00962
 - [benedekrozemberczki/graph2vec](https://github.com/benedekrozemberczki/graph2vec) - A parallel implementation of "graph2vec: Learning Distributed Representations of Graphs" (MLGWorkshop 2017).
 - [rbgirshick/yacs](https://github.com/rbgirshick/yacs) - YACS -- Yet Another Configuration System
-- [facebook/Ax](https://github.com/facebook/Ax) - Adaptive Experimentation Platform
 - [tunz/tcop-pytorch](https://github.com/tunz/tcop-pytorch) - tunz's CUDA pytorch operator (MaskedSoftmax)
 - [kakaobrain/fast-autoaugment](https://github.com/kakaobrain/fast-autoaugment) - Official Implementation of 'Fast AutoAugment' in PyTorch.
 - [shariqiqbal2810/MAAC](https://github.com/shariqiqbal2810/MAAC) - Code for "Actor-Attention-Critic for Multi-Agent Reinforcement Learning" ICML 2019
@@ -5167,7 +5167,7 @@
 - [dvingerh/PyInstaLive](https://github.com/dvingerh/PyInstaLive) - Python script to download Instagram livestreams.
 - [IndexedConv/IndexedConv](https://github.com/IndexedConv/IndexedConv) - Code for the indexed convolution
 - [arogozhnikov/einops](https://github.com/arogozhnikov/einops) - Deep learning operations reinvented (for pytorch, tensorflow, jax and others)
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.
 - [flow-project/flow](https://github.com/flow-project/flow) - Computational framework for reinforcement learning in traffic control
 - [joshua-wu/deepfakes_faceswap](https://github.com/joshua-wu/deepfakes_faceswap) - from deekfakes' faceswap: https://www.reddit.com/user/deepfakes/
 - [cbfinn/maml](https://github.com/cbfinn/maml) - Code for "Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks"
@@ -5412,7 +5412,7 @@
 - [luannd/MinutiaeNet](https://github.com/luannd/MinutiaeNet) - Code and models for paper "Robust Minutiae Extractor: Integrating Deep Networks and Fingerprint Domain Knowledge" at International Conference on Biometrics (ICB) 2018
 - [brain-research/self-attention-gan](https://github.com/brain-research/self-attention-gan) - 
 - [zeusees/License-Plate-Detector](https://github.com/zeusees/License-Plate-Detector) - 基于Yolov5车牌检测,更快更准.
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB’s AI database empowers world’s developers to build, deploy and automate Generative AI models for data-intensive applications.
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB connects AI models to databases and applications.
 - [minosworld/minos](https://github.com/minosworld/minos) - MINOS: Multimodal Indoor Simulator
 - [leonardblier/alrao](https://github.com/leonardblier/alrao) - Implementation of "Learning with Random Learning Rates" in PyTorch.
 - [NVIDIA/OpenSeq2Seq](https://github.com/NVIDIA/OpenSeq2Seq) - Toolkit for efficient experimentation with Speech Recognition, Text2Speech and NLP
