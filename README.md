@@ -289,7 +289,7 @@
 - [client9/libinjection](https://github.com/client9/libinjection) - SQL / SQLI tokenizer parser analyzer
 - [rofl0r/proxychains-ng](https://github.com/rofl0r/proxychains-ng) - proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained prox
 - [schwittlick/ofxDarknet](https://github.com/schwittlick/ofxDarknet) - darknet neural network addon for openFrameworks
-- [stanfordnlp/GloVe](https://github.com/stanfordnlp/GloVe) - GloVe model for distributed word representation
+- [stanfordnlp/GloVe](https://github.com/stanfordnlp/GloVe) - Software in C and data files for the popular GloVe model for distributed word representations, a.k.a. word vectors or embeddings
 - [seppo0010/rlite](https://github.com/seppo0010/rlite) - self-contained, serverless, zero-configuration, transactional redis-compatible database engine. rlite is to Redis what SQLite is to SQL.
 - [cstack/db_tutorial](https://github.com/cstack/db_tutorial) - Writing a sqlite clone from scratch in C
 - [cvxopt/cvxopt](https://github.com/cvxopt/cvxopt) - CVXOPT -- Python Software for Convex Optimization
@@ -718,7 +718,6 @@
 - [fetlang/fetlang](https://github.com/fetlang/fetlang) - Fetish-themed programming language
 - [PaddlePaddle/Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite) - PaddlePaddle High Performance Deep Learning Inference Engine for Mobile and Edge (飞桨高性能深度学习端侧推理引擎）
 - [spotify/annoy](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk
-- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [BVLC/caffe](https://github.com/BVLC/caffe) - Caffe: a fast open framework for deep learning.
@@ -1836,7 +1835,7 @@
 - [http-kit/http-kit](https://github.com/http-kit/http-kit) - Simple, high-performance event-driven HTTP client+server for Clojure
 - [netty/netty](https://github.com/netty/netty) - Netty project - an event-driven asynchronous network application framework
 - [slackapi/java-slack-sdk](https://github.com/slackapi/java-slack-sdk) - Slack Developer Kit (including Bolt for Java) for any JVM language
-- [stanfordnlp/CoreNLP](https://github.com/stanfordnlp/CoreNLP) - Stanford CoreNLP: A Java suite of core NLP tools.
+- [stanfordnlp/CoreNLP](https://github.com/stanfordnlp/CoreNLP) - CoreNLP: A Java suite of core NLP tools for tokenization, sentence segmentation, NER, parsing, coreference, sentiment analysis, etc.
 - [williamfiset/Algorithms](https://github.com/williamfiset/Algorithms) - A collection of algorithms and data structures
 - [linkedin/databus](https://github.com/linkedin/databus) - Source-agnostic distributed change data capture system
 - [ververica/flink-cdc-connectors](https://github.com/ververica/flink-cdc-connectors) - CDC Connectors for Apache Flink®
@@ -1993,7 +1992,6 @@
 - [zonetti/zonote](https://github.com/zonetti/zonote) - Cross-platform desktop note-taking app. Sticky notes with Markdown and Tabs. All in one .txt file.
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 - [necolas/react-native-web](https://github.com/necolas/react-native-web) - Cross-platform React UI packages
-- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [Lakitna/cli-diagram](https://github.com/Lakitna/cli-diagram) - Draw needlessly complex diagrams in the console
 - [rjz/codename](https://github.com/rjz/codename) - Project name generator
 - [open-webrtc-toolkit/owt-server](https://github.com/open-webrtc-toolkit/owt-server) - General server (streaming/conference/transcoding/anayltics) for OWT. (A.k.a. MediaServer)
@@ -3647,7 +3645,7 @@
 - [nnaisense/evotorch](https://github.com/nnaisense/evotorch) - Advanced evolutionary computation library built directly on top of PyTorch, created at NNAISENSE.
 - [aidos-lab/pytorch-topological](https://github.com/aidos-lab/pytorch-topological) - A topological machine learning framework based on PyTorch
 - [Idlak/Living-Audio-Dataset](https://github.com/Idlak/Living-Audio-Dataset) - A "Crowd-Built" continuously growing speech dataset with transcripts. The dataset contains multiple languages and is intended for anyone to be able to add to it.
-- [nnextai/aigent](https://github.com/nnextai/aigent) - 🦾 Aigent - The fastest way to build, deploy, and manage LLM-powered agents on tabular data (dataframes, SQL tables and Spreadsheets).
+- [peterwnjenga/aigent](https://github.com/peterwnjenga/aigent) - 🦾 Aigent - The fastest way to build, deploy, and manage LLM-powered agents on tabular data (dataframes, SQL tables and Spreadsheets).
 - [FFRI/ProjectChampollion](https://github.com/FFRI/ProjectChampollion) - Reverse engineering Rosetta 2 on M1 Mac
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
 - [Erotemic/ubelt](https://github.com/Erotemic/ubelt) - A Python utility library with a stdlib like feel and extra batteries. Paths, Progress, Dicts, Downloads, Caching, Hashing: ubelt makes it easy!
@@ -3990,7 +3988,7 @@
 - [grammarly/gector](https://github.com/grammarly/gector) - Official implementation of the papers "GECToR – Grammatical Error Correction: Tag, Not Rewrite" (BEA-20) and "Text Simplification by Tagging" (BEA-21)
 - [clovaai/length-adaptive-transformer](https://github.com/clovaai/length-adaptive-transformer) - Official Pytorch Implementation of Length-Adaptive Transformer (ACL 2021)
 - [didi/MEEP](https://github.com/didi/MEEP) - End-to-end framework to build automatic agents (chatbots) for task-oriented dialogs
-- [stanfordnlp/stanza](https://github.com/stanfordnlp/stanza) - Official Stanford NLP Python Library for Many Human Languages
+- [stanfordnlp/stanza](https://github.com/stanfordnlp/stanza) - Stanford NLP Python library for tokenization, sentence segmentation, NER, and parsing of many human languages
 - [ivan-bilan/The-NLP-Pandect](https://github.com/ivan-bilan/The-NLP-Pandect) - A comprehensive reference for all topics related to Natural Language Processing
 - [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to
 - [mirumee/ariadne](https://github.com/mirumee/ariadne) - Python library for implementing GraphQL servers using schema-first approach.
@@ -4103,7 +4101,7 @@
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [r-anime/holo](https://github.com/r-anime/holo) - Episode discussion bot for /r/anime.
-- [determined-ai/determined](https://github.com/determined-ai/determined) - Determined: Deep Learning Training Platform
+- [determined-ai/determined](https://github.com/determined-ai/determined) - Determined is a deep-learning platform that simplifies distributed training, hyperparameter tuning, experiment tracking, and resource management. Works with PyTorch and Tensorflow.
 - [Picovoice/leopard](https://github.com/Picovoice/leopard) - On-device speech-to-text engine powered by deep learning
 - [hitachi-speech/EEND](https://github.com/hitachi-speech/EEND) - End-to-End Neural Diarization
 - [mewwts/addict](https://github.com/mewwts/addict) - The Python Dict that's better than heroin.
@@ -4742,7 +4740,7 @@
 - [linjx-ustc1106/DosGAN-PyTorch](https://github.com/linjx-ustc1106/DosGAN-PyTorch) - PyTorch Implementation of "Exploring Explicit Domain Supervision for Latent Space Disentanglement in Unpaired Image-to-Image Translation"
 - [grey-area/modular-loss-experiments](https://github.com/grey-area/modular-loss-experiments) - Repository for code associated with modular loss paper
 - [vanangamudi/tamil-lm2](https://github.com/vanangamudi/tamil-lm2) - language model for tamil
-- [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Declarative framework for building LLMs, neural networks, and GBMs
+- [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models
 - [justusschock/shapenet](https://github.com/justusschock/shapenet) - PyTorch implementation of "Super-Realtime Facial Landmark Detection and Shape Fitting by Deep Regression of Shape Model Parameters" predicting facial landmarks with up to 400 FPS
 - [ruotianluo/zsl-gcn-pth](https://github.com/ruotianluo/zsl-gcn-pth) - zero-shot-gcn in pytorch
 - [neulab/compare-mt](https://github.com/neulab/compare-mt) - A tool for holistic analysis of language generations systems
@@ -7337,6 +7335,7 @@
 - [maxpumperla/ScalphaGoZero](https://github.com/maxpumperla/ScalphaGoZero) - An independent implementation of DeepMind's AlphaGoZero in Scala, using Deeplearning4J (DL4J)
 - [tensorflow/ecosystem](https://github.com/tensorflow/ecosystem) - Integration of TensorFlow with other open-source frameworks
 - [sungjk/s-blockchain](https://github.com/sungjk/s-blockchain) - 💰Minimal blockchain implementation using Scala with Netty
+- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 
 ## Scheme 
 
@@ -7519,6 +7518,7 @@
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [aws/jsii](https://github.com/aws/jsii) - jsii allows code in any language to naturally interact with JavaScript classes. It is the technology that enables the AWS Cloud Development Kit to deliver polyglot libraries from a single codebase!
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [inkandswitch/cambria-project](https://github.com/inkandswitch/cambria-project) - Schema evolution with bi-directional lenses.
 - [quasilyte/gopherkon](https://github.com/quasilyte/gopherkon) - Go mascot image constructor. Create your cute own gopher.
