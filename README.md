@@ -1532,6 +1532,7 @@
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [bradfitz/shotizam](https://github.com/bradfitz/shotizam) - Shotizam analyzes the size of Go binaries
 - [MariaLetta/free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) - ✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos
+- [determined-ai/determined](https://github.com/determined-ai/determined) - Determined is a deep-learning platform that simplifies distributed training, hyperparameter tuning, experiment tracking, and resource management. Works with PyTorch and Tensorflow.
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [mcuadros/ofelia](https://github.com/mcuadros/ofelia) - A docker job scheduler (aka. crontab for docker)
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
@@ -1820,7 +1821,7 @@
 - [google/copybara](https://github.com/google/copybara) - Copybara: A tool for transforming and moving code between repositories.
 - [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Metadata Platform for the Modern Data Stack
 - [real-logic/aeron](https://github.com/real-logic/aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport
-- [apache/seatunnel](https://github.com/apache/seatunnel) - SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time).
+- [apache/seatunnel](https://github.com/apache/seatunnel) - SeaTunnel is a next-generation super high-performance, distributed, massive data integration tool.
 - [spotify/mobius](https://github.com/spotify/mobius) - A functional reactive framework for managing state evolution and side-effects.
 - [apache/zeppelin](https://github.com/apache/zeppelin) - Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.
 - [flink-extended/dl-on-flink](https://github.com/flink-extended/dl-on-flink) - Deep Learning on Flink aims to integrate Flink and deep learning frameworks (e.g. TensorFlow, PyTorch, etc) to enable distributed deep learning training and inference on a Flink cluster.
@@ -3806,7 +3807,7 @@
 - [aio-libs/janus](https://github.com/aio-libs/janus) - Thread-safe asyncio-aware queue for Python
 - [mosquito/aiormq](https://github.com/mosquito/aiormq) - Pure python AMQP 0.9.1 asynchronous client library
 - [aio-libs/aiozmq](https://github.com/aio-libs/aiozmq) - Asyncio (pep 3156) integration with ZeroMQ
-- [aio-libs/aioredis-py](https://github.com/aio-libs/aioredis-py) - asyncio (PEP 3156) Redis support
+- [aio-libs-abandoned/aioredis-py](https://github.com/aio-libs-abandoned/aioredis-py) - asyncio (PEP 3156) Redis support
 - [nats-io/nats.py](https://github.com/nats-io/nats.py) - Python3 client for NATS
 - [permitio/fastapi_websocket_pubsub](https://github.com/permitio/fastapi_websocket_pubsub) - A fast and durable Pub/Sub channel over Websockets. FastAPI + WebSockets + PubSub ==  ⚡ 💪 ❤️
 - [permitio/fastapi_websocket_rpc](https://github.com/permitio/fastapi_websocket_rpc) - ⚡ FASTAPI Websocket RPC- A fast and durable bidirectional JSON RPC channel over Websockets.
@@ -4102,7 +4103,6 @@
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [r-anime/holo](https://github.com/r-anime/holo) - Episode discussion bot for /r/anime.
-- [determined-ai/determined](https://github.com/determined-ai/determined) - Determined is a deep-learning platform that simplifies distributed training, hyperparameter tuning, experiment tracking, and resource management. Works with PyTorch and Tensorflow.
 - [Picovoice/leopard](https://github.com/Picovoice/leopard) - On-device speech-to-text engine powered by deep learning
 - [hitachi-speech/EEND](https://github.com/hitachi-speech/EEND) - End-to-End Neural Diarization
 - [mewwts/addict](https://github.com/mewwts/addict) - The Python Dict that's better than heroin.
@@ -6064,7 +6064,7 @@
 - [nelson-liu/pytorch-paper-classifier](https://github.com/nelson-liu/pytorch-paper-classifier) - A simple model for classifying papers by academic venue (AI/ML/ACL), given a title and abstract. Bare-metal PyTorch port of https://github.com/allenai/allennlp-as-a-library-example .
 - [drivendata/cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science) - A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
 - [IntelLabs/nlp-architect](https://github.com/IntelLabs/nlp-architect) - A model library for exploring state-of-the-art deep learning topologies and techniques for optimizing Natural Language Processing neural networks
-- [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
+- [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 - [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
 - [Justin-Tan/generative-compression](https://github.com/Justin-Tan/generative-compression) - TensorFlow Implementation of Generative Adversarial Networks for Extreme Learned Image Compression
 - [coursera-dl/coursera-dl](https://github.com/coursera-dl/coursera-dl) - Script for downloading Coursera.org videos and naming them.
@@ -7448,6 +7448,7 @@
 
 ## TypeScript 
 
+- [thenorthbay/doculite](https://github.com/thenorthbay/doculite) - Use SQLite as a Document Database
 - [nativescript-vue/nativescript-vue](https://github.com/nativescript-vue/nativescript-vue) - Native mobile applications using Vue and NativeScript.
 - [vercel-labs/ai](https://github.com/vercel-labs/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
@@ -7598,7 +7599,7 @@
 - [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
 - [nhn/tui.chart](https://github.com/nhn/tui.chart) - 🍞📊  Beautiful chart for data visualization.
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
+- [learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
 - [jupyter/jupyter-drive](https://github.com/jupyter/jupyter-drive) - Google drive for jupyter notebooks
 - [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
