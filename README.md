@@ -223,7 +223,7 @@
 - [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
 - [plasma-umass/coz](https://github.com/plasma-umass/coz) - Coz: Causal Profiling
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
-- [ponylang/ponyc](https://github.com/ponylang/ponyc) - :horse: Pony is an open-source, actor-model, capabilities-secure, high performance programming language
+- [ponylang/ponyc](https://github.com/ponylang/ponyc) - Pony is an open-source, actor-model, capabilities-secure, high performance programming language
 - [canonical/dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault tolerant SQL engine.
 - [Awesome-HarmonyOS/HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) - A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
 - [zerotier/lf](https://github.com/zerotier/lf) - Fully Decentralized Fully Replicated Key/Value Store
@@ -320,6 +320,7 @@
 
 ## C++ 
 
+- [bloomberg/blazingmq](https://github.com/bloomberg/blazingmq) - A modern high-performance open source message queuing system
 - [go-skynet/go-llama.cpp](https://github.com/go-skynet/go-llama.cpp) - LLama.cpp golang bindings
 - [duckdb/duckdb-wasm](https://github.com/duckdb/duckdb-wasm) - WebAssembly version of DuckDB
 - [oneapi-src/oneTBB](https://github.com/oneapi-src/oneTBB) - oneAPI Threading Building Blocks (oneTBB)
@@ -672,6 +673,7 @@
 - [tbrouns/eyestalker](https://github.com/tbrouns/eyestalker) - Robust video-based eye tracking using recursive estimation of pupil characteristics
 - [swig/swig](https://github.com/swig/swig) - SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages.
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+- [google/clif](https://github.com/google/clif) - Binding generator to wrap C++ for Python using LLVM.
 - [apple/foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store
 - [Studio3T/robomongo](https://github.com/Studio3T/robomongo) - Native cross-platform MongoDB management tool
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
@@ -3591,7 +3593,7 @@
 - [kzl/decision-transformer](https://github.com/kzl/decision-transformer) - Official codebase for Decision Transformer: Reinforcement Learning via Sequence Modeling.
 - [FlagAI-Open/FlagAI](https://github.com/FlagAI-Open/FlagAI) - FlagAI (Fast LArge-scale General AI models) is a fast, easy-to-use and extensible toolkit for large-scale model.
 - [CyberZHG/torch-multi-head-attention](https://github.com/CyberZHG/torch-multi-head-attention) - Multi-head attention in PyTorch
-- [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Vector search for humans.
+- [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Vector search for humans. Also available on cloud: cloud.marqo.ai
 - [mosaicml/composer](https://github.com/mosaicml/composer) - Train neural networks up to 7x faster
 - [django-cms/django-cms](https://github.com/django-cms/django-cms) - The easy-to-use and developer-friendly enterprise CMS powered by Django
 - [django-cms/djangocms-video](https://github.com/django-cms/djangocms-video) - django CMS Video is a set of plugins for django CMS that allow you to publish video content on your site.
@@ -4865,7 +4867,7 @@
 - [BlueWinters/DeepWarp](https://github.com/BlueWinters/DeepWarp) - Tensorflow implement for DeepWarp: Photorealistic Image Resynthesis for Gaze Manipulation
 - [openseg-group/openseg.pytorch](https://github.com/openseg-group/openseg.pytorch) - The official Pytorch implementation of OCNet series and SegFix.
 - [SparkJiao/SLQA](https://github.com/SparkJiao/SLQA) - An Unofficial Pytorch Implementation of Multi-Granularity Hierarchical Attention Fusion Networks for Reading Comprehension and Question Answering
-- [microsoft/recommenders](https://github.com/microsoft/recommenders) - Best Practices on Recommendation Systems
+- [recommenders-team/recommenders](https://github.com/recommenders-team/recommenders) - Best Practices on Recommendation Systems
 - [ekzhang/char-rnn-keras](https://github.com/ekzhang/char-rnn-keras) - TensorFlow implementation of multi-layer recurrent neural networks for training and sampling from texts
 - [codelucas/newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3. Advanced docs:
 - [clips/pattern](https://github.com/clips/pattern) - Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.
@@ -5515,7 +5517,7 @@
 - [andreasveit/convnet-aig](https://github.com/andreasveit/convnet-aig) - PyTorch implementation for Convolutional Networks with Adaptive Inference Graphs
 - [akanimax/msg-gan-v1](https://github.com/akanimax/msg-gan-v1) - MSG-GAN: Multi-Scale Gradients GAN (Architecture inspired from ProGAN but doesn't use layer-wise growing)
 - [alexander-akhmetov/python-shortcuts](https://github.com/alexander-akhmetov/python-shortcuts) - Create Siri Shortcuts with Python
-- [epiception/CalibNet](https://github.com/epiception/CalibNet) - Self-Supervised Extrinsic Calibration using 3D Spatial Transformer Networks
+- [epiception/CalibNet](https://github.com/epiception/CalibNet) - [DEPRECATED] Self-Supervised Extrinsic Calibration using 3D Spatial Transformer Networks
 - [jldbc/pybaseball](https://github.com/jldbc/pybaseball) - Pull current and historical baseball statistics using Python (Statcast, Baseball Reference, FanGraphs)
 - [sarslancs/graph_saliency_maps](https://github.com/sarslancs/graph_saliency_maps) - Graph saliency maps through spectral convolutional networks for brain mapping
 - [nicola-decao/MolGAN](https://github.com/nicola-decao/MolGAN) - Tensorflow implementation of MolGAN: An implicit generative model for small molecular graphs
@@ -6115,7 +6117,6 @@
 - [vaexio/vaex](https://github.com/vaexio/vaex) - Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big tabular data at a billion rows per second 🚀
 - [diggerdu/pytorch_audio](https://github.com/diggerdu/pytorch_audio) - audio processing module for pytorch:stft, istft
 - [NVIDIA/apex](https://github.com/NVIDIA/apex) - A PyTorch Extension:  Tools for easy mixed precision and distributed training in Pytorch
-- [google/clif](https://github.com/google/clif) - Binding generator to wrap C++ for Python using LLVM.
 - [sksq96/pytorch-summary](https://github.com/sksq96/pytorch-summary) - Model summary in PyTorch similar to `model.summary()` in Keras
 - [NVlabs/MUNIT](https://github.com/NVlabs/MUNIT) - Multimodal Unsupervised Image-to-Image Translation
 - [minimaxir/textgenrnn](https://github.com/minimaxir/textgenrnn) - Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code.
@@ -6603,7 +6604,7 @@
 - [llSourcell/tensorflow_image_classifier](https://github.com/llSourcell/tensorflow_image_classifier) - TensorFlow Image Classifier Demo by @Sirajology on Youtube
 - [GaelVaroquaux/scikit-learn-tutorial](https://github.com/GaelVaroquaux/scikit-learn-tutorial) - Applied Machine Learning in Python with scikit-learn
 - [jmcarp/robobrowser](https://github.com/jmcarp/robobrowser) - 
-- [pypa/cibuildwheel](https://github.com/pypa/cibuildwheel) - 🎡 Build Python wheels for all the platforms on CI with minimal configuration.
+- [pypa/cibuildwheel](https://github.com/pypa/cibuildwheel) - 🎡 Build Python wheels for all the platforms with minimal configuration.
 - [astorfi/lip-reading-deeplearning](https://github.com/astorfi/lip-reading-deeplearning) - :unlock: Lip Reading - Cross Audio-Visual Recognition using 3D Architectures
 - [scikit-learn-contrib/sklearn-pandas](https://github.com/scikit-learn-contrib/sklearn-pandas) - Pandas integration with sklearn
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
@@ -6618,7 +6619,7 @@
 - [PierreQuentel/PyDbLite](https://github.com/PierreQuentel/PyDbLite) - A fast, pure Python in-memory database engine
 - [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
 - [giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
-- [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock) - A platform-independent file lock for Python.
+- [tox-dev/filelock](https://github.com/tox-dev/filelock) - A platform-independent file lock for Python.
 - [NeuralEnsemble/NeuroinformaticsTutorial](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial) - A tutorial on neuroinformatics resources for computational modellers
 - [the4thdoctor/pg_chameleon](https://github.com/the4thdoctor/pg_chameleon) - MySQL to PostgreSQL replica system
 - [lisa-lab/DeepLearningTutorials](https://github.com/lisa-lab/DeepLearningTutorials) - Deep Learning Tutorial notes and code. See the wiki for more info.
@@ -7476,7 +7477,7 @@
 - [zidoro/pomatez](https://github.com/zidoro/pomatez) - Stay Focused. Take a Break.
 - [ngneat/falso](https://github.com/ngneat/falso) - All the Fake Data for All Your Real Needs 🙂
 - [yatki/vscode-surround](https://github.com/yatki/vscode-surround) - 🔥 A simple yet powerful extension to add wrapper templates around your code blocks
-- [postgres-ai/database-lab-engine](https://github.com/postgres-ai/database-lab-engine) - DLE enables 🖖 DB branching and ⚡️ thin cloning for any Postgres database and empowers DB testing in CI/CD. This optimizes database-related costs while improving time-to-market and software quality. Fo
+- [postgres-ai/database-lab-engine](https://github.com/postgres-ai/database-lab-engine) - DBLab enables 🖖 database branching and ⚡️ thin cloning for any Postgres database and empowers DB testing in CI/CD. This optimizes database-related costs while improving time-to-market and software qua
 - [JaosnHsieh/github-star-search](https://github.com/JaosnHsieh/github-star-search) - A CLI that search your github starred repositories offline through README , description and other fields.
 - [haskell-spotlight/haskell-spotlight](https://github.com/haskell-spotlight/haskell-spotlight) - VSCode extension for Haskell
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Framework to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
