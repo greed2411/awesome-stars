@@ -2687,7 +2687,7 @@
 - [chenyuntc/simple-faster-rcnn-pytorch](https://github.com/chenyuntc/simple-faster-rcnn-pytorch) - A simplified implemention of Faster R-CNN that replicate performance from origin paper
 - [miro-ka/mosquito](https://github.com/miro-ka/mosquito) - Trading Bot with focus on Evolutionary Algorithms and Machine Learning
 - [JannesKlaas/sometimes_deep_sometimes_learning](https://github.com/JannesKlaas/sometimes_deep_sometimes_learning) - A collection of DL experiments and notes
-- [DavexPro/pytorch-pose-estimation](https://github.com/DavexPro/pytorch-pose-estimation) - PyTorch Implementation of Realtime Multi-Person Pose Estimation project.
+- [davexpro/pytorch-pose-estimation](https://github.com/davexpro/pytorch-pose-estimation) - PyTorch Implementation of Realtime Multi-Person Pose Estimation project.
 - [cs109/a-2017](https://github.com/cs109/a-2017) - Public Repository for cs109a, 2017 edition
 - [happycube/kaggle2017](https://github.com/happycube/kaggle2017) - Code, notes, etc of completed Kaggle competitions
 - [lium-lst/nmtpytorch](https://github.com/lium-lst/nmtpytorch) - Sequence-to-Sequence Framework in PyTorch
@@ -2862,7 +2862,6 @@
 - [thockin/go-build-template](https://github.com/thockin/go-build-template) - A Makefile/Dockerfile example for Go projects.
 - [bitemyapp/learnhaskell](https://github.com/bitemyapp/learnhaskell) - Learn Haskell
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [MarcToussaint/18-RSS-PhysicalManipulation](https://github.com/MarcToussaint/18-RSS-PhysicalManipulation) - Code supplement to the R:SS 2018 on Physical Manipulation (tested Feb 11, 2021 in Ubuntu 20 docker)
 - [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker) - Build and run Docker containers leveraging NVIDIA GPUs
 - [Naereen/badges](https://github.com/Naereen/badges) - :pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!
@@ -3166,6 +3165,7 @@
 - [chester256/Model-Compression-Papers](https://github.com/chester256/Model-Compression-Papers) - Papers for deep neural network compression and acceleration
 - [memoiry/Awesome-model-compression-and-acceleration](https://github.com/memoiry/Awesome-model-compression-and-acceleration) - 
 - [dwyl/learn-redash](https://github.com/dwyl/learn-redash) - Learn how to use Redash to query and display your database data
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [Angzz/awesome-panoptic-segmentation](https://github.com/Angzz/awesome-panoptic-segmentation) - Panoptic Segmentation Resources List
 - [Jiakui/awesome-bert](https://github.com/Jiakui/awesome-bert) - bert nlp papers, applications and  github resources, including the newst xlnet  ， BERT、XLNet 相关论文和 github 项目
 - [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
