@@ -1011,7 +1011,7 @@
 - [openziti/ziti](https://github.com/openziti/ziti) - The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network @OpenZiti
 - [felixge/fgtrace](https://github.com/felixge/fgtrace) - fgtrace is an experimental profiler/tracer that is capturing wallclock timelines for each goroutine. It's very similar to the Chrome profiler.
 - [bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets
-- [tensorchord/envd](https://github.com/tensorchord/envd) - 🏕️ Reproducible development environment for AI/ML (LLMOps)
+- [tensorchord/envd](https://github.com/tensorchord/envd) - 🏕️ Reproducible development environment
 - [maxpert/marmot](https://github.com/maxpert/marmot) - A distributed SQLite replicator built on top of NATS
 - [GoogleContainerTools/container-diff](https://github.com/GoogleContainerTools/container-diff) - container-diff: Diff your Docker containers
 - [innobead/kubefire](https://github.com/innobead/kubefire) - KubeFire 🔥, creates and manages Kubernetes Clusters using Firecracker microVMs
@@ -2778,7 +2778,7 @@
 
 - [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
 - [infiniticio/infinitic](https://github.com/infiniticio/infinitic) - Infinitic is a general-purpose framework to build distributed apps - in particular on top of Apache Pulsar. It shines particularly by making complex orchestration simple. It can be used to reliably or
-- [JetBrains/lets-plot](https://github.com/JetBrains/lets-plot) - An open-source plotting library for statistical data.
+- [JetBrains/lets-plot](https://github.com/JetBrains/lets-plot) - Multiplatform plotting library based on Grammar of Graphics
 - [Kotlin/kotlin-spark-api](https://github.com/Kotlin/kotlin-spark-api) - This projects gives Kotlin bindings and several extensions for Apache Spark. We are looking to have this as a part of Apache Spark 3.x
 - [JetBrains/Exposed](https://github.com/JetBrains/Exposed) - Kotlin SQL Framework
 - [dbacinski/Design-Patterns-In-Kotlin](https://github.com/dbacinski/Design-Patterns-In-Kotlin) - Design Patterns implemented in Kotlin
@@ -2898,6 +2898,7 @@
 
 ## Others 
 
+- [IMSoley/tasawwuf](https://github.com/IMSoley/tasawwuf) - Warning: there might be errors or mistranslation, it is always advised to read the original works in its original language.
 - [Mooler0410/LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide) - A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers)
 - [getcursor/cursor](https://github.com/getcursor/cursor) - An editor made for programming with AI 🤖
 - [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook) - A playbook for systematically maximizing the performance of deep learning models.
@@ -3629,7 +3630,7 @@
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [nschloe/tuna](https://github.com/nschloe/tuna) - :fish: Python profile viewer
 - [ashleve/lightning-hydra-template](https://github.com/ashleve/lightning-hydra-template) - PyTorch Lightning + Hydra. A very user-friendly template for ML experimentation.  ⚡🔥⚡
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - An AI personal assistant for your digital brain
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - An AI personal assistant for your digital brain. Khoj provides you with an easy way to setup the infrastructure to search and chat with your personal knowledge base, be it markdown, org, image, or PDF
 - [cjdrake/pyeda](https://github.com/cjdrake/pyeda) - Python EDA
 - [CQCL/lambeq](https://github.com/CQCL/lambeq) - A high-level Python library for Quantum Natural Language Processing
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
@@ -3650,7 +3651,7 @@
 - [nnaisense/evotorch](https://github.com/nnaisense/evotorch) - Advanced evolutionary computation library built directly on top of PyTorch, created at NNAISENSE.
 - [aidos-lab/pytorch-topological](https://github.com/aidos-lab/pytorch-topological) - A topological machine learning framework based on PyTorch
 - [Idlak/Living-Audio-Dataset](https://github.com/Idlak/Living-Audio-Dataset) - A "Crowd-Built" continuously growing speech dataset with transcripts. The dataset contains multiple languages and is intended for anyone to be able to add to it.
-- [peterwnjenga/reframe](https://github.com/peterwnjenga/reframe) - 🦾 Reframer - The fastest way to build, deploy, and manage LLM-powered agents on tabular data (dataframes, SQL tables and Spreadsheets).
+- [peterwnjenga/reframe](https://github.com/peterwnjenga/reframe) - 🖼️ Reframe - The fastest way to build, deploy, and manage LLM-powered agents on tabular data (dataframes, SQL tables and Spreadsheets).
 - [FFRI/ProjectChampollion](https://github.com/FFRI/ProjectChampollion) - Reverse engineering Rosetta 2 on M1 Mac
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
 - [Erotemic/ubelt](https://github.com/Erotemic/ubelt) - A Python utility library with a stdlib like feel and extra batteries. Paths, Progress, Dicts, Downloads, Caching, Hashing: ubelt makes it easy!
@@ -5836,7 +5837,7 @@
 - [symoon94/DRQN-keras](https://github.com/symoon94/DRQN-keras) - Atari-DRQN (keras ver.)
 - [pyprob/pyprob](https://github.com/pyprob/pyprob) - A probabilistic programming system for simulators and high-performance computing (HPC), based on PyTorch
 - [pytorchbearer/torchbearer](https://github.com/pytorchbearer/torchbearer) - torchbearer: A model fitting library for PyTorch
-- [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML workloads.
+- [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [openai/sonic-on-ray](https://github.com/openai/sonic-on-ray) - Training Sonic with RLlib
 - [openai/retro-baselines](https://github.com/openai/retro-baselines) - Publicly releasable baselines for the Retro contest
 - [BerkeleyAutomation/DART](https://github.com/BerkeleyAutomation/DART) - 
@@ -6339,7 +6340,7 @@
 - [glample/Arnold](https://github.com/glample/Arnold) - Arnold - DOOM Agent
 - [abdulfatir/twitter-sentiment-analysis](https://github.com/abdulfatir/twitter-sentiment-analysis) - Sentiment analysis on tweets using Naive Bayes, SVM, CNN, LSTM, etc.
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
-- [jakubroztocil/cointrol](https://github.com/jakubroztocil/cointrol) - ฿ Bitcoin trading bot with a real-time dashboard for Bitstamp.
+- [jkbrzt/cointrol](https://github.com/jkbrzt/cointrol) - ฿ Bitcoin trading bot with a real-time dashboard for Bitstamp.
 - [hengyuan-hu/bottom-up-attention-vqa](https://github.com/hengyuan-hu/bottom-up-attention-vqa) - An efficient PyTorch implementation of the winning entry of the 2017 VQA Challenge.
 - [wlwkgus/GibbsNet](https://github.com/wlwkgus/GibbsNet) - Implementation of paper "GibbsNet: Iterative Adversarial Inference for Deep Graphical Models" in PyTorch
 - [facebookresearch/MUSE](https://github.com/facebookresearch/MUSE) - A library for Multilingual Unsupervised or Supervised word Embeddings
@@ -7207,7 +7208,7 @@
 - [houqp/leptess](https://github.com/houqp/leptess) - Productive and safe Rust binding for leptonica and tesseract
 - [huggingface/tokenizers](https://github.com/huggingface/tokenizers) - 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production
 - [tomaka/redshirt](https://github.com/tomaka/redshirt) - 🧑‍🔬 Operating system
-- [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library for generating regular expressions from user-provided test cases
+- [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
 - [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
 - [lloydmeta/frunk](https://github.com/lloydmeta/frunk) - Funktional generic type-level programming in Rust: HList, Coproduct, Generic, LabelledGeneric, Validated, Monoid and friends.
 - [turnage/valora](https://github.com/turnage/valora) - painting by functions
