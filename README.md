@@ -185,7 +185,7 @@
 - [gentilkiwi/mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
 - [RIOT-OS/RIOT](https://github.com/RIOT-OS/RIOT) - RIOT -  The friendly OS for IoT
 - [chjj/liburkel](https://github.com/chjj/liburkel) - Authenticated key-value store (i.e. an urkel tree)
-- [ithewei/libhv](https://github.com/ithewei/libhv) - 🔥 比libevent、libuv更易用的网络库。A c/c++ network library for developing TCP/UDP/SSL/HTTP/WebSocket/MQTT client/server.
+- [ithewei/libhv](https://github.com/ithewei/libhv) - 🔥 比libevent/libuv/asio更易用的网络库。A c/c++ network library for developing TCP/UDP/SSL/HTTP/WebSocket/MQTT client/server.
 - [viabtc/viabtc_exchange_server](https://github.com/viabtc/viabtc_exchange_server) - A trading engine with high-speed performance and real-time notification
 - [SchedMD/slurm](https://github.com/SchedMD/slurm) - Slurm: A Highly Scalable Workload Manager
 - [tanersener/mobile-ffmpeg](https://github.com/tanersener/mobile-ffmpeg) - FFmpeg for Android, iOS and tvOS. Not maintained anymore. Superseded by FFmpegKit.
@@ -866,6 +866,7 @@
 
 ## Cython 
 
+- [pytries/marisa-trie](https://github.com/pytries/marisa-trie) - Static memory-efficient Trie-like structures for Python (2.x and 3.x) based on marisa-trie C++ library.
 - [TA-Lib/ta-lib-python](https://github.com/TA-Lib/ta-lib-python) - Python wrapper for TA-Lib (http://ta-lib.org/).
 - [luvsound/pippi](https://github.com/luvsound/pippi) - computer music with python. this is a mirror of https://git.sr.ht/~hecanjog/pippi
 - [rushter/selectolax](https://github.com/rushter/selectolax) - Python binding to Modest and Lexbor engines (fast HTML5 parser with CSS selectors).
@@ -1665,7 +1666,6 @@
 
 ## HTML 
 
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - An AI personal assistant for your digital brain. Khoj provides you with an easy way to setup the infrastructure to search and chat with your personal knowledge base, be it markdown, org, image, or PDF
 - [diff-usion/Awesome-Diffusion-Models](https://github.com/diff-usion/Awesome-Diffusion-Models) - A collection of resources and papers on Diffusion Models
 - [h-enk/doks](https://github.com/h-enk/doks) - Build beautiful, high-performance documentation websites with Doks
 - [YerevaNN/A-Guide-to-Deep-Learning](https://github.com/YerevaNN/A-Guide-to-Deep-Learning) - 📚 A detailed guide to deep learning: http://yerevann.com/a-guide-to-deep-learning/
@@ -2156,7 +2156,7 @@
 - [alexmacarthur/typeit](https://github.com/alexmacarthur/typeit) - The most versatile JavaScript typewriter effect library on the planet.
 - [jschr/textillate](https://github.com/jschr/textillate) - A jquery plugin for CSS3 text animations.
 - [google-ar/three.ar.js](https://github.com/google-ar/three.ar.js) - A helper three.js library for building AR web experiences that run in WebARonARKit and WebARonARCore
-- [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - :books: Books everyone should read!
+- [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - :books: Find your next book to read!
 - [google/WebFundamentals](https://github.com/google/WebFundamentals) - Former git repo for WebFundamentals on developers.google.com
 - [ethereum/mist](https://github.com/ethereum/mist) - [DEPRECATED] Mist. Browse and use Ðapps on the Ethereum network.
 - [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
@@ -3564,13 +3564,13 @@
 - [jiamo/python-psql-replication](https://github.com/jiamo/python-psql-replication) - postgres  logic replication using python and wal2json
 - [deepmind/mctx](https://github.com/deepmind/mctx) - Monte Carlo tree search in JAX
 - [hidet-org/hidet](https://github.com/hidet-org/hidet) - An open-source efficient deep learning framework/compiler, written in python.
-- [EMI-Group/evox](https://github.com/EMI-Group/evox) - A Distributed GPU-accelerated Library towards Scalable Evolutionary Computation
+- [EMI-Group/evox](https://github.com/EMI-Group/evox) - A Distributed GPU-accelerated Framework for Scalable Evolutionary Computation
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [huggingface/trl](https://github.com/huggingface/trl) - Train transformer language models with reinforcement learning.
 - [martijnvermaat/calmap](https://github.com/martijnvermaat/calmap) - Calendar heatmaps from Pandas time series data -- See https://github.com/MarvinT/calmap/ for the maintained version
 - [Pebaz/nimporter](https://github.com/Pebaz/nimporter) - Compile Nim Extensions for Python On Import!
 - [bytedance/monolith](https://github.com/bytedance/monolith) - ByteDance's Recommendation System
-- [rstudio/py-shiny](https://github.com/rstudio/py-shiny) - Shiny for Python
+- [posit-dev/py-shiny](https://github.com/posit-dev/py-shiny) - Shiny for Python
 - [embeddings-benchmark/mteb](https://github.com/embeddings-benchmark/mteb) - MTEB: Massive Text Embedding Benchmark
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [PRQL/pyprql](https://github.com/PRQL/pyprql) - Python extensions for PRQL
@@ -3631,6 +3631,7 @@
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [nschloe/tuna](https://github.com/nschloe/tuna) - :fish: Python profile viewer
 - [ashleve/lightning-hydra-template](https://github.com/ashleve/lightning-hydra-template) - PyTorch Lightning + Hydra. A very user-friendly template for ML experimentation.  ⚡🔥⚡
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - An AI copilot for your second brain. Search and chat with your personal knowledge base, online or offline
 - [cjdrake/pyeda](https://github.com/cjdrake/pyeda) - Python EDA
 - [CQCL/lambeq](https://github.com/CQCL/lambeq) - A high-level Python library for Quantum Natural Language Processing
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
@@ -3804,7 +3805,6 @@
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [karlicoss/cachew](https://github.com/karlicoss/cachew) - Transparent and persistent cache/serialization powered by type hints
 - [bryanveloso/geopatterns](https://github.com/bryanveloso/geopatterns) - A Python-port of @jasonlong's lovely SVG generation library.
-- [pytries/marisa-trie](https://github.com/pytries/marisa-trie) - Static memory-efficient Trie-like structures for Python (2.x and 3.x) based on marisa-trie C++ library.
 - [joseph-fox/python-bloomfilter](https://github.com/joseph-fox/python-bloomfilter) - Scalable Bloom Filter implemented in Python
 - [shangeth/wavencoder](https://github.com/shangeth/wavencoder) - WavEncoder is a Python library for encoding audio signals, transforms for audio augmentation, and training audio classification models with PyTorch backend.
 - [glitzflitz/pyxorfilter](https://github.com/glitzflitz/pyxorfilter) - Python bindings for xorfilter(faster and smaller than bloom and cuckoo filters)
