@@ -576,7 +576,6 @@
 - [apache/arrow](https://github.com/apache/arrow) - Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing
 - [ROCmSoftwarePlatform/tensorflow-upstream](https://github.com/ROCmSoftwarePlatform/tensorflow-upstream) - TensorFlow ROCm port
 - [GraphIt-DSL/graphit](https://github.com/GraphIt-DSL/graphit) - GraphIt - A High-Performance Domain Specific Language for Graph Analytics
-- [pytorch/xla](https://github.com/pytorch/xla) - Enabling PyTorch on XLA Devices (e.g. Google TPU)
 - [CharlesShang/DCNv2](https://github.com/CharlesShang/DCNv2) - Deformable Convolutional Networks v2 with Pytorch
 - [tangzhenyu/Scene-Text-Understanding](https://github.com/tangzhenyu/Scene-Text-Understanding) - OCR, Scene-Text-Understanding, Text Recognition
 - [mit-han-lab/proxylessnas](https://github.com/mit-han-lab/proxylessnas) - [ICLR 2019] ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware
@@ -1032,7 +1031,6 @@
 - [nkanaev/yarr](https://github.com/nkanaev/yarr) - yet another rss reader
 - [Consensys/gnark](https://github.com/Consensys/gnark) - gnark is a fast zk-SNARK library that offers a high-level API to design circuits. The library is open source and developed under the Apache 2.0 license
 - [jetpack-io/devbox](https://github.com/jetpack-io/devbox) - Instant, easy, and predictable development environments
-- [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes) - 📖 100 Go Mistakes and How to Avoid Them
 - [itchyny/gojq](https://github.com/itchyny/gojq) - Pure Go implementation of jq
 - [ochinchina/supervisord](https://github.com/ochinchina/supervisord) - a go-lang supervisor implementation
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal client.
@@ -1615,7 +1613,7 @@
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite
 - [libp2p/go-libp2p-pubsub](https://github.com/libp2p/go-libp2p-pubsub) - The PubSub implementation for go-libp2p
 - [muesli/gitomatic](https://github.com/muesli/gitomatic) - A tool to monitor git repositories and automatically pull & push changes
-- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes
+- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes
 - [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
 - [sql-machine-learning/sqlflow](https://github.com/sql-machine-learning/sqlflow) - Brings SQL and AI together.
 - [soundcloud/roshi](https://github.com/soundcloud/roshi) - Roshi is a large-scale CRDT set implementation for timestamped events.
@@ -1672,6 +1670,7 @@
 
 ## HTML 
 
+- [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes) - 📖 100 Go Mistakes and How to Avoid Them
 - [diff-usion/Awesome-Diffusion-Models](https://github.com/diff-usion/Awesome-Diffusion-Models) - A collection of resources and papers on Diffusion Models
 - [h-enk/doks](https://github.com/h-enk/doks) - Build beautiful, high-performance documentation websites with Doks
 - [YerevaNN/A-Guide-to-Deep-Learning](https://github.com/YerevaNN/A-Guide-to-Deep-Learning) - 📚 A detailed guide to deep learning: http://yerevann.com/a-guide-to-deep-learning/
@@ -1863,7 +1862,7 @@
 - [apache/incubator-tuweni](https://github.com/apache/incubator-tuweni) - Apache Tuweni is a set of libraries and other tools to aid development of blockchain and other decentralized software in Java and other JVM languages. It includes a low-level bytes library, serializat
 - [Netflix/Hystrix](https://github.com/Netflix/Hystrix) - Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distr
 - [apache/tinkerpop](https://github.com/apache/tinkerpop) - Apache TinkerPop - a graph computing framework
-- [vaticle/typedb](https://github.com/vaticle/typedb) - TypeDB: a strongly-typed database
+- [vaticle/typedb](https://github.com/vaticle/typedb) - TypeDB: a polymorphic database powered by types
 - [line/armeria](https://github.com/line/armeria) - Your go-to microservice framework for any situation, from the creator of Netty et al. You can build any type of microservice leveraging your favorite technologies,  including gRPC, Thrift, Kotlin, Ret
 - [oracle/tribuo](https://github.com/oracle/tribuo) - Tribuo - A Java machine learning library
 - [j-easy/easy-rules](https://github.com/j-easy/easy-rules) - The simple, stupid rules engine for Java
@@ -2404,6 +2403,7 @@
 - [ignacio-rocco/ncnet](https://github.com/ignacio-rocco/ncnet) - PyTorch code for Neighbourhood Consensus Networks
 - [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
 - [zake7749/DeepToxic](https://github.com/zake7749/DeepToxic) - top 1% solution to toxic comment classification challenge on Kaggle.
+- [pytorch/xla](https://github.com/pytorch/xla) - Enabling PyTorch on XLA Devices (e.g. Google TPU)
 - [microsoft/Elevation](https://github.com/microsoft/Elevation) - End-to-end guide design for CRISPR/Cas9 with machine learning
 - [aliasvishnu/EEGNet](https://github.com/aliasvishnu/EEGNet) - [Old version] PyTorch implementation of EEGNet: A Compact Convolutional Network for EEG-based Brain-Computer Interfaces - https://arxiv.org/pdf/1611.08024.pdf
 - [jhartquist/fastai_audio](https://github.com/jhartquist/fastai_audio) - Audio transforms for FastAI
@@ -3657,7 +3657,6 @@
 - [nnaisense/evotorch](https://github.com/nnaisense/evotorch) - Advanced evolutionary computation library built directly on top of PyTorch, created at NNAISENSE.
 - [aidos-lab/pytorch-topological](https://github.com/aidos-lab/pytorch-topological) - A topological machine learning framework based on PyTorch
 - [Idlak/Living-Audio-Dataset](https://github.com/Idlak/Living-Audio-Dataset) - A "Crowd-Built" continuously growing speech dataset with transcripts. The dataset contains multiple languages and is intended for anyone to be able to add to it.
-- [peterwnjenga/reframe](https://github.com/peterwnjenga/reframe) - 🖼️ Reframe - The fastest way to build, deploy, and manage LLM-powered agents on tabular data (dataframes, SQL tables and Spreadsheets).
 - [FFRI/ProjectChampollion](https://github.com/FFRI/ProjectChampollion) - Reverse engineering Rosetta 2 on M1 Mac
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
 - [Erotemic/ubelt](https://github.com/Erotemic/ubelt) - A Python utility library with a stdlib like feel and extra batteries. Paths, Progress, Dicts, Downloads, Caching, Hashing: ubelt makes it easy!
@@ -7201,7 +7200,7 @@
 - [bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket) - An operating system designed for hosting containers
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [tremor-rs/tremor-runtime](https://github.com/tremor-rs/tremor-runtime) - Main Tremor Project Rust Codebase
-- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - Materialize is a fast, distributed SQL database built on streaming internals.
+- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - Materialize is an Operational Data Warehouse: A cloud data warehouse with streaming internals, built for work that needs action on what’s happening right now.
 - [anyshortcut/anyshortcut-cli](https://github.com/anyshortcut/anyshortcut-cli) - CLI (Commnad line interface) version of Anyshortcut
 - [cjbassi/ytop](https://github.com/cjbassi/ytop) - A TUI system monitor written in Rust
 - [tensorflow/rust](https://github.com/tensorflow/rust) - Rust language bindings for TensorFlow
@@ -7474,6 +7473,7 @@
 - [deislabs/hippo](https://github.com/deislabs/hippo) - The WebAssembly Platform
 - [soketi/soketi](https://github.com/soketi/soketi) - Just another simple, fast, and resilient open-source WebSockets server. 📣
 - [Phu1237/vscode-vs-browser](https://github.com/Phu1237/vscode-vs-browser) - Built-in browser for Visual Studio Code
+- [peterwnjenga/leaptable](https://github.com/peterwnjenga/leaptable) - 🖼️ Reframe - The fastest way to build, deploy, and manage LLM-powered agents on tabular data (dataframes, SQL tables and Spreadsheets).
 - [EsperoTech/yaade](https://github.com/EsperoTech/yaade) - Yaade is an open-source, self-hosted, collaborative API development environment.
 - [mil-tokyo/webdnn](https://github.com/mil-tokyo/webdnn) - The Fastest DNN Running Framework on Web Browser
 - [komodorio/validkube](https://github.com/komodorio/validkube) - ValidKube combines the best open-source tools to help ensure Kubernetes YAML best practices, hygiene & security.
