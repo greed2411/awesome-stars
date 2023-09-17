@@ -3657,6 +3657,7 @@
 - [nnaisense/evotorch](https://github.com/nnaisense/evotorch) - Advanced evolutionary computation library built directly on top of PyTorch, created at NNAISENSE.
 - [aidos-lab/pytorch-topological](https://github.com/aidos-lab/pytorch-topological) - A topological machine learning framework based on PyTorch
 - [Idlak/Living-Audio-Dataset](https://github.com/Idlak/Living-Audio-Dataset) - A "Crowd-Built" continuously growing speech dataset with transcripts. The dataset contains multiple languages and is intended for anyone to be able to add to it.
+- [peterwnjenga/leaptable](https://github.com/peterwnjenga/leaptable) - LeapTable 🦘- The fastest way to build, deploy, and manage LLM-powered agents on tabular data (dataframes, SQL tables and Spreadsheets).
 - [FFRI/ProjectChampollion](https://github.com/FFRI/ProjectChampollion) - Reverse engineering Rosetta 2 on M1 Mac
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
 - [Erotemic/ubelt](https://github.com/Erotemic/ubelt) - A Python utility library with a stdlib like feel and extra batteries. Paths, Progress, Dicts, Downloads, Caching, Hashing: ubelt makes it easy!
@@ -4009,7 +4010,7 @@
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 - [torchexpo/torchexpo](https://github.com/torchexpo/torchexpo) - Collection of models and extensions for deployment in PyTorch
 - [NVlabs/imaginaire](https://github.com/NVlabs/imaginaire) - NVIDIA's Deep Imagination Team's PyTorch Library
-- [s3prl/s3prl](https://github.com/s3prl/s3prl) - Audio Foundation Models (Self-Supervised Speech/Sound Pre-training and Representation Learning Toolkit)
+- [s3prl/s3prl](https://github.com/s3prl/s3prl) - Self-Supervised Speech Pre-training and Representation Learning Toolkit
 - [johannfaouzi/pyts](https://github.com/johannfaouzi/pyts) - A Python package for time series classification
 - [dhaitz/mplcyberpunk](https://github.com/dhaitz/mplcyberpunk) - "Cyberpunk style" for matplotlib plots
 - [yiranran/Audio-driven-TalkingFace-HeadPose](https://github.com/yiranran/Audio-driven-TalkingFace-HeadPose) - Code for "Audio-driven Talking Face Video Generation with Learning-based Personalized Head Pose"
@@ -6919,7 +6920,7 @@
 - [rust-lang/miri](https://github.com/rust-lang/miri) - An interpreter for Rust's mid-level intermediate representation
 - [rksm/hot-lib-reloader-rs](https://github.com/rksm/hot-lib-reloader-rs) - Reload Rust code without app restarts. For faster feedback cycles.
 - [sagiegurari/cargo-make](https://github.com/sagiegurari/cargo-make) - Rust task runner and build tool.
-- [ankitects/anki](https://github.com/ankitects/anki) - Anki for desktop computers
+- [ankitects/anki](https://github.com/ankitects/anki) - Anki's shared backend and web components, and the Qt frontend
 - [apache/arrow-datafusion-python](https://github.com/apache/arrow-datafusion-python) - Apache Arrow DataFusion Python Bindings
 - [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion SQL Query Engine
 - [roapi/roapi](https://github.com/roapi/roapi) - Create full-fledged APIs for slowly moving datasets without writing a single line of code.
@@ -7473,7 +7474,6 @@
 - [deislabs/hippo](https://github.com/deislabs/hippo) - The WebAssembly Platform
 - [soketi/soketi](https://github.com/soketi/soketi) - Just another simple, fast, and resilient open-source WebSockets server. 📣
 - [Phu1237/vscode-vs-browser](https://github.com/Phu1237/vscode-vs-browser) - Built-in browser for Visual Studio Code
-- [peterwnjenga/leaptable](https://github.com/peterwnjenga/leaptable) - LeapTable 🦘- The fastest way to build, deploy, and manage LLM-powered agents on tabular data (dataframes, SQL tables and Spreadsheets).
 - [EsperoTech/yaade](https://github.com/EsperoTech/yaade) - Yaade is an open-source, self-hosted, collaborative API development environment.
 - [mil-tokyo/webdnn](https://github.com/mil-tokyo/webdnn) - The Fastest DNN Running Framework on Web Browser
 - [komodorio/validkube](https://github.com/komodorio/validkube) - ValidKube combines the best open-source tools to help ensure Kubernetes YAML best practices, hygiene & security.
@@ -7542,14 +7542,14 @@
 - [hediet/vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) - An extension for VS Code that visualizes data during debugging.
 - [arwes/arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework.
 - [colyseus/colyseus](https://github.com/colyseus/colyseus) - ⚔ Multiplayer Framework for Node.js
-- [graphile/postgraphile](https://github.com/graphile/postgraphile) - Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database!
+- [graphile/crystal](https://github.com/graphile/crystal) - 🔮 Graphile's Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more!
 - [PAIR-code/lit](https://github.com/PAIR-code/lit) - The Learning Interpretability Tool: Interactively analyze ML models to understand their behavior in an extensible and framework agnostic interface.
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [github/stable-socket](https://github.com/github/stable-socket) - A web socket that reconnects.
 - [Novage/p2p-media-loader](https://github.com/Novage/p2p-media-loader) - An open-source engine for P2P streaming of live and on demand video directly in a web browser HTML page
 - [microsoft/fast](https://github.com/microsoft/fast) - The adaptive interface system for modern web experiences.
-- [nsfw-filter/nsfw-filter](https://github.com/nsfw-filter/nsfw-filter) - 🚀 A Google Chrome extension that blocks NSFW images from websites using TensorFlow JS.
+- [nsfw-filter/nsfw-filter](https://github.com/nsfw-filter/nsfw-filter) - A free, open source, and privacy-focused browser extension to block “not safe for work” content built using TypeScript and TensorFlow.js.
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [amazon-ion/ion-js](https://github.com/amazon-ion/ion-js) - A JavaScript implementation of Amazon Ion.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
