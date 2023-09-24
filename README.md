@@ -134,7 +134,7 @@
 - [sraoss/pg_ivm](https://github.com/sraoss/pg_ivm) - IVM (Incremental View Maintenance) implementation as a PostgreSQL extension
 - [mlochbaum/rhsort](https://github.com/mlochbaum/rhsort) - Robin Hood Sort, for uniform data
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
-- [libsql/libsql](https://github.com/libsql/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
+- [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [2ndQuadrant/pglogical](https://github.com/2ndQuadrant/pglogical) - Logical Replication extension for PostgreSQL 15, 14, 13, 12, 11, 10, 9.6, 9.5, 9.4 (Postgres), providing much faster replication than Slony, Bucardo or Londiste, as well as cross-version upgrades.
 - [citusdata/cstore_fdw](https://github.com/citusdata/cstore_fdw) - Columnar storage extension for Postgres built as a foreign data wrapper. Check out https://github.com/citusdata/citus for a modernized columnar storage implementation built as a table access method.
 - [greenplum-db/gpdb](https://github.com/greenplum-db/gpdb) - Greenplum Database - Massively Parallel PostgreSQL for Analytics. An open-source massively parallel data platform for analytics, machine learning and AI.
@@ -526,7 +526,7 @@
 - [capnproto/capnproto](https://github.com/capnproto/capnproto) - Cap'n Proto serialization/RPC system - core tools and C++ library
 - [amzeratul/halley](https://github.com/amzeratul/halley) - A lightweight game engine written in modern C++
 - [facebook/SPARTA](https://github.com/facebook/SPARTA) - SPARTA is a library of software components specially designed for building high-performance static analyzers based on the theory of Abstract Interpretation.
-- [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second
+- [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, WatermelonDB, Apache Doris, StarRocks
 - [shrubb/box-convolutions](https://github.com/shrubb/box-convolutions) - PyTorch code for the "Deep Neural Networks with Box Convolutions" paper
 - [leela-zero/leela-zero](https://github.com/leela-zero/leela-zero) - Go engine with no human-provided knowledge, modeled after the AlphaGo Zero paper.
 - [xennygrimmato/Data-Structures-and-Algorithms](https://github.com/xennygrimmato/Data-Structures-and-Algorithms) - A collection of some implementations of data structures and algorithms.
@@ -1127,7 +1127,7 @@
 - [gocassa/gocassa](https://github.com/gocassa/gocassa) - A high level Cassandra library in Go, on top of gocql
 - [mmcgrana/gobyexample](https://github.com/mmcgrana/gobyexample) - Go by Example
 - [Jeffail/gabs](https://github.com/Jeffail/gabs) - For parsing, creating and editing unknown or dynamic JSON in Go
-- [ddosify/ddosify](https://github.com/ddosify/ddosify) - "Canva" of Observability. Available on CLI, Self-Hosted, and Cloud - https://ddosify.com 🚀
+- [ddosify/ddosify](https://github.com/ddosify/ddosify) - "Canva" of K8s Observability. Available on CLI, Self-Hosted, and Cloud - https://ddosify.com 🚀
 - [skit-ai/trail](https://github.com/skit-ai/trail) - CLI to run your dataframes against SLU service and generated labeled dataframe.
 - [mr-karan/nomad-events-sink](https://github.com/mr-karan/nomad-events-sink) - An events collection agent which processes Nomad Events and dumps to external sink providers like HTTP
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
@@ -1892,7 +1892,6 @@
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [dropwizard/metrics](https://github.com/dropwizard/metrics) - :chart_with_upwards_trend: Capturing JVM- and application-level metrics. So you know what's going on.
 - [swimos/swim](https://github.com/swimos/swim) - Full stack application platform for building stateful microservices, streaming APIs, and real-time UIs
-- [doocs/advanced-java](https://github.com/doocs/advanced-java) - 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
 - [indeedeng/util](https://github.com/indeedeng/util) - Useful Java utilities
 - [confluentinc/ksql](https://github.com/confluentinc/ksql) - The database purpose-built for stream processing applications.
 - [apache/gobblin](https://github.com/apache/gobblin) - A distributed data integration framework that simplifies common aspects of big data integration such as data ingestion, replication, organization and lifecycle management for both streaming and batch 
@@ -2052,6 +2051,7 @@
 - [holepunchto/hyperdrive](https://github.com/holepunchto/hyperdrive) - Hyperdrive is a secure, real time distributed file system
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 - [orbitdb/orbitdb](https://github.com/orbitdb/orbitdb) - Peer-to-Peer Databases for the Decentralized Web
+- [doocs/advanced-java](https://github.com/doocs/advanced-java) - 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
 - [covid19india/covid19india-react](https://github.com/covid19india/covid19india-react) - Tracking the impact of COVID-19 in India
 - [VGraupera/1on1-questions](https://github.com/VGraupera/1on1-questions) - Mega list of 1 on 1 meeting questions compiled from a variety to sources
@@ -3010,6 +3010,7 @@
 - [kgryte/awesome-peer-to-peer](https://github.com/kgryte/awesome-peer-to-peer) - A list of peer-to-peer resources.
 - [msgpack/msgpack](https://github.com/msgpack/msgpack) - MessagePack is an extremely efficient object serialization library. It's like JSON, but very fast and small.
 - [jwiegley/git-from-the-bottom-up](https://github.com/jwiegley/git-from-the-bottom-up) - An introduction to the architecture and design of the Git content manager
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 - [resumejob/system-design-algorithms](https://github.com/resumejob/system-design-algorithms) - Advanced data structure and algorithm for system design，系统设计需要了解的算法
 - [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
 - [dgryski/awesome-go-style](https://github.com/dgryski/awesome-go-style) - A collection of Go style guides
@@ -3599,7 +3600,7 @@
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [kzl/decision-transformer](https://github.com/kzl/decision-transformer) - Official codebase for Decision Transformer: Reinforcement Learning via Sequence Modeling.
 - [FlagAI-Open/FlagAI](https://github.com/FlagAI-Open/FlagAI) - FlagAI (Fast LArge-scale General AI models) is a fast, easy-to-use and extensible toolkit for large-scale model.
-- [LWISLVISLIE/torch-multi-head-attention](https://github.com/LWISLVISLIE/torch-multi-head-attention) - Multi-head attention in PyTorch
+- [CyberZHG/torch-multi-head-attention](https://github.com/CyberZHG/torch-multi-head-attention) - Multi-head attention in PyTorch
 - [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Vector search for humans. Also available on cloud: cloud.marqo.ai
 - [mosaicml/composer](https://github.com/mosaicml/composer) - Train neural networks up to 7x faster
 - [django-cms/django-cms](https://github.com/django-cms/django-cms) - The easy-to-use and developer-friendly enterprise CMS powered by Django
@@ -4162,7 +4163,7 @@
 - [kserve/kserve](https://github.com/kserve/kserve) - Standardized Serverless ML Inference Platform on Kubernetes
 - [dmmiller612/sparktorch](https://github.com/dmmiller612/sparktorch) - Train and run Pytorch models on Apache Spark.
 - [nanpy/nanpy](https://github.com/nanpy/nanpy) - Use your Arduino board with Python.
-- [quantumblacklabs/causalnex](https://github.com/quantumblacklabs/causalnex) - A Python library that helps data scientists to infer causation rather than observing correlation.
+- [mckinsey/causalnex](https://github.com/mckinsey/causalnex) - A Python library that helps data scientists to infer causation rather than observing correlation.
 - [omegaml/minibatch](https://github.com/omegaml/minibatch) - Python stream processing for humans
 - [michaelnowotny/cocos](https://github.com/michaelnowotny/cocos) - Numeric and scientific computing on GPUs for Python with a NumPy-like API
 - [fastavro/fastavro](https://github.com/fastavro/fastavro) - Fast Avro for Python
@@ -7619,7 +7620,6 @@
 
 - [rhysd/vim-grammarous](https://github.com/rhysd/vim-grammarous) - A powerful grammar checker for Vim using LanguageTool.
 - [VundleVim/Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vundle, the plug-in manager for Vim
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 - [fatih/vim-go](https://github.com/fatih/vim-go) - Go development plugin for Vim
 - [onivim/libvim](https://github.com/onivim/libvim) - libvim: The core Vim editing engine as a minimal C library
 - [vimwiki/vimwiki](https://github.com/vimwiki/vimwiki) - Personal Wiki for Vim
