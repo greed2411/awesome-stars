@@ -5651,7 +5651,6 @@
 - [timctho/shufflenet-v2-tensorflow](https://github.com/timctho/shufflenet-v2-tensorflow) - Tensorflow ShuffleNet v2 implementation
 - [cocodataset/panopticapi](https://github.com/cocodataset/panopticapi) - COCO 2018 Panoptic Segmentation Task API (Beta version)
 - [azraelkuan/FFTNet](https://github.com/azraelkuan/FFTNet) - FFTNet: a Real-Time Speaker-Dependent Neural Vocoder
-- [kevinzakka/hypersearch](https://github.com/kevinzakka/hypersearch) - Hyperparameter optimization for PyTorch.
 - [google/gin-config](https://github.com/google/gin-config) - Gin provides a lightweight configuration framework for Python
 - [johngarg/Xarta](https://github.com/johngarg/Xarta) - A command-line tool for organising papers from the arXiv.
 - [huoyijie/AdvancedEAST](https://github.com/huoyijie/AdvancedEAST) - AdvancedEAST is an algorithm used for Scene image text detect, which is primarily based on EAST, and the significant improvement was also made, which make long text predictions more accurate.https://g
@@ -7183,7 +7182,7 @@
 - [stepancheg/grpc-rust](https://github.com/stepancheg/grpc-rust) - Rust implementation of gRPC
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [tock/tock](https://github.com/tock/tock) - A secure embedded operating system for microcontrollers
-- [ehsanmok/create-your-own-lang-with-rust](https://github.com/ehsanmok/create-your-own-lang-with-rust) - Create your own programming language with Rust (WIP)
+- [ehsanmok/create-your-own-lang-with-rust](https://github.com/ehsanmok/create-your-own-lang-with-rust) - Create your own programming language with Rust
 - [nats-io/nats.rs](https://github.com/nats-io/nats.rs) - Rust client for NATS, the cloud native messaging system.
 - [bincode-org/bincode](https://github.com/bincode-org/bincode) - A binary encoder / decoder implementation in Rust.
 - [spacejam/sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases
