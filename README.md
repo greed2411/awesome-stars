@@ -120,6 +120,7 @@
 
 ## C 
 
+- [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
@@ -203,7 +204,6 @@
 - [quiet/quiet](https://github.com/quiet/quiet) - Transmit data with sound. Includes binaries for soundcards and .wav files.
 - [emojicode/emojicode](https://github.com/emojicode/emojicode) - 😀😜🔂 World’s only programming language that’s bursting with emojis
 - [inclavare-containers/inclavare-containers](https://github.com/inclavare-containers/inclavare-containers) - A novel container runtime, aka confidential container, for cloud-native confidential computing and enclave runtime ecosystem.
-- [mariadb-corporation/MaxScale](https://github.com/mariadb-corporation/MaxScale) - An intelligent database proxy.
 - [collectd/collectd](https://github.com/collectd/collectd) - The system statistics collection daemon. Please send Pull Requests here!
 - [unispeech/unimrcp](https://github.com/unispeech/unimrcp) - Open source cross-platform implementation of MRCP protocol
 - [scandum/binary_search](https://github.com/scandum/binary_search) - A collection of improved binary search algorithms.
@@ -430,6 +430,7 @@
 - [cylondata/cylon](https://github.com/cylondata/cylon) - Cylon is a fast, scalable, distributed memory, parallel runtime with a Pandas like DataFrame.
 - [alibaba/libgrape-lite](https://github.com/alibaba/libgrape-lite) - 🍇 A C++ library for parallel graph processing (GRAPE) 🍇
 - [airbnb/node-memwatch](https://github.com/airbnb/node-memwatch) - A NodeJS library to keep an eye on your memory usage, and discover and isolate leaks.
+- [mariadb-corporation/MaxScale](https://github.com/mariadb-corporation/MaxScale) - An intelligent database proxy.
 - [Tencent/TurboTransformers](https://github.com/Tencent/TurboTransformers) - a fast and user-friendly runtime for transformer inference (Bert, Albert, GPT2, Decoders, etc) on CPU and GPU.
 - [IBM/g729-codec-service](https://github.com/IBM/g729-codec-service) - Microservice for transcoding audio to/from G.729 Annex A/B and G.711 over a WebSocket connection.
 - [Tencent/TNN](https://github.com/Tencent/TNN) - TNN: developed by Tencent Youtu Lab and Guangying Lab, a uniform deep learning inference framework for mobile、desktop and server. TNN is distinguished by several outstanding features, including its cr
@@ -2906,6 +2907,7 @@
 
 ## Others 
 
+- [huggingface/awesome-huggingface](https://github.com/huggingface/awesome-huggingface) - 🤗 A list of wonderful open-source projects & applications integrated with Hugging Face libraries.
 - [IMSoley/tasawwuf](https://github.com/IMSoley/tasawwuf) - Warning: there might be errors or mistranslation, it is always advised to read the original works in its original language.
 - [Mooler0410/LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide) - A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers)
 - [getcursor/cursor](https://github.com/getcursor/cursor) - An editor made for programming with AI 🤖
@@ -3542,6 +3544,10 @@
 
 ## Python 
 
+- [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
+- [tairov/llama2.mojo](https://github.com/tairov/llama2.mojo) - Inference Llama 2 in one file of pure 🔥
+- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - ✨ Build AI interfaces that spark joy
+- [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming with foundation models
 - [microsoft/LoRA](https://github.com/microsoft/LoRA) - Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"
 - [huggingface/peft](https://github.com/huggingface/peft) - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
 - [triton-inference-server/server](https://github.com/triton-inference-server/server) - The Triton Inference Server provides an optimized cloud and edge inferencing solution.
@@ -3549,7 +3555,6 @@
 - [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) - A framework for few-shot evaluation of autoregressive language models.
 - [rlancemartin/auto-evaluator](https://github.com/rlancemartin/auto-evaluator) - Evaluation tool for LLM QA chains
 - [airtai/faststream](https://github.com/airtai/faststream) - FastStream is a powerful and easy-to-use Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ and NATS.
-- [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
 - [facebookarchive/codemod](https://github.com/facebookarchive/codemod) - Codemod is a tool/library to assist you with large-scale codebase refactors that can be partially automated but still require human oversight and occasional intervention. Codemod was developed at Face
 - [pyspark-ai/pyspark-ai](https://github.com/pyspark-ai/pyspark-ai) - English SDK for Apache Spark
 - [Django-LiveView/starter-template](https://github.com/Django-LiveView/starter-template) - Django LiveView: Framework for creating Realtime SPAs using HTML over the Wire technology
@@ -4108,7 +4113,7 @@
 - [canonical/microk8s](https://github.com/canonical/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for datacenters and the edge.
 - [alexmojaki/instant_api](https://github.com/alexmojaki/instant_api) - Instantly create an HTTP API with automatic type conversions, JSON RPC, and a Swagger UI. Just add methods!
 - [hansonkd/Tino](https://github.com/hansonkd/Tino) - A one-of-a-kind, stupid fast, Python API using Redis Protocol and MsgPack
-- [Fizzadar/pyinfra](https://github.com/Fizzadar/pyinfra) - pyinfra automates infrastructure super fast at massive scale. It can be used for ad-hoc command execution, service deployment, configuration management and more.
+- [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - pyinfra automates infrastructure using Python. It’s fast and scales from one server to thousands. Great for ad-hoc command execution, service deployment, configuration management and more.
 - [aiortc/aioquic](https://github.com/aiortc/aioquic) - QUIC and HTTP/3 implementation in Python
 - [python-hyper/priority](https://github.com/python-hyper/priority) - A pure-Python implementation of the HTTP/2 priority tree.
 - [facebookresearch/TaBERT](https://github.com/facebookresearch/TaBERT) - This repository contains source code for the TaBERT model, a pre-trained language model for learning joint representations of natural language utterances and (semi-)structured tables for semantic pars
@@ -6872,6 +6877,7 @@
 
 ## Rust 
 
+- [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - Cross-platform, safe, pure-rust graphics api.
 - [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) - Distributed stream processing engine in Rust
 - [exograph/exograph](https://github.com/exograph/exograph) - Build production-ready backends in minutes
@@ -7400,7 +7406,7 @@
 - [catalyst-team/classification](https://github.com/catalyst-team/classification) - Catalyst.Classification
 - [donnyyou/torchcv](https://github.com/donnyyou/torchcv) - TorchCV: A PyTorch-Based Framework for Deep Learning in Computer Vision
 - [jwass/pep8-staged](https://github.com/jwass/pep8-staged) - Git pre-commit hook to run pep8 on staged files.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [s1341/pyenv-alias](https://github.com/s1341/pyenv-alias) - pyenv plugin to allow you to install python versions with user-specified 'aliases'.
 - [tylerbarnum/metagenomics-tutorials](https://github.com/tylerbarnum/metagenomics-tutorials) - Additional scripts from tutorials on tylerbarnum.com
 - [kamranahmedse/git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day. Psst! or be nosy and find what someone else in your team did ;-)
