@@ -4009,7 +4009,6 @@
 - [budzianowski/multiwoz](https://github.com/budzianowski/multiwoz) - Source code for end-to-end dialogue model from the MultiWOZ paper (Budzianowski et al. 2018, EMNLP)
 - [buckket/twtxt](https://github.com/buckket/twtxt) - Decentralised, minimalist microblogging service for hackers.
 - [AllenInstitute/deepinterpolation](https://github.com/AllenInstitute/deepinterpolation) - 
-- [py2neo-org/py2neo](https://github.com/py2neo-org/py2neo) - Py2neo is a comprehensive Neo4j driver library and toolkit for Python.
 - [lucidrains/lambda-networks](https://github.com/lucidrains/lambda-networks) - Implementation of LambdaNetworks, a new approach to image recognition that reaches SOTA with less compute
 - [freepn/fpnd](https://github.com/freepn/fpnd) - Python package for freepn network daemon
 - [grammarly/gector](https://github.com/grammarly/gector) - Official implementation of the papers "GECToR – Grammatical Error Correction: Tag, Not Rewrite" (BEA-20) and "Text Simplification by Tagging" (BEA-21)
