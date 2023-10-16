@@ -2905,10 +2905,11 @@
 
 ## Others 
 
+- [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model
 - [huggingface/awesome-huggingface](https://github.com/huggingface/awesome-huggingface) - 🤗 A list of wonderful open-source projects & applications integrated with Hugging Face libraries.
 - [IMSoley/tasawwuf](https://github.com/IMSoley/tasawwuf) - Warning: there might be errors or mistranslation, it is always advised to read the original works in its original language.
 - [Mooler0410/LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide) - A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers)
-- [getcursor/cursor](https://github.com/getcursor/cursor) - An editor made for programming with AI 🤖
+- [getcursor/cursor](https://github.com/getcursor/cursor) - An AI-powered code editor based on VSCode 🤖
 - [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook) - A playbook for systematically maximizing the performance of deep learning models.
 - [chanakaudaya/solution-architecture-patterns](https://github.com/chanakaudaya/solution-architecture-patterns) - Reusable, vendor-neutral, industry-specific, vendor-specific solution architecture patterns for enterprise
 - [pawl/awesome-etl](https://github.com/pawl/awesome-etl) - A curated list of awesome ETL frameworks, libraries, and software.
@@ -3542,6 +3543,9 @@
 
 ## Python 
 
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
+- [argilla-io/argilla](https://github.com/argilla-io/argilla) - ✨Argilla: the open-source data curation platform for LLMs
+- [DLR-RM/stable-baselines3](https://github.com/DLR-RM/stable-baselines3) - PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms.
 - [mit-han-lab/streaming-llm](https://github.com/mit-han-lab/streaming-llm) - Efficient Streaming Language Models with Attention Sinks
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
 - [tairov/llama2.mojo](https://github.com/tairov/llama2.mojo) - Inference Llama 2 in one file of pure 🔥
@@ -4036,7 +4040,6 @@
 - [ming024/FastSpeech2](https://github.com/ming024/FastSpeech2) - An implementation of Microsoft's "FastSpeech 2: Fast and High-Quality End-to-End Text to Speech"
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [osai-ai/dokai](https://github.com/osai-ai/dokai) - Collection of Docker images for ML/DL and video processing projects
-- [Qiskit/rustworkx](https://github.com/Qiskit/rustworkx) - A high performance Python graph library implemented in Rust.
 - [peerchemist/finta](https://github.com/peerchemist/finta) - Common financial technical indicators implemented in Pandas.
 - [twopirllc/pandas-ta](https://github.com/twopirllc/pandas-ta) - Technical Analysis Indicators - Pandas TA is an easy to use Python 3 Pandas Extension with 130+ Indicators
 - [scrtlabs/catalyst](https://github.com/scrtlabs/catalyst) - An Algorithmic Trading Library for Crypto-Assets in Python
@@ -7138,6 +7141,7 @@
 - [ByteHeathen/libsip](https://github.com/ByteHeathen/libsip) - A SIP protocol implementation
 - [sozu-proxy/sozu](https://github.com/sozu-proxy/sozu) - Sōzu HTTP reverse proxy, configurable at runtime, fast and safe, built in Rust. It is awesome!
 - [tokio-rs/mio](https://github.com/tokio-rs/mio) - Metal I/O library for Rust.
+- [Qiskit/rustworkx](https://github.com/Qiskit/rustworkx) - A high performance Python graph library implemented in Rust.
 - [maidsafe/crdt_tree](https://github.com/maidsafe/crdt_tree) - 
 - [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support.
 - [ntex-rs/ntex](https://github.com/ntex-rs/ntex) - framework for composable networking services
@@ -7471,6 +7475,7 @@
 
 ## TypeScript 
 
+- [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
 - [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Python LLM apps in minutes ⚡️
 - [thenorthbay/doculite](https://github.com/thenorthbay/doculite) - Use SQLite as a Document Database
 - [nativescript-vue/nativescript-vue](https://github.com/nativescript-vue/nativescript-vue) - Native mobile applications using Vue and NativeScript.
