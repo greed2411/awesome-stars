@@ -73,6 +73,7 @@
 - [ReScript](#rescript)
 - [Reason](#reason)
 - [Ren'Py](#ren'py)
+- [Rich Text Format](#rich-text-format)
 - [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -327,6 +328,7 @@
 
 ## C++ 
 
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [google/cld3](https://github.com/google/cld3) - 
 - [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficientl
@@ -949,7 +951,6 @@
 
 - [gorgonia/cu](https://github.com/gorgonia/cu) - package cu provides an idiomatic interface to the CUDA Driver API.
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP
 - [go-echarts/go-echarts](https://github.com/go-echarts/go-echarts) - 🎨 The adorable charts library for Golang
 - [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy
 - [nikolaydubina/llama2.go](https://github.com/nikolaydubina/llama2.go) - LLaMA-2 in native Go
@@ -1674,6 +1675,7 @@
 - [briandowns/spinner](https://github.com/briandowns/spinner) - Go (golang) package with 90 configurable terminal spinner/progress indicators.
 - [apex/up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.
 - [unixpickle/weakai](https://github.com/unixpickle/weakai) - AI algorithms implemented in Go
+- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [absolute8511/nsq](https://github.com/absolute8511/nsq) - A realtime distributed messaging platform.
 - [marianogappa/chart](https://github.com/marianogappa/chart) - Quick & smart charting for STDIN
 - [gravitational/workshop](https://github.com/gravitational/workshop) - Docker, Kubernetes and Gravity Trainings by Gravitational
@@ -1978,7 +1980,7 @@
 - [daniel-bogdoll/ad-datasets](https://github.com/daniel-bogdoll/ad-datasets) - Complete* list of autonomous driving related datasets
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
 - [nodejs/undici](https://github.com/nodejs/undici) - An HTTP/1.1 client, written from scratch for Node.js
-- [just-js/just](https://github.com/just-js/just) - a very small v8 javascript runtime
+- [just-js/just](https://github.com/just-js/just) - the only javascript runtime to hit no.1 on techempower :fire:
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
 - [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
 - [tengbao/vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website
@@ -2027,7 +2029,7 @@
 - [open-webrtc-toolkit/owt-server](https://github.com/open-webrtc-toolkit/owt-server) - General server (streaming/conference/transcoding/anayltics) for OWT. (A.k.a. MediaServer)
 - [fessonia/fessonia](https://github.com/fessonia/fessonia) - A node module easing the burden of automating FFmpeg from Node.js
 - [timhutton/GravityIsNotAForce](https://github.com/timhutton/GravityIsNotAForce) - Visualising the spacetime geodesics of general relativity
-- [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 The open-source alternative to Twilio
+- [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 The open-source alternative to Twilio.
 - [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
 - [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [blenderskool/untab](https://github.com/blenderskool/untab) - 🔍 A productivity tool to boost your browser workflow!
@@ -2070,7 +2072,6 @@
 - [holepunchto/hyperdrive](https://github.com/holepunchto/hyperdrive) - Hyperdrive is a secure, real time distributed file system
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 - [orbitdb/orbitdb](https://github.com/orbitdb/orbitdb) - Peer-to-Peer Databases for the Decentralized Web
-- [Picovoice/leopard](https://github.com/Picovoice/leopard) - On-device speech-to-text engine powered by deep learning
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
 - [covid19india/covid19india-react](https://github.com/covid19india/covid19india-react) - Tracking the impact of COVID-19 in India
 - [VGraupera/1on1-questions](https://github.com/VGraupera/1on1-questions) - Mega list of 1 on 1 meeting questions compiled from a variety to sources
@@ -2324,7 +2325,6 @@
 - [bentrevett/pytorch-rl](https://github.com/bentrevett/pytorch-rl) - Tutorials for reinforcement learning in PyTorch and Gym by implementing a few of the popular algorithms. [IN PROGRESS]
 - [timsainb/tensorflow2-generative-models](https://github.com/timsainb/tensorflow2-generative-models) - Implementations of a number of generative models in Tensorflow 2. GAN, VAE, Seq2Seq, VAEGAN, GAIA, Spectrogram Inversion. Everything is self contained in a jupyter notebook for easy export to colab.
 - [jax-md/jax-md](https://github.com/jax-md/jax-md) - Differentiable, Hardware Accelerated, Molecular Dynamics
-- [facebook/Ax](https://github.com/facebook/Ax) - Adaptive Experimentation Platform
 - [pytorch/botorch](https://github.com/pytorch/botorch) - Bayesian optimization in PyTorch
 - [Ranlot/single-parameter-fit](https://github.com/Ranlot/single-parameter-fit) - Real numbers, data science and chaos: How to fit any dataset with a single parameter
 - [EmilienDupont/neural-processes](https://github.com/EmilienDupont/neural-processes) - Pytorch implementation of Neural Processes for functions and images :fireworks:
@@ -2819,7 +2819,6 @@
 - [MINOSai/CrpytoWatch-Jetpack](https://github.com/MINOSai/CrpytoWatch-Jetpack) - An Cryptocurrency tracker built for riding Android Jetpack
 - [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app) - 🦄 Sourcerer app makes a visual profile from your GitHub and git repositories.
 - [cybercongress/cyber-markets](https://github.com/cybercongress/cyber-markets) - 🍄 Toolchain for trades/orders parsing and processing
-- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 
 ## LLVM 
 
@@ -2924,7 +2923,6 @@
 
 ## Others 
 
-- [huggingface/distil-whisper](https://github.com/huggingface/distil-whisper) - Distilled variant of Whisper for speech recognition. 6x faster, 50% smaller, within 1% word error rate.
 - [espoal/awesome-iouring](https://github.com/espoal/awesome-iouring) - Delightful io_uring packages and resources
 - [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses & certifications.
 - [chiphuyen/dmls-book](https://github.com/chiphuyen/dmls-book) - Summaries and resources for Designing Machine Learning Systems book (Chip Huyen, O'Reilly 2022)
@@ -3575,6 +3573,7 @@
 - [jondurbin/airoboros](https://github.com/jondurbin/airoboros) - Customizable implementation of the self-instruct paper.
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
 - [remyxai/FFMPerative](https://github.com/remyxai/FFMPerative) - Chat to Process Video
+- [huggingface/distil-whisper](https://github.com/huggingface/distil-whisper) - Distilled variant of Whisper for speech recognition. 6x faster, 50% smaller, within 1% word error rate.
 - [HumanSignal/Adala](https://github.com/HumanSignal/Adala) - Adala: Autonomous DAta (Labeling) Agent framework
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸 Web apps in pure Python 🐍
 - [openai/openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
@@ -3720,7 +3719,6 @@
 - [nnaisense/evotorch](https://github.com/nnaisense/evotorch) - Advanced evolutionary computation library built directly on top of PyTorch, created at NNAISENSE.
 - [aidos-lab/pytorch-topological](https://github.com/aidos-lab/pytorch-topological) - A topological machine learning framework based on PyTorch
 - [Idlak/Living-Audio-Dataset](https://github.com/Idlak/Living-Audio-Dataset) - A "Crowd-Built" continuously growing speech dataset with transcripts. The dataset contains multiple languages and is intended for anyone to be able to add to it.
-- [peterwnjenga/reframe](https://github.com/peterwnjenga/reframe) - Reframe - The fastest way to build, deploy, and manage LLM-powered agents on tabular data (dataframes, SQL tables and Spreadsheets).
 - [FFRI/ProjectChampollion](https://github.com/FFRI/ProjectChampollion) - Reverse engineering Rosetta 2 on M1 Mac
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
 - [Erotemic/ubelt](https://github.com/Erotemic/ubelt) - A Python utility library with a stdlib like feel and extra batteries. Paths, Progress, Dicts, Downloads, Caching, Hashing: ubelt makes it easy!
@@ -4171,6 +4169,7 @@
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [r-anime/holo](https://github.com/r-anime/holo) - Episode discussion bot for /r/anime.
+- [Picovoice/leopard](https://github.com/Picovoice/leopard) - On-device speech-to-text engine powered by deep learning
 - [hitachi-speech/EEND](https://github.com/hitachi-speech/EEND) - End-to-End Neural Diarization
 - [mewwts/addict](https://github.com/mewwts/addict) - The Python Dict that's better than heroin.
 - [Kharacternyk/dotcommon](https://github.com/Kharacternyk/dotcommon) - What do people have in their dotfiles?
@@ -4566,6 +4565,7 @@
 - [cybertronai/pytorch-lamb](https://github.com/cybertronai/pytorch-lamb) - Implementation of  https://arxiv.org/abs/1904.00962
 - [benedekrozemberczki/graph2vec](https://github.com/benedekrozemberczki/graph2vec) - A parallel implementation of "graph2vec: Learning Distributed Representations of Graphs" (MLGWorkshop 2017).
 - [rbgirshick/yacs](https://github.com/rbgirshick/yacs) - YACS -- Yet Another Configuration System
+- [facebook/Ax](https://github.com/facebook/Ax) - Adaptive Experimentation Platform
 - [tunz/tcop-pytorch](https://github.com/tunz/tcop-pytorch) - tunz's CUDA pytorch operator (MaskedSoftmax)
 - [kakaobrain/fast-autoaugment](https://github.com/kakaobrain/fast-autoaugment) - Official Implementation of 'Fast AutoAugment' in PyTorch.
 - [shariqiqbal2810/MAAC](https://github.com/shariqiqbal2810/MAAC) - Code for "Actor-Attention-Critic for Multi-Agent Reinforcement Learning" ICML 2019
@@ -4636,7 +4636,7 @@
 - [princeton-vl/CornerNet-Lite](https://github.com/princeton-vl/CornerNet-Lite) - 
 - [megvii-research/ML-GCN](https://github.com/megvii-research/ML-GCN) - PyTorch implementation of Multi-Label Image Recognition with Graph Convolutional Networks, CVPR 2019.
 - [benkrause/dynamiceval-transformer](https://github.com/benkrause/dynamiceval-transformer) - 
-- [python-attrs/cattrs](https://github.com/python-attrs/cattrs) - Complex custom class converters for attrs.
+- [python-attrs/cattrs](https://github.com/python-attrs/cattrs) - Composable custom class converters for attrs.
 - [Tinche/aiofiles](https://github.com/Tinche/aiofiles) - File support for asyncio
 - [titu1994/keras-octconv](https://github.com/titu1994/keras-octconv) - Keras implementation of Octave Convolutions
 - [explosion/spacy-course](https://github.com/explosion/spacy-course) - 👩‍🏫 Advanced NLP with spaCy: A free online course
@@ -5367,7 +5367,7 @@
 - [RUSH-LAB/LSH_Memory](https://github.com/RUSH-LAB/LSH_Memory) - One-Shot Learning using Nearest-Neighbor Search (NNS) and Locality-Sensitive Hashing LSH
 - [rdspring1/PyTorch_GBW_LM](https://github.com/rdspring1/PyTorch_GBW_LM) - PyTorch Language Model for 1-Billion Word (LM1B / GBW) Dataset
 - [minqi/learning-to-communicate-pytorch](https://github.com/minqi/learning-to-communicate-pytorch) - Learning to Communicate with Deep Multi-Agent Reinforcement Learning in PyTorch
-- [taoufik07/responder](https://github.com/taoufik07/responder) - A familiar HTTP Service Framework for Python.
+- [kennethreitz/responder](https://github.com/kennethreitz/responder) - A familiar HTTP Service Framework for Python.
 - [aayushbansal/Recycle-GAN](https://github.com/aayushbansal/Recycle-GAN) - Unsupervised Video Retargeting (e.g. face to face, flower to flower, clouds and winds, sunrise and sunset)
 - [mme/vergeml](https://github.com/mme/vergeml) - Machine Learning Environment - alpha version
 - [Swall0w/torchstat](https://github.com/Swall0w/torchstat) - Model analyzer in PyTorch
@@ -5538,7 +5538,7 @@
 - [zachwooddoughty/emnlp2018-causal](https://github.com/zachwooddoughty/emnlp2018-causal) - Code for "Challenges of Using Text Classifiers for Causal Inference," at EMNLP '18
 - [mikelane/SegNet](https://github.com/mikelane/SegNet) - Keras and TF implementation of the U-Net semantic segmentation network
 - [iwasaki-kenta/keita](https://github.com/iwasaki-kenta/keita) - My personal toolkit for PyTorch development.
-- [kornia/kornia](https://github.com/kornia/kornia) - Computer Vision and Robotics Library for AI
+- [kornia/kornia](https://github.com/kornia/kornia) - Geometric Computer Vision Library for AI
 - [MasterOdin/crayons](https://github.com/MasterOdin/crayons) - Text UI colors for Python.
 - [hotpotqa/hotpot](https://github.com/hotpotqa/hotpot) - 
 - [hill-a/stable-baselines](https://github.com/hill-a/stable-baselines) - A fork of OpenAI Baselines, implementations of reinforcement learning algorithms
@@ -6893,6 +6893,10 @@
 
 - [renpy/renpy](https://github.com/renpy/renpy) - The Ren'Py Visual Novel Engine
 
+## Rich Text Format 
+
+- [langchain-ai/opengpts](https://github.com/langchain-ai/opengpts) - 
+
 ## Roff 
 
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
@@ -6920,6 +6924,8 @@
 
 ## Rust 
 
+- [cloudflare/quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+- [model-checking/kani](https://github.com/model-checking/kani) - Kani Rust Verifier
 - [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages
 - [ash-rs/ash](https://github.com/ash-rs/ash) - Vulkan bindings for Rust
 - [huggingface/hf_transfer](https://github.com/huggingface/hf_transfer) - 
@@ -6959,7 +6965,7 @@
 - [khvzak/mlua](https://github.com/khvzak/mlua) - High level Lua 5.4/5.3/5.2/5.1 (including LuaJIT) and Roblox Luau bindings to Rust with async/await support
 - [cozodb/cozo](https://github.com/cozodb/cozo) - A transactional, relational-graph-vector database that uses Datalog for query. The hippocampus for AI!
 - [sfu-db/connector-x](https://github.com/sfu-db/connector-x) - Fastest library to load data from DB to DataFrames in Rust and Python
-- [burn-rs/burn](https://github.com/burn-rs/burn) - Burn - A Flexible and Comprehensive Deep Learning Framework in Rust
+- [burn-rs/burn](https://github.com/burn-rs/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.
 - [sycamore-rs/sycamore](https://github.com/sycamore-rs/sycamore) - A library for creating reactive web apps in Rust and WebAssembly
 - [Michael-F-Bryan/linkcheck](https://github.com/Michael-F-Bryan/linkcheck) - A library for extracting and validating links.
 - [miraclx/zy](https://github.com/miraclx/zy) - Minimal and blazingly-fast file server. For real, this time.
@@ -7057,7 +7063,7 @@
 - [Keats/kickstart](https://github.com/Keats/kickstart) - A scaffolding tool to get new projects up and running quickly
 - [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket) - A web framework for Rust.
 - [DasEtwas/enginesound](https://github.com/DasEtwas/enginesound) - Procedural engine sound generator controlled via GUI or CLI
-- [thalo-rs/thalo](https://github.com/thalo-rs/thalo) - Event sourcing runtime for wasm
+- [thalo-rs/thalo](https://github.com/thalo-rs/thalo) - An Event Sourcing runtime with WebAssembly & embedded event store
 - [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [redis-rs/redis-rs](https://github.com/redis-rs/redis-rs) - Redis library for rust
 - [sfackler/rust-postgres](https://github.com/sfackler/rust-postgres) - Native PostgreSQL driver for the Rust programming language
@@ -7165,7 +7171,7 @@
 - [rust-ndarray/ndarray-stats](https://github.com/rust-ndarray/ndarray-stats) - Statistical routines for ndarray
 - [jturner314/ndarray-npy](https://github.com/jturner314/ndarray-npy) - .npy and .npz file format support for ndarray
 - [rust-ndarray/ndarray](https://github.com/rust-ndarray/ndarray) - ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations
-- [pemistahl/lingua-rs](https://github.com/pemistahl/lingua-rs) - The most accurate natural language detection library for Rust, suitable for long and short text alike
+- [pemistahl/lingua-rs](https://github.com/pemistahl/lingua-rs) - The most accurate natural language detection library for Rust, suitable for short text and mixed-language text
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [rabite0/hunter](https://github.com/rabite0/hunter) - The fastest file manager in the galaxy!
 - [lemunozm/message-io](https://github.com/lemunozm/message-io) - Fast and easy-to-use event-driven network library.
@@ -7495,7 +7501,7 @@
 
 ## TeX 
 
-- [premAI-io/state-of-open-source-ai](https://github.com/premAI-io/state-of-open-source-ai) - Clarity in the current fast-paced mess of Open Source innovation
+- [premAI-io/state-of-open-source-ai](https://github.com/premAI-io/state-of-open-source-ai) - :closed_book: Clarity in the current fast-paced mess of Open Source innovation
 - [heroxbd/waveform-analysis](https://github.com/heroxbd/waveform-analysis) - Waveform analysis for reviewing all the effective methods.
 - [winitzki/sofp](https://github.com/winitzki/sofp) - A free book: "The Science of Functional Programming"
 - [optimass/continual_learning_papers](https://github.com/optimass/continual_learning_papers) - Relevant papers in Continual Learning
@@ -7536,7 +7542,7 @@
 - [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) - Cloud Database Manager
 - [facebookresearch/shumai](https://github.com/facebookresearch/shumai) - Fast Differentiable Tensor Library in JavaScript and TypeScript with Bun + Flashlight
 - [denosaurs/bench](https://github.com/denosaurs/bench) - 📊 Comparing deno & node HTTP frameworks
-- [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics + free custom domains.
+- [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link management tool for modern marketing teams to create, share, and track short links.
 - [MichalLytek/typegraphql-prisma](https://github.com/MichalLytek/typegraphql-prisma) - Prisma generator to emit TypeGraphQL types and CRUD resolvers from your Prisma schema
 - [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite) - Wasm powered Jupyter running in the browser 💡
 - [runtipi/runtipi](https://github.com/runtipi/runtipi) - Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
