@@ -1092,7 +1092,7 @@
 - [aws/copilot-cli](https://github.com/aws/copilot-cli) - The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on AWS App Runner or Amazon ECS on AWS Fargate.
 - [hbollon/go-edlib](https://github.com/hbollon/go-edlib) - 📚 String comparison and edit distance algorithms library, featuring : Levenshtein, LCS, Hamming, Damerau levenshtein (OSA and Adjacent transpositions algorithms), Jaro-Winkler, Cosine, etc...
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
-- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution
+- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An enterprise-ready, GRPC powered, GitOps enabled, feature management solution
 - [felixge/benchmore](https://github.com/felixge/benchmore) - 
 - [containrrr/shoutrrr](https://github.com/containrrr/shoutrrr) - Notification library for gophers and their furry friends.
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧
@@ -2178,7 +2178,7 @@
 - [trazyn/weweChat](https://github.com/trazyn/weweChat) - 💬 Unofficial WeChat client built with React, MobX and Electron.
 - [trazyn/ieaseMusic](https://github.com/trazyn/ieaseMusic) - 网易云音乐第三方
 - [json-schema-org/json-schema-spec](https://github.com/json-schema-org/json-schema-spec) - The JSON Schema specification
-- [andreruffert/rangeslider.js](https://github.com/andreruffert/rangeslider.js) - 🎚 HTML5 input range slider element polyfill
+- [andreruffert/rangeslider.js](https://github.com/andreruffert/rangeslider.js) - 🎚 HTML5 input range slider element  jQuery polyfill
 - [michalsnik/aos](https://github.com/michalsnik/aos) - Animate on scroll library
 - [alexmacarthur/typeit](https://github.com/alexmacarthur/typeit) - The most versatile JavaScript typewriter effect library on the planet.
 - [jschr/textillate](https://github.com/jschr/textillate) - A jquery plugin for CSS3 text animations.
@@ -2444,7 +2444,7 @@
 - [adebayoj/sanity_checks_saliency](https://github.com/adebayoj/sanity_checks_saliency) - 
 - [wdhorton/protein-atlas-fastai](https://github.com/wdhorton/protein-atlas-fastai) - Code for training a Resnet model for the Human Protein Atlas Image Classification competition
 - [udacity/deep-learning-v2-pytorch](https://github.com/udacity/deep-learning-v2-pytorch) - Projects and exercises for the latest Deep Learning ND program https://www.udacity.com/course/deep-learning-nanodegree--nd101
-- [3springs/viz_torch_optim](https://github.com/3springs/viz_torch_optim) - Videos of deep learning optimizers moving on 3D problem-landscapes
+- [wassname/viz_torch_optim](https://github.com/wassname/viz_torch_optim) - Videos of deep learning optimizers moving on 3D problem-landscapes
 - [ContinualAI/colab](https://github.com/ContinualAI/colab) - Continual Learning tutorials and demo running on Google Colaboratory.
 - [salesforce/MultiHopKG](https://github.com/salesforce/MultiHopKG) - Multi-hop knowledge graph reasoning learned via policy gradient with reward shaping and action dropout
 - [shaohua0116/ICLR2019-OpenReviewData](https://github.com/shaohua0116/ICLR2019-OpenReviewData) - Script that crawls meta data from ICLR OpenReview webpage. Tutorials on installing and using Selenium and ChromeDriver on Ubuntu.
@@ -2774,6 +2774,7 @@
 - [dennybritz/reinforcement-learning](https://github.com/dennybritz/reinforcement-learning) - Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course.
 - [amygdala/tensorflow-workshop](https://github.com/amygdala/tensorflow-workshop) - This repo contains materials for use in a TensorFlow workshop.
 - [aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)
+- [pytorch/tutorials](https://github.com/pytorch/tutorials) - PyTorch tutorials.
 - [ogrisel/euroscipy_2017_sklearn](https://github.com/ogrisel/euroscipy_2017_sklearn) - Notebooks for the EuroScipy 2017 tutorial (based on Adult Census income data)
 - [clesleycode/machine-learning-series-python](https://github.com/clesleycode/machine-learning-series-python) - 
 - [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
@@ -3211,7 +3212,7 @@
 - [Conchylicultor/Deep-Learning-Tricks](https://github.com/Conchylicultor/Deep-Learning-Tricks) - Enumerate diverse machine learning training tricks.
 - [dgryski/awesome-consensus](https://github.com/dgryski/awesome-consensus) - Awesome list for Paxos and friends
 - [AbangLZU/Awesome-Autonomous-Driving](https://github.com/AbangLZU/Awesome-Autonomous-Driving) - 
-- [fregu856/papers](https://github.com/fregu856/papers) - I categorize, annotate and write comments for all research papers I read (320+ papers since 2018).
+- [fregu856/papers](https://github.com/fregu856/papers) - I categorize, annotate and write comments for all research papers I read (330+ papers since 2018).
 - [sshkhr/awesome-mlss](https://github.com/sshkhr/awesome-mlss) - List of summer schools in machine learning + related fields across the globe
 - [dakshshah96/awesome-startup-credits](https://github.com/dakshshah96/awesome-startup-credits) - ✨ A collection of awesome companies offering free/discounted plans for eligible startups
 - [jinwchoi/awesome-action-recognition](https://github.com/jinwchoi/awesome-action-recognition) - A curated list of action recognition and related area resources
@@ -3543,6 +3544,7 @@
 
 ## Perl 
 
+- [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 - [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer
 - [Diego999/py-rouge](https://github.com/Diego999/py-rouge) - Full Python implementation of the ROUGE metric, producing same results as in the official perl implementation.
 - [jlord/git-it-electron](https://github.com/jlord/git-it-electron) - :computer: :mortar_board: Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub
@@ -3572,6 +3574,7 @@
 
 ## Python 
 
+- [tortoise/aerich](https://github.com/tortoise/aerich) - A database migrations tool for TortoiseORM, ready to production.
 - [transferwise/pipelinewise](https://github.com/transferwise/pipelinewise) - Data Pipeline Framework using the singer.io spec
 - [sclabs/treeshaker](https://github.com/sclabs/treeshaker) - A tree-shaking tool for Python.
 - [graphql-python/graphene](https://github.com/graphql-python/graphene) - GraphQL framework for Python
@@ -3617,7 +3620,7 @@
 - [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
 - [vocodedev/vocode-python](https://github.com/vocodedev/vocode-python) - 🤖 Build voice-based LLM agents. Modular + open source.
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
-- [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
+- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [Luodian/Otter](https://github.com/Luodian/Otter) - 🦦 Otter, a multi-modal model based on OpenFlamingo (open-sourced version of DeepMind's Flamingo), trained on MIMIC-IT and showcasing improved instruction-following and in-context learning ability.
 - [blueswen/gunicorn-monitoring](https://github.com/blueswen/gunicorn-monitoring) - Monitor Gunicorn application (e.g. Flask) through build-in instrumentation feature using the statsD protocol over UDP with Prometheus and Grafana.
 - [mher/flower](https://github.com/mher/flower) - Real-time monitor and web admin for Celery distributed task queue
@@ -3690,7 +3693,6 @@
 - [kaonashi-tyc/Rewrite](https://github.com/kaonashi-tyc/Rewrite) - Neural Style Transfer For Chinese Characters
 - [robin900/gspread-dataframe](https://github.com/robin900/gspread-dataframe) - Read/write Google spreadsheets using pandas DataFrames
 - [dalibo/pg_activity](https://github.com/dalibo/pg_activity) - pg_activity is a top like application for PostgreSQL server activity monitoring.
-- [squaredev-io/explainable-ai](https://github.com/squaredev-io/explainable-ai) - Best Practices on Explainable AI (XAI)
 - [sybrenjansen/mpire](https://github.com/sybrenjansen/mpire) - A Python package for easy multiprocessing, but faster than multiprocessing
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 - [nginxinc/crossplane](https://github.com/nginxinc/crossplane) - Quick and reliable way to convert NGINX configurations into JSON and back.
@@ -4083,7 +4085,7 @@
 - [s3prl/s3prl](https://github.com/s3prl/s3prl) - Self-Supervised Speech Pre-training and Representation Learning Toolkit
 - [johannfaouzi/pyts](https://github.com/johannfaouzi/pyts) - A Python package for time series classification
 - [dhaitz/mplcyberpunk](https://github.com/dhaitz/mplcyberpunk) - "Cyberpunk style" for matplotlib plots
-- [yiranran/Audio-driven-TalkingFace-HeadPose](https://github.com/yiranran/Audio-driven-TalkingFace-HeadPose) - Code for "Audio-driven Talking Face Video Generation with Learning-based Personalized Head Pose"
+- [yiranran/Audio-driven-TalkingFace-HeadPose](https://github.com/yiranran/Audio-driven-TalkingFace-HeadPose) - Code for "Audio-driven Talking Face Video Generation with Learning-based Personalized Head Pose" (Arxiv 2020) and "Predicting Personalized Head Movement From Short Video and Speech Signal" (TMM 2022)
 - [YyzHarry/imbalanced-semi-self](https://github.com/YyzHarry/imbalanced-semi-self) - [NeurIPS 2020] Semi-Supervision (Unlabeled Data) & Self-Supervision Improve Class-Imbalanced / Long-Tailed Learning
 - [lucasjinreal/nb](https://github.com/lucasjinreal/nb) - Neural Network Blocks - Collect all kinds of fancy model blocks for you to build more powerful neural network model.
 - [kwotsin/mimicry](https://github.com/kwotsin/mimicry) - [CVPR 2020 Workshop] A PyTorch GAN library that reproduces research results for popular GANs.
@@ -4696,7 +4698,7 @@
 - [google-deepmind/mathematics_dataset](https://github.com/google-deepmind/mathematics_dataset) - This dataset code generates mathematical question and answer pairs, from a range of question types at roughly school-level difficulty.
 - [mingdachen/disentangle-semantics-syntax](https://github.com/mingdachen/disentangle-semantics-syntax) - Code for "A Multi-Task Approach for Disentangling Syntax and Semantics in Sentence Representations" (NAACL 2019)
 - [facebookresearch/PyTorch-BigGraph](https://github.com/facebookresearch/PyTorch-BigGraph) - Generate embeddings from large-scale graph-structured data.
-- [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Deep learning framework to train, finetune and deploy AI models
+- [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune and deploy AI models on multiple GPUs, TPUs with zero code changes.
 - [Lotayou/densebody_pytorch](https://github.com/Lotayou/densebody_pytorch) - PyTorch implementation of CloudWalk's recent work DenseBody
 - [falconry/falcon](https://github.com/falconry/falcon) - The no-magic web data plane API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale.
 - [Tsdevendra1/NEAT-Algorithm](https://github.com/Tsdevendra1/NEAT-Algorithm) - 
@@ -6632,7 +6634,6 @@
 - [karpathy/arxiv-sanity-preserver](https://github.com/karpathy/arxiv-sanity-preserver) - Web interface for browsing, search and filtering recent arxiv submissions
 - [jaskru/tensorflow-mnist-tutorial](https://github.com/jaskru/tensorflow-mnist-tutorial) - Sample code for "Tensorflow and deep learning, without a PhD" presentation and code lab.
 - [leechanwoo/Tensorflow-projects](https://github.com/leechanwoo/Tensorflow-projects) - 
-- [pytorch/tutorials](https://github.com/pytorch/tutorials) - PyTorch tutorials.
 - [pytorch/examples](https://github.com/pytorch/examples) - A set of examples around pytorch in Vision, Text, Reinforcement Learning, etc.
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [tflearn/tflearn](https://github.com/tflearn/tflearn) - Deep learning library featuring a higher-level API for TensorFlow.
@@ -6683,7 +6684,7 @@
 - [wepe/MachineLearning](https://github.com/wepe/MachineLearning) - Basic Machine Learning and Deep Learning
 - [seqcode/miniMDS](https://github.com/seqcode/miniMDS) - 
 - [oppia/oppia](https://github.com/oppia/oppia) - A free, online learning platform to make quality education accessible for all.
-- [ewels/MultiQC](https://github.com/ewels/MultiQC) - Aggregate results from bioinformatics analyses across many samples into a single report.
+- [MultiQC/MultiQC](https://github.com/MultiQC/MultiQC) - Aggregate results from bioinformatics analyses across many samples into a single report.
 - [kragniz/anyprint](https://github.com/kragniz/anyprint) - Use any* language's print statements in Python
 - [pytorn/pytorn](https://github.com/pytorn/pytorn) - :cyclone: Tornado MVC framework, fully fledged
 - [facebook/prophet](https://github.com/facebook/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
@@ -7321,7 +7322,7 @@
 - [mosuka/bayard](https://github.com/mosuka/bayard) - A full-text search and indexing server written in Rust.
 - [cloud-hypervisor/cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) - A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compac
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow.
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
 - [jauhien/iron-kaleidoscope](https://github.com/jauhien/iron-kaleidoscope) - LLVM tutorial in Rust language
@@ -7553,7 +7554,7 @@
 - [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) - Cloud Database Manager
 - [facebookresearch/shumai](https://github.com/facebookresearch/shumai) - Fast Differentiable Tensor Library in JavaScript and TypeScript with Bun + Flashlight
 - [denosaurs/bench](https://github.com/denosaurs/bench) - 📊 Comparing deno & node HTTP frameworks
-- [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link management tool for modern marketing teams to create, share, and track short links.
+- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure for modern marketing teams.
 - [MichalLytek/typegraphql-prisma](https://github.com/MichalLytek/typegraphql-prisma) - Prisma generator to emit TypeGraphQL types and CRUD resolvers from your Prisma schema
 - [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite) - Wasm powered Jupyter running in the browser 💡
 - [runtipi/runtipi](https://github.com/runtipi/runtipi) - Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
