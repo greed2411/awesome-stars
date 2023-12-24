@@ -84,7 +84,6 @@
 - [Shell](#shell)
 - [Solidity](#solidity)
 - [Starlark](#starlark)
-- [Svelte](#svelte)
 - [Swift](#swift)
 - [TeX](#tex)
 - [TypeScript](#typescript)
@@ -1964,6 +1963,7 @@
 - [langchain-ai/langserve](https://github.com/langchain-ai/langserve) - LangServe 🦜️🏓
 - [facebook/jscodeshift](https://github.com/facebook/jscodeshift) - A JavaScript codemod toolkit.
 - [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
+- [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build polished reports with SQL and markdown
 - [schibsted/WAAS](https://github.com/schibsted/WAAS) - Whisper as a Service (GUI and API with queuing for OpenAI Whisper)
 - [netarchivesuite/heatmap](https://github.com/netarchivesuite/heatmap) - A GitHub-inspired graph for visualising activity
 - [open-duelyst/duelyst](https://github.com/open-duelyst/duelyst) - Duelyst is a digital collectible card game and turn-based strategy hybrid, developed by Counterplay Games.
@@ -2544,7 +2544,7 @@
 - [osh/KerasGAN](https://github.com/osh/KerasGAN) - A couple of simple GANs in Keras
 - [rdempsey/pyspark-for-data-processing](https://github.com/rdempsey/pyspark-for-data-processing) - Code for my presentation: Using PySpark to Process Boat Loads of Data
 - [chenyuntc/pytorch-book](https://github.com/chenyuntc/pytorch-book) - PyTorch tutorials and fun projects including neural talk, neural style, poem writing, anime generation (《深度学习框架PyTorch：入门与实战》)
-- [danielhanchen/hyperlearn](https://github.com/danielhanchen/hyperlearn) - 2-2000x faster ML algos, 50% less memory usage, works on all hardware - new and old.
+- [unslothai/hyperlearn](https://github.com/unslothai/hyperlearn) - 2-2000x faster ML algos, 50% less memory usage, works on all hardware - new and old.
 - [chitrang6/planet-kaggle](https://github.com/chitrang6/planet-kaggle) - This repo contains the implementation of the Planet Amazon forest deep learning challenge on Kaggle
 - [harshitahluwalia7895/Loan_Prediction](https://github.com/harshitahluwalia7895/Loan_Prediction) - 
 - [AaronYALai/Seq2seqAttn_ECM](https://github.com/AaronYALai/Seq2seqAttn_ECM) - (TensorFlow) Sequence to sequence with attention model, emotion regressor, and Emotional Chatting Machine.
@@ -2906,6 +2906,7 @@
 
 ## NASL 
 
+- [osai-ai/dokai](https://github.com/osai-ai/dokai) - Collection of Docker images for ML/DL and video processing projects
 - [BachiLi/redner](https://github.com/BachiLi/redner) - Differentiable rendering without approximation.
 
 ## Nim 
@@ -2944,7 +2945,7 @@
 - [akuity/awesome-argo](https://github.com/akuity/awesome-argo) - A curated list of awesome projects and resources related to Argo (a CNCF graduated project)
 - [subeeshvasu/Awesome-Learning-with-Label-Noise](https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise) - A curated list of resources for Learning with Noisy Labels
 - [aya-rs/awesome-aya](https://github.com/aya-rs/awesome-aya) - A curated list of awesome eBPF 🐝 projects using aya-rs and Rust 🦀
-- [zoidbergwill/awesome-ebpf](https://github.com/zoidbergwill/awesome-ebpf) - A curated list of awesome projects related to eBPF.
+- [zoidyzoidzoid/awesome-ebpf](https://github.com/zoidyzoidzoid/awesome-ebpf) - A curated list of awesome projects related to eBPF.
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 - [LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) - Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
 - [joaocarvalhoopen/How_to_learn_modern_Rust](https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust) - A guide to the adventurer.
@@ -5356,7 +5357,7 @@
 - [nmhkahn/CARN-pytorch](https://github.com/nmhkahn/CARN-pytorch) - Fast, Accurate, and Lightweight Super-Resolution with Cascading Residual Network (ECCV 2018)
 - [2wins/SRMD-pytorch](https://github.com/2wins/SRMD-pytorch) - A PyTorch Implementation of "Learning a Single Convolutional Super-Resolution Network for Multiple Degradations"
 - [fregu856/3DOD_thesis](https://github.com/fregu856/3DOD_thesis) - 3D Object Detection for Autonomous Driving in PyTorch, trained on the KITTI dataset.
-- [KaiyuYue/cgnl-network.pytorch](https://github.com/KaiyuYue/cgnl-network.pytorch) - Compact Generalized Non-local Network (NIPS 2018)
+- [kaiyuyue/cgnl-network.pytorch](https://github.com/kaiyuyue/cgnl-network.pytorch) - Compact Generalized Non-local Network (NIPS 2018)
 - [ruotianluo/bert-convert-to-pth](https://github.com/ruotianluo/bert-convert-to-pth) - TensorFlow code and pre-trained models for BERT
 - [NVIDIA/Milano](https://github.com/NVIDIA/Milano) - Milano is a tool for automating hyper-parameters search for your models on a backend of your choice.
 - [google-research/bert](https://github.com/google-research/bert) - TensorFlow code and pre-trained models for BERT
@@ -5494,7 +5495,7 @@
 - [luannd/MinutiaeNet](https://github.com/luannd/MinutiaeNet) - Code and models for paper "Robust Minutiae Extractor: Integrating Deep Networks and Fingerprint Domain Knowledge" at International Conference on Biometrics (ICB) 2018
 - [brain-research/self-attention-gan](https://github.com/brain-research/self-attention-gan) - 
 - [zeusees/License-Plate-Detector](https://github.com/zeusees/License-Plate-Detector) - 基于Yolov5车牌检测,更快更准.
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB connects AI models to real time data
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Build AI 🤖 using SQL
 - [minosworld/minos](https://github.com/minosworld/minos) - MINOS: Multimodal Indoor Simulator
 - [leonardblier/alrao](https://github.com/leonardblier/alrao) - Implementation of "Learning with Random Learning Rates" in PyTorch.
 - [NVIDIA/OpenSeq2Seq](https://github.com/NVIDIA/OpenSeq2Seq) - Toolkit for efficient experimentation with Speech Recognition, Text2Speech and NLP
@@ -7498,12 +7499,7 @@
 
 ## Starlark 
 
-- [osai-ai/dokai](https://github.com/osai-ai/dokai) - Collection of Docker images for ML/DL and video processing projects
 - [rabbitmq/rabbitmq-server](https://github.com/rabbitmq/rabbitmq-server) - Open source RabbitMQ: core server and tier 1 (built-in) plugins
-
-## Svelte 
-
-- [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build polished reports with SQL and markdown
 
 ## Swift 
 
@@ -7657,7 +7653,7 @@
 - [bloomrpc/bloomrpc](https://github.com/bloomrpc/bloomrpc) - Former GUI client for gRPC services. No longer maintained.
 - [marbleprotocol/humanity](https://github.com/marbleprotocol/humanity) - Unique identity on Ethereum
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
-- [browserless/browserless](https://github.com/browserless/browserless) - The browserless service in Docker. Run on our cloud or bring your own.
+- [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [huggingface/Mongoku](https://github.com/huggingface/Mongoku) - 🔥The Web-scale GUI for MongoDB
 - [vultix/ts-results](https://github.com/vultix/ts-results) - A typescript implementation of Rust's Result object.
 - [SkalskiP/make-sense](https://github.com/SkalskiP/make-sense) - Free to use online tool for labelling photos. https://makesense.ai
