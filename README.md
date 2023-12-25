@@ -2303,7 +2303,6 @@
 - [jackroos/VL-BERT](https://github.com/jackroos/VL-BERT) - Code for ICLR 2020 paper "VL-BERT: Pre-training of Generic Visual-Linguistic Representations".
 - [SachsLab/IntracranialNeurophysDL](https://github.com/SachsLab/IntracranialNeurophysDL) - A short course for getting started with deep learning for intracranial extracellular neurophysiology.
 - [mchengny/RWF2000-Video-Database-for-Violence-Detection](https://github.com/mchengny/RWF2000-Video-Database-for-Violence-Detection) - A large scale video database for violence detection, which has 2,000 video clips containing violent or non-violent behaviours.
-- [Horea94/Fruit-Images-Dataset](https://github.com/Horea94/Fruit-Images-Dataset) - Fruits-360: A dataset of images containing fruits and vegetables
 - [polynote/polynote](https://github.com/polynote/polynote) - A better notebook for Scala (and more)
 - [Qwicen/node](https://github.com/Qwicen/node) - Neural Oblivious Decision Ensembles for Deep Learning on Tabular Data
 - [aiXander/StyleGAN-Resolution-Convertor](https://github.com/aiXander/StyleGAN-Resolution-Convertor) - A Google Colab notebook to convert your low-resolution StyleGAN models into higher-resolution checkpoints so you can continue training!
@@ -4322,6 +4321,7 @@
 - [Kayzaks/HackingNeuralNetworks](https://github.com/Kayzaks/HackingNeuralNetworks) - A small course on exploiting and defending neural networks
 - [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) - The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
 - [alegonz/baikal](https://github.com/alegonz/baikal) - A graph-based functional API for building complex scikit-learn pipelines.
+- [Horea94/Fruit-Images-Dataset](https://github.com/Horea94/Fruit-Images-Dataset) - Fruits-360: A dataset of images containing fruits and vegetables
 - [coleifer/huey](https://github.com/coleifer/huey) - a little task queue for python
 - [manatlan/guy](https://github.com/manatlan/guy) - Graphics User Ynterface : a simple module for making GUI applications (with html/js) for py3 ... to target windows, linux, mac & android
 - [facebookresearch/SlowFast](https://github.com/facebookresearch/SlowFast) - PySlowFast: video understanding codebase from FAIR for reproducing state-of-the-art video models.
