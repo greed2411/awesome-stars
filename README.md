@@ -7659,7 +7659,7 @@
 - [huggingface/Mongoku](https://github.com/huggingface/Mongoku) - 🔥The Web-scale GUI for MongoDB
 - [vultix/ts-results](https://github.com/vultix/ts-results) - A typescript implementation of Rust's Result object.
 - [SkalskiP/make-sense](https://github.com/SkalskiP/make-sense) - Free to use online tool for labelling photos. https://makesense.ai
-- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Convert cURL commands into code
+- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Convert curl commands into code
 - [hastic-zzz/hastic-server](https://github.com/hastic-zzz/hastic-server) - Hastic data management server for analyzing patterns and anomalies from Grafana
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
