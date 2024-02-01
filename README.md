@@ -5,7 +5,6 @@
 
 ## Contents
 
-- [AsciiDoc](#asciidoc)
 - [Assembly](#assembly)
 - [Astro](#astro)
 - [Awk](#awk)
@@ -91,10 +90,6 @@
 - [Vue](#vue)
 - [Zig](#zig)
 
-## AsciiDoc 
-
-- [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 2nd Edition - Programming the Open Blockchain
-
 ## Assembly 
 
 - [kelindar/bitmap](https://github.com/kelindar/bitmap) - Simple dense bitmap index in Go with binary operators
@@ -125,7 +120,6 @@
 - [google/sanitizers](https://github.com/google/sanitizers) - AddressSanitizer, ThreadSanitizer, MemorySanitizer
 - [marella/ctransformers](https://github.com/marella/ctransformers) - Python bindings for the Transformer models implemented in C/C++ using GGML library.
 - [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [hydradatabase/hydra](https://github.com/hydradatabase/hydra) - Hydra: Column-oriented Postgres. Add scalable analytics to your project in minutes.
@@ -334,6 +328,7 @@
 - [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficientl
 - [bloomberg/blazingmq](https://github.com/bloomberg/blazingmq) - A modern high-performance open source message queuing system
 - [go-skynet/go-llama.cpp](https://github.com/go-skynet/go-llama.cpp) - LLama.cpp golang bindings
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [duckdb/duckdb-wasm](https://github.com/duckdb/duckdb-wasm) - WebAssembly version of DuckDB
 - [oneapi-src/oneTBB](https://github.com/oneapi-src/oneTBB) - oneAPI Threading Building Blocks (oneTBB)
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
@@ -585,7 +580,7 @@
 - [t-vi/AICamera](https://github.com/t-vi/AICamera) - Demonstration of using Caffe2 inside an Android application.
 - [google/skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
 - [apache/arrow](https://github.com/apache/arrow) - Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing
-- [ROCmSoftwarePlatform/tensorflow-upstream](https://github.com/ROCmSoftwarePlatform/tensorflow-upstream) - TensorFlow ROCm port
+- [ROCm/tensorflow-upstream](https://github.com/ROCm/tensorflow-upstream) - TensorFlow ROCm port
 - [GraphIt-DSL/graphit](https://github.com/GraphIt-DSL/graphit) - GraphIt - A High-Performance Domain Specific Language for Graph Analytics
 - [pytorch/xla](https://github.com/pytorch/xla) - Enabling PyTorch on XLA Devices (e.g. Google TPU)
 - [CharlesShang/DCNv2](https://github.com/CharlesShang/DCNv2) - Deformable Convolutional Networks v2 with Pytorch
@@ -1753,6 +1748,7 @@
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [emilwallner/Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website.
 - [aaalgo/picpac](https://github.com/aaalgo/picpac) - An image database for deep learning.
+- [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 3rd Edition - Programming the Open Blockchain
 - [shagunsodhani/papers-I-read](https://github.com/shagunsodhani/papers-I-read) - A-Paper-A-Week
 - [yanhann10/opendata_viz](https://github.com/yanhann10/opendata_viz) - Code behind medium blog
 - [lgreski/datasciencectacontent](https://github.com/lgreski/datasciencectacontent) - repository for Community Mentor content related to the Johns Hopkins University Data Science Specialization on Coursera
@@ -2930,7 +2926,7 @@
 
 - [unblocktorrents/YTS-YIFY-Proxy](https://github.com/unblocktorrents/YTS-YIFY-Proxy) - YTS Proxy - 100% Working YTS Mirror Sites 2024
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
-- [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) - Modern C++ Programming Course (C++11/14/17/20)
+- [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) - Modern C++ Programming Course (C++11/14/17/20/23)
 - [mypyc/mypyc](https://github.com/mypyc/mypyc) - Compile type annotated Python to fast C extensions
 - [espoal/awesome-iouring](https://github.com/espoal/awesome-iouring) - Delightful io_uring packages and resources
 - [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses & certifications.
@@ -3502,6 +3498,7 @@
 - [ossu/data-science](https://github.com/ossu/data-science) - :bar_chart: Path to a free self-taught education in Data Science!
 - [ossu/bioinformatics](https://github.com/ossu/bioinformatics) - :microscope: Path to a free self-taught education in Bioinformatics!
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
+- [cigroup-ol/windml](https://github.com/cigroup-ol/windml) - The windML framework provides an easy-to-use access to wind data sources within the Python world, building upon numpy, scipy, sklearn, and matplotlib. Renewable Wind Energy, Forecasting, Prediction
 - [dive-into-machine-learning/python-tips](https://github.com/dive-into-machine-learning/python-tips) - [Archived.] Teammates asked for Python resources; here ya go! :)  For more up to date resources go here: https://github.com/alexmojaki/futurecoder and https://github.com/vinta/awesome-python#resources
 - [dive-into-machine-learning/dive-into-machine-learning](https://github.com/dive-into-machine-learning/dive-into-machine-learning) - Free ways to dive into machine learning with Python and Jupyter Notebook. Notebooks, courses, and other links. (First posted in 2016.)
 - [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
@@ -3603,7 +3600,7 @@
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
 - [argilla-io/argilla](https://github.com/argilla-io/argilla) - ✨Argilla: the open-source feedback platform for LLMs
 - [DLR-RM/stable-baselines3](https://github.com/DLR-RM/stable-baselines3) - PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms.
-- [mit-han-lab/streaming-llm](https://github.com/mit-han-lab/streaming-llm) - Efficient Streaming Language Models with Attention Sinks
+- [mit-han-lab/streaming-llm](https://github.com/mit-han-lab/streaming-llm) - [ICLR 2024] Efficient Streaming Language Models with Attention Sinks
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
 - [tairov/llama2.mojo](https://github.com/tairov/llama2.mojo) - Inference Llama 2 in one file of pure 🔥
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - ✨ Build AI interfaces that spark joy
@@ -3661,7 +3658,7 @@
 - [facebookresearch/DiT](https://github.com/facebookresearch/DiT) - Official PyTorch Implementation of "Scalable Diffusion Models with Transformers"
 - [openai/point-e](https://github.com/openai/point-e) - Point cloud diffusion for 3D model synthesis
 - [loglabs/mltrace](https://github.com/loglabs/mltrace) - Coarse-grained lineage and tracing for machine learning pipelines.
-- [boxed/django-fastdev](https://github.com/boxed/django-fastdev) - An app to make it faster and more fun to develop in Django
+- [boxed/django-fastdev](https://github.com/boxed/django-fastdev) - An app to make it safer, faster and more fun to develop in Django
 - [bashu/django-maintenancemode](https://github.com/bashu/django-maintenancemode) - 🛠 django-maintenancemode allows you to temporary shutdown your site for maintenance work
 - [Lenders-Cooperative/django-migration-snapshots](https://github.com/Lenders-Cooperative/django-migration-snapshots) - Create migration history snapshots for your Django project
 - [testcontainers/testcontainers-python](https://github.com/testcontainers/testcontainers-python) - Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests.
@@ -4156,7 +4153,7 @@
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [facebookresearch/WavAugment](https://github.com/facebookresearch/WavAugment) - A library for speech data augmentation in time-domain
 - [thu-ml/tianshou](https://github.com/thu-ml/tianshou) - An elegant PyTorch deep reinforcement learning library.
-- [ThilinaRajapakse/simpletransformers](https://github.com/ThilinaRajapakse/simpletransformers) - Transformers for Classification, NER, QA, Language Modelling, Language Generation, T5, Multi-Modal, and Conversational AI
+- [ThilinaRajapakse/simpletransformers](https://github.com/ThilinaRajapakse/simpletransformers) - Transformers for Information Retrieval, Text Classification, NER, QA, Language Modelling, Language Generation, T5, Multi-Modal, and Conversational AI
 - [plizonczyk/noiseprotocol](https://github.com/plizonczyk/noiseprotocol) - Noise Protocol Framework - Python 3 implementation
 - [jbesomi/texthero](https://github.com/jbesomi/texthero) - Text preprocessing, representation and visualization from zero to hero.
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
@@ -6776,7 +6773,6 @@
 - [pyca/cryptography](https://github.com/pyca/cryptography) - cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.
 - [alexprengere/FormalSystems](https://github.com/alexprengere/FormalSystems) - A Python implementation of Douglas Hofstadter formal systems, from his book "Gödel, Escher, Bach"
 - [apeeyush/machine-learning](https://github.com/apeeyush/machine-learning) - Demonstrates data munging, analysis and visualization techniques
-- [cigroup-ol/windml](https://github.com/cigroup-ol/windml) - The windML framework provides an easy-to-use access to wind data sources within the Python world, building upon numpy, scipy, sklearn, and matplotlib. Renewable Wind Energy, Forecasting, Prediction
 - [boto/boto](https://github.com/boto/boto) - For the latest version of boto, see https://github.com/boto/boto3 -- Python interface to Amazon Web Services
 - [redis/redis-py](https://github.com/redis/redis-py) - Redis Python Client
 - [os/slacker](https://github.com/os/slacker) - Full-featured Python interface for the Slack API
@@ -7055,7 +7051,7 @@
 - [zesterer/chumsky](https://github.com/zesterer/chumsky) - Write expressive, high-performance parsers with ease.
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
 - [hotg-ai/rune](https://github.com/hotg-ai/rune) - Rune provides containers to encapsulate and deploy edgeML pipelines and applications
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - The Postgres for streaming data. Engineered to offer the simplest and most cost-efficient way for event stream processing, analytics, and management.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - The Postgres for stream processing, analytics, and management. 🚀 10x easier. 🚀 10x more cost-efficient.
 - [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates
 - [JasonShin/elemental-system-designs](https://github.com/JasonShin/elemental-system-designs) - System Designs open for everyone
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
@@ -7659,7 +7655,7 @@
 - [huggingface/Mongoku](https://github.com/huggingface/Mongoku) - 🔥The Web-scale GUI for MongoDB
 - [vultix/ts-results](https://github.com/vultix/ts-results) - A typescript implementation of Rust's Result object.
 - [SkalskiP/make-sense](https://github.com/SkalskiP/make-sense) - Free to use online tool for labelling photos. https://makesense.ai
-- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Transpile curl commands into Python, JavaScript and 26 other languages
+- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Transpile curl commands into Python, JavaScript and 27 other languages
 - [hastic-zzz/hastic-server](https://github.com/hastic-zzz/hastic-server) - Hastic data management server for analyzing patterns and anomalies from Grafana
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
