@@ -115,6 +115,7 @@
 
 ## C 
 
+- [kost/android-elf-cleaner](https://github.com/kost/android-elf-cleaner) - Android ELF cleaner
 - [iovisor/bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 - [h2o/picohttpparser](https://github.com/h2o/picohttpparser) - tiny HTTP parser written in C (used in HTTP::Parser::XS et al.)
 - [google/sanitizers](https://github.com/google/sanitizers) - AddressSanitizer, ThreadSanitizer, MemorySanitizer
@@ -191,7 +192,6 @@
 - [tanersener/mobile-ffmpeg](https://github.com/tanersener/mobile-ffmpeg) - FFmpeg for Android, iOS and tvOS. Not maintained anymore. Superseded by FFmpegKit.
 - [cournape/talkbox](https://github.com/cournape/talkbox) - 
 - [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer
-- [blender/blender](https://github.com/blender/blender) - Official mirror of Blender
 - [nanomsg/nanomsg](https://github.com/nanomsg/nanomsg) - nanomsg library
 - [nyx-fuzz/libxdc](https://github.com/nyx-fuzz/libxdc) - The fastest Intel-PT decoder for fuzzing
 - [dpirch/libfvad](https://github.com/dpirch/libfvad) - Voice activity detection (VAD) library, based on WebRTC's VAD engine
@@ -419,6 +419,7 @@
 - [KDAB/hotspot](https://github.com/KDAB/hotspot) - The Linux perf GUI for performance analysis.
 - [Project-OSRM/osrm-backend](https://github.com/Project-OSRM/osrm-backend) - Open Source Routing Machine - C++ backend
 - [WiseLibs/better-sqlite3](https://github.com/WiseLibs/better-sqlite3) - The fastest and simplest library for SQLite3 in Node.js.
+- [blender/blender](https://github.com/blender/blender) - Official mirror of Blender
 - [cycfi/q](https://github.com/cycfi/q) - C++ Library for Audio Digital Signal Processing
 - [adamstark/Gist](https://github.com/adamstark/Gist) - A C++ Library for Audio Analysis
 - [MTG/essentia](https://github.com/MTG/essentia) - C++ library for audio and music analysis, description and synthesis, including Python bindings
@@ -2774,7 +2775,6 @@
 - [pytorch/tutorials](https://github.com/pytorch/tutorials) - PyTorch tutorials.
 - [ogrisel/euroscipy_2017_sklearn](https://github.com/ogrisel/euroscipy_2017_sklearn) - Notebooks for the EuroScipy 2017 tutorial (based on Adult Census income data)
 - [clesleycode/machine-learning-series-python](https://github.com/clesleycode/machine-learning-series-python) - 
-- [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
 - [llSourcell/Tensorflow-for-stock-prediction](https://github.com/llSourcell/Tensorflow-for-stock-prediction) - Use Tensorflow to run CNN for predict stock movement. Hope to find out which pattern will follow the price rising.
 - [yunjey/show-attend-and-tell](https://github.com/yunjey/show-attend-and-tell) - TensorFlow Implementation of "Show, Attend and Tell"
 - [clesleycode/cheatsheets](https://github.com/clesleycode/cheatsheets) - 
@@ -2924,6 +2924,7 @@
 
 ## Others 
 
+- [ashishps1/awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources) - This repository contains LeetCode articles which are very useful during the interview preparation.
 - [unblocktorrents/YTS-YIFY-Proxy](https://github.com/unblocktorrents/YTS-YIFY-Proxy) - YTS Proxy - 100% Working YTS Mirror Sites 2024
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) - Modern C++ Programming Course (C++11/14/17/20/23)
@@ -3669,7 +3670,7 @@
 - [davabase/whisper_real_time](https://github.com/davabase/whisper_real_time) - Real time transcription with OpenAI Whisper.
 - [BenBrock/reple](https://github.com/BenBrock/reple) - "Replay-based" REPLs for compiled languages.
 - [microsoft/torchscale](https://github.com/microsoft/torchscale) - Foundation Architecture for (M)LLMs
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [kzl/decision-transformer](https://github.com/kzl/decision-transformer) - Official codebase for Decision Transformer: Reinforcement Learning via Sequence Modeling.
 - [FlagAI-Open/FlagAI](https://github.com/FlagAI-Open/FlagAI) - FlagAI (Fast LArge-scale General AI models) is a fast, easy-to-use and extensible toolkit for large-scale model.
 - [CyberZHG/torch-multi-head-attention](https://github.com/CyberZHG/torch-multi-head-attention) - Multi-head attention in PyTorch
@@ -6648,6 +6649,7 @@
 - [dwyl/english-words](https://github.com/dwyl/english-words) - :memo: A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion
 - [ohld/igbot](https://github.com/ohld/igbot) - 🐙 Free scripts, bots and Python API wrapper. Get free followers with our auto like, auto follow and other scripts!
 - [phihag/ipaddress](https://github.com/phihag/ipaddress) - Python 3.3+'s ipaddress for older Python versions
+- [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
 - [crazyguitar/pysheeet](https://github.com/crazyguitar/pysheeet) - Python Cheat Sheet
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [minimaxir/reactionrnn](https://github.com/minimaxir/reactionrnn) - Python module + R package to predict the reactions to a given text using a pretrained recurrent neural network.
@@ -7051,7 +7053,7 @@
 - [zesterer/chumsky](https://github.com/zesterer/chumsky) - Write expressive, high-performance parsers with ease.
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
 - [hotg-ai/rune](https://github.com/hotg-ai/rune) - Rune provides containers to encapsulate and deploy edgeML pipelines and applications
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - The Postgres for stream processing, analytics, and management. 🚀 10x easier. 🚀 10x more cost-efficient.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Scalable Postgres for stream processing, analytics, and management. KsqlDB and Apache Flink alternative. 🚀 10x more productive. 🚀 10x more cost-efficient.
 - [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates
 - [JasonShin/elemental-system-designs](https://github.com/JasonShin/elemental-system-designs) - System Designs open for everyone
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
