@@ -1661,7 +1661,7 @@
 - [schollz/find3](https://github.com/schollz/find3) - High-precision indoor positioning framework, version 3.
 - [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
 - [hasura/gitkube](https://github.com/hasura/gitkube) - Build and deploy docker images to Kubernetes using git push
-- [gravitational/teleport](https://github.com/gravitational/teleport) - Protect access to all of your infrastructure.
+- [gravitational/teleport](https://github.com/gravitational/teleport) - Protect access to all of your infrastructure
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
 - [cristaloleg/go-advice](https://github.com/cristaloleg/go-advice) - List of advice and tricks for Go  ʕ◔ϖ◔ʔ
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
