@@ -1534,7 +1534,7 @@
 - [klauspost/compress](https://github.com/klauspost/compress) - Optimized Go Compression Packages
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [coinbase/odin](https://github.com/coinbase/odin) - Archived: Odin deployer to AWS for 12 Factor applications.
-- [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy and record video and audio streams.
+- [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
 - [smarty-prototypes/go-disruptor](https://github.com/smarty-prototypes/go-disruptor) - A port of the LMAX Disruptor to the Go language.
 - [urfave/negroni](https://github.com/urfave/negroni) - Idiomatic HTTP Middleware for Golang
 - [gorilla/mux](https://github.com/gorilla/mux) - Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍
@@ -1958,6 +1958,7 @@
 
 ## JavaScript 
 
+- [Xatta-Trone/medium-parser-extension](https://github.com/Xatta-Trone/medium-parser-extension) - Read medium.com and medium based articles using google web cache.
 - [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users.
 - [langchain-ai/langserve](https://github.com/langchain-ai/langserve) - LangServe 🦜️🏓
 - [facebook/jscodeshift](https://github.com/facebook/jscodeshift) - A JavaScript codemod toolkit.
@@ -3577,6 +3578,9 @@
 
 ## Python 
 
+- [approximatelabs/sketch](https://github.com/approximatelabs/sketch) - AI code-writing assistant that understands data content
+- [approximatelabs/datadm](https://github.com/approximatelabs/datadm) - DataDM is your private data assistant. Slide into your data's DMs
+- [kevingduck/ChatGPT-phone](https://github.com/kevingduck/ChatGPT-phone) - Demo of twilio
 - [tortoise/aerich](https://github.com/tortoise/aerich) - A database migrations tool for TortoiseORM, ready to production.
 - [transferwise/pipelinewise](https://github.com/transferwise/pipelinewise) - Data Pipeline Framework using the singer.io spec
 - [intel/intel-extension-for-transformers](https://github.com/intel/intel-extension-for-transformers) - ⚡ Build your chatbot within minutes on your favorite device; offer SOTA compression techniques for LLMs; run LLMs efficiently on Intel Platforms⚡
@@ -6805,7 +6809,7 @@
 - [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
 - [scikit-image/scikit-image](https://github.com/scikit-image/scikit-image) - Image processing in Python
-- [scikit-bio/scikit-bio](https://github.com/scikit-bio/scikit-bio) - scikit-bio is an open-source, BSD-licensed, Python package providing data structures, algorithms, and educational resources for bioinformatics.
+- [scikit-bio/scikit-bio](https://github.com/scikit-bio/scikit-bio) - scikit-bio: a community-driven Python library for bioinformatics, providing versatile data structures, algorithms and educational resources.
 - [gmcvicker/genome](https://github.com/gmcvicker/genome) - Python library and scripts for retrieval and storage of genomics data in HDF5 format
 - [daler/metaseq](https://github.com/daler/metaseq) - Framework for integrated analysis and plotting of ChIP/RIP/RNA/*-seq data
 - [michaelfairley/mincemeatpy](https://github.com/michaelfairley/mincemeatpy) - Lightweight MapReduce in python
