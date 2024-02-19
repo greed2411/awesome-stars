@@ -1748,7 +1748,6 @@
 - [reshamas/fastai_deeplearn_part1](https://github.com/reshamas/fastai_deeplearn_part1) - Notes for Fastai Deep Learning Course
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [emilwallner/Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website.
-- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 - [aaalgo/picpac](https://github.com/aaalgo/picpac) - An image database for deep learning.
 - [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 3rd Edition - Programming the Open Blockchain
 - [shagunsodhani/papers-I-read](https://github.com/shagunsodhani/papers-I-read) - A-Paper-A-Week
@@ -6412,6 +6411,7 @@
 - [zhangyijia1979/hierarchical-RNNs-model-for-DDI-extraction](https://github.com/zhangyijia1979/hierarchical-RNNs-model-for-DDI-extraction) - 
 - [rlcode/reinforcement-learning](https://github.com/rlcode/reinforcement-learning) - Minimal and Clean Reinforcement Learning Examples
 - [Jessime/youtube_history](https://github.com/Jessime/youtube_history) - A quick analysis of all Youtube videos in a user's history.
+- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 - [r9y9/deepvoice3_pytorch](https://github.com/r9y9/deepvoice3_pytorch) - PyTorch implementation of convolutional neural networks-based text-to-speech synthesis models
 - [geventhttpclient/geventhttpclient](https://github.com/geventhttpclient/geventhttpclient) - A high performance, concurrent http client library for python with gevent
 - [Wizaron/reseg-pytorch](https://github.com/Wizaron/reseg-pytorch) - PyTorch Implementation of ReSeg (https://arxiv.org/pdf/1511.07053.pdf)
