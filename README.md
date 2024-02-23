@@ -322,7 +322,7 @@
 
 - [root-project/cling](https://github.com/root-project/cling) - The cling C++ interpreter
 - [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - A simple one-file way to run various GGML and GGUF models with KoboldAI's UI
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [google/cld3](https://github.com/google/cld3) - 
 - [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficientl
@@ -726,6 +726,7 @@
 - [facebookresearch/StarSpace](https://github.com/facebookresearch/StarSpace) - Learning embeddings for classification, retrieval and ranking.
 - [apache/mxnet](https://github.com/apache/mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more
 - [fetlang/fetlang](https://github.com/fetlang/fetlang) - Fetish-themed programming language
+- [h2oai/h2o4gpu](https://github.com/h2oai/h2o4gpu) - H2Oai GPU Edition
 - [PaddlePaddle/Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite) - PaddlePaddle High Performance Deep Learning Inference Engine for Mobile and Edge (飞桨高性能深度学习端侧推理引擎）
 - [spotify/annoy](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
@@ -943,6 +944,7 @@
 
 ## Go 
 
+- [Praqma/helmsman](https://github.com/Praqma/helmsman) - Helm Charts as Code
 - [ihippik/wal-listener](https://github.com/ihippik/wal-listener) - PostgreSQL WAL listener
 - [u2takey/ffmpeg-go](https://github.com/u2takey/ffmpeg-go) - golang binding for ffmpeg
 - [aws/aws-sdk-go-v2](https://github.com/aws/aws-sdk-go-v2) - AWS SDK for the Go programming language.
@@ -1218,7 +1220,7 @@
 - [HotPotatoC/kvstore](https://github.com/HotPotatoC/kvstore) - 🗄️kvstore is an experimental in-memory database server compatible with the redis protocol (RESP).
 - [HotPotatoC/twitter-clone](https://github.com/HotPotatoC/twitter-clone) - 🕊 Twitter Clone developed using Go + Vue 3 + Vite + TailwindCSS + PostgreSQL + Redis
 - [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
-- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support
+- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis and PostgreSQL support
 - [vulcand/oxy](https://github.com/vulcand/oxy) - Go middlewares for HTTP servers & proxies
 - [sony/gobreaker](https://github.com/sony/gobreaker) - Circuit Breaker implemented in Go
 - [golang/vulndb](https://github.com/golang/vulndb) - [mirror] The Go Vulnerability Database
@@ -1465,7 +1467,7 @@
 - [contiamo/go-base](https://github.com/contiamo/go-base) - This module contains common packages for Contiamo projects written in Go
 - [gocraft/work](https://github.com/gocraft/work) - Process background jobs in Go
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
-- [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, PassKeys, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, accou
+- [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server replacing your Auth0, Okta, Firebase with hardened security and PassKeys, SMS, OIDC, Social Sign In, MFA, FIDO, TOTP and OTP, WebAuthn, passwordless and much more. Golang, hea
 - [ipfs/kubo](https://github.com/ipfs/kubo) - An IPFS implementation in Go
 - [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
 - [asdine/storm](https://github.com/asdine/storm) - Simple and powerful toolkit for BoltDB
@@ -1622,7 +1624,7 @@
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 - [google/differential-privacy](https://github.com/google/differential-privacy) - Google's differential privacy libraries.
 - [logrange/logrange](https://github.com/logrange/logrange) - High performance data aggregating storage
-- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite.
 - [libp2p/go-libp2p-pubsub](https://github.com/libp2p/go-libp2p-pubsub) - The PubSub implementation for go-libp2p
 - [muesli/gitomatic](https://github.com/muesli/gitomatic) - A tool to monitor git repositories and automatically pull & push changes
 - [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes
@@ -1847,7 +1849,7 @@
 - [queer/utt](https://github.com/queer/utt) - utt is the universal text transformer
 - [apache/chukwa](https://github.com/apache/chukwa) - Mirror of Apache Chukwa
 - [google/copybara](https://github.com/google/copybara) - Copybara: A tool for transforming and moving code between repositories.
-- [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Metadata Platform for the Modern Data Stack
+- [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Metadata Platform for your Data Stack
 - [real-logic/aeron](https://github.com/real-logic/aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport
 - [apache/seatunnel](https://github.com/apache/seatunnel) - SeaTunnel is a next-generation super high-performance, distributed, massive data integration tool.
 - [spotify/mobius](https://github.com/spotify/mobius) - A functional reactive framework for managing state evolution and side-effects.
@@ -2079,7 +2081,6 @@
 - [covid19india/covid19india-react](https://github.com/covid19india/covid19india-react) - Tracking the impact of COVID-19 in India
 - [VGraupera/1on1-questions](https://github.com/VGraupera/1on1-questions) - Mega list of 1 on 1 meeting questions compiled from a variety to sources
 - [uber/manifold](https://github.com/uber/manifold) - A model-agnostic visual debugging tool for machine learning
-- [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
 - [MagicStack/MagicPython](https://github.com/MagicStack/MagicPython) - Cutting edge Python syntax highlighter for Sublime Text, Atom and Visual Studio Code. Used by GitHub to highlight your Python code!
 - [4ian/GDevelop](https://github.com/4ian/GDevelop) - :video_game: Open-source, cross-platform game engine designed to be used by everyone.
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
@@ -2810,7 +2811,7 @@
 
 - [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
 - [infiniticio/infinitic](https://github.com/infiniticio/infinitic) - Infinitic is a scalable workflow engine for distributed services. It shines particularly by making complex orchestration simple. It can be used to reliably orchestrate microservices, manage distribute
-- [JetBrains/lets-plot](https://github.com/JetBrains/lets-plot) - Multiplatform plotting library based on Grammar of Graphics
+- [JetBrains/lets-plot](https://github.com/JetBrains/lets-plot) - Multiplatform plotting library based on the Grammar of Graphics
 - [Kotlin/kotlin-spark-api](https://github.com/Kotlin/kotlin-spark-api) - This projects gives Kotlin bindings and several extensions for Apache Spark. We are looking to have this as a part of Apache Spark 3.x
 - [JetBrains/Exposed](https://github.com/JetBrains/Exposed) - Kotlin SQL Framework
 - [dbacinski/Design-Patterns-In-Kotlin](https://github.com/dbacinski/Design-Patterns-In-Kotlin) - Design Patterns implemented in Kotlin
@@ -3072,7 +3073,7 @@
 - [cassidoo/getting-a-gig](https://github.com/cassidoo/getting-a-gig) - Guide for getting a gig as a tech student.
 - [mr-karan/awesome-investing](https://github.com/mr-karan/awesome-investing) - 💸💸 Curated list of investment & finance related resources
 - [georgezouq/awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) - 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market.
-- [servo/servo](https://github.com/servo/servo) - The Servo Browser Engine
+- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [priyankavergadia/google-cloud-4-words](https://github.com/priyankavergadia/google-cloud-4-words) - The Google Cloud Developer's Cheat Sheet
 - [madd86/awesome-system-design](https://github.com/madd86/awesome-system-design) - A curated list of awesome System Design (A.K.A. Distributed Systems) resources.
 - [bbatsov/clojure-style-guide](https://github.com/bbatsov/clojure-style-guide) - A community coding style guide for the Clojure programming language
@@ -4269,6 +4270,7 @@
 - [taki0112/UGATIT](https://github.com/taki0112/UGATIT) - Official Tensorflow implementation of U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation (ICLR 2020)
 - [realpython/flask-by-example](https://github.com/realpython/flask-by-example) - flask, heroku, environment variables, sqlalchemy, flask-migrate, redis
 - [kennethreitz/records](https://github.com/kennethreitz/records) - SQL for Humans™
+- [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
 - [theAIGuysCode/yolo-v3](https://github.com/theAIGuysCode/yolo-v3) - Yolo v3 object detection implemented with Tensorflow 2.0.
 - [magenta/ddsp](https://github.com/magenta/ddsp) - DDSP: Differentiable Digital Signal Processing
 - [iory/scikit-robot](https://github.com/iory/scikit-robot) - A Flexible Framework for Robot Control in Python
@@ -5336,7 +5338,7 @@
 - [delph-in/pydelphin](https://github.com/delph-in/pydelphin) - Python libraries for DELPH-IN
 - [lrank/Linguistic_adversity](https://github.com/lrank/Linguistic_adversity) - 
 - [tensorflow/mesh](https://github.com/tensorflow/mesh) - Mesh TensorFlow: Model Parallelism Made Easier
-- [pythonguis/15-minute-apps](https://github.com/pythonguis/15-minute-apps) - 15 minute (small) desktop apps built with PyQt
+- [pythonguis/15-minute-apps](https://github.com/pythonguis/15-minute-apps) - Demo desktop apps built with Python & Qt. With examples for PyQt6, PySide6, PyQt5 & PySide2
 - [mahasak/pytorch-deploy-model](https://github.com/mahasak/pytorch-deploy-model) - 
 - [VDIGPKU/M2Det](https://github.com/VDIGPKU/M2Det) - M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network
 - [ppwwyyxx/SoPaper](https://github.com/ppwwyyxx/SoPaper) - Automatically Search and Download Papers
@@ -5502,7 +5504,7 @@
 - [luannd/MinutiaeNet](https://github.com/luannd/MinutiaeNet) - Code and models for paper "Robust Minutiae Extractor: Integrating Deep Networks and Fingerprint Domain Knowledge" at International Conference on Biometrics (ICB) 2018
 - [brain-research/self-attention-gan](https://github.com/brain-research/self-attention-gan) - 
 - [zeusees/License-Plate-Detector](https://github.com/zeusees/License-Plate-Detector) - 基于Yolov5车牌检测,更快更准.
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The middleware for building custom AI, enabling smarter organizations.
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for building custom AI, enabling smarter organizations.
 - [minosworld/minos](https://github.com/minosworld/minos) - MINOS: Multimodal Indoor Simulator
 - [leonardblier/alrao](https://github.com/leonardblier/alrao) - Implementation of "Learning with Random Learning Rates" in PyTorch.
 - [NVIDIA/OpenSeq2Seq](https://github.com/NVIDIA/OpenSeq2Seq) - Toolkit for efficient experimentation with Speech Recognition, Text2Speech and NLP
@@ -6603,7 +6605,6 @@
 - [guitaowufeng/TPANN](https://github.com/guitaowufeng/TPANN) - 
 - [zooba/how-long](https://github.com/zooba/how-long) - A demo site for tracking how long your employees have been working for you.
 - [petrosgk/Kaggle-Carvana-Image-Masking-Challenge](https://github.com/petrosgk/Kaggle-Carvana-Image-Masking-Challenge) - Solution based on U-Net for the Kaggle Carvana Image Masking Challenge
-- [h2oai/h2o4gpu](https://github.com/h2oai/h2o4gpu) - H2Oai GPU Edition
 - [sigmavirus24/github3.py](https://github.com/sigmavirus24/github3.py) - Hi, I'm a library for interacting with GItHub's REST API in a convenient and ergonomic way. I work on Python 3.6+.
 - [kenshohara/3D-ResNets-PyTorch](https://github.com/kenshohara/3D-ResNets-PyTorch) - 3D ResNets for Action Recognition (CVPR 2018)
 - [SerpentAI/SerpentAI](https://github.com/SerpentAI/SerpentAI) - Game Agent Framework. Helping you create AIs / Bots that learn to play any game you own!
@@ -6847,7 +6848,7 @@
 - [Dvlv/Tkinter-By-Example](https://github.com/Dvlv/Tkinter-By-Example) - Learn Tkinter By Example - a free book
 - [fchollet/deep-learning-models](https://github.com/fchollet/deep-learning-models) - Keras code and weights files for popular deep learning models.
 - [merantix/picasso](https://github.com/merantix/picasso) - :art: A CNN visualizer
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [FerranMarin/whereToEatProEdition](https://github.com/FerranMarin/whereToEatProEdition) - 
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
 - [tpsatish95/Python-Workshop](https://github.com/tpsatish95/Python-Workshop) - 
@@ -7582,7 +7583,7 @@
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [egoist/bina](https://github.com/egoist/bina) - An installer for self-contained, single-file binaries, no additional CLI needed.
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform yo
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform you'll enjoy using
 - [tokiedokie/reveal-markdown](https://github.com/tokiedokie/reveal-markdown) - Revealjs vsCode extension
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
