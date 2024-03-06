@@ -130,7 +130,6 @@
 - [apache/age](https://github.com/apache/age) - Graph database optimized for fast analysis and real-time data processing. It is provided as an extension to PostgreSQL.
 - [P403n1x87/austin](https://github.com/P403n1x87/austin) - Python frame stack sampler for CPython
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
-- [praat/praat](https://github.com/praat/praat) - Praat: Doing Phonetics By Computer
 - [sraoss/pg_ivm](https://github.com/sraoss/pg_ivm) - IVM (Incremental View Maintenance) implementation as a PostgreSQL extension
 - [mlochbaum/rhsort](https://github.com/mlochbaum/rhsort) - Robin Hood Sort, for uniform data
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
@@ -224,7 +223,7 @@
 - [plasma-umass/coz](https://github.com/plasma-umass/coz) - Coz: Causal Profiling
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [ponylang/ponyc](https://github.com/ponylang/ponyc) - Pony is an open-source, actor-model, capabilities-secure, high performance programming language
-- [canonical/dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault tolerant SQL engine.
+- [canonical/dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault-tolerant SQL engine.
 - [Awesome-HarmonyOS/HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) - A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
 - [zerotier/lf](https://github.com/zerotier/lf) - Fully Decentralized Fully Replicated Key/Value Store
 - [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
@@ -338,6 +337,7 @@
 - [khizmax/libcds](https://github.com/khizmax/libcds) - A C++ library of Concurrent Data Structures
 - [cameron314/concurrentqueue](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11
 - [ceres-solver/ceres-solver](https://github.com/ceres-solver/ceres-solver) - A large scale non-linear optimization library
+- [praat/praat](https://github.com/praat/praat) - Praat: Doing Phonetics By Computer
 - [memgraph/memgraph](https://github.com/memgraph/memgraph) - Open-source graph database, built for real-time streaming data, compatible with Neo4j.
 - [pixie-io/pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability
 - [BehaviorTree/BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP) - Behavior Trees Library in C++. Batteries included.
@@ -366,6 +366,7 @@
 - [lewissbaker/cppcoro](https://github.com/lewissbaker/cppcoro) - A library of C++ coroutine abstractions for the coroutines TS
 - [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) - Multi-Joint dynamics with Contact. A general purpose physics simulator.
 - [google/language-resources](https://github.com/google/language-resources) - Datasets and tools for basic natural language processing.
+- [openai/triton](https://github.com/openai/triton) - Development repository for the Triton language and compiler
 - [BespokeSynth/BespokeSynth](https://github.com/BespokeSynth/BespokeSynth) - Software modular synth
 - [PlatformLab/NanoLog](https://github.com/PlatformLab/NanoLog) - Nanolog is an extremely performant nanosecond scale logging system for C++ that exposes a simple printf-like API.
 - [Hikari9/comfortable-swipe](https://github.com/Hikari9/comfortable-swipe) - Comfortable 3-finger and 4-finger swipe gesture using Xdotool in native C++
@@ -819,7 +820,7 @@
 - [matthiasn/systems-toolbox](https://github.com/matthiasn/systems-toolbox) - Tools and building blocks for building Systems in Clojure and ClojureScript
 - [walmartlabs/lacinia](https://github.com/walmartlabs/lacinia) - GraphQL implementation in pure Clojure
 - [taoensso/tufte](https://github.com/taoensso/tufte) - Simple performance monitoring library for Clojure/Script
-- [xtdb/xtdb](https://github.com/xtdb/xtdb) - The bitemporal database for regulated data. Developed by @juxt
+- [xtdb/xtdb](https://github.com/xtdb/xtdb) - An immutable database. Developed by @juxt
 - [metosin/malli](https://github.com/metosin/malli) - High-performance data-driven data specification library for Clojure/Script.
 - [siclait/6.824-cljlabs-2020](https://github.com/siclait/6.824-cljlabs-2020) - Clojure ports for the Spring 2020 labs of MIT's 6.824: Distributed Systems
 - [clojure-clutch/clutch](https://github.com/clojure-clutch/clutch) - A Clojure library for Apache CouchDB.
@@ -1229,7 +1230,7 @@
 - [treeverse/lakeFS](https://github.com/treeverse/lakeFS) - lakeFS - Data version control for your data lake | Git for data
 - [teh-cmc/go-internals](https://github.com/teh-cmc/go-internals) - A book about the internals of the Go programming language.
 - [kha7iq/pingme](https://github.com/kha7iq/pingme) - PingMe is a CLI which provides the ability to send messages or alerts to multiple messaging platforms & email.
-- [encoredev/encore](https://github.com/encoredev/encore) - Encore is the end-to-end Backend Development Platform that lets you escape cloud complexity.
+- [encoredev/encore](https://github.com/encoredev/encore) - Encore is the Backend Development Platform purpose-built to help you create event-driven and distributed systems.
 - [N0MoreSecr3ts/wraith](https://github.com/N0MoreSecr3ts/wraith) - Uncover forgotten secrets and bring them back to life, haunting security and operations teams.
 - [RedisLabs/redis-recommend](https://github.com/RedisLabs/redis-recommend) - Simple Redis Go recommendation engine
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
@@ -1494,7 +1495,7 @@
 - [holiman/bloomfilter](https://github.com/holiman/bloomfilter) - Face-meltingly fast, thread-safe, marshalable, unionable, probability- and optimal-size-calculating Bloom filter in go
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [gorgonia/gorgonia](https://github.com/gorgonia/gorgonia) - Gorgonia is a library that helps facilitate machine learning in Go.
-- [quic-go/quic-go](https://github.com/quic-go/quic-go) - A QUIC implementation in pure go
+- [quic-go/quic-go](https://github.com/quic-go/quic-go) - A QUIC implementation in pure Go
 - [libp2p/go-libp2p](https://github.com/libp2p/go-libp2p) - libp2p implementation in Go
 - [libp2p/go-libp2p-quic-transport](https://github.com/libp2p/go-libp2p-quic-transport) - An implementation of a libp2p transport using QUIC
 - [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger
@@ -1869,7 +1870,7 @@
 - [stanfordnlp/CoreNLP](https://github.com/stanfordnlp/CoreNLP) - CoreNLP: A Java suite of core NLP tools for tokenization, sentence segmentation, NER, parsing, coreference, sentiment analysis, etc.
 - [williamfiset/Algorithms](https://github.com/williamfiset/Algorithms) - A collection of algorithms and data structures
 - [linkedin/databus](https://github.com/linkedin/databus) - Source-agnostic distributed change data capture system
-- [ververica/flink-cdc-connectors](https://github.com/ververica/flink-cdc-connectors) - CDC Connectors for Apache Flink®
+- [apache/flink-cdc](https://github.com/apache/flink-cdc) - CDC Connectors for Apache Flink®
 - [airbnb/SpinalTap](https://github.com/airbnb/SpinalTap) - Change Data Capture (CDC) service
 - [zendesk/maxwell](https://github.com/zendesk/maxwell) - Maxwell's daemon, a mysql-to-json kafka producer
 - [debezium/debezium](https://github.com/debezium/debezium) - Change data capture for a variety of databases. Please log issues at https://issues.redhat.com/browse/DBZ.
@@ -2420,7 +2421,7 @@
 - [omerbsezer/Reinforcement_learning_tutorial_with_demo](https://github.com/omerbsezer/Reinforcement_learning_tutorial_with_demo) - Reinforcement Learning Tutorial with Demo: DP (Policy and Value Iteration), Monte Carlo, TD Learning (SARSA, QLearning), Function Approximation, Policy Gradient, DQN, Imitation, Meta Learning, Papers,
 - [FrancescoSaverioZuppichini/mirror](https://github.com/FrancescoSaverioZuppichini/mirror) - Visualisation tool for CNNs in pytorch
 - [hate-alert/HateALERT-EVALITA](https://github.com/hate-alert/HateALERT-EVALITA) - Code for replicating results of team 'hateminers' at EVALITA-2018 for AMI task
-- [huseinzol05/NLP-Models-Tensorflow](https://github.com/huseinzol05/NLP-Models-Tensorflow) - Gathers machine learning and Tensorflow deep learning models for NLP problems, 1.13 &lt; Tensorflow &lt; 2.0
+- [mesolitica/NLP-Models-Tensorflow](https://github.com/mesolitica/NLP-Models-Tensorflow) - Gathers machine learning and Tensorflow deep learning models for NLP problems, 1.13 &lt; Tensorflow &lt; 2.0
 - [catboost/tutorials](https://github.com/catboost/tutorials) - CatBoost tutorials repository
 - [Machine-Learning-Tokyo/Intro-to-GANs](https://github.com/Machine-Learning-Tokyo/Intro-to-GANs) - This code was developed for the Intro to GANs workshop for Machine Learning Tokyo (MLT).
 - [tfavory/pmlg-poem-generator](https://github.com/tfavory/pmlg-poem-generator) - 
@@ -3444,7 +3445,7 @@
 - [pemami4911/awesome-hyperparams](https://github.com/pemami4911/awesome-hyperparams) - A curated list of awesome hyperparameters for deep learning
 - [DopplerHQ/awesome-bots](https://github.com/DopplerHQ/awesome-bots) - The most awesome list about bots ⭐️🤖
 - [GKalliatakis/Delving-deep-into-GANs](https://github.com/GKalliatakis/Delving-deep-into-GANs) - Generative Adversarial Networks (GANs) resources sorted by citations
-- [javierluraschi/awesome-dataviz](https://github.com/javierluraschi/awesome-dataviz) - :chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.
+- [hal9ai/awesome-dataviz](https://github.com/hal9ai/awesome-dataviz) - :chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.
 - [DeepSpaceHarbor/Awesome-AI-Security](https://github.com/DeepSpaceHarbor/Awesome-AI-Security) - :file_folder: #AISecurity
 - [nightrome/really-awesome-gan](https://github.com/nightrome/really-awesome-gan) - A list of papers on Generative Adversarial (Neural) Networks
 - [savan77/The-GAN-World](https://github.com/savan77/The-GAN-World) - Everything about Generative Adversarial Networks
@@ -3580,6 +3581,7 @@
 
 ## Python 
 
+- [leondz/garak](https://github.com/leondz/garak) - LLM vulnerability scanner
 - [ncbi/GeneGPT](https://github.com/ncbi/GeneGPT) - Code and data for GeneGPT.
 - [approximatelabs/sketch](https://github.com/approximatelabs/sketch) - AI code-writing assistant that understands data content
 - [approximatelabs/datadm](https://github.com/approximatelabs/datadm) - DataDM is your private data assistant. Slide into your data's DMs
@@ -3841,7 +3843,6 @@
 - [facebookresearch/xformers](https://github.com/facebookresearch/xformers) - Hackable and optimized Transformers building blocks, supporting a composable construction.
 - [Mayukhdeb/torch-dreams](https://github.com/Mayukhdeb/torch-dreams) - Flexible Feature visualization on PyTorch, for research and art :mag_right: :computer: :brain: :art:
 - [yoshitomo-matsubara/torchdistill](https://github.com/yoshitomo-matsubara/torchdistill) - A coding-free framework built on PyTorch for reproducible deep learning studies. 🏆23 knowledge distillation methods presented at CVPR, ICLR, ECCV, NeurIPS, ICCV, etc are implemented so far. 🎁 Trained 
-- [openai/triton](https://github.com/openai/triton) - Development repository for the Triton language and compiler
 - [scikit-hep/awkward](https://github.com/scikit-hep/awkward) - Manipulate JSON-like data with NumPy-like idioms.
 - [PaddlePaddle/Parakeet](https://github.com/PaddlePaddle/Parakeet) - PAddle PARAllel text-to-speech toolKIT (supporting Tacotron2, Transformer TTS, FastSpeech2/FastPitch, SpeedySpeech, WaveFlow  and Parallel WaveGAN)
 - [dateutil/dateutil](https://github.com/dateutil/dateutil) - Useful extensions to the standard Python datetime features
@@ -4898,7 +4899,7 @@
 - [rezoo/illustration2vec](https://github.com/rezoo/illustration2vec) - A simple deep learning library for estimating a set of tags and extracting semantic feature vectors from given illustrations.
 - [tusen-ai/simpledet](https://github.com/tusen-ai/simpledet) - A Simple and Versatile Framework for Object Detection and Instance Recognition
 - [durandtibo/weldon.resnet.pytorch](https://github.com/durandtibo/weldon.resnet.pytorch) - 
-- [ibis-project/ibis](https://github.com/ibis-project/ibis) - The flexibility of Python with the scale and performance of modern SQL.
+- [ibis-project/ibis](https://github.com/ibis-project/ibis) - the portable Python dataframe library
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [sandialabs/Whetstone](https://github.com/sandialabs/Whetstone) - 
@@ -5367,7 +5368,7 @@
 - [nmhkahn/CARN-pytorch](https://github.com/nmhkahn/CARN-pytorch) - Fast, Accurate, and Lightweight Super-Resolution with Cascading Residual Network (ECCV 2018)
 - [2wins/SRMD-pytorch](https://github.com/2wins/SRMD-pytorch) - A PyTorch Implementation of "Learning a Single Convolutional Super-Resolution Network for Multiple Degradations"
 - [fregu856/3DOD_thesis](https://github.com/fregu856/3DOD_thesis) - 3D Object Detection for Autonomous Driving in PyTorch, trained on the KITTI dataset.
-- [kaiyuyue/cgnl-network.pytorch](https://github.com/kaiyuyue/cgnl-network.pytorch) - Compact Generalized Non-local Network (NIPS 2018)
+- [kaiyuyue/cgnl-network.pytorch](https://github.com/kaiyuyue/cgnl-network.pytorch) - Compact Generalized Non-local Network (NeurIPS 2018)
 - [ruotianluo/bert-convert-to-pth](https://github.com/ruotianluo/bert-convert-to-pth) - TensorFlow code and pre-trained models for BERT
 - [NVIDIA/Milano](https://github.com/NVIDIA/Milano) - Milano is a tool for automating hyper-parameters search for your models on a backend of your choice.
 - [google-research/bert](https://github.com/google-research/bert) - TensorFlow code and pre-trained models for BERT
@@ -5884,7 +5885,7 @@
 - [mapbox/robosat](https://github.com/mapbox/robosat) - Semantic segmentation on aerial and satellite imagery. Extracts features such as: buildings, parking lots, roads, water, clouds
 - [daniilidis-group/neural_renderer](https://github.com/daniilidis-group/neural_renderer) - A PyTorch port of the Neural 3D Mesh Renderer
 - [astorfi/TensorFlow-World](https://github.com/astorfi/TensorFlow-World) - :earth_americas: Simple and ready-to-use tutorials for TensorFlow
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
+- [kitao/pyxel](https://github.com/kitao/pyxel) - Retro Game Engine for Python
 - [TianhongDai/reinforcement-learning-algorithms](https://github.com/TianhongDai/reinforcement-learning-algorithms) - This repository contains most of pytorch implementation based classic deep reinforcement learning algorithms, including - DQN, DDQN, Dueling Network, DDPG, SAC, A2C, PPO, TRPO. (More algorithms are st
 - [keras-team/autokeras](https://github.com/keras-team/autokeras) - AutoML library for deep learning
 - [mkaz/termgraph](https://github.com/mkaz/termgraph) - a python command-line tool which draws basic graphs in the terminal
@@ -6923,6 +6924,7 @@
 
 ## Ruby 
 
+- [ankane/blazer](https://github.com/ankane/blazer) - Business intelligence made simple
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [lobsters/lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion
 - [ryanlecompte/redis_failover](https://github.com/ryanlecompte/redis_failover) - redis_failover is a ZooKeeper-based automatic master/slave failover solution for Ruby.
