@@ -534,7 +534,7 @@
 - [capnproto/capnproto](https://github.com/capnproto/capnproto) - Cap'n Proto serialization/RPC system - core tools and C++ library
 - [amzeratul/halley](https://github.com/amzeratul/halley) - A lightweight game engine written in modern C++
 - [facebook/SPARTA](https://github.com/facebook/SPARTA) - SPARTA is a library of software components specially designed for building high-performance static analyzers based on the theory of Abstract Interpretation.
-- [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, WatermelonDB, Apache Doris, Milvus, StarRocks
+- [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
 - [shrubb/box-convolutions](https://github.com/shrubb/box-convolutions) - PyTorch code for the "Deep Neural Networks with Box Convolutions" paper
 - [leela-zero/leela-zero](https://github.com/leela-zero/leela-zero) - Go engine with no human-provided knowledge, modeled after the AlphaGo Zero paper.
 - [xennygrimmato/Data-Structures-and-Algorithms](https://github.com/xennygrimmato/Data-Structures-and-Algorithms) - A collection of some implementations of data structures and algorithms.
@@ -1707,6 +1707,7 @@
 - [vadootvpeer/p2p-cdn-sdk-javascript](https://github.com/vadootvpeer/p2p-cdn-sdk-javascript) - Free p2p cdn github javascript sdk to reduce video streaming costs of live and on demand video using webrtc by upto 90% and improve scalability by 6x - 🚀 Vadootv 🚀
 - [hjacobs/kube-resource-report](https://github.com/hjacobs/kube-resource-report) - Report Kubernetes cluster and pod resource requests vs usage and generate static HTML
 - [orangeduck/BuildYourOwnLisp](https://github.com/orangeduck/BuildYourOwnLisp) - Learn C and build your own programming language in under 1000 lines of code!
+- [apache/mahout](https://github.com/apache/mahout) - Mirror of Apache Mahout
 - [sovereign/sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
 - [chiphuyen/machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design) - A booklet on machine learning systems design with exercises. NOT the repo for the book "Designing Machine Learning Systems"
 - [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
@@ -1921,7 +1922,6 @@
 - [logicalclocks/hopsworks](https://github.com/logicalclocks/hopsworks) - Hopsworks - Data-Intensive AI platform with a Feature Store
 - [apache/submarine](https://github.com/apache/submarine) - Submarine is Cloud Native Machine Learning Platform.
 - [beehive-lab/TornadoVM](https://github.com/beehive-lab/TornadoVM) - TornadoVM: A practical and efficient heterogeneous programming framework for managed languages
-- [apache/mahout](https://github.com/apache/mahout) - Mirror of Apache Mahout
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
 - [prestodb/presto](https://github.com/prestodb/presto) - The official home of the Presto distributed SQL query engine for big data
 - [graphhopper/jsprit](https://github.com/graphhopper/jsprit) - jsprit is a java based, open source toolkit for solving rich vehicle routing problems
@@ -2228,7 +2228,7 @@
 - [FluxML/Zygote.jl](https://github.com/FluxML/Zygote.jl) - 21st century AD
 - [probcomp/Gen.jl](https://github.com/probcomp/Gen.jl) - A general-purpose probabilistic programming system with programmable inference
 - [alan-turing-institute/MLJ.jl](https://github.com/alan-turing-institute/MLJ.jl) - A Julia machine learning framework
-- [SciML/DiffEqFlux.jl](https://github.com/SciML/DiffEqFlux.jl) - Universal neural differential equations with O(1) backprop, GPUs, and stiff+non-stiff DE solvers, demonstrating scientific machine learning (SciML) and physics-informed machine learning methods
+- [SciML/DiffEqFlux.jl](https://github.com/SciML/DiffEqFlux.jl) - Pre-built implicit layer architectures with O(1) backprop, GPUs, and stiff+non-stiff DE solvers, demonstrating scientific machine learning (SciML) and physics-informed machine learning methods
 - [mschauer/CausalInference.jl](https://github.com/mschauer/CausalInference.jl) - Causal inference, graphical models and structure learning in Julia
 - [JuliaLang/julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
 
@@ -2942,7 +2942,7 @@
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 - [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model
 - [huggingface/awesome-huggingface](https://github.com/huggingface/awesome-huggingface) - 🤗 A list of wonderful open-source projects & applications integrated with Hugging Face libraries.
-- [IMSoley/tasawwuf](https://github.com/IMSoley/tasawwuf) - Warning: there might be errors or mistranslation, it is always advised to read the original works in its original language.
+- [IMSoley/tasawwuf](https://github.com/IMSoley/tasawwuf) - Warning: There might be errors or mistranslations; it is always advisable to read the original works in their original language.
 - [Mooler0410/LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide) - A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers)
 - [getcursor/cursor](https://github.com/getcursor/cursor) - An AI-powered code editor based on VSCode 🤖
 - [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook) - A playbook for systematically maximizing the performance of deep learning models.
@@ -6022,7 +6022,7 @@
 - [google/dl_bounds](https://github.com/google/dl_bounds) - 
 - [Shawn1993/cnn-text-classification-pytorch](https://github.com/Shawn1993/cnn-text-classification-pytorch) - CNNs for Sentence Classification in PyTorch
 - [google-deepmind/scalable_agent](https://github.com/google-deepmind/scalable_agent) - A TensorFlow implementation of Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures.
-- [ncullen93/nitrain](https://github.com/ncullen93/nitrain) - Everything you need to train deep learning models on neuroimages
+- [ncullen93/nitrain](https://github.com/ncullen93/nitrain) - A neuroimaging-native framework for training deep learning models
 - [taki0112/Tensorflow-DatasetAPI](https://github.com/taki0112/Tensorflow-DatasetAPI) - Simple Tensorflow DatasetAPI Tutorial for reading image
 - [cedias/HAN-pytorch](https://github.com/cedias/HAN-pytorch) - (Deprecated) Hierarchical Attention Networks for Document Classification (https://www.cs.cmu.edu/~diyiy/docs/naacl16.pdf) - in Pytorch
 - [hollobit/All-About-the-GAN](https://github.com/hollobit/All-About-the-GAN) - All About the GANs(Generative Adversarial Networks) - Summarized lists for GAN
@@ -7211,7 +7211,7 @@
 - [sonos/tract](https://github.com/sonos/tract) - Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference
 - [sonos/dinghy](https://github.com/sonos/dinghy) - Easier cross-compilation for phones and single boards computers
 - [EmbarkStudios/rust-gpu](https://github.com/EmbarkStudios/rust-gpu) - 🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧
-- [akiradeveloper/lol](https://github.com/akiradeveloper/lol) - A Multi-Raft implementation in Rust language. lol = "Lane on Log"
+- [akiradeveloper/lolraft](https://github.com/akiradeveloper/lolraft) - A Multi-Raft implementation in Rust language. lol = "Lane on Log"
 - [silvia-odwyer/photon](https://github.com/silvia-odwyer/photon) - ⚡ Rust/WebAssembly image processing library
 - [austinjones/lifeline-rs](https://github.com/austinjones/lifeline-rs) - A dependency injection library for message-based applications
 - [http-rs/surf](https://github.com/http-rs/surf) - Fast and friendly HTTP client framework for async Rust
