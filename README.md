@@ -1005,7 +1005,7 @@
 - [grafana/phlare](https://github.com/grafana/phlare) - 🔥 horizontally-scalable, highly-available, multi-tenant continuous profiling aggregation system
 - [cloudwego/kitex](https://github.com/cloudwego/kitex) - Go RPC framework with high-performance and strong-extensibility for building micro-services.
 - [cloudwego/hertz](https://github.com/cloudwego/hertz) - Go HTTP framework with high-performance and strong-extensibility for building micro-services.
-- [GoogleCloudPlatform/spark-on-k8s-operator](https://github.com/GoogleCloudPlatform/spark-on-k8s-operator) - Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes.
+- [kubeflow/spark-operator](https://github.com/kubeflow/spark-operator) - Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes.
 - [argoproj/argo-events](https://github.com/argoproj/argo-events) - Event-driven Automation Framework for Kubernetes
 - [k8spacket/k8spacket](https://github.com/k8spacket/k8spacket) - k8spacket - packets traffic visualization for kubernetes
 - [kubeshop/tracetest](https://github.com/kubeshop/tracetest) - 🔭 Tracetest - Build integration and end-to-end tests in minutes, instead of days, using OpenTelemetry and trace-based testing.
@@ -1226,7 +1226,7 @@
 - [vulcand/oxy](https://github.com/vulcand/oxy) - Go middlewares for HTTP servers & proxies
 - [sony/gobreaker](https://github.com/sony/gobreaker) - Circuit Breaker implemented in Go
 - [golang/vulndb](https://github.com/golang/vulndb) - [mirror] The Go Vulnerability Database
-- [knadh/sql-jobber](https://github.com/knadh/sql-jobber) - A highly opinionated, distributed job-queue built specifically for queuing and executing heavy SQL read jobs asynchronously. Supports MySQL, Postgres, ClickHouse.
+- [zerodha/dungbeetle](https://github.com/zerodha/dungbeetle) - A highly opinionated, distributed job-queue built specifically for queuing and executing heavy SQL read jobs asynchronously. Supports MySQL, Postgres, ClickHouse.
 - [treeverse/lakeFS](https://github.com/treeverse/lakeFS) - lakeFS - Data version control for your data lake | Git for data
 - [teh-cmc/go-internals](https://github.com/teh-cmc/go-internals) - A book about the internals of the Go programming language.
 - [kha7iq/pingme](https://github.com/kha7iq/pingme) - PingMe is a CLI which provides the ability to send messages or alerts to multiple messaging platforms & email.
@@ -1871,7 +1871,7 @@
 - [stanfordnlp/CoreNLP](https://github.com/stanfordnlp/CoreNLP) - CoreNLP: A Java suite of core NLP tools for tokenization, sentence segmentation, NER, parsing, coreference, sentiment analysis, etc.
 - [williamfiset/Algorithms](https://github.com/williamfiset/Algorithms) - A collection of algorithms and data structures
 - [linkedin/databus](https://github.com/linkedin/databus) - Source-agnostic distributed change data capture system
-- [apache/flink-cdc](https://github.com/apache/flink-cdc) - CDC Connectors for Apache Flink®
+- [apache/flink-cdc](https://github.com/apache/flink-cdc) - Flink CDC is a streaming data integration tool
 - [airbnb/SpinalTap](https://github.com/airbnb/SpinalTap) - Change Data Capture (CDC) service
 - [zendesk/maxwell](https://github.com/zendesk/maxwell) - Maxwell's daemon, a mysql-to-json kafka producer
 - [debezium/debezium](https://github.com/debezium/debezium) - Change data capture for a variety of databases. Please log issues at https://issues.redhat.com/browse/DBZ.
@@ -3218,7 +3218,7 @@
 - [Conchylicultor/Deep-Learning-Tricks](https://github.com/Conchylicultor/Deep-Learning-Tricks) - Enumerate diverse machine learning training tricks.
 - [dgryski/awesome-consensus](https://github.com/dgryski/awesome-consensus) - Awesome list for Paxos and friends
 - [AbangLZU/Awesome-Autonomous-Driving](https://github.com/AbangLZU/Awesome-Autonomous-Driving) - 
-- [fregu856/papers](https://github.com/fregu856/papers) - I categorize, annotate and write comments for all research papers I read (370+ papers since 2018).
+- [fregu856/papers](https://github.com/fregu856/papers) - I categorize, annotate and write comments for all research papers I read (380+ papers since 2018).
 - [sshkhr/awesome-mlss](https://github.com/sshkhr/awesome-mlss) - List of summer schools in machine learning + related fields across the globe
 - [dakshshah96/awesome-startup-credits](https://github.com/dakshshah96/awesome-startup-credits) - ✨ A collection of awesome companies offering free/discounted plans for eligible startups
 - [jinwchoi/awesome-action-recognition](https://github.com/jinwchoi/awesome-action-recognition) - A curated list of action recognition and related area resources
@@ -3639,7 +3639,7 @@
 - [django/asgiref](https://github.com/django/asgiref) - ASGI specification and utilities
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 - [abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python) - Python bindings for llama.cpp
-- [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
+- [meta-llama/llama](https://github.com/meta-llama/llama) - Inference code for Llama models
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
 - [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
 - [OptimalScale/LMFlow](https://github.com/OptimalScale/LMFlow) - An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Models for All.
@@ -5368,7 +5368,7 @@
 - [nmhkahn/CARN-pytorch](https://github.com/nmhkahn/CARN-pytorch) - Fast, Accurate, and Lightweight Super-Resolution with Cascading Residual Network (ECCV 2018)
 - [2wins/SRMD-pytorch](https://github.com/2wins/SRMD-pytorch) - A PyTorch Implementation of "Learning a Single Convolutional Super-Resolution Network for Multiple Degradations"
 - [fregu856/3DOD_thesis](https://github.com/fregu856/3DOD_thesis) - 3D Object Detection for Autonomous Driving in PyTorch, trained on the KITTI dataset.
-- [kaiyuyue/cgnl-network.pytorch](https://github.com/kaiyuyue/cgnl-network.pytorch) - Compact Generalized Non-local Network (NeurIPS 2018)
+- [kaiyuyue/cgnl-network.pytorch](https://github.com/kaiyuyue/cgnl-network.pytorch) - Compact Generalized Non-local Network (NIPS 2018)
 - [ruotianluo/bert-convert-to-pth](https://github.com/ruotianluo/bert-convert-to-pth) - TensorFlow code and pre-trained models for BERT
 - [NVIDIA/Milano](https://github.com/NVIDIA/Milano) - Milano is a tool for automating hyper-parameters search for your models on a backend of your choice.
 - [google-research/bert](https://github.com/google-research/bert) - TensorFlow code and pre-trained models for BERT
@@ -6022,7 +6022,7 @@
 - [google/dl_bounds](https://github.com/google/dl_bounds) - 
 - [Shawn1993/cnn-text-classification-pytorch](https://github.com/Shawn1993/cnn-text-classification-pytorch) - CNNs for Sentence Classification in PyTorch
 - [google-deepmind/scalable_agent](https://github.com/google-deepmind/scalable_agent) - A TensorFlow implementation of Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures.
-- [ncullen93/nitrain](https://github.com/ncullen93/nitrain) - A neuroimaging-native framework for training deep learning models
+- [ncullen93/nitrain](https://github.com/ncullen93/nitrain) - Train AI models natively on medical images using torch, keras, or tensorflow
 - [taki0112/Tensorflow-DatasetAPI](https://github.com/taki0112/Tensorflow-DatasetAPI) - Simple Tensorflow DatasetAPI Tutorial for reading image
 - [cedias/HAN-pytorch](https://github.com/cedias/HAN-pytorch) - (Deprecated) Hierarchical Attention Networks for Document Classification (https://www.cs.cmu.edu/~diyiy/docs/naacl16.pdf) - in Pytorch
 - [hollobit/All-About-the-GAN](https://github.com/hollobit/All-About-the-GAN) - All About the GANs(Generative Adversarial Networks) - Summarized lists for GAN
@@ -6578,7 +6578,7 @@
 - [tensorflow/lattice](https://github.com/tensorflow/lattice) - Lattice methods in TensorFlow
 - [tpsatish95/indus-script-ocr](https://github.com/tpsatish95/indus-script-ocr) - The Indus script optical grapheme recognition engine (from archaeological artifact images)
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [mattupstate/flask-security](https://github.com/mattupstate/flask-security) - Quick and simple security for Flask applications
+- [pallets-eco/flask-security](https://github.com/pallets-eco/flask-security) - Quick and simple security for Flask applications
 - [maxcountryman/flask-seasurf](https://github.com/maxcountryman/flask-seasurf) - SeaSurf is a Flask extension for preventing cross-site request forgery (CSRF).
 - [ask/flask-celery](https://github.com/ask/flask-celery) - Celery integration for Flask (SINCE CELERY 3.0 THIS IS NO LONGER NEEDED)
 - [tryolabs/luminoth](https://github.com/tryolabs/luminoth) - Deep Learning toolkit for Computer Vision.
