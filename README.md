@@ -3581,6 +3581,7 @@
 
 ## Python 
 
+- [xfactlab/orpo](https://github.com/xfactlab/orpo) - Official repository for ORPO
 - [leondz/garak](https://github.com/leondz/garak) - LLM vulnerability scanner
 - [ncbi/GeneGPT](https://github.com/ncbi/GeneGPT) - Code and data for GeneGPT.
 - [approximatelabs/sketch](https://github.com/approximatelabs/sketch) - AI code-writing assistant that understands data content
@@ -6022,7 +6023,7 @@
 - [google/dl_bounds](https://github.com/google/dl_bounds) - 
 - [Shawn1993/cnn-text-classification-pytorch](https://github.com/Shawn1993/cnn-text-classification-pytorch) - CNNs for Sentence Classification in PyTorch
 - [google-deepmind/scalable_agent](https://github.com/google-deepmind/scalable_agent) - A TensorFlow implementation of Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures.
-- [ncullen93/nitrain](https://github.com/ncullen93/nitrain) - Train AI models natively on medical images using torch, keras, or tensorflow
+- [ncullen93/nitrain](https://github.com/ncullen93/nitrain) - An easier way to train AI models on medical images locally or in the cloud
 - [taki0112/Tensorflow-DatasetAPI](https://github.com/taki0112/Tensorflow-DatasetAPI) - Simple Tensorflow DatasetAPI Tutorial for reading image
 - [cedias/HAN-pytorch](https://github.com/cedias/HAN-pytorch) - (Deprecated) Hierarchical Attention Networks for Document Classification (https://www.cs.cmu.edu/~diyiy/docs/naacl16.pdf) - in Pytorch
 - [hollobit/All-About-the-GAN](https://github.com/hollobit/All-About-the-GAN) - All About the GANs(Generative Adversarial Networks) - Summarized lists for GAN
@@ -6960,7 +6961,7 @@
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - Cross-platform, safe, pure-rust graphics api.
 - [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) - Distributed stream processing engine in Rust
 - [exograph/exograph](https://github.com/exograph/exograph) - Build production-ready backends in minutes
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported.
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. Available on GreptimeCloud.
 - [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
 - [aaronabramov/k9](https://github.com/aaronabramov/k9) - Rust testing library
 - [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3) - A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
