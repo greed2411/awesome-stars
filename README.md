@@ -5056,7 +5056,7 @@
 - [facebookresearch/instpred](https://github.com/facebookresearch/instpred) - Predicting Future Instance Segmentation by Forecasting Convolutional Features
 - [jalexvig/cnns](https://github.com/jalexvig/cnns) - Barebones implementations of CNNs
 - [Breakend/AdversarialGain](https://github.com/Breakend/AdversarialGain) - 
-- [iterative/dvc](https://github.com/iterative/dvc) - 🦉 ML Experiments Management with Git
+- [iterative/dvc](https://github.com/iterative/dvc) - 🦉 ML Experiments and Data Management with Git
 - [inclement/lapidary-ai](https://github.com/inclement/lapidary-ai) - 
 - [AMLab-Amsterdam/L0_regularization](https://github.com/AMLab-Amsterdam/L0_regularization) - Learning Sparse Neural Networks through L0 regularization
 - [lrjconan/LanczosNetwork](https://github.com/lrjconan/LanczosNetwork) - Lanczos Network, Graph Neural Networks, Deep Graph Convolutional Networks, Deep Learning on Graph Structured Data, QM8 Quantum Chemistry Benchmark, ICLR 2019
@@ -5886,7 +5886,6 @@
 - [mapbox/robosat](https://github.com/mapbox/robosat) - Semantic segmentation on aerial and satellite imagery. Extracts features such as: buildings, parking lots, roads, water, clouds
 - [daniilidis-group/neural_renderer](https://github.com/daniilidis-group/neural_renderer) - A PyTorch port of the Neural 3D Mesh Renderer
 - [astorfi/TensorFlow-World](https://github.com/astorfi/TensorFlow-World) - :earth_americas: Simple and ready-to-use tutorials for TensorFlow
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [TianhongDai/reinforcement-learning-algorithms](https://github.com/TianhongDai/reinforcement-learning-algorithms) - This repository contains most of pytorch implementation based classic deep reinforcement learning algorithms, including - DQN, DDQN, Dueling Network, DDPG, SAC, A2C, PPO, TRPO. (More algorithms are st
 - [keras-team/autokeras](https://github.com/keras-team/autokeras) - AutoML library for deep learning
 - [mkaz/termgraph](https://github.com/mkaz/termgraph) - a python command-line tool which draws basic graphs in the terminal
@@ -6023,7 +6022,7 @@
 - [google/dl_bounds](https://github.com/google/dl_bounds) - 
 - [Shawn1993/cnn-text-classification-pytorch](https://github.com/Shawn1993/cnn-text-classification-pytorch) - CNNs for Sentence Classification in PyTorch
 - [google-deepmind/scalable_agent](https://github.com/google-deepmind/scalable_agent) - A TensorFlow implementation of Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures.
-- [ncullen93/nitrain](https://github.com/ncullen93/nitrain) - An easier way to train AI models on medical images locally or in the cloud
+- [ncullen93/nitrain](https://github.com/ncullen93/nitrain) - The easiest way to train AI models on medical images locally or in the cloud
 - [taki0112/Tensorflow-DatasetAPI](https://github.com/taki0112/Tensorflow-DatasetAPI) - Simple Tensorflow DatasetAPI Tutorial for reading image
 - [cedias/HAN-pytorch](https://github.com/cedias/HAN-pytorch) - (Deprecated) Hierarchical Attention Networks for Document Classification (https://www.cs.cmu.edu/~diyiy/docs/naacl16.pdf) - in Pytorch
 - [hollobit/All-About-the-GAN](https://github.com/hollobit/All-About-the-GAN) - All About the GANs(Generative Adversarial Networks) - Summarized lists for GAN
@@ -7388,6 +7387,7 @@
 - [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
 - [cswinter/LocustDB](https://github.com/cswinter/LocustDB) - Massively parallel, high performance analytics database that will rapidly devour all of your data.
 - [atom-archive/xray](https://github.com/atom-archive/xray) - An experimental next-generation Electron-based text editor
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [jrmuizel/pdf-extract](https://github.com/jrmuizel/pdf-extract) - A rust library for extracting content from pdfs
 - [stevedonovan/gentle-intro](https://github.com/stevedonovan/gentle-intro) - A gentle Rust tutorial
@@ -7549,7 +7549,7 @@
 
 ## TypeScript 
 
-- [reorproject/reor](https://github.com/reorproject/reor) - AI note-taking app that runs models locally.
+- [reorproject/reor](https://github.com/reorproject/reor) - Self-organizing AI note-taking app that runs models locally.
 - [FL33TW00D/whisper-turbo](https://github.com/FL33TW00D/whisper-turbo) - Cross-Platform, GPU Accelerated Whisper 🏎️
 - [civitai/civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
