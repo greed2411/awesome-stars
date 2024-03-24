@@ -760,7 +760,6 @@
 - [malllabiisc/RESIDE](https://github.com/malllabiisc/RESIDE) - EMNLP 2018: RESIDE: Improving Distantly-Supervised Neural Relation Extraction using Side Information
 - [maxchehab/CSS-Keylogging](https://github.com/maxchehab/CSS-Keylogging) - Chrome extension and Express server that exploits keylogging abilities of CSS.
 - [dhg/Skeleton](https://github.com/dhg/Skeleton) - Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development
-- [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [ospc-org/ospc.org](https://github.com/ospc-org/ospc.org) - Source code for PolicyBrain, ospc.org, and related assets.
 - [vicky002/AlgoWiki](https://github.com/vicky002/AlgoWiki) - Repository which contains links and resources on different topics of Computer Science.
 - [alexandrevicenzi/Flex](https://github.com/alexandrevicenzi/Flex) - The minimalist Pelican theme.
@@ -1729,7 +1728,6 @@
 - [yandexdataschool/ml-training-website](https://github.com/yandexdataschool/ml-training-website) - ML Training website
 - [LingDong-/shan-shui-inf](https://github.com/LingDong-/shan-shui-inf) - Procedurally generated Chinese landscape painting.
 - [cardwizard/QuickUI](https://github.com/cardwizard/QuickUI) - Quickly create a UI for any python file with a CLI
-- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [kfiraberman/neural_best_buddies](https://github.com/kfiraberman/neural_best_buddies) - An algorithm for sparse semantic correspondence between images of different categories [SIGGRAPH 2018]
 - [robertness/causal_demon](https://github.com/robertness/causal_demon) - 
 - [solid/solid](https://github.com/solid/solid) - Solid - Re-decentralizing the web (project directory)
@@ -2414,6 +2412,7 @@
 - [JWarmenhoven/ISLR-python](https://github.com/JWarmenhoven/ISLR-python) - An Introduction to Statistical Learning (James, Witten, Hastie, Tibshirani, 2013): Python code
 - [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
 - [wangz10/class_imbalance](https://github.com/wangz10/class_imbalance) - Jupyter Notebook presentation for class imbalance in binary classification
+- [GMvandeVen/continual-learning](https://github.com/GMvandeVen/continual-learning) - PyTorch implementation of various methods for continual learning (XdG, EWC, SI, LwF, FROMP, DGR, BI-R, ER, A-GEM, iCaRL, Generative Classifier) in three different scenarios.
 - [awjuliani/oreilly-rl-tutorial](https://github.com/awjuliani/oreilly-rl-tutorial) - Contains Jupyter notebooks associated with the "Deep Reinforcement Learning Tutorial" tutorial given at the O'Reilly 2017 NYC AI Conference.
 - [bayesgroup/deepbayes-2018](https://github.com/bayesgroup/deepbayes-2018) - Seminars DeepBayes Summer School 2018
 - [Hvass-Labs/FinanceOps](https://github.com/Hvass-Labs/FinanceOps) - Research in investment finance with Python Notebooks
@@ -3599,7 +3598,7 @@
 - [remyxai/FFMPerative](https://github.com/remyxai/FFMPerative) - Chat to Compose Video
 - [huggingface/distil-whisper](https://github.com/huggingface/distil-whisper) - Distilled variant of Whisper for speech recognition. 6x faster, 50% smaller, within 1% word error rate.
 - [HumanSignal/Adala](https://github.com/HumanSignal/Adala) - Adala: Autonomous DAta (Labeling) Agent framework
-- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - Web apps in pure Python. 🐍
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [openai/openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
 - [JohnSnowLabs/langtest](https://github.com/JohnSnowLabs/langtest) - Deliver safe & effective language models
 - [astrofrog/psrecord](https://github.com/astrofrog/psrecord) - Record the CPU and memory activity of a process :chart_with_upwards_trend:
@@ -5101,7 +5100,6 @@
 - [obskyr/colorgram.py](https://github.com/obskyr/colorgram.py) - A Python module for extracting colors from images. Get a palette of any picture!
 - [thinkingmachines/christmAIs](https://github.com/thinkingmachines/christmAIs) - Text to abstract art generation for the holidays!
 - [MandyMo/pytorch_HMR](https://github.com/MandyMo/pytorch_HMR) - pytorch version of "End-to-end Recovery of Human Shape and Pose"
-- [GMvandeVen/continual-learning](https://github.com/GMvandeVen/continual-learning) - PyTorch implementation of various methods for continual learning (XdG, EWC, SI, LwF, FROMP, DGR, BI-R, ER, A-GEM, iCaRL, Generative Classifier) in three different scenarios.
 - [sniklaus/pytorch-spynet](https://github.com/sniklaus/pytorch-spynet) - a reimplementation of Optical Flow Estimation using a Spatial Pyramid Network in PyTorch
 - [IBM/Graph2Seq](https://github.com/IBM/Graph2Seq) - Graph2Seq is a simple code for building a graph-encoder and sequence-decoder for NLP and other AI/ML/DL tasks.
 - [basveeling/keras-gcnn](https://github.com/basveeling/keras-gcnn) - Roto-reflection equivariant CNNs for Keras as presented in B. S. Veeling, J. Linmans, J. Winkens, T. Cohen, M. Welling. "Rotation Equivariant CNNs for Digital Pathology".
@@ -7395,6 +7393,7 @@
 ## SCSS 
 
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
+- [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 
 ## Sass 
 
@@ -7686,6 +7685,7 @@
 - [plasma-umass/BLeak](https://github.com/plasma-umass/BLeak) - BLeak: Automatically Debugging Memory Leaks in Web Applications
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [microsoft/VoTT](https://github.com/microsoft/VoTT) - Visual Object Tagging Tool: An electron app for building end to end Object Detection Models from Images and Videos.
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [tensorflow/tfjs-vis](https://github.com/tensorflow/tfjs-vis) - A set of utilities for in browser visualization with TensorFlow.js
 - [tensorflow/tensorboard](https://github.com/tensorflow/tensorboard) - TensorFlow's Visualization Toolkit
 - [machinelearnjs/machinelearnjs](https://github.com/machinelearnjs/machinelearnjs) - Machine Learning library for the web and Node.
