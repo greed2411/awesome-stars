@@ -882,7 +882,6 @@
 
 - [pytries/marisa-trie](https://github.com/pytries/marisa-trie) - Static memory-efficient Trie-like structures for Python based on marisa-trie C++ library.
 - [TA-Lib/ta-lib-python](https://github.com/TA-Lib/ta-lib-python) - Python wrapper for TA-Lib (http://ta-lib.org/).
-- [luvsound/pippi](https://github.com/luvsound/pippi) - computer music with python. this is a mirror of https://git.sr.ht/~hecanjog/pippi
 - [rushter/selectolax](https://github.com/rushter/selectolax) - Python binding to Modest and Lexbor engines (fast HTML5 parser with CSS selectors).
 - [MagicStack/uvloop](https://github.com/MagicStack/uvloop) - Ultra fast asyncio event loop.
 
@@ -4631,7 +4630,7 @@
 - [jpetrucciani/bash.py](https://github.com/jpetrucciani/bash.py) - An inline Bash script runner, for Python.
 - [Neoteroi/BlackSheep](https://github.com/Neoteroi/BlackSheep) - Fast ASGI web framework for Python
 - [unknown-horizons/unknown-horizons](https://github.com/unknown-horizons/unknown-horizons) - Unknown Horizons official code repository
-- [megvii-research/ICCV2019-LearningToPaint](https://github.com/megvii-research/ICCV2019-LearningToPaint) - ICCV2019 - Learning to Paint With Model-based Deep Reinforcement Learning
+- [hzwer/ICCV2019-LearningToPaint](https://github.com/hzwer/ICCV2019-LearningToPaint) - ICCV2019 - Learning to Paint With Model-based Deep Reinforcement Learning
 - [facebookresearch/OctConv](https://github.com/facebookresearch/OctConv) - Code for paper
 - [sisl/MADRL](https://github.com/sisl/MADRL) - Repo containing code for multi-agent deep reinforcement learning (MADRL).
 - [xuehy/pytorch-maddpg](https://github.com/xuehy/pytorch-maddpg) - A pytorch implementation of MADDPG (multi-agent deep deterministic policy gradient)
@@ -6326,7 +6325,7 @@
 - [smoqadam/PyFladesk](https://github.com/smoqadam/PyFladesk) - create desktop application by using Flask and QtWebKit
 - [bisguzar/twitter-scraper](https://github.com/bisguzar/twitter-scraper) - Scrape the Twitter Frontend API without authentication.
 - [llSourcell/Landing-a-SpaceX-Falcon-Heavy-Rocket](https://github.com/llSourcell/Landing-a-SpaceX-Falcon-Heavy-Rocket) - This is the code for "Landing a SpaceX Falcon Heavy Rocket" By Siraj Raval on Youtube
-- [megvii-research/NIPS2017-LearningToRunACE](https://github.com/megvii-research/NIPS2017-LearningToRunACE) - 2nd place solution of NIPS2017 LearningToRun Competition.
+- [hzwer/NIPS2017-LearningToRunACE](https://github.com/hzwer/NIPS2017-LearningToRunACE) - 2nd place solution of NIPS2017 LearningToRun Competition.
 - [shekkizh/ImageProcessingProjects](https://github.com/shekkizh/ImageProcessingProjects) - Image processing using python and opencv
 - [miguelgrinberg/python-socketio](https://github.com/miguelgrinberg/python-socketio) - Python Socket.IO server and client
 - [hhsecond/PyTorchDemystified](https://github.com/hhsecond/PyTorchDemystified) - Introduction to PyTorch and dynamic computation graph
