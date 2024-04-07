@@ -10,6 +10,7 @@
 - [Awk](#awk)
 - [Batchfile](#batchfile)
 - [Bikeshed](#bikeshed)
+- [BitBake](#bitbake)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -112,6 +113,10 @@
 ## Bikeshed 
 
 - [w3c/webtransport](https://github.com/w3c/webtransport) - WebTransport is a web API for flexible data transport
+
+## BitBake 
+
+- [osai-ai/dokai](https://github.com/osai-ai/dokai) - Collection of Docker images for ML/DL and video processing projects
 
 ## C 
 
@@ -978,7 +983,7 @@
 - [benthosdev/benthos](https://github.com/benthosdev/benthos) - Fancy stream processing made operationally mundane
 - [rilldata/rill](https://github.com/rilldata/rill) - Rill is a tool for effortlessly transforming data sets into powerful, opinionated dashboards using SQL.  BI-as-code.
 - [sosedoff/pgweb](https://github.com/sosedoff/pgweb) - Cross-platform client for PostgreSQL databases
-- [XenitAB/spegel](https://github.com/XenitAB/spegel) - Stateless cluster local OCI registry mirror.
+- [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror.
 - [backube/volsync](https://github.com/backube/volsync) - Asynchronous data replication for Kubernetes volumes
 - [gorilla/websocket](https://github.com/gorilla/websocket) - Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
 - [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting numerous document formats into PDF files, and more!
@@ -1006,7 +1011,7 @@
 - [cloudwego/hertz](https://github.com/cloudwego/hertz) - Go HTTP framework with high-performance and strong-extensibility for building micro-services.
 - [kubeflow/spark-operator](https://github.com/kubeflow/spark-operator) - Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes.
 - [argoproj/argo-events](https://github.com/argoproj/argo-events) - Event-driven Automation Framework for Kubernetes
-- [k8spacket/k8spacket](https://github.com/k8spacket/k8spacket) - k8spacket - packets traffic visualization for kubernetes
+- [k8spacket/k8spacket](https://github.com/k8spacket/k8spacket) - k8spacket - collects TCP traffic and TLS connection metadata in the Kubernetes cluster using eBPF and visualizes in Grafana
 - [kubeshop/tracetest](https://github.com/kubeshop/tracetest) - 🔭 Tracetest - Build integration and end-to-end tests in minutes, instead of days, using OpenTelemetry and trace-based testing.
 - [redis/rueidis](https://github.com/redis/rueidis) - A fast Golang Redis client that supports Client Side Caching, Auto Pipelining, Generics OM, RedisJSON, RedisBloom, RediSearch, etc.
 - [nuxui/nuxui](https://github.com/nuxui/nuxui) - NuxUI is Golang GUI SDK for IOS, Android, macOS, Windows, Linux
@@ -1686,7 +1691,8 @@
 
 ## HTML 
 
-- [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) - Modern C++ Programming Course (C++11/14/17/20/23)
+- [mixu/distsysbook](https://github.com/mixu/distsysbook) - The book Distributed systems: for fun and profit
+- [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) - Modern C++ Programming Course (C++03/11/14/17/20/23/26)
 - [google/coding-competitions-archive](https://github.com/google/coding-competitions-archive) - Google Coding Competitions problem archive
 - [PyHAT-stack/web-async-patterns](https://github.com/PyHAT-stack/web-async-patterns) - This repo shows patterns you can use to elevate Python web apps via streaming HTML and htmx
 - [swyxio/ai-notes](https://github.com/swyxio/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under 
@@ -1732,7 +1738,6 @@
 - [robertness/causal_demon](https://github.com/robertness/causal_demon) - 
 - [solid/solid](https://github.com/solid/solid) - Solid - Re-decentralizing the web (project directory)
 - [Strange-AI/quantum_ml](https://github.com/Strange-AI/quantum_ml) - StrangeAI Youtube频道的量子机器学习代码
-- [tdurieux/anonymous_github](https://github.com/tdurieux/anonymous_github) - Anonymous Github is a proxy server to support anonymous browsing of Github repositories for open-science code and data.
 - [switchablenorms/Switchable-Normalization](https://github.com/switchablenorms/Switchable-Normalization) - Code for Switchable Normalization from "Differentiable Learning-to-Normalize via Switchable Normalization", https://arxiv.org/abs/1806.10779
 - [deanmalmgren/textract](https://github.com/deanmalmgren/textract) - extract text from any document. no muss. no fuss.
 - [Smerity/trending_arxiv](https://github.com/Smerity/trending_arxiv) - Track trending arXiv papers on Twitter from within your circle
@@ -1765,6 +1770,7 @@
 - [curran/data](https://github.com/curran/data) - A collection of public data sets
 - [tesserai/tfi](https://github.com/tesserai/tfi) - Use any TensorFlow model in a single line of code
 - [ColorlibHQ/gentelella](https://github.com/ColorlibHQ/gentelella) - Free Bootstrap 4 Admin Dashboard Template
+- [quinlan-lab/applied-computational-genomics](https://github.com/quinlan-lab/applied-computational-genomics) - Applied Computational Genomics Course at UU: Spring 2020
 - [dwyl/repo-badges](https://github.com/dwyl/repo-badges) - :star: Use repo badges (build passing, coverage, etc) in your readme/markdown file to signal code quality in a project.
 - [stephens999/fiveMinuteStats](https://github.com/stephens999/fiveMinuteStats) - A repo of short "vignettes" illustrating statistical concepts
 - [Spandan-Madan/DeepLearningProject](https://github.com/Spandan-Madan/DeepLearningProject) - An in-depth machine learning tutorial introducing readers to a whole machine learning pipeline from scratch.
@@ -2455,7 +2461,7 @@
 - [martius-lab/l4-optimizer](https://github.com/martius-lab/l4-optimizer) - Code for paper "L4: Practical loss-based stepsize adaptation for deep learning"
 - [krasserm/bayesian-machine-learning](https://github.com/krasserm/bayesian-machine-learning) - Notebooks about Bayesian methods for machine learning
 - [iamtrask/Grokking-Deep-Learning](https://github.com/iamtrask/Grokking-Deep-Learning) - this repository accompanies the book "Grokking Deep Learning"
-- [mesolitica/malaysian-dataset](https://github.com/mesolitica/malaysian-dataset) - We gather Malaysian dataset! https://malaysian-dataset.readthedocs.io/en/latest/
+- [mesolitica/malaysian-dataset](https://github.com/mesolitica/malaysian-dataset) - We gather Malaysian dataset! https://malaysian-dataset.readthedocs.io/
 - [barbagroup/CFDPython](https://github.com/barbagroup/CFDPython) - A sequence of Jupyter notebooks featuring the "12 Steps to Navier-Stokes" http://lorenabarba.com/
 - [oseledets/nla2017](https://github.com/oseledets/nla2017) - Skoltech 2017 NLA course
 - [richardaecn/cvpr18-inaturalist-transfer](https://github.com/richardaecn/cvpr18-inaturalist-transfer) - Large Scale Fine-Grained Categorization  and Domain-Specific Transfer Learning. CVPR 2018
@@ -2908,7 +2914,6 @@
 
 ## NASL 
 
-- [osai-ai/dokai](https://github.com/osai-ai/dokai) - Collection of Docker images for ML/DL and video processing projects
 - [BachiLi/redner](https://github.com/BachiLi/redner) - Differentiable rendering without approximation.
 
 ## Nim 
@@ -2941,7 +2946,7 @@
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 - [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model
 - [huggingface/awesome-huggingface](https://github.com/huggingface/awesome-huggingface) - 🤗 A list of wonderful open-source projects & applications integrated with Hugging Face libraries.
-- [IMSoley/tasawwuf](https://github.com/IMSoley/tasawwuf) - Warning: There might be errors or mistranslations; it is always advisable to read the original works in their original language.
+- [IMSoley/tasawwuf](https://github.com/IMSoley/tasawwuf) - Warning: There might be errors or mistranslations; it is always advised to read the original works in their original language.
 - [Mooler0410/LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide) - A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers)
 - [getcursor/cursor](https://github.com/getcursor/cursor) - An AI-powered code editor based on VSCode 🤖
 - [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook) - A playbook for systematically maximizing the performance of deep learning models.
@@ -3472,7 +3477,6 @@
 - [herrbischoff/awesome-command-line-apps](https://github.com/herrbischoff/awesome-command-line-apps) - :shell: Use your terminal shell to do awesome things.
 - [keon/speed](https://github.com/keon/speed) - Learning To Predict Vehicle Speed From A Video
 - [kerasking/book-1](https://github.com/kerasking/book-1) - book
-- [quinlan-lab/applied-computational-genomics](https://github.com/quinlan-lab/applied-computational-genomics) - Applied Computational Genomics Course at UU: Spring 2020
 - [jtoy/awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) - TensorFlow - A curated list of dedicated resources http://tensorflow.org
 - [dformoso/machine-learning-mindmap](https://github.com/dformoso/machine-learning-mindmap) - A mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning.
 - [floydhub/dl-setup](https://github.com/floydhub/dl-setup) - Instructions for setting up the software on your deep learning machine
@@ -3592,7 +3596,7 @@
 - [sclabs/treeshaker](https://github.com/sclabs/treeshaker) - A tree-shaking tool for Python.
 - [graphql-python/graphene](https://github.com/graphql-python/graphene) - GraphQL framework for Python
 - [Supervisor/supervisor](https://github.com/Supervisor/supervisor) - Supervisor process control system for Unix (supervisord)
-- [Giskard-AI/giskard](https://github.com/Giskard-AI/giskard) - 🐢 Evaluation & Testing framework for LLMs and ML models
+- [Giskard-AI/giskard](https://github.com/Giskard-AI/giskard) - 🐢 Open-Source Evaluation & Testing framework for LLMs and ML models
 - [jondurbin/airoboros](https://github.com/jondurbin/airoboros) - Customizable implementation of the self-instruct paper.
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
 - [remyxai/FFMPerative](https://github.com/remyxai/FFMPerative) - Chat to Compose Video
@@ -3721,7 +3725,7 @@
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [nschloe/tuna](https://github.com/nschloe/tuna) - :fish: Python profile viewer
 - [ashleve/lightning-hydra-template](https://github.com/ashleve/lightning-hydra-template) - PyTorch Lightning + Hydra. A very user-friendly template for ML experimentation.  ⚡🔥⚡
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to search and chat (using RAG) with your knowledge base (pdf, markdown, org). Use powerful, online (e.g gpt4) or private, offline (e.g mistral) LLMs. Self-host locally 
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to search and chat (using RAG) with your knowledge base (pdf, markdown, org). Use powerful, online (e.g gpt4) or private, local (e.g mistral) LLMs. Self-host locally or
 - [cjdrake/pyeda](https://github.com/cjdrake/pyeda) - Python EDA
 - [CQCL/lambeq](https://github.com/CQCL/lambeq) - A high-level Python library for Quantum Natural Language Processing
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
@@ -4158,7 +4162,7 @@
 - [linkedin/detext](https://github.com/linkedin/detext) - DeText: A Deep Neural Text Understanding Framework for Ranking and Classification Tasks
 - [lRomul/argus-freesound](https://github.com/lRomul/argus-freesound) - Kaggle | 1st place solution for Freesound Audio Tagging 2019
 - [shawroad/NLP_pytorch_project](https://github.com/shawroad/NLP_pytorch_project) - Embedding, NMT, Text_Classification, Text_Generation, NER etc.
-- [docopt/docopt](https://github.com/docopt/docopt) - Pythonic command line arguments parser, that will make you smile
+- [docopt/docopt](https://github.com/docopt/docopt) - This project is no longer maintained. Please see https://github.com/jazzband/docopt-ng
 - [amazon-ion/ion-python](https://github.com/amazon-ion/ion-python) - A Python implementation of Amazon Ion.
 - [plkmo/BERT-Relation-Extraction](https://github.com/plkmo/BERT-Relation-Extraction) - PyTorch implementation for "Matching the Blanks: Distributional Similarity for Relation Learning" paper
 - [pytorch/elastic](https://github.com/pytorch/elastic) - PyTorch elastic training
@@ -4874,7 +4878,7 @@
 - [BayesWatch/pytorch-prunes](https://github.com/BayesWatch/pytorch-prunes) - Code for https://arxiv.org/abs/1810.04622
 - [felipecode/coiltraine](https://github.com/felipecode/coiltraine) - Training framework for conditional imitation learning
 - [waleedka/hiddenlayer](https://github.com/waleedka/hiddenlayer) - Neural network graphs and training metrics for PyTorch, Tensorflow, and Keras.
-- [Diviyan-Kalainathan/SAM](https://github.com/Diviyan-Kalainathan/SAM) - Code for the Structural Agnostic Model (https://arxiv.org/abs/1803.04929)
+- [diviyank/SAM](https://github.com/diviyank/SAM) - Code for the Structural Agnostic Model (https://arxiv.org/abs/1803.04929)
 - [laurencium/Causalinference](https://github.com/laurencium/Causalinference) - Causal Inference in Python
 - [FenTechSolutions/CausalDiscoveryToolbox](https://github.com/FenTechSolutions/CausalDiscoveryToolbox) - Package for causal inference in graphs and in the pairwise settings. Tools for graph structure recovery and dependencies are included.
 - [akelleh/causality](https://github.com/akelleh/causality) - Tools for causal analysis
@@ -7103,7 +7107,7 @@
 - [bytecodealliance/rustix](https://github.com/bytecodealliance/rustix) - Safe Rust bindings to POSIX-ish APIs
 - [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn't ever lose your work if you're using Git
 - [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for web, desktop, mobile, and more.
 - [tesselode/kira](https://github.com/tesselode/kira) - Library for expressive game audio.
 - [Rust-GPU/Rust-CUDA](https://github.com/Rust-GPU/Rust-CUDA) - Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust.
 - [adwhit/itchy-rust](https://github.com/adwhit/itchy-rust) - NASDAQ ITCH parser in Rust
@@ -7400,6 +7404,7 @@
 
 ## Scala 
 
+- [devsisters/shardcake](https://github.com/devsisters/shardcake) - Sharding and location transparency for Scala
 - [EcZachly/little-book-of-pipelines](https://github.com/EcZachly/little-book-of-pipelines) - This repository goes over how to handle massive variety in data engineering
 - [losfair/gkv](https://github.com/losfair/gkv) - Geo-replicated eventually-consistent KV store
 - [broadinstitute/cromwell](https://github.com/broadinstitute/cromwell) - Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments
@@ -7485,7 +7490,7 @@
 - [catalyst-team/classification](https://github.com/catalyst-team/classification) - Catalyst.Classification
 - [donnyyou/torchcv](https://github.com/donnyyou/torchcv) - TorchCV: A PyTorch-Based Framework for Deep Learning in Computer Vision
 - [jwass/pep8-staged](https://github.com/jwass/pep8-staged) - Git pre-commit hook to run pep8 on staged files.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [s1341/pyenv-alias](https://github.com/s1341/pyenv-alias) - pyenv plugin to allow you to install python versions with user-specified 'aliases'.
 - [tylerbarnum/metagenomics-tutorials](https://github.com/tylerbarnum/metagenomics-tutorials) - Additional scripts from tutorials on tylerbarnum.com
 - [kamranahmedse/git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day. Psst! or be nosy and find what someone else in your team did ;-)
@@ -7547,6 +7552,7 @@
 
 ## TypeScript 
 
+- [gcanti/fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript
 - [reorproject/reor](https://github.com/reorproject/reor) - Self-organizing AI note-taking app that runs models locally.
 - [FL33TW00D/whisper-turbo](https://github.com/FL33TW00D/whisper-turbo) - Cross-Platform, GPU Accelerated Whisper 🏎️
 - [civitai/civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more
@@ -7688,9 +7694,10 @@
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [tensorflow/tfjs-vis](https://github.com/tensorflow/tfjs-vis) - A set of utilities for in browser visualization with TensorFlow.js
 - [tensorflow/tensorboard](https://github.com/tensorflow/tensorboard) - TensorFlow's Visualization Toolkit
+- [tdurieux/anonymous_github](https://github.com/tdurieux/anonymous_github) - Anonymous Github is a proxy server to support anonymous browsing of Github repositories for open-science code and data.
 - [machinelearnjs/machinelearnjs](https://github.com/machinelearnjs/machinelearnjs) - Machine Learning library for the web and Node.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
-- [opencv/cvat](https://github.com/opencv/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
+- [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
 - [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
 - [keplergl/kepler.gl](https://github.com/keplergl/kepler.gl) - Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.
 - [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework
