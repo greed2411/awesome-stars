@@ -324,6 +324,7 @@
 
 ## C++ 
 
+- [google/s2geometry](https://github.com/google/s2geometry) - Computational geometry and spatial indexing on the sphere
 - [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis
 - [google/gemma.cpp](https://github.com/google/gemma.cpp) - lightweight, standalone C++ inference engine for Google's Gemma models.
 - [root-project/cling](https://github.com/root-project/cling) - The cling C++ interpreter
@@ -1650,7 +1651,7 @@
 - [fanpei91/torsniff](https://github.com/fanpei91/torsniff) - torsniff - a sniffer that sniffs torrents from BitTorrent network
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [uber/prototool](https://github.com/uber/prototool) - Your Swiss Army Knife for Protocol Buffers
-- [kubeflow/katib](https://github.com/kubeflow/katib) - Repository for hyperparameter tuning
+- [kubeflow/katib](https://github.com/kubeflow/katib) - Automated Machine Learning on Kubernetes
 - [IBM/FfDL](https://github.com/IBM/FfDL) - Fabric for Deep Learning (FfDL, pronounced fiddle) is a Deep Learning Platform offering TensorFlow, Caffe, PyTorch etc. as a Service on Kubernetes
 - [go-ego/riot](https://github.com/go-ego/riot) - Go Open Source, Distributed, Simple and efficient Search Engine; Warning: This is V1 and beta version, because of big memory consume, and the V2 will be rewrite all code.
 - [thought-machine/please](https://github.com/thought-machine/please) - High-performance extensible build system for reproducible multi-language builds.
@@ -3583,6 +3584,7 @@
 
 ## Python 
 
+- [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
 - [xfactlab/orpo](https://github.com/xfactlab/orpo) - Official repository for ORPO
 - [leondz/garak](https://github.com/leondz/garak) - LLM vulnerability scanner
 - [ncbi/GeneGPT](https://github.com/ncbi/GeneGPT) - Code and data for GeneGPT.
@@ -4472,7 +4474,7 @@
 - [IBM/pytorchpipe](https://github.com/IBM/pytorchpipe) - PyTorchPipe (PTP) is a component-oriented framework for rapid prototyping and training of computational pipelines combining vision and language
 - [facebookresearch/dlrm](https://github.com/facebookresearch/dlrm) - An implementation of a deep learning recommendation model (DLRM)
 - [liftoff/pyminifier](https://github.com/liftoff/pyminifier) - Pyminifier is a Python code minifier, obfuscator, and compressor.
-- [altair-viz/altair](https://github.com/altair-viz/altair) - Declarative statistical visualization library for Python
+- [vega/altair](https://github.com/vega/altair) - Declarative statistical visualization library for Python
 - [bytedance/byteps](https://github.com/bytedance/byteps) - A high performance and generic framework for distributed DNN training
 - [microsoft/MASS](https://github.com/microsoft/MASS) - MASS: Masked Sequence to Sequence Pre-training for Language Generation
 - [allegroai/clearml](https://github.com/allegroai/clearml) - ClearML - Auto-Magical CI/CD to streamline your AI workload. Experiment Management, Data Management, Pipeline, Orchestration, Scheduling & Serving in one MLOps/LLMOps solution
