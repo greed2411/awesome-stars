@@ -54,6 +54,7 @@
 - [Makefile](#makefile)
 - [Mako](#mako)
 - [Markdown](#markdown)
+- [Mojo](#mojo)
 - [NASL](#nasl)
 - [Nim](#nim)
 - [OCaml](#ocaml)
@@ -952,6 +953,7 @@
 
 ## Go 
 
+- [seacrew/helm-compose](https://github.com/seacrew/helm-compose) - Helm Compose is a helm plugin for managing multiple releases of one or many charts within a single configuration file.
 - [Praqma/helmsman](https://github.com/Praqma/helmsman) - Helm Charts as Code
 - [ihippik/wal-listener](https://github.com/ihippik/wal-listener) - PostgreSQL WAL listener
 - [u2takey/ffmpeg-go](https://github.com/u2takey/ffmpeg-go) - golang binding for ffmpeg
@@ -1965,6 +1967,7 @@
 
 ## JavaScript 
 
+- [krausest/js-framework-benchmark](https://github.com/krausest/js-framework-benchmark) - A comparison of the performance of a few popular javascript frameworks
 - [Xatta-Trone/medium-parser-extension](https://github.com/Xatta-Trone/medium-parser-extension) - Read medium.com and medium based articles using google web cache.
 - [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users.
 - [langchain-ai/langserve](https://github.com/langchain-ai/langserve) - LangServe 🦜️🏓
@@ -2581,7 +2584,7 @@
 - [microsoft/TextWorld](https://github.com/microsoft/TextWorld) - ​TextWorld is a sandbox learning environment for the training and evaluation of reinforcement learning (RL) agents on text-based games.
 - [DetectionTeamUCAS/SSH_Tensorflow](https://github.com/DetectionTeamUCAS/SSH_Tensorflow) - This is a tensorflow re-implementation of SSH: Single Stage Headless Face Detector.
 - [DetectionTeamUCAS/Faster-RCNN_Tensorflow](https://github.com/DetectionTeamUCAS/Faster-RCNN_Tensorflow) - This is a tensorflow re-implementation of Faster R-CNN: Towards Real-Time ObjectDetection with Region Proposal Networks.
-- [mpld3/mpld3](https://github.com/mpld3/mpld3) - D3 Renderings of Matplotlib Graphics
+- [mpld3/mpld3](https://github.com/mpld3/mpld3) - An interactive data visualization tool which brings matplotlib graphics to the browser using D3.
 - [wohlert/generative-query-network-pytorch](https://github.com/wohlert/generative-query-network-pytorch) - Generative Query Network (GQN) in PyTorch as described in "Neural Scene Representation and Rendering"
 - [Curt-Park/reinforcement_learning_an_introduction](https://github.com/Curt-Park/reinforcement_learning_an_introduction) - Summary (in Korean) and python implementation of 'Reinforcement Learning: An Introduction' written by Sutton & Barto
 - [zhixuhao/unet](https://github.com/zhixuhao/unet) - unet for image segmentation
@@ -2912,6 +2915,10 @@
 - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
+## Mojo 
+
+- [tairov/llama2.mojo](https://github.com/tairov/llama2.mojo) - Inference Llama 2 in one file of pure 🔥
+
 ## NASL 
 
 - [BachiLi/redner](https://github.com/BachiLi/redner) - Differentiable rendering without approximation.
@@ -2948,7 +2955,7 @@
 - [huggingface/awesome-huggingface](https://github.com/huggingface/awesome-huggingface) - 🤗 A list of wonderful open-source projects & applications integrated with Hugging Face libraries.
 - [IMSoley/tasawwuf](https://github.com/IMSoley/tasawwuf) - Warning: There might be errors or mistranslations; it is always advised to read the original works in their original language.
 - [Mooler0410/LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide) - A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers)
-- [getcursor/cursor](https://github.com/getcursor/cursor) - An AI-powered code editor based on VSCode 🤖
+- [getcursor/cursor](https://github.com/getcursor/cursor) - The AI-powered code editor
 - [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook) - A playbook for systematically maximizing the performance of deep learning models.
 - [chanakaudaya/solution-architecture-patterns](https://github.com/chanakaudaya/solution-architecture-patterns) - Reusable, vendor-neutral, industry-specific, vendor-specific solution architecture patterns for enterprise
 - [pawl/awesome-etl](https://github.com/pawl/awesome-etl) - A curated list of awesome ETL frameworks, libraries, and software.
@@ -3620,7 +3627,6 @@
 - [DLR-RM/stable-baselines3](https://github.com/DLR-RM/stable-baselines3) - PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms.
 - [mit-han-lab/streaming-llm](https://github.com/mit-han-lab/streaming-llm) - [ICLR 2024] Efficient Streaming Language Models with Attention Sinks
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
-- [tairov/llama2.mojo](https://github.com/tairov/llama2.mojo) - Inference Llama 2 in one file of pure 🔥
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - ✨ Build AI interfaces that spark joy
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models
 - [microsoft/LoRA](https://github.com/microsoft/LoRA) - Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"
@@ -3726,7 +3732,7 @@
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [nschloe/tuna](https://github.com/nschloe/tuna) - :fish: Python profile viewer
 - [ashleve/lightning-hydra-template](https://github.com/ashleve/lightning-hydra-template) - PyTorch Lightning + Hydra. A very user-friendly template for ML experimentation.  ⚡🔥⚡
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to search and chat (using RAG) with your knowledge base (pdf, markdown, org). Use powerful, online (e.g gpt4) or private, local (e.g mistral) LLMs. Self-host locally or
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to get answers to your questions, whether they be from your own notes or from the internet. Use powerful, online (e.g gpt4) or private, local (e.g mistral) LLMs. Self-h
 - [cjdrake/pyeda](https://github.com/cjdrake/pyeda) - Python EDA
 - [CQCL/lambeq](https://github.com/CQCL/lambeq) - A high-level Python library for Quantum Natural Language Processing
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
@@ -4379,7 +4385,7 @@
 - [Delta-ML/delta](https://github.com/Delta-ML/delta) - DELTA is a deep learning based natural language and speech processing platform.
 - [vita-epfl/monoloco](https://github.com/vita-epfl/monoloco) - A 3D vision library from 2D keypoints: monocular and stereo 3D detection for humans, social distancing, and body orientation.
 - [google/mentornet](https://github.com/google/mentornet) - Code for MentorNet: Learning Data-Driven Curriculum for Very Deep Neural Networks
-- [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) - NeMo: a framework for generative AI
+- [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) - A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
 - [tebelorg/RPA-Python](https://github.com/tebelorg/RPA-Python) - Python package for doing RPA
 - [zhou13/lcnn](https://github.com/zhou13/lcnn) - LCNN: End-to-End Wireframe Parsing
 - [scikit-learn-contrib/stability-selection](https://github.com/scikit-learn-contrib/stability-selection) - scikit-learn compatible implementation of stability selection.
@@ -6949,6 +6955,7 @@
 
 ## Rust 
 
+- [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust via WebAssembly
 - [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on AMD GPUs
 - [SeaQL/FireDBG.for.Rust](https://github.com/SeaQL/FireDBG.for.Rust) - 🔥 Time Travel Visual Debugger for Rust
 - [dimforge/nalgebra](https://github.com/dimforge/nalgebra) - Linear algebra library for Rust.
@@ -7022,7 +7029,7 @@
 - [sagiegurari/cargo-make](https://github.com/sagiegurari/cargo-make) - Rust task runner and build tool.
 - [ankitects/anki](https://github.com/ankitects/anki) - Anki's shared backend and web components, and the Qt frontend
 - [apache/arrow-datafusion-python](https://github.com/apache/arrow-datafusion-python) - Apache Arrow DataFusion Python Bindings
-- [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion SQL Query Engine
+- [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache DataFusion SQL Query Engine
 - [roapi/roapi](https://github.com/roapi/roapi) - Create full-fledged APIs for slowly moving datasets without writing a single line of code.
 - [josephg/diamond-types](https://github.com/josephg/diamond-types) - The world's fastest CRDT. WIP.
 - [belchior/sql_query_builder](https://github.com/belchior/sql_query_builder) - Write SQL queries in a simple and composable way
@@ -7554,6 +7561,9 @@
 
 ## TypeScript 
 
+- [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
+- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
+- [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
 - [gcanti/fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript
 - [reorproject/reor](https://github.com/reorproject/reor) - Self-organizing AI note-taking app that runs models locally.
 - [FL33TW00D/whisper-turbo](https://github.com/FL33TW00D/whisper-turbo) - Cross-Platform, GPU Accelerated Whisper 🏎️
@@ -7592,7 +7602,7 @@
 - [haskell-spotlight/haskell-spotlight](https://github.com/haskell-spotlight/haskell-spotlight) - VSCode extension for Haskell
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
-- [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
+- [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [egoist/bina](https://github.com/egoist/bina) - An installer for self-contained, single-file binaries, no additional CLI needed.
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀
 - [tokiedokie/reveal-markdown](https://github.com/tokiedokie/reveal-markdown) - Revealjs vsCode extension
