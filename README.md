@@ -1027,7 +1027,7 @@
 - [samber/do](https://github.com/samber/do) - ⚙️  A dependency injection toolkit based on Go 1.18+ Generics.
 - [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative 📊, 🖥️, 👉. Powered by eBPF for rapid insights into system performance. Monitor, analyze, and optimize your infrastr
 - [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
-- [hotaruswarm/dagu](https://github.com/hotaruswarm/dagu) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
+- [dagu-dev/dagu](https://github.com/dagu-dev/dagu) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
 - [aquasecurity/tracee](https://github.com/aquasecurity/tracee) - Linux Runtime Security and Forensics using eBPF
 - [pion/opus](https://github.com/pion/opus) - Pure Go implementation of Opus
 - [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler) - Descheduler for Kubernetes
@@ -1560,7 +1560,7 @@
 - [determined-ai/determined](https://github.com/determined-ai/determined) - Determined is an open-source machine learning platform that simplifies distributed training, hyperparameter tuning, experiment tracking, and resource management. Works with PyTorch and TensorFlow.
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [mcuadros/ofelia](https://github.com/mcuadros/ofelia) - A docker job scheduler (aka. crontab for docker)
-- [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
+- [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
 - [dstpierre/gosaas](https://github.com/dstpierre/gosaas) - A Go library making building SaaS and web app quicker. Part of my book https://buildsaasappingo.com
 - [go-shiori/obelisk](https://github.com/go-shiori/obelisk) - Go package and CLI tool for saving web page as single HTML file
 - [rudderlabs/rudder-server](https://github.com/rudderlabs/rudder-server) - Privacy and Security focused Segment-alternative, in Golang and React
@@ -6034,7 +6034,7 @@
 - [google/dl_bounds](https://github.com/google/dl_bounds) - 
 - [Shawn1993/cnn-text-classification-pytorch](https://github.com/Shawn1993/cnn-text-classification-pytorch) - CNNs for Sentence Classification in PyTorch
 - [google-deepmind/scalable_agent](https://github.com/google-deepmind/scalable_agent) - A TensorFlow implementation of Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures.
-- [nitrain/nitrain](https://github.com/nitrain/nitrain) - The easiest way to train medical imaging AI models using pytorch, keras, or jax
+- [nitrain/nitrain](https://github.com/nitrain/nitrain) - Train, monitor, and share medical imaging AI models using any framework
 - [taki0112/Tensorflow-DatasetAPI](https://github.com/taki0112/Tensorflow-DatasetAPI) - Simple Tensorflow DatasetAPI Tutorial for reading image
 - [cedias/HAN-pytorch](https://github.com/cedias/HAN-pytorch) - (Deprecated) Hierarchical Attention Networks for Document Classification (https://www.cs.cmu.edu/~diyiy/docs/naacl16.pdf) - in Pytorch
 - [hollobit/All-About-the-GAN](https://github.com/hollobit/All-About-the-GAN) - All About the GANs(Generative Adversarial Networks) - Summarized lists for GAN
