@@ -117,6 +117,7 @@
 
 ## C 
 
+- [OpenSIPS/opensips](https://github.com/OpenSIPS/opensips) - OpenSIPS is a GPL implementation of a multi-functionality SIP Server that targets to deliver a high-level technical solution (performance, security and quality) to be used in professional SIP server p
 - [kost/android-elf-cleaner](https://github.com/kost/android-elf-cleaner) - Android ELF cleaner
 - [iovisor/bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 - [h2o/picohttpparser](https://github.com/h2o/picohttpparser) - tiny HTTP parser written in C (used in HTTP::Parser::XS et al.)
@@ -949,6 +950,7 @@
 
 ## Go 
 
+- [ghettovoice/gosip](https://github.com/ghettovoice/gosip) - SIP in Go
 - [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes
 - [seacrew/helm-compose](https://github.com/seacrew/helm-compose) - Helm Compose is a helm plugin for managing multiple releases of one or many charts within a single configuration file.
 - [Praqma/helmsman](https://github.com/Praqma/helmsman) - Helm Charts as Code
@@ -4290,7 +4292,7 @@
 - [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
 - [theAIGuysCode/yolo-v3](https://github.com/theAIGuysCode/yolo-v3) - Yolo v3 object detection implemented with Tensorflow 2.0.
 - [magenta/ddsp](https://github.com/magenta/ddsp) - DDSP: Differentiable Digital Signal Processing
-- [iory/scikit-robot](https://github.com/iory/scikit-robot) - A Flexible Framework for Robot Control in Python
+- [iory/scikit-robot](https://github.com/iory/scikit-robot) - A Flexible Framework for Robot visualization and programming in Python
 - [chaserileyroberts/mltest](https://github.com/chaserileyroberts/mltest) - Testing framework to simplify writing ML unit tests.
 - [locuslab/fast_adversarial](https://github.com/locuslab/fast_adversarial) - [ICLR 2020] A repository for extremely fast adversarial training using FGSM
 - [frostming/legit](https://github.com/frostming/legit) - Git for Humans, Inspired by GitHub for Mac™.
@@ -4909,7 +4911,6 @@
 - [Wanggcong/RLD_codes](https://github.com/Wanggcong/RLD_codes) - 
 - [unixpickle/diffeq](https://github.com/unixpickle/diffeq) - Learning about differential equations
 - [BMIRDS/deepslide](https://github.com/BMIRDS/deepslide) - Code for the Nature Scientific Reports paper "Pathologist-level classification of histologic patterns on resected lung adenocarcinoma slides with deep neural networks." A sliding window framework for 
-- [Thumar/Seq2Seq_NMT](https://github.com/Thumar/Seq2Seq_NMT) - 
 - [guillaumegenthial/tf_ner](https://github.com/guillaumegenthial/tf_ner) - Simple and Efficient Tensorflow implementations of NER models with tf.estimator and tf.data
 - [rezoo/illustration2vec](https://github.com/rezoo/illustration2vec) - A simple deep learning library for estimating a set of tags and extracting semantic feature vectors from given illustrations.
 - [tusen-ai/simpledet](https://github.com/tusen-ai/simpledet) - A Simple and Versatile Framework for Object Detection and Instance Recognition
@@ -5644,7 +5645,7 @@
 - [uber-research/PyTorch-NEAT](https://github.com/uber-research/PyTorch-NEAT) - 
 - [egorzakharov/PerceptualGAN](https://github.com/egorzakharov/PerceptualGAN) - Pytorch implementation of Image Manipulation with Perceptual Discriminators paper
 - [junqiangchen/MutilGPU2dCNN](https://github.com/junqiangchen/MutilGPU2dCNN) - MutilGPU train CNN
-- [codetendolkar/tacotron-2-explained](https://github.com/codetendolkar/tacotron-2-explained) - Walk through insanely commented code for an advanced recurrent model in TensorFlow
+- [gauravtendolkar/tacotron-2-explained](https://github.com/gauravtendolkar/tacotron-2-explained) - Walk through insanely commented code for an advanced recurrent model in TensorFlow
 - [dgraph-io/pydgraph](https://github.com/dgraph-io/pydgraph) - Official Dgraph Python client
 - [nipy/PySurfer](https://github.com/nipy/PySurfer) - Cortical neuroimaging visualization in Python
 - [CSAILVision/semantic-segmentation-pytorch](https://github.com/CSAILVision/semantic-segmentation-pytorch) - Pytorch implementation for Semantic Segmentation/Scene Parsing on MIT ADE20K dataset
@@ -6959,6 +6960,7 @@
 
 ## Rust 
 
+- [Televiska/viska](https://github.com/Televiska/viska) - SIP framework built in Rust
 - [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
 - [yoshuawuyts/futures-concurrency](https://github.com/yoshuawuyts/futures-concurrency) - Structured concurrency operations for async Rust
 - [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust via WebAssembly
