@@ -375,6 +375,7 @@
 - [BespokeSynth/BespokeSynth](https://github.com/BespokeSynth/BespokeSynth) - Software modular synth
 - [PlatformLab/NanoLog](https://github.com/PlatformLab/NanoLog) - Nanolog is an extremely performant nanosecond scale logging system for C++ that exposes a simple printf-like API.
 - [Hikari9/comfortable-swipe](https://github.com/Hikari9/comfortable-swipe) - Comfortable 3-finger and 4-finger swipe gesture using Xdotool in native C++
+- [estuary/flow](https://github.com/estuary/flow) - 🌊 Continuously synchronize the systems where your data lives, to the systems where you _want_ it to live, with Estuary Flow. 🌊
 - [scylladb/seastar](https://github.com/scylladb/seastar) - High performance server-side application framework
 - [scylladb/scylladb](https://github.com/scylladb/scylladb) - NoSQL data store using the seastar framework, compatible with Apache Cassandra
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
@@ -816,7 +817,7 @@
 - [swannodette/enlive-tutorial](https://github.com/swannodette/enlive-tutorial) - An Easy Introduction to Enlive
 - [cgrand/enlive](https://github.com/cgrand/enlive) - a selector-based (à la CSS) templating and transformation system for Clojure
 - [oakes/edna](https://github.com/oakes/edna) - A Clojure data -&gt; music library
-- [cerner/clara-rules](https://github.com/cerner/clara-rules) - Forward-chaining rules in Clojure(Script)
+- [oracle-samples/clara-rules](https://github.com/oracle-samples/clara-rules) - Forward-chaining rules in Clojure(Script)
 - [oakes/odoyle-rules](https://github.com/oakes/odoyle-rules) - A rules engine for Clojure(Script)
 - [Igneous/hello-ring-war](https://github.com/Igneous/hello-ring-war) - Example repo for using lein-ring to generate tomcat uberwars
 - [teknql/tapestry](https://github.com/teknql/tapestry) - Weave loom fibers into your Clojure
@@ -1261,6 +1262,7 @@
 - [simeji/jid](https://github.com/simeji/jid) - json incremental digger
 - [loong/go-concurrency-exercises](https://github.com/loong/go-concurrency-exercises) - Hands on exercises with real-life examples to study and practice Go concurrency patterns. Test-cases are provided to verify your answers.
 - [gtank/cryptopasta](https://github.com/gtank/cryptopasta) - copy & paste-friendly golang crypto
+- [porter-dev/porter](https://github.com/porter-dev/porter) - Kubernetes powered PaaS that runs in your own cloud.
 - [yields/ant](https://github.com/yields/ant) - A web crawler for Go
 - [openflagr/flagr](https://github.com/openflagr/flagr) - Flagr is a feature flagging, A/B testing and dynamic configuration microservice
 - [cristalhq/hedgedhttp](https://github.com/cristalhq/hedgedhttp) - Hedged HTTP client which helps to reduce tail latency at scale.
@@ -4198,7 +4200,7 @@
 - [canonical/microk8s](https://github.com/canonical/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for datacenters and the edge.
 - [alexmojaki/instant_api](https://github.com/alexmojaki/instant_api) - Instantly create an HTTP API with automatic type conversions, JSON RPC, and a Swagger UI. Just add methods!
 - [hansonkd/Tino](https://github.com/hansonkd/Tino) - A one-of-a-kind, stupid fast, Python API using Redis Protocol and MsgPack
-- [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - pyinfra automates infrastructure using Python. It’s fast and scales from one server to thousands. Great for ad-hoc command execution, service deployment, configuration management and more.
+- [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - pyinfra turns your Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fas
 - [aiortc/aioquic](https://github.com/aiortc/aioquic) - QUIC and HTTP/3 implementation in Python
 - [python-hyper/priority](https://github.com/python-hyper/priority) - A pure-Python implementation of the HTTP/2 priority tree.
 - [facebookresearch/TaBERT](https://github.com/facebookresearch/TaBERT) - This repository contains source code for the TaBERT model, a pre-trained language model for learning joint representations of natural language utterances and (semi-)structured tables for semantic pars
@@ -4222,7 +4224,7 @@
 - [pika/pika](https://github.com/pika/pika) - Pure Python RabbitMQ/AMQP 0-9-1 client library
 - [python-zk/kazoo](https://github.com/python-zk/kazoo) - Kazoo is a high-level Python library that makes it easier to use Apache Zookeeper.
 - [jeffknupp/sandman2](https://github.com/jeffknupp/sandman2) - Automatically generate a RESTful API service for your legacy database. No code required!
-- [feast-dev/feast](https://github.com/feast-dev/feast) - Feature Store for Machine Learning
+- [feast-dev/feast](https://github.com/feast-dev/feast) - The Open Source Feature Store for Machine Learning
 - [Lightning-Universe/lightning-Covid19](https://github.com/Lightning-Universe/lightning-Covid19) - Classification for covid-19 chest X-ray images using Lightning
 - [cerebroai/reformers](https://github.com/cerebroai/reformers) - Efficient Transformers for research, PyTorch and Tensorflow using Locality Sensitive Hashing
 - [bentoml/BentoML](https://github.com/bentoml/BentoML) - The most flexible way to serve AI/ML models in production - Build Model Inference Service, LLM APIs, Inference Graph/Pipelines, Compound AI systems, Multi-Modal, RAG as a Service, and more!
@@ -6976,7 +6978,7 @@
 - [huggingface/hf_transfer](https://github.com/huggingface/hf_transfer) - 
 - [rustformers/llm](https://github.com/rustformers/llm) - An ecosystem of Rust libraries for working with large language models
 - [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
-- [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - Cross-platform, safe, pure-rust graphics api.
+- [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - A cross-platform, safe, pure-Rust graphics API.
 - [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) - Distributed stream processing engine in Rust
 - [exograph/exograph](https://github.com/exograph/exograph) - Build production-ready backends in minutes
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. Available on GreptimeCloud.
@@ -7165,7 +7167,6 @@
 - [rust-db/refinery](https://github.com/rust-db/refinery) - Powerful SQL migration toolkit for Rust.
 - [losfair/RefineDB](https://github.com/losfair/RefineDB) - A strongly-typed document database that runs on any transactional key-value store.
 - [cfsamson/examples-node-eventloop](https://github.com/cfsamson/examples-node-eventloop) - An example on implementing the interesting part of Nodes event loop and async story
-- [estuary/flow](https://github.com/estuary/flow) - 🌊 Continuously synchronize the systems where your data lives, to the systems where you _want_ it to live, with Estuary Flow. 🌊
 - [hora-search/hora](https://github.com/hora-search/hora) - 🚀  efficient approximate nearest neighbor search algorithm collections library written in Rust 🦀 .
 - [rustwasm/gloo](https://github.com/rustwasm/gloo) - A modular toolkit for building fast, reliable Web applications and libraries with Rust and WASM
 - [smol-rs/smol](https://github.com/smol-rs/smol) - A small and fast async runtime for Rust
@@ -7635,7 +7636,6 @@
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
 - [banga/git-split-diffs](https://github.com/banga/git-split-diffs) - Syntax highlighted side-by-side diffs in your terminal
 - [pinterest/querybook](https://github.com/pinterest/querybook) - Querybook is a Big Data Querying UI, combining collocated table metadata and a simple notebook interface.
-- [porter-dev/porter](https://github.com/porter-dev/porter) - Kubernetes powered PaaS that runs in your own cloud.
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [microsoft/SandDance](https://github.com/microsoft/SandDance) - Visually explore, understand, and present your data.
 - [peers/peerjs](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC.
