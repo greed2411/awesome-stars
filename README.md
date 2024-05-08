@@ -952,6 +952,9 @@
 
 ## Go 
 
+- [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
+- [goksan/statusnook](https://github.com/goksan/statusnook) - Effortlessly deploy a status page and start monitoring endpoints in minutes
+- [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
 - [ghettovoice/gosip](https://github.com/ghettovoice/gosip) - SIP in Go
 - [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes
 - [seacrew/helm-compose](https://github.com/seacrew/helm-compose) - Helm Compose is a helm plugin for managing multiple releases of one or many charts within a single configuration file.
@@ -2020,7 +2023,7 @@
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 - [insodoc/insomnia-documenter](https://github.com/insodoc/insomnia-documenter) - Tool to create minimalist and beautiful API documentation pages using your Insomnia workspace export file.
 - [knex/knex](https://github.com/knex/knex) - A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
-- [breck7/scroll](https://github.com/breck7/scroll) - Tools for thought. An extensible alternative to Markdown.
+- [breck7/scroll](https://github.com/breck7/scroll) - Tools for thought. A language for bloggers. This repo contains the language and a static site generator command line app.
 - [statsd/statsd](https://github.com/statsd/statsd) - Daemon for easy but powerful stats aggregation
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 - [google/tracing-framework](https://github.com/google/tracing-framework) - Web Tracing Framework libraries and extensions.
@@ -2116,7 +2119,6 @@
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [GetStream/Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io
 - [adityasarvaiya/Automatic_Question_Generation](https://github.com/adityasarvaiya/Automatic_Question_Generation) - 
-- [jiangplus/ever-rpc](https://github.com/jiangplus/ever-rpc) - 
 - [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
 - [ezyang/convolution-visualizer](https://github.com/ezyang/convolution-visualizer) - Convolution visualizations
 - [NVIDIA-AI-IOT/deepstream_360_d_smart_parking_application](https://github.com/NVIDIA-AI-IOT/deepstream_360_d_smart_parking_application) - Describes the full end to end smart parking application that is available with DeepStream 5.0
@@ -2238,7 +2240,7 @@
 - [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl) - Relax! Flux is the ML library that doesn't make you tensor
 - [FluxML/Zygote.jl](https://github.com/FluxML/Zygote.jl) - 21st century AD
 - [probcomp/Gen.jl](https://github.com/probcomp/Gen.jl) - A general-purpose probabilistic programming system with programmable inference
-- [alan-turing-institute/MLJ.jl](https://github.com/alan-turing-institute/MLJ.jl) - A Julia machine learning framework
+- [JuliaAI/MLJ.jl](https://github.com/JuliaAI/MLJ.jl) - A Julia machine learning framework
 - [SciML/DiffEqFlux.jl](https://github.com/SciML/DiffEqFlux.jl) - Pre-built implicit layer architectures with O(1) backprop, GPUs, and stiff+non-stiff DE solvers, demonstrating scientific machine learning (SciML) and physics-informed machine learning methods
 - [mschauer/CausalInference.jl](https://github.com/mschauer/CausalInference.jl) - Causal inference, graphical models and structure learning in Julia
 - [JuliaLang/julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
@@ -3599,6 +3601,7 @@
 
 ## Python 
 
+- [quzhi1/GoMemoryLeak](https://github.com/quzhi1/GoMemoryLeak) - Demo repo for Golang memory leak
 - [RetellAI/retell-custom-llm-python-demo](https://github.com/RetellAI/retell-custom-llm-python-demo) - 
 - [hashboard-hq/hashquery](https://github.com/hashboard-hq/hashquery) - A Python framework for defining and querying BI models in your data warehouse
 - [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
@@ -3925,7 +3928,7 @@
 - [nats-io/nats.py](https://github.com/nats-io/nats.py) - Python3 client for NATS
 - [permitio/fastapi_websocket_pubsub](https://github.com/permitio/fastapi_websocket_pubsub) - A fast and durable Pub/Sub channel over Websockets. FastAPI + WebSockets + PubSub ==  ⚡ 💪 ❤️
 - [permitio/fastapi_websocket_rpc](https://github.com/permitio/fastapi_websocket_rpc) - ⚡ FASTAPI Websocket RPC- A fast and durable bidirectional JSON RPC channel over Websockets.
-- [nikitadurasov/masksembles](https://github.com/nikitadurasov/masksembles) - Official repository for the paper "Masksembles for Uncertainty Estimation" (CVPR2021).
+- [nikitadurasov/masksembles](https://github.com/nikitadurasov/masksembles) - Official repository for the paper "Masksembles for Uncertainty Estimation" (CVPR 2021).
 - [cosmicpython/code](https://github.com/cosmicpython/code) - Example application code for the python architecture book
 - [facebookresearch/AugLy](https://github.com/facebookresearch/AugLy) - A data augmentations library for audio, image, text, and video.
 - [chenzhuoyu/mem-redis](https://github.com/chenzhuoyu/mem-redis) - A simple Redis Server implemented entirely in Python, using `asyncio`.
@@ -4200,7 +4203,7 @@
 - [canonical/microk8s](https://github.com/canonical/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for datacenters and the edge.
 - [alexmojaki/instant_api](https://github.com/alexmojaki/instant_api) - Instantly create an HTTP API with automatic type conversions, JSON RPC, and a Swagger UI. Just add methods!
 - [hansonkd/Tino](https://github.com/hansonkd/Tino) - A one-of-a-kind, stupid fast, Python API using Redis Protocol and MsgPack
-- [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - pyinfra turns your Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fas
+- [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast and
 - [aiortc/aioquic](https://github.com/aiortc/aioquic) - QUIC and HTTP/3 implementation in Python
 - [python-hyper/priority](https://github.com/python-hyper/priority) - A pure-Python implementation of the HTTP/2 priority tree.
 - [facebookresearch/TaBERT](https://github.com/facebookresearch/TaBERT) - This repository contains source code for the TaBERT model, a pre-trained language model for learning joint representations of natural language utterances and (semi-)structured tables for semantic pars
@@ -7087,7 +7090,7 @@
 - [zesterer/chumsky](https://github.com/zesterer/chumsky) - Write expressive, high-performance parsers with ease.
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
 - [hotg-ai/rune](https://github.com/hotg-ai/rune) - Rune provides containers to encapsulate and deploy edgeML pipelines and applications
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - SQL stream processing, analytics, and management. PostgreSQL simplicity, unrivaled performance, and seamless elasticity. 🚀 10x more productive. 🚀 10x more cost-efficient.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - SQL stream processing, analytics, and management. We decouple storage and compute to offer speedy bootstrapping, dynamic scaling, time-travel queries, and efficient joins.
 - [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates
 - [JasonShin/elemental-system-designs](https://github.com/JasonShin/elemental-system-designs) - System Designs open for everyone
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
@@ -7580,7 +7583,7 @@
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
 - [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
 - [gcanti/fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript
-- [reorproject/reor](https://github.com/reorproject/reor) - Self-organizing AI note-taking app that runs models locally.
+- [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app.
 - [FL33TW00D/whisper-turbo](https://github.com/FL33TW00D/whisper-turbo) - Cross-Platform, GPU Accelerated Whisper 🏎️
 - [civitai/civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
