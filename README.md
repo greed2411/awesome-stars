@@ -3015,6 +3015,7 @@
 - [gdamdam/awesome-decentralized-web](https://github.com/gdamdam/awesome-decentralized-web) - an awesome list of decentralized services and technologies
 - [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀
 - [HumanSignal/awesome-data-labeling](https://github.com/HumanSignal/awesome-data-labeling) - A curated list of awesome data labeling tools
+- [ratfactor/ziglings](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs.
 - [matthiasn/talk-transcripts](https://github.com/matthiasn/talk-transcripts) - Transcripts of Clojure-related talks
 - [mhadidg/software-architecture-books](https://github.com/mhadidg/software-architecture-books) - A comprehensive list of books on Software Architecture.
 - [prasadgujar/low-level-design-primer](https://github.com/prasadgujar/low-level-design-primer) - Dedicated Resources for the Low-Level System Design. Learn how to design and implement large-scale systems. Prep for the system design interview.
@@ -7778,7 +7779,6 @@
 - [MasterQ32/asciitable](https://github.com/MasterQ32/asciitable) - A very basic tool that just prints the ascii table
 - [lithdew/rheia](https://github.com/lithdew/rheia) - A blockchain written in Zig.
 - [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The distributed financial transactions database designed for mission critical safety and performance.
-- [ratfactor/ziglings](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs.
 - [lithdew/snow](https://github.com/lithdew/snow) - A small, fast, cross-platform, async Zig networking framework built on top of lithdew/pike.
 - [prime31/zig-ecs](https://github.com/prime31/zig-ecs) - 
 - [iansimonson/ztor](https://github.com/iansimonson/ztor) - A (partial) bittorrent client in zig
