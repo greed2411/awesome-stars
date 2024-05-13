@@ -764,6 +764,7 @@
 - [dunovank/jupyter-themes](https://github.com/dunovank/jupyter-themes) - Custom Jupyter Notebook Themes
 - [paullinuxthemer/gnome-osc-themes](https://github.com/paullinuxthemer/gnome-osc-themes) - Gnome-OSC-themes are GTK-themes for the gnome-desktop
 - [malllabiisc/RESIDE](https://github.com/malllabiisc/RESIDE) - EMNLP 2018: RESIDE: Improving Distantly-Supervised Neural Relation Extraction using Side Information
+- [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
 - [maxchehab/CSS-Keylogging](https://github.com/maxchehab/CSS-Keylogging) - Chrome extension and Express server that exploits keylogging abilities of CSS.
 - [dhg/Skeleton](https://github.com/dhg/Skeleton) - Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
@@ -2950,9 +2951,9 @@
 
 ## Others 
 
-- [ashishps1/awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) - This repository contains low level design resources to improve coding skills and prepare for interviews.
-- [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - This repository contains System Design resources which are useful while preparing for interviews and learning Distributed Systems
-- [ashishps1/awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources) - This repository contains LeetCode articles which are very useful during the interview preparation.
+- [ashishps1/awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) - Learn Low Level Design (LLD) and prepare for interviews using free resources.
+- [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - Learn System Design concepts and prepare for interviews using free resources.
+- [ashishps1/awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources) - Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews.
 - [unblocktorrents/YTS-YIFY-Proxy](https://github.com/unblocktorrents/YTS-YIFY-Proxy) - YTS Proxy - 100% Working YTS Mirror Sites 2024
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [mypyc/mypyc](https://github.com/mypyc/mypyc) - Compile type annotated Python to fast C extensions
@@ -4945,7 +4946,7 @@
 - [thearn/stl_tools](https://github.com/thearn/stl_tools) - Python code to produce STL geometry files from plain text, LaTeX code, and 2D numerical arrays (matrices)
 - [facebookresearch/many-to-many-dijkstra](https://github.com/facebookresearch/many-to-many-dijkstra) - A predictive model developed to identify medium-voltage electrical distribution grid infrastructure using publicly available data sources.
 - [ritheshkumar95/energy_based_generative_models](https://github.com/ritheshkumar95/energy_based_generative_models) - PyTorch code accompanying our paper on Maximum Entropy Generators for Energy-Based Models
-- [IntelAI/nauta](https://github.com/IntelAI/nauta) - A multi-user, distributed computing environment for running DL model training experiments on Intel® Xeon® Scalable processor-based systems
+- [intel/nauta](https://github.com/intel/nauta) - A multi-user, distributed computing environment for running DL model training experiments on Intel® Xeon® Scalable processor-based systems
 - [xingyizhou/ExtremeNet](https://github.com/xingyizhou/ExtremeNet) - Bottom-up Object Detection by Grouping Extreme and Center Points
 - [VahidooX/DeepCCA](https://github.com/VahidooX/DeepCCA) - An implementation of Deep Canonical Correlation Analysis (DCCA or Deep CCA) with Keras.
 - [google-research-datasets/natural-questions](https://github.com/google-research-datasets/natural-questions) - Natural Questions (NQ) contains real user questions issued to Google search, and answers found from Wikipedia by annotators. NQ is designed for the training and evaluation of automatic question answer
@@ -5623,7 +5624,7 @@
 - [SPFlow/SPFlow](https://github.com/SPFlow/SPFlow) - Sum Product Flow: An Easy and Extensible Library for Sum-Product Networks
 - [hjmshi/PyTorch-LBFGS](https://github.com/hjmshi/PyTorch-LBFGS) - A PyTorch implementation of L-BFGS.
 - [Ultimaker/Cura](https://github.com/Ultimaker/Cura) - 3D printer / slicing GUI built on top of the Uranium framework
-- [microsoft/graspologic](https://github.com/microsoft/graspologic) - Python package for graph statistics
+- [graspologic-org/graspologic](https://github.com/graspologic-org/graspologic) - Python package for graph statistics
 - [andreasveit/convnet-aig](https://github.com/andreasveit/convnet-aig) - PyTorch implementation for Convolutional Networks with Adaptive Inference Graphs
 - [akanimax/msg-gan-v1](https://github.com/akanimax/msg-gan-v1) - MSG-GAN: Multi-Scale Gradients GAN (Architecture inspired from ProGAN but doesn't use layer-wise growing)
 - [alexander-akhmetov/python-shortcuts](https://github.com/alexander-akhmetov/python-shortcuts) - Create Siri Shortcuts with Python
@@ -6184,7 +6185,6 @@
 - [EdGENetworks/anuvada](https://github.com/EdGENetworks/anuvada) - Interpretable Models for NLP using PyTorch
 - [xflux-gui/fluxgui](https://github.com/xflux-gui/fluxgui) - Better lighting for Linux. Open source GUI for xflux
 - [pathak22/zeroshot-imitation](https://github.com/pathak22/zeroshot-imitation) - [ICLR 2018] TensorFlow code for zero-shot visual imitation by self-supervised exploration
-- [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
 - [lilianweng/stock-rnn](https://github.com/lilianweng/stock-rnn) - Predict stock market prices using RNN model with multilayer LSTM cells + optional multi-stock embeddings.
 - [andabi/voice-vector](https://github.com/andabi/voice-vector) - Deep neural networks for getting text-independent speaker embedding written in TensorFlow
 - [kaushalshetty/Structured-Self-Attention](https://github.com/kaushalshetty/Structured-Self-Attention) - A Structured Self-attentive Sentence Embedding
@@ -7308,7 +7308,6 @@
 - [nats-io/nats.rs](https://github.com/nats-io/nats.rs) - Rust client for NATS, the cloud native messaging system.
 - [bincode-org/bincode](https://github.com/bincode-org/bincode) - A binary encoder / decoder implementation in Rust.
 - [spacejam/sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases
-- [ballista-compute/ballista](https://github.com/ballista-compute/ballista) - Distributed compute platform implemented in Rust, and powered by Apache Arrow.
 - [archseer/enigma](https://github.com/archseer/enigma) - An Erlang VM implementation in Rust
 - [console-rs/console](https://github.com/console-rs/console) - A rust console and terminal abstraction
 - [orhun/kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
@@ -7409,7 +7408,7 @@
 - [google/mundane](https://github.com/google/mundane) - Mundane is a Rust cryptography library backed by BoringSSL that is difficult to misuse, ergonomic, and performant (in that order).
 - [mtak-/rust-on-mobile](https://github.com/mtak-/rust-on-mobile) - [WIP] A little demo of how to setup an iOS/android project to use rust
 - [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
-- [cswinter/LocustDB](https://github.com/cswinter/LocustDB) - Massively parallel, high performance analytics database that will rapidly devour all of your data.
+- [cswinter/LocustDB](https://github.com/cswinter/LocustDB) - Blazingly fast analytics database that will rapidly devour all of your data.
 - [atom-archive/xray](https://github.com/atom-archive/xray) - An experimental next-generation Electron-based text editor
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
