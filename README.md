@@ -85,6 +85,7 @@
 - [Shell](#shell)
 - [Solidity](#solidity)
 - [Starlark](#starlark)
+- [Svelte](#svelte)
 - [Swift](#swift)
 - [SystemVerilog](#systemverilog)
 - [TeX](#tex)
@@ -134,6 +135,7 @@
 - [apache/age](https://github.com/apache/age) - Graph database optimized for fast analysis and real-time data processing. It is provided as an extension to PostgreSQL.
 - [P403n1x87/austin](https://github.com/P403n1x87/austin) - Python frame stack sampler for CPython
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
+- [praat/praat](https://github.com/praat/praat) - Praat: Doing Phonetics By Computer
 - [sraoss/pg_ivm](https://github.com/sraoss/pg_ivm) - IVM (Incremental View Maintenance) implementation as a PostgreSQL extension
 - [mlochbaum/rhsort](https://github.com/mlochbaum/rhsort) - Robin Hood Sort, for uniform data
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
@@ -343,7 +345,6 @@
 - [khizmax/libcds](https://github.com/khizmax/libcds) - A C++ library of Concurrent Data Structures
 - [cameron314/concurrentqueue](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11
 - [ceres-solver/ceres-solver](https://github.com/ceres-solver/ceres-solver) - A large scale non-linear optimization library
-- [praat/praat](https://github.com/praat/praat) - Praat: Doing Phonetics By Computer
 - [memgraph/memgraph](https://github.com/memgraph/memgraph) - Open-source graph database, tuned for dynamic analytics environments. Easy to adopt, scale and own.
 - [pixie-io/pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability
 - [BehaviorTree/BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP) - Behavior Trees Library in C++. Batteries included.
@@ -380,7 +381,7 @@
 - [scylladb/scylladb](https://github.com/scylladb/scylladb) - NoSQL data store using the seastar framework, compatible with Apache Cassandra
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [pedromvpg/Bitcoin-v0.1-A-Guided-Tour](https://github.com/pedromvpg/Bitcoin-v0.1-A-Guided-Tour) - Bitcoin v0.1 - A Guided Tour
-- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
 - [FidoProject/Fido](https://github.com/FidoProject/Fido) - A lightweight C++ machine learning library for embedded electronics and robotics.
 - [google/visqol](https://github.com/google/visqol) - Perceptual Quality Estimator for speech and audio
 - [HarshCasper/NeoAlgo](https://github.com/HarshCasper/NeoAlgo) - Bringing all Data Structures and Algorithms under one Roof ⚡
@@ -1183,7 +1184,7 @@
 - [uber-go/ratelimit](https://github.com/uber-go/ratelimit) - A Go blocking leaky-bucket rate limit implementation
 - [raystack/optimus](https://github.com/raystack/optimus) - Optimus is an easy-to-use, reliable, and performant workflow orchestrator for data transformation, data modeling, pipelines, and data quality management.
 - [TheYkk/git-switcher](https://github.com/TheYkk/git-switcher) - Switch between your git profiles easily
-- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
+- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [bchadwic/gh-graph](https://github.com/bchadwic/gh-graph) - An extension for the GitHub Cli application that displays your current contribution graph
 - [platoneko/tinykv](https://github.com/platoneko/tinykv) - Talent Plan 2.0
 - [lesismal/arpc](https://github.com/lesismal/arpc) - More effective network communication, two-way calling, notify and broadcast supported.
@@ -1269,7 +1270,6 @@
 - [simeji/jid](https://github.com/simeji/jid) - json incremental digger
 - [loong/go-concurrency-exercises](https://github.com/loong/go-concurrency-exercises) - Hands on exercises with real-life examples to study and practice Go concurrency patterns. Test-cases are provided to verify your answers.
 - [gtank/cryptopasta](https://github.com/gtank/cryptopasta) - copy & paste-friendly golang crypto
-- [porter-dev/porter](https://github.com/porter-dev/porter) - Kubernetes powered PaaS that runs in your own cloud.
 - [yields/ant](https://github.com/yields/ant) - A web crawler for Go
 - [openflagr/flagr](https://github.com/openflagr/flagr) - Flagr is a feature flagging, A/B testing and dynamic configuration microservice
 - [cristalhq/hedgedhttp](https://github.com/cristalhq/hedgedhttp) - Hedged HTTP client which helps to reduce tail latency at scale.
@@ -1735,7 +1735,7 @@
 - [WebOfTrustInfo/rwot1-sf](https://github.com/WebOfTrustInfo/rwot1-sf) - RWOT1 in San Francisco, California (November 2015)
 - [dtan4/paus](https://github.com/dtan4/paus) - Docker Compose PaaS
 - [youngwoon/transition](https://github.com/youngwoon/transition) - Official code for the paper "Learning Transition Policies for Composing Complex Skills" (ICLR 2019)
-- [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN BLOCKS! 使用块轻松创建任何类型的网站 - 无需代码。 一个应用程序，没有依赖项，没有 JS
+- [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) - 🚨 GROW YOUR AUDIENCE WITH HUGOBLOX! 🚀 HugoBlox is an easy, fast no-code website builder for researchers, entrepreneurs, data scientists, and developers. Build stunning sites in minutes. 适合研究人员、企业家、数据科
 - [kkinder/templatemail](https://github.com/kkinder/templatemail) - Templated Email for Python
 - [suriyadeepan/SRM-NLP-Workshop-2019](https://github.com/suriyadeepan/SRM-NLP-Workshop-2019) - Code, Notes, Slides, Data
 - [seba-1511/dist_tuto.pth](https://github.com/seba-1511/dist_tuto.pth) - Official code for "Writing Distributed Applications with PyTorch", PyTorch Tutorial
@@ -2959,6 +2959,7 @@
 
 ## Others 
 
+- [protontypes/open-sustainable-technology](https://github.com/protontypes/open-sustainable-technology) - A directory and analysis of the open source ecosystem in the areas of climate change, sustainable energy, biodiversity and natural resources.
 - [ashishps1/awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) - Learn Low Level Design (LLD) and prepare for interviews using free resources.
 - [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - Learn System Design concepts and prepare for interviews using free resources.
 - [ashishps1/awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources) - Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews.
@@ -4018,7 +4019,7 @@
 - [hcmlab/vadnet](https://github.com/hcmlab/vadnet) - Real-time Voice Activity Detection in Noisy Eniviroments using Deep Neural Networks
 - [FederatedAI/FATE](https://github.com/FederatedAI/FATE) - An Industrial Grade Federated Learning Framework
 - [zhouhaoyi/Informer2020](https://github.com/zhouhaoyi/Informer2020) - The GitHub repository for the paper "Informer" accepted by AAAI 2021.
-- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified AI Framework
+- [Transpile-AI/ivy](https://github.com/Transpile-AI/ivy) - The Unified AI Framework
 - [gvanrossum/patma](https://github.com/gvanrossum/patma) - Pattern Matching
 - [cvxgrp/pymde](https://github.com/cvxgrp/pymde) - Minimum-distortion embedding with PyTorch
 - [sumanbanerjee1/Code-Mixed-Dialog](https://github.com/sumanbanerjee1/Code-Mixed-Dialog) - 
@@ -4239,7 +4240,7 @@
 - [feast-dev/feast](https://github.com/feast-dev/feast) - The Open Source Feature Store for Machine Learning
 - [Lightning-Universe/lightning-Covid19](https://github.com/Lightning-Universe/lightning-Covid19) - Classification for covid-19 chest X-ray images using Lightning
 - [cerebroai/reformers](https://github.com/cerebroai/reformers) - Efficient Transformers for research, PyTorch and Tensorflow using Locality Sensitive Hashing
-- [bentoml/BentoML](https://github.com/bentoml/BentoML) - The most flexible way to serve AI/ML models in production - Build Model Inference Service, LLM APIs, Inference Graph/Pipelines, Compound AI systems, Multi-Modal, RAG as a Service, and more!
+- [bentoml/BentoML](https://github.com/bentoml/BentoML) - The easiest way to serve AI/ML models in production - Build Model Inference Service, LLM APIs, Multi-model Inference Graph/Pipelines, LLM/RAG apps, and more!
 - [uber/fiber](https://github.com/uber/fiber) - Distributed Computing for AI Made Simple
 - [betamaxpy/betamax](https://github.com/betamaxpy/betamax) - A VCR imitation designed only for python-requests.
 - [requests/toolbelt](https://github.com/requests/toolbelt) - A toolbelt of useful classes and functions to be used with python-requests
@@ -6976,6 +6977,7 @@
 
 ## Rust 
 
+- [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 - [Televiska/viska](https://github.com/Televiska/viska) - SIP framework built in Rust
 - [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
 - [yoshuawuyts/futures-concurrency](https://github.com/yoshuawuyts/futures-concurrency) - Structured concurrency operations for async Rust
@@ -7100,7 +7102,7 @@
 - [zesterer/chumsky](https://github.com/zesterer/chumsky) - Write expressive, high-performance parsers with ease.
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
 - [hotg-ai/rune](https://github.com/hotg-ai/rune) - Rune provides containers to encapsulate and deploy edgeML pipelines and applications
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - SQL stream processing, analytics, and management. We decouple storage and compute to offer speedy bootstrapping, dynamic scaling, time-travel queries, and efficient joins.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - SQL stream processing, analytics, and management. We decouple storage and compute to offer instant failover, dynamic scaling, speedy bootstrapping, and efficient joins.
 - [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates
 - [JasonShin/elemental-system-designs](https://github.com/JasonShin/elemental-system-designs) - System Designs open for everyone
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
@@ -7548,6 +7550,10 @@
 
 - [rabbitmq/rabbitmq-server](https://github.com/rabbitmq/rabbitmq-server) - Open source RabbitMQ: core server and tier 1 (built-in) plugins
 
+## Svelte 
+
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀
+
 ## Swift 
 
 - [silt-lang/silt](https://github.com/silt-lang/silt) - An in-progress fast, dependently typed, functional programming language implemented in Swift.
@@ -7626,12 +7632,11 @@
 - [yatki/vscode-surround](https://github.com/yatki/vscode-surround) - 🔥 A simple yet powerful extension to add wrapper templates around your code blocks
 - [postgres-ai/database-lab-engine](https://github.com/postgres-ai/database-lab-engine) - DBLab enables 🖖 database branching and ⚡️ thin cloning for any Postgres database and empowers DB testing in CI/CD. This optimizes database-related costs while improving time-to-market and software qua
 - [JaosnHsieh/github-star-search](https://github.com/JaosnHsieh/github-star-search) - A CLI that search your github starred repositories offline through README , description and other fields.
-- [haskell-spotlight/haskell-spotlight](https://github.com/haskell-spotlight/haskell-spotlight) - VSCode extension for Haskell
+- [visortelle/haskell-spotlight](https://github.com/visortelle/haskell-spotlight) - VSCode extension for Haskell
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [egoist/bina](https://github.com/egoist/bina) - An installer for self-contained, single-file binaries, no additional CLI needed.
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀
 - [tokiedokie/reveal-markdown](https://github.com/tokiedokie/reveal-markdown) - Revealjs vsCode extension
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
@@ -7648,6 +7653,7 @@
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
 - [banga/git-split-diffs](https://github.com/banga/git-split-diffs) - Syntax highlighted side-by-side diffs in your terminal
 - [pinterest/querybook](https://github.com/pinterest/querybook) - Querybook is a Big Data Querying UI, combining collocated table metadata and a simple notebook interface.
+- [porter-dev/porter](https://github.com/porter-dev/porter) - Kubernetes powered PaaS that runs in your own cloud.
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [microsoft/SandDance](https://github.com/microsoft/SandDance) - Visually explore, understand, and present your data.
 - [peers/peerjs](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC.
