@@ -328,6 +328,7 @@
 - [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis
 - [google/gemma.cpp](https://github.com/google/gemma.cpp) - lightweight, standalone C++ inference engine for Google's Gemma models.
 - [root-project/cling](https://github.com/root-project/cling) - The cling C++ interpreter
+- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - A simple one-file way to run various GGML and GGUF models with KoboldAI's UI
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
@@ -954,6 +955,7 @@
 
 ## Go 
 
+- [golang-jwt/jwt](https://github.com/golang-jwt/jwt) - Community maintained clone of https://github.com/dgrijalva/jwt-go
 - [skit-ai/vcore](https://github.com/skit-ai/vcore) - Common, utility packages for Go
 - [sipcapture/heplify](https://github.com/sipcapture/heplify) - Portable and Lightweight HEP Capture Agent for HOMER
 - [grafana/pyroscope-go](https://github.com/grafana/pyroscope-go) - This is the golang client integration for Pyroscope
@@ -1883,6 +1885,7 @@
 - [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine.
 - [acoli-repo/conll-transform](https://github.com/acoli-repo/conll-transform) - seamless conversion between different CoNLL/TSV dialects
 - [RaiMan/SikuliX1](https://github.com/RaiMan/SikuliX1) - SikuliX version 2.0.0+ (2019+)
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [jitsi/jitsi-webrtc-vad-wrapper](https://github.com/jitsi/jitsi-webrtc-vad-wrapper) - A java wrapper around the WebRTC Voice Activity Detection library
 - [VertaAI/modeldb](https://github.com/VertaAI/modeldb) - Open Source ML Model Versioning, Metadata, and Experiment Management
 - [http-kit/http-kit](https://github.com/http-kit/http-kit) - Simple, high-performance event-driven HTTP client+server for Clojure
@@ -2969,7 +2972,6 @@
 - [protontypes/open-sustainable-technology](https://github.com/protontypes/open-sustainable-technology) - A directory and analysis of the open source ecosystem in the areas of climate change, sustainable energy, biodiversity and natural resources.
 - [ashishps1/awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources) - Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews.
 - [unblocktorrents/YTS-YIFY-Proxy](https://github.com/unblocktorrents/YTS-YIFY-Proxy) - YTS Proxy - 100% Working YTS Mirror Sites 2024
-- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [mypyc/mypyc](https://github.com/mypyc/mypyc) - Compile type annotated Python to fast C extensions
 - [espoal/awesome-iouring](https://github.com/espoal/awesome-iouring) - Delightful io_uring packages and resources
 - [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses & certifications.
@@ -3110,7 +3112,6 @@
 - [cassidoo/getting-a-gig](https://github.com/cassidoo/getting-a-gig) - Guide for getting a gig as a tech student.
 - [mr-karan/awesome-investing](https://github.com/mr-karan/awesome-investing) - 💸💸 Curated list of investment & finance related resources
 - [georgezouq/awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) - 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market.
-- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [priyankavergadia/google-cloud-4-words](https://github.com/priyankavergadia/google-cloud-4-words) - The Google Cloud Developer's Cheat Sheet
 - [madd86/awesome-system-design](https://github.com/madd86/awesome-system-design) - A curated list of awesome System Design (A.K.A. Distributed Systems) resources.
 - [bbatsov/clojure-style-guide](https://github.com/bbatsov/clojure-style-guide) - A community coding style guide for the Clojure programming language
@@ -4537,7 +4538,6 @@
 - [pytorch/hub](https://github.com/pytorch/hub) - Submission to https://pytorch.org/hub/
 - [dry-python/returns](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe!
 - [Netflix/flamescope](https://github.com/Netflix/flamescope) - FlameScope is a visualization tool for exploring different time ranges as Flame Graphs.
-- [ROCm/ROCm](https://github.com/ROCm/ROCm) - AMD ROCm™ Software - GitHub Home
 - [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
 - [tnm/qr](https://github.com/tnm/qr) - Queues, stacks, deques, and priority queues with Redis in Python
 - [shobrook/rebound](https://github.com/shobrook/rebound) - Command-line tool that instantly fetches Stack Overflow results when an exception is thrown
@@ -5904,7 +5904,6 @@
 - [yaml/pyyaml](https://github.com/yaml/pyyaml) - Canonical source repository for PyYAML
 - [minhnhat93/tf-SNDCGAN](https://github.com/minhnhat93/tf-SNDCGAN) - Tensorflow Implementation of the paper "Spectral Normalization for Generative Adversarial Networks" (ICML 2017 workshop)
 - [experiencor/keras-yolo3](https://github.com/experiencor/keras-yolo3) - Training and Detecting Objects with YOLO3
-- [plotly/dash-svm](https://github.com/plotly/dash-svm) - Interactive SVM Explorer, using Dash and scikit-learn
 - [gautam1858/Neural-Arithmetic-Logic-Units](https://github.com/gautam1858/Neural-Arithmetic-Logic-Units) - MXNet Implementation of DeepMind's Neural Arithmetic Logic Units (NALU)
 - [DetectionTeamUCAS/R2CNN_Faster-RCNN_Tensorflow](https://github.com/DetectionTeamUCAS/R2CNN_Faster-RCNN_Tensorflow) - Rotational region detection based on Faster-RCNN.
 - [princeton-vl/CornerNet](https://github.com/princeton-vl/CornerNet) - 
@@ -7228,7 +7227,7 @@
 - [Plume-org/Plume](https://github.com/Plume-org/Plume) - Federated blogging application, thanks to ActivityPub (now on https://git.joinplu.me/ — this is just a mirror)
 - [rust-ml/linfa](https://github.com/rust-ml/linfa) - A Rust machine learning framework.
 - [djc/askama](https://github.com/djc/askama) - Type-safe, compiled Jinja-like templates for Rust
-- [actix/examples](https://github.com/actix/examples) - Community showcase and examples of Actix ecosystem usage.
+- [actix/examples](https://github.com/actix/examples) - Community showcase and examples of Actix Web ecosystem usage.
 - [zmwangx/rust-ffmpeg](https://github.com/zmwangx/rust-ffmpeg) - Safe FFmpeg wrapper.
 - [crlf0710/tectonic](https://github.com/crlf0710/tectonic) - Experimental Oxidization of Tectonic the TeX/LaTeX engine.
 - [chyh1990/yaml-rust](https://github.com/chyh1990/yaml-rust) - A pure rust YAML implementation.
@@ -7284,6 +7283,7 @@
 - [petgraph/petgraph](https://github.com/petgraph/petgraph) - Graph data structure library for Rust.
 - [dtolnay/cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C++
 - [ragona/clobber](https://github.com/ragona/clobber) - TCP load testing tool, written in async Rust
+- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [facebookarchive/propfuzz](https://github.com/facebookarchive/propfuzz) - A Rust toolkit to combine property-based testing and fuzzing.
 - [LemonVM/LemonVMAlpha](https://github.com/LemonVM/LemonVMAlpha) - A Register Based VM. 柠檬手写的看起来像栈机的寄存器机
 - [pretzelhammer/rust-blog](https://github.com/pretzelhammer/rust-blog) - Educational blog posts for Rust beginners
@@ -7524,6 +7524,7 @@
 - [pivpn/pivpn](https://github.com/pivpn/pivpn) - The Simplest VPN installer, designed for Raspberry Pi
 - [lzhbrian/Cool-Fashion-Papers](https://github.com/lzhbrian/Cool-Fashion-Papers) - 👔👗🕶️🎩 Cool resources about Fashion + AI! (papers, datasets, workshops, companies, ...) (constantly updating)
 - [AdolfVonKleist/Phonetisaurus](https://github.com/AdolfVonKleist/Phonetisaurus) - Phonetisaurus G2P
+- [ROCm/ROCm](https://github.com/ROCm/ROCm) - AMD ROCm™ Software - GitHub Home
 - [google/oss-fuzz](https://github.com/google/oss-fuzz) - OSS-Fuzz - continuous fuzzing for open source software.
 - [nightrome/cocostuff](https://github.com/nightrome/cocostuff) - The official homepage of the COCO-Stuff dataset.
 - [willianjusten/awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.
@@ -7647,7 +7648,6 @@
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [kubeflow/metadata](https://github.com/kubeflow/metadata) - Repository for assets related to Metadata.
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [autoai-org/AID](https://github.com/autoai-org/AID) - One-Stop System for Machine Learning.
