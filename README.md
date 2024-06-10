@@ -1725,6 +1725,7 @@
 - [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre) - At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.
 - [davideuler/architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/OpenAI/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
 - [vadootvpeer/p2p-cdn-sdk-javascript](https://github.com/vadootvpeer/p2p-cdn-sdk-javascript) - Free p2p cdn github javascript sdk to reduce video streaming costs of live and on demand video using webrtc by upto 90% and improve scalability by 6x - 🚀 Vadootv 🚀
+- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [hjacobs/kube-resource-report](https://github.com/hjacobs/kube-resource-report) - Report Kubernetes cluster and pod resource requests vs usage and generate static HTML
 - [confluentinc/confluent-kafka-go](https://github.com/confluentinc/confluent-kafka-go) - Confluent's Apache Kafka Golang client
 - [orangeduck/BuildYourOwnLisp](https://github.com/orangeduck/BuildYourOwnLisp) - Learn C and build your own programming language in under 1000 lines of code!
@@ -4866,7 +4867,7 @@
 - [toodef/neural-pipeline](https://github.com/toodef/neural-pipeline) - Neural networks training pipeline based on PyTorch
 - [google-research/disentanglement_lib](https://github.com/google-research/disentanglement_lib) - disentanglement_lib is an open-source library for research on learning disentangled representations.
 - [microsoft/nail_agent](https://github.com/microsoft/nail_agent) - NAIL is an agent that plays text-based interactive fiction games.
-- [ssnl/dataset-distillation](https://github.com/ssnl/dataset-distillation) - Dataset Distillation
+- [ssnl/dataset-distillation](https://github.com/ssnl/dataset-distillation) - Open-source code for paper "Dataset Distillation"
 - [aimagelab/show-control-and-tell](https://github.com/aimagelab/show-control-and-tell) - Show, Control and Tell: A Framework for Generating Controllable and Grounded Captions. CVPR 2019
 - [openai/gpt-2](https://github.com/openai/gpt-2) - Code for the paper "Language Models are Unsupervised Multitask Learners"
 - [tensorly/tensorly](https://github.com/tensorly/tensorly) - TensorLy: Tensor Learning in Python.
@@ -5290,7 +5291,7 @@
 - [bfs18/nsynth_wavenet](https://github.com/bfs18/nsynth_wavenet) - parallel wavenet based on nsynth
 - [chaeyoung-lee/cwavegan](https://github.com/chaeyoung-lee/cwavegan) - Conditional WaveGAN: Generating audio samples conditioned on class labels
 - [ReyhaneAskari/pytorch_experiments](https://github.com/ReyhaneAskari/pytorch_experiments) - Auto Encoders in PyTorch
-- [AndrewBeers/DeepZine](https://github.com/AndrewBeers/DeepZine) - Synthetic book pages created with a PGGAN
+- [AnnaBeers/DeepZine](https://github.com/AnnaBeers/DeepZine) - Synthetic book pages created with a PGGAN
 - [huggingface/hmtl](https://github.com/huggingface/hmtl) - 🌊HMTL: Hierarchical Multi-Task Learning - A State-of-the-Art neural network model for several NLP tasks based on PyTorch and AllenNLP
 - [tstandley/Xception-PyTorch](https://github.com/tstandley/Xception-PyTorch) - A PyTorch implementation of Xception:  Deep Learning with Depthwise Separable Convolutions
 - [AbnerHqC/GaitSet](https://github.com/AbnerHqC/GaitSet) - A flexible, effective and fast cross-view gait recognition network
@@ -7251,7 +7252,7 @@
 - [sonos/tract](https://github.com/sonos/tract) - Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference
 - [sonos/dinghy](https://github.com/sonos/dinghy) - Easier cross-compilation for phones and single boards computers
 - [EmbarkStudios/rust-gpu](https://github.com/EmbarkStudios/rust-gpu) - 🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧
-- [akiradeveloper/lolraft](https://github.com/akiradeveloper/lolraft) - A Multi-Raft implementation in Rust language. lol = "Lane on Log"
+- [akiradeveloper/lolraft](https://github.com/akiradeveloper/lolraft) - A Multi-Raft implementation in Rust language.
 - [silvia-odwyer/photon](https://github.com/silvia-odwyer/photon) - ⚡ Rust/WebAssembly image processing library
 - [austinjones/lifeline-rs](https://github.com/austinjones/lifeline-rs) - A dependency injection library for message-based applications
 - [http-rs/surf](https://github.com/http-rs/surf) - Fast and friendly HTTP client framework for async Rust
@@ -7283,7 +7284,6 @@
 - [petgraph/petgraph](https://github.com/petgraph/petgraph) - Graph data structure library for Rust.
 - [dtolnay/cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C++
 - [ragona/clobber](https://github.com/ragona/clobber) - TCP load testing tool, written in async Rust
-- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [facebookarchive/propfuzz](https://github.com/facebookarchive/propfuzz) - A Rust toolkit to combine property-based testing and fuzzing.
 - [LemonVM/LemonVMAlpha](https://github.com/LemonVM/LemonVMAlpha) - A Register Based VM. 柠檬手写的看起来像栈机的寄存器机
 - [pretzelhammer/rust-blog](https://github.com/pretzelhammer/rust-blog) - Educational blog posts for Rust beginners
