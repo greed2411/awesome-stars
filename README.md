@@ -328,7 +328,6 @@
 - [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis
 - [google/gemma.cpp](https://github.com/google/gemma.cpp) - lightweight, standalone C++ inference engine for Google's Gemma models.
 - [root-project/cling](https://github.com/root-project/cling) - The cling C++ interpreter
-- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - A simple one-file way to run various GGML and GGUF models with KoboldAI's UI
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
@@ -2857,6 +2856,7 @@
 
 ## LLVM 
 
+- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [llvm-mirror/llvm](https://github.com/llvm-mirror/llvm) - Project moved to: https://github.com/llvm/llvm-project
 
 ## Lua 
@@ -7620,7 +7620,7 @@
 - [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) - Cloud Database Manager
 - [facebookresearch/shumai](https://github.com/facebookresearch/shumai) - Fast Differentiable Tensor Library in JavaScript and TypeScript with Bun + Flashlight
 - [denosaurs/bench](https://github.com/denosaurs/bench) - 📊 Comparing deno, node and bun HTTP frameworks
-- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure.
+- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure
 - [MichalLytek/typegraphql-prisma](https://github.com/MichalLytek/typegraphql-prisma) - Prisma generator to emit TypeGraphQL types and CRUD resolvers from your Prisma schema
 - [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite) - Wasm powered Jupyter running in the browser 💡
 - [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
