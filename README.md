@@ -4086,7 +4086,7 @@
 - [JordanAsh/badge](https://github.com/JordanAsh/badge) - An implementation of the BADGE batch active learning algorithm.
 - [rlgraph/rlgraph](https://github.com/rlgraph/rlgraph) - RLgraph: Modular computation graphs for deep reinforcement learning
 - [jplana/python-etcd](https://github.com/jplana/python-etcd) - A python client for etcd
-- [zalando/patroni](https://github.com/zalando/patroni) - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
+- [patroni/patroni](https://github.com/patroni/patroni) - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
 - [iceychris/LibreASR](https://github.com/iceychris/LibreASR) - :speech_balloon: An On-Premises, Streaming Speech Recognition System
 - [replicate/keepsake](https://github.com/replicate/keepsake) - Version control for machine learning
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
