@@ -812,7 +812,7 @@
 - [cljfx/cljfx](https://github.com/cljfx/cljfx) - Declarative, functional and extensible wrapper of JavaFX inspired by better parts of react and re-frame
 - [replikativ/konserve](https://github.com/replikativ/konserve) - A clojuresque key-value/document store protocol with core.async.
 - [Factual/clj-leveldb](https://github.com/Factual/clj-leveldb) - Clojure bindings for LevelDB
-- [athensresearch/athens](https://github.com/athensresearch/athens) - ATHENS IS NO LONGER BEING ACTIVELY MAINTAINED. Athens is an open-source, collaborative knowledge graph.
+- [athensresearch/athens](https://github.com/athensresearch/athens) - Athens is no longer maintainted. Athens was an open-source, collaborative knowledge graph, backed by YC W21
 - [hoophq/sequence](https://github.com/hoophq/sequence) - Immutable, scalable, and easy to use ledger service.
 - [commsor/titanoboa](https://github.com/commsor/titanoboa) - Titanoboa makes complex workflows easy. It is a low-code workflow orchestration platform for JVM - distributed, highly scalable and fault tolerant.
 - [overtone/overtone](https://github.com/overtone/overtone) - Collaborative Programmable Music
@@ -1014,7 +1014,7 @@
 - [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
 - [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go
 - [jthomperoo/predictive-horizontal-pod-autoscaler](https://github.com/jthomperoo/predictive-horizontal-pod-autoscaler) - Horizontal Pod Autoscaler built with predictive abilities using statistical models
-- [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock) - Lock, Stock, and Two Smoking MicroVMs. Create and manage the lifecycle of MicroVMs backed by containerd.
+- [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock) - Lock, Stock, and Two Smoking MicroVMs. Create and manage the lifecycle of MicroVMs backed by containerd.
 - [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go) - Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to p
 - [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go.
 - [google/mangle](https://github.com/google/mangle) - 
@@ -1448,6 +1448,7 @@
 - [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
 - [jart/gosip](https://github.com/jart/gosip) - Public Switched Telecommunications Network Unleashed
 - [meshbird/meshbird](https://github.com/meshbird/meshbird) - Distributed private networking
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [libp2p/go-libp2p-kad-dht](https://github.com/libp2p/go-libp2p-kad-dht) - A Kademlia DHT implementation on go-libp2p
 - [cretz/bine](https://github.com/cretz/bine) - Go library for accessing and embedding Tor clients and servers
 - [cretz/tor-dht-poc](https://github.com/cretz/tor-dht-poc) - Anonymous DHT Accessible from Executable or Tor-Enabled Browser
@@ -1471,7 +1472,6 @@
 - [gwuhaolin/livego](https://github.com/gwuhaolin/livego) - live video streaming server in golang
 - [elazarl/goproxy](https://github.com/elazarl/goproxy) - An HTTP proxy library for Go
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-- [redpanda-data/console](https://github.com/redpanda-data/console) - Redpanda Console is a developer-friendly UI for managing your Kafka/Redpanda workloads. Console gives you a simple, interactive approach for gaining visibility into your topics, masking data, managing
 - [xxxserxxx/gotop](https://github.com/xxxserxxx/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
 - [dchest/captcha](https://github.com/dchest/captcha) - Go package captcha implements generation and verification of image and audio CAPTCHAs.
 - [buraksezer/olric](https://github.com/buraksezer/olric) - Distributed in-memory object store. It can be used as an embedded Go library and a language-independent service.
@@ -1544,7 +1544,7 @@
 - [nlpodyssey/spago](https://github.com/nlpodyssey/spago) - Self-contained Machine Learning and Natural Language Processing library in Go
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
 - [yahoo/vssh](https://github.com/yahoo/vssh) - Go Library to Execute Commands Over SSH at Scale
-- [go-micro/go-micro](https://github.com/go-micro/go-micro) - A Go microservices framework
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go microservices framework
 - [danaugrs/go-tsne](https://github.com/danaugrs/go-tsne) - t-Distributed Stochastic Neighbor Embedding (t-SNE) in Go
 - [goplus/gop](https://github.com/goplus/gop) - The Go+ programming language is designed for engineering, STEM education, and data science
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
@@ -1623,7 +1623,7 @@
 - [rkt/rkt](https://github.com/rkt/rkt) - [Project ended] rkt is a pod-native container engine for Linux. It is composable, secure, and built on standards.
 - [Consensys/quorum](https://github.com/Consensys/quorum) - A permissioned implementation of Ethereum supporting data privacy
 - [xuperchain/xuperchain](https://github.com/xuperchain/xuperchain) - A highly flexible blockchain architecture with great transaction performance.
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) - nFPM is Not FPM - a simple deb, rpm, apk and arch linux packager written in Go
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) - nFPM is Not FPM - a simple deb, rpm, apk, ipk, and arch linux packager written in Go
 - [perlin-network/noise](https://github.com/perlin-network/noise) - A decentralized P2P networking stack written in Go.
 - [perlin-network/wavelet](https://github.com/perlin-network/wavelet) - Write once, run forever. Deploy robust, scalable, decentralized WebAssembly applications on Wavelet.
 - [cayleygraph/cayley](https://github.com/cayleygraph/cayley) - An open-source graph database
@@ -1728,7 +1728,6 @@
 - [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre) - At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.
 - [davideuler/architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/OpenAI/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
 - [vadootvpeer/p2p-cdn-sdk-javascript](https://github.com/vadootvpeer/p2p-cdn-sdk-javascript) - Free p2p cdn github javascript sdk to reduce video streaming costs of live and on demand video using webrtc by upto 90% and improve scalability by 6x - 🚀 Vadootv 🚀
-- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [hjacobs/kube-resource-report](https://github.com/hjacobs/kube-resource-report) - Report Kubernetes cluster and pod resource requests vs usage and generate static HTML
 - [confluentinc/confluent-kafka-go](https://github.com/confluentinc/confluent-kafka-go) - Confluent's Apache Kafka Golang client
 - [orangeduck/BuildYourOwnLisp](https://github.com/orangeduck/BuildYourOwnLisp) - Learn C and build your own programming language in under 1000 lines of code!
@@ -2113,7 +2112,7 @@
 - [VGraupera/1on1-questions](https://github.com/VGraupera/1on1-questions) - Mega list of 1 on 1 meeting questions compiled from a variety to sources
 - [uber/manifold](https://github.com/uber/manifold) - A model-agnostic visual debugging tool for machine learning
 - [MagicStack/MagicPython](https://github.com/MagicStack/MagicPython) - Cutting edge Python syntax highlighter for Sublime Text, Atom and Visual Studio Code. Used by GitHub to highlight your Python code!
-- [4ian/GDevelop](https://github.com/4ian/GDevelop) - :video_game: Open-source, cross-platform game engine designed to be used by everyone.
+- [4ian/GDevelop](https://github.com/4ian/GDevelop) - 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [FPGAwars/icestudio](https://github.com/FPGAwars/icestudio) - :snowflake: Visual editor for open FPGA boards
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
@@ -2278,7 +2277,7 @@
 - [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) - Neural Networks: Zero to Hero
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [pesser/stable-diffusion](https://github.com/pesser/stable-diffusion) - 
-- [kuutsav/information-retrieval](https://github.com/kuutsav/information-retrieval) - Neural information retrieval / semantic-search / Bi-Encoders
+- [kuutsav/information-retrieval](https://github.com/kuutsav/information-retrieval) - Neural Information Retrieval / Semantic Search / Bi-Encoders
 - [srush/GPU-Puzzles](https://github.com/srush/GPU-Puzzles) - Solve puzzles. Learn CUDA.
 - [jonkrohn/ML-foundations](https://github.com/jonkrohn/ML-foundations) - Machine Learning Foundations: Linear Algebra, Calculus, Statistics & Computer Science
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content
@@ -3095,7 +3094,6 @@
 - [meirwah/awesome-workflow-engines](https://github.com/meirwah/awesome-workflow-engines) - A curated list of awesome open source workflow engines
 - [AntJanus/programmers-proverbs](https://github.com/AntJanus/programmers-proverbs) - Proverbs from the programmer
 - [not-yet-awesome-rust/not-yet-awesome-rust](https://github.com/not-yet-awesome-rust/not-yet-awesome-rust) - A curated list of Rust code and resources that do NOT exist yet, but would be beneficial to the Rust community.
-- [samsquire/ideas](https://github.com/samsquire/ideas) - a hundred ideas for computing - a record of ideas - https://samsquire.github.io/ideas/
 - [sger/ElixirBooks](https://github.com/sger/ElixirBooks) - List of Elixir books
 - [jnv/lists](https://github.com/jnv/lists) - The definitive list of lists (of lists) curated on GitHub and elsewhere
 - [ojas/101](https://github.com/ojas/101) - Resources on building a software biz
@@ -3618,6 +3616,7 @@
 
 ## Python 
 
+- [gawel/aiocron](https://github.com/gawel/aiocron) - Crontabs for asyncio
 - [Akarsh-TS/sqlite-shift](https://github.com/Akarsh-TS/sqlite-shift) - 
 - [fluhus/snopher](https://github.com/fluhus/snopher) - A practical guide on calling Go from Python using ctypes.
 - [sippy/rtp_cluster](https://github.com/sippy/rtp_cluster) - RTP Cluster is a front-end for multiple RTPproxies
@@ -4029,7 +4028,7 @@
 - [hcmlab/vadnet](https://github.com/hcmlab/vadnet) - Real-time Voice Activity Detection in Noisy Eniviroments using Deep Neural Networks
 - [FederatedAI/FATE](https://github.com/FederatedAI/FATE) - An Industrial Grade Federated Learning Framework
 - [zhouhaoyi/Informer2020](https://github.com/zhouhaoyi/Informer2020) - The GitHub repository for the paper "Informer" accepted by AAAI 2021.
-- [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - The Unified AI Framework
+- [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - The Unified ML Representation
 - [gvanrossum/patma](https://github.com/gvanrossum/patma) - Pattern Matching
 - [cvxgrp/pymde](https://github.com/cvxgrp/pymde) - Minimum-distortion embedding with PyTorch
 - [sumanbanerjee1/Code-Mixed-Dialog](https://github.com/sumanbanerjee1/Code-Mixed-Dialog) - 
@@ -4864,7 +4863,6 @@
 - [pypyjs/pypyjs](https://github.com/pypyjs/pypyjs) - PyPy compiled to JavaScript
 - [baldassarreFe/deep-koalarization](https://github.com/baldassarreFe/deep-koalarization) - Keras/Tensorflow implementation of our paper Grayscale Image Colorization using deep CNN and Inception-ResNet-v2 (https://arxiv.org/abs/1712.03400)
 - [miso-belica/jusText](https://github.com/miso-belica/jusText) - Heuristic based boilerplate removal tool
-- [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [vanvalenlab/deepcell-tf](https://github.com/vanvalenlab/deepcell-tf) - Deep Learning Library for Single Cell Analysis
 - [toodef/neural-pipeline](https://github.com/toodef/neural-pipeline) - Neural networks training pipeline based on PyTorch
 - [google-research/disentanglement_lib](https://github.com/google-research/disentanglement_lib) - disentanglement_lib is an open-source library for research on learning disentangled representations.
@@ -4982,7 +4980,7 @@
 - [jinyu121/video2frame](https://github.com/jinyu121/video2frame) - Yet another easy-to-use tool to extract frames from videos, for deep learning and computer vision.
 - [roosephu/slbo](https://github.com/roosephu/slbo) - Algorithmic Framework for Model-based Deep Reinforcement Learning with Theoretical Guarantees
 - [speedinghzl/pytorch-segmentation-toolbox](https://github.com/speedinghzl/pytorch-segmentation-toolbox) - PyTorch Implementations for DeeplabV3 and PSPNet
-- [ycszen/TorchSeg](https://github.com/ycszen/TorchSeg) - Fast, modular reference implementation and easy training of Semantic Segmentation algorithms in PyTorch.
+- [yu-changqian/TorchSeg](https://github.com/yu-changqian/TorchSeg) - Fast, modular reference implementation and easy training of Semantic Segmentation algorithms in PyTorch.
 - [many-facedgod/Vehicle-Detection-and-Classification](https://github.com/many-facedgod/Vehicle-Detection-and-Classification) - Vehicle detection and classification on a video from an Indian Highway.
 - [mitmul/chainer-nri](https://github.com/mitmul/chainer-nri) - Reproduction work of "Neural Relational Inference for Interacting Systems" in Chainer
 - [kaszperro/slick-dnn](https://github.com/kaszperro/slick-dnn) - Tiny and elegant deep learning library
@@ -6347,7 +6345,7 @@
 - [jt827859032/DRRN-pytorch](https://github.com/jt827859032/DRRN-pytorch) - Pytorch implementation of Deep Recursive Residual Network for Super Resolution (DRRN), CVPR 2017
 - [Miserlou/Zappa](https://github.com/Miserlou/Zappa) - Serverless Python
 - [bshaw2019/Crypto_Trader](https://github.com/bshaw2019/Crypto_Trader) - Q-Learning Based Cryptocurrency Trader and Portfolio Optimizer for the Poloniex Exchange
-- [Alexis-benoist/eralchemy](https://github.com/Alexis-benoist/eralchemy) - Entity Relation Diagrams generation tool
+- [eralchemy/eralchemy](https://github.com/eralchemy/eralchemy) - Entity Relation Diagrams generation tool
 - [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql, sqlite and cockroachdb
 - [jmoiron/humanize](https://github.com/jmoiron/humanize) - python humanize functions
 - [Livin21/LinuxDrop](https://github.com/Livin21/LinuxDrop) - An airdrop alternative for Linux users!
@@ -7286,6 +7284,7 @@
 - [petgraph/petgraph](https://github.com/petgraph/petgraph) - Graph data structure library for Rust.
 - [dtolnay/cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C++
 - [ragona/clobber](https://github.com/ragona/clobber) - TCP load testing tool, written in async Rust
+- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [facebookarchive/propfuzz](https://github.com/facebookarchive/propfuzz) - A Rust toolkit to combine property-based testing and fuzzing.
 - [LemonVM/LemonVMAlpha](https://github.com/LemonVM/LemonVMAlpha) - A Register Based VM. 柠檬手写的看起来像栈机的寄存器机
 - [pretzelhammer/rust-blog](https://github.com/pretzelhammer/rust-blog) - Educational blog posts for Rust beginners
@@ -7703,10 +7702,10 @@
 - [graphile/crystal](https://github.com/graphile/crystal) - 🔮 Graphile's Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more!
 - [PAIR-code/lit](https://github.com/PAIR-code/lit) - The Learning Interpretability Tool: Interactively analyze ML models to understand their behavior in an extensible and framework agnostic interface.
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [github/stable-socket](https://github.com/github/stable-socket) - A web socket that reconnects.
 - [Novage/p2p-media-loader](https://github.com/Novage/p2p-media-loader) - An open-source engine for P2P streaming of live and on demand video directly in a web browser HTML page
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
+- [redpanda-data/console](https://github.com/redpanda-data/console) - Redpanda Console is a developer-friendly UI for managing your Kafka/Redpanda workloads. Console gives you a simple, interactive approach for gaining visibility into your topics, masking data, managing
 - [microsoft/fast](https://github.com/microsoft/fast) - The adaptive interface system for modern web experiences.
 - [nsfw-filter/nsfw-filter](https://github.com/nsfw-filter/nsfw-filter) - A free, open source, and privacy-focused browser extension to block “not safe for work” content built using TypeScript and TensorFlow.js.
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
@@ -7735,6 +7734,7 @@
 - [hastic-zzz/hastic-server](https://github.com/hastic-zzz/hastic-server) - Hastic data management server for analyzing patterns and anomalies from Grafana
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
+- [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [widgetti/ipyvolume](https://github.com/widgetti/ipyvolume) - 3d plotting for Python in the Jupyter notebook based on IPython widgets using WebGL
 - [microsoft/onnxjs](https://github.com/microsoft/onnxjs) - ONNX.js: run ONNX models using JavaScript
