@@ -2277,7 +2277,7 @@
 - [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) - Neural Networks: Zero to Hero
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [pesser/stable-diffusion](https://github.com/pesser/stable-diffusion) - 
-- [kuutsav/information-retrieval](https://github.com/kuutsav/information-retrieval) - Neural Information Retrieval / Semantic Search / Bi-Encoders
+- [kuutsav/information-retrieval](https://github.com/kuutsav/information-retrieval) - Neural information retrieval / Semantic search / Bi-encoders
 - [srush/GPU-Puzzles](https://github.com/srush/GPU-Puzzles) - Solve puzzles. Learn CUDA.
 - [jonkrohn/ML-foundations](https://github.com/jonkrohn/ML-foundations) - Machine Learning Foundations: Linear Algebra, Calculus, Statistics & Computer Science
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content
@@ -6102,7 +6102,7 @@
 - [dmlc/tensorboard](https://github.com/dmlc/tensorboard) - Standalone TensorBoard for visualizing in deep learning
 - [carpedm20/ENAS-pytorch](https://github.com/carpedm20/ENAS-pytorch) - PyTorch implementation of "Efficient Neural Architecture Search via Parameters Sharing"
 - [keras-team/keras-contrib](https://github.com/keras-team/keras-contrib) - Keras community contributions
-- [yzhao062/pyod](https://github.com/yzhao062/pyod) - A Comprehensive and Scalable Python Library for Outlier Detection (Anomaly Detection)
+- [yzhao062/pyod](https://github.com/yzhao062/pyod) - A Python Library for Outlier and Anomaly Detection, Integrating Classical and Deep Learning Techniques
 - [brightmart/text_classification](https://github.com/brightmart/text_classification) - all kinds of text classification models and more with deep learning
 - [f90/Wave-U-Net](https://github.com/f90/Wave-U-Net) - Implementation of the Wave-U-Net for audio source separation
 - [jadore801120/attention-is-all-you-need-pytorch](https://github.com/jadore801120/attention-is-all-you-need-pytorch) - A PyTorch implementation of the Transformer model in "Attention is All You Need".
