@@ -1942,7 +1942,6 @@
 - [swimos/swim](https://github.com/swimos/swim) - Full stack application platform for building stateful microservices, streaming APIs, and real-time UIs
 - [doocs/advanced-java](https://github.com/doocs/advanced-java) - 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
 - [indeedeng/util](https://github.com/indeedeng/util) - Useful Java utilities
-- [confluentinc/ksql](https://github.com/confluentinc/ksql) - The database purpose-built for stream processing applications.
 - [apache/gobblin](https://github.com/apache/gobblin) - A distributed data integration framework that simplifies common aspects of big data integration such as data ingestion, replication, organization and lifecycle management for both streaming and batch 
 - [openzipkin/zipkin](https://github.com/openzipkin/zipkin) - Zipkin is a distributed tracing system
 - [logicalclocks/hopsworks](https://github.com/logicalclocks/hopsworks) - Hopsworks - Data-Intensive AI platform with a Feature Store
@@ -2120,7 +2119,6 @@
 - [automerge/trellis](https://github.com/automerge/trellis) - Trello clone / sample app for Automerge persistence library
 - [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming.
 - [hyperledger/caliper](https://github.com/hyperledger/caliper) - A blockchain benchmark framework to measure performance of multiple blockchain solutions https://wiki.hyperledger.org/display/caliper
-- [evilsocket/pwnagotchi](https://github.com/evilsocket/pwnagotchi) - (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
 - [axa-group/nlp.js](https://github.com/axa-group/nlp.js) - An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more
 - [ottomatica/slim](https://github.com/ottomatica/slim) - Build and run tiny vms from Dockerfiles. Small and sleek.
 - [mankadronit/Automated-Essay--Scoring](https://github.com/mankadronit/Automated-Essay--Scoring) - Automatically Score essays using Deep Learning
@@ -2984,7 +2982,7 @@
 - [huggingface/awesome-huggingface](https://github.com/huggingface/awesome-huggingface) - 🤗 A list of wonderful open-source projects & applications integrated with Hugging Face libraries.
 - [IMSoley/tasawwuf](https://github.com/IMSoley/tasawwuf) - Warning: There might be errors or mistranslations; it is always advised to read the original works in their original language.
 - [Mooler0410/LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide) - A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers)
-- [getcursor/cursor](https://github.com/getcursor/cursor) - The AI-powered code editor
+- [getcursor/cursor](https://github.com/getcursor/cursor) - The AI Code Editor
 - [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook) - A playbook for systematically maximizing the performance of deep learning models.
 - [chanakaudaya/solution-architecture-patterns](https://github.com/chanakaudaya/solution-architecture-patterns) - Reusable, vendor-neutral, industry-specific, vendor-specific solution architecture patterns for enterprise
 - [pawl/awesome-etl](https://github.com/pawl/awesome-etl) - A curated list of awesome ETL frameworks, libraries, and software.
@@ -4028,7 +4026,7 @@
 - [hcmlab/vadnet](https://github.com/hcmlab/vadnet) - Real-time Voice Activity Detection in Noisy Eniviroments using Deep Neural Networks
 - [FederatedAI/FATE](https://github.com/FederatedAI/FATE) - An Industrial Grade Federated Learning Framework
 - [zhouhaoyi/Informer2020](https://github.com/zhouhaoyi/Informer2020) - The GitHub repository for the paper "Informer" accepted by AAAI 2021.
-- [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - The Unified ML Representation
+- [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - Convert ML Code Between Frameworks
 - [gvanrossum/patma](https://github.com/gvanrossum/patma) - Pattern Matching
 - [cvxgrp/pymde](https://github.com/cvxgrp/pymde) - Minimum-distortion embedding with PyTorch
 - [sumanbanerjee1/Code-Mixed-Dialog](https://github.com/sumanbanerjee1/Code-Mixed-Dialog) - 
@@ -4242,7 +4240,6 @@
 - [mewwts/addict](https://github.com/mewwts/addict) - The Python Dict that's better than heroin.
 - [Kharacternyk/dotcommon](https://github.com/Kharacternyk/dotcommon) - What do people have in their dotfiles?
 - [allenai/longformer](https://github.com/allenai/longformer) - Longformer: The Long-Document Transformer
-- [confluentinc/confluent-kafka-python](https://github.com/confluentinc/confluent-kafka-python) - Confluent's Kafka Python Client
 - [dpkp/kafka-python](https://github.com/dpkp/kafka-python) - Python client for Apache Kafka
 - [pika/pika](https://github.com/pika/pika) - Pure Python RabbitMQ/AMQP 0-9-1 client library
 - [python-zk/kazoo](https://github.com/python-zk/kazoo) - Kazoo is a high-level Python library that makes it easier to use Apache Zookeeper.
@@ -4398,6 +4395,7 @@
 - [pdbpp/pdbpp](https://github.com/pdbpp/pdbpp) - pdb++, a drop-in replacement for pdb (the Python debugger)
 - [netrasys/pgANN](https://github.com/netrasys/pgANN) - Fast Approximate Nearest Neighbor (ANN) searches with a PostgreSQL database.
 - [tensortrade-org/tensortrade](https://github.com/tensortrade-org/tensortrade) - An open source reinforcement learning framework for training, evaluating, and deploying robust trading agents.
+- [evilsocket/pwnagotchi](https://github.com/evilsocket/pwnagotchi) - (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
 - [pytorch/captum](https://github.com/pytorch/captum) - Model interpretability and understanding for PyTorch
 - [hmmlearn/hmmlearn](https://github.com/hmmlearn/hmmlearn) - Hidden Markov Models in Python, with scikit-learn like API
 - [facebookresearch/TorchRay](https://github.com/facebookresearch/TorchRay) - Understanding Deep Networks via Extremal Perturbations and Smooth Masks
@@ -5408,7 +5406,7 @@
 - [nmhkahn/CARN-pytorch](https://github.com/nmhkahn/CARN-pytorch) - Fast, Accurate, and Lightweight Super-Resolution with Cascading Residual Network (ECCV 2018)
 - [2wins/SRMD-pytorch](https://github.com/2wins/SRMD-pytorch) - A PyTorch Implementation of "Learning a Single Convolutional Super-Resolution Network for Multiple Degradations"
 - [fregu856/3DOD_thesis](https://github.com/fregu856/3DOD_thesis) - 3D Object Detection for Autonomous Driving in PyTorch, trained on the KITTI dataset.
-- [kaiyuyue/cgnl-network.pytorch](https://github.com/kaiyuyue/cgnl-network.pytorch) - Compact Generalized Non-local Network (NeurIPS 2018)
+- [kaiyuyue/cgnl-network.pytorch](https://github.com/kaiyuyue/cgnl-network.pytorch) - Compact Generalized Non-local Network (NIPS 2018)
 - [ruotianluo/bert-convert-to-pth](https://github.com/ruotianluo/bert-convert-to-pth) - TensorFlow code and pre-trained models for BERT
 - [NVIDIA/Milano](https://github.com/NVIDIA/Milano) - Milano is a tool for automating hyper-parameters search for your models on a backend of your choice.
 - [google-research/bert](https://github.com/google-research/bert) - TensorFlow code and pre-trained models for BERT
