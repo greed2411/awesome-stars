@@ -1942,6 +1942,7 @@
 - [swimos/swim](https://github.com/swimos/swim) - Full stack application platform for building stateful microservices, streaming APIs, and real-time UIs
 - [doocs/advanced-java](https://github.com/doocs/advanced-java) - 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
 - [indeedeng/util](https://github.com/indeedeng/util) - Useful Java utilities
+- [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition & IntelliJ Platform
 - [apache/gobblin](https://github.com/apache/gobblin) - A distributed data integration framework that simplifies common aspects of big data integration such as data ingestion, replication, organization and lifecycle management for both streaming and batch 
 - [openzipkin/zipkin](https://github.com/openzipkin/zipkin) - Zipkin is a distributed tracing system
 - [logicalclocks/hopsworks](https://github.com/logicalclocks/hopsworks) - Hopsworks - Data-Intensive AI platform with a Feature Store
@@ -2618,6 +2619,7 @@
 - [ternaus/robot-surgery-segmentation](https://github.com/ternaus/robot-surgery-segmentation) - Wining solution and its improvement for MICCAI 2017 Robotic Instrument Segmentation Sub-Challenge
 - [pandeykartikey/Hierarchical-Attention-Network](https://github.com/pandeykartikey/Hierarchical-Attention-Network) - Implementation of Hierarchical Attention Networks in PyTorch
 - [jacobkimmel/pytorch_modelsize](https://github.com/jacobkimmel/pytorch_modelsize) - Estimates the size of a PyTorch model in memory
+- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - Perform data science on data that remains in someone else's server
 - [ahirner/pytorch-retraining](https://github.com/ahirner/pytorch-retraining) - Transfer Learning Shootout for PyTorch's model zoo (torchvision)
 - [LMescheder/GAN_stability](https://github.com/LMescheder/GAN_stability) - Code for paper "Which Training Methods for GANs do actually Converge? (ICML 2018)"
 - [udacity/deep-reinforcement-learning](https://github.com/udacity/deep-reinforcement-learning) - Repo for the Deep Reinforcement Learning Nanodegree program
@@ -3144,7 +3146,6 @@
 - [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
 - [takenobu-hs/haskell-symbol-search-cheatsheet](https://github.com/takenobu-hs/haskell-symbol-search-cheatsheet) - Haskell/GHC symbol search cheatsheet
 - [akullpp/awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
-- [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition & IntelliJ Platform
 - [mxssl/sre-interview-prep-guide](https://github.com/mxssl/sre-interview-prep-guide) - Site Reliability Engineer Interview Preparation Guide
 - [andkret/Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook
 - [ebertti/awesome-telegram](https://github.com/ebertti/awesome-telegram) - Collection great groups, channels, bots and libraries for Telegram
@@ -3430,7 +3431,7 @@
 - [arialdomartini/Back-End-Developer-Interview-Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) - A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore
 - [bharathgs/Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
 - [dhamaniasad/awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) - A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
-- [kjaisingh/high-school-guide-to-machine-learning](https://github.com/kjaisingh/high-school-guide-to-machine-learning) - Being a high schooler myself and having studied Machine Learning and Artificial Intelligence for a year now, I believe that there fails to exist a learning path in this field for High School students.
+- [kjaisingh/MachineLearning-for-HighSchoolers](https://github.com/kjaisingh/MachineLearning-for-HighSchoolers) - Being a high schooler myself and having studied Machine Learning and Artificial Intelligence for a year now, I believe that there fails to exist a learning path in this field for High School students.
 - [megagonlabs/HappyDB](https://github.com/megagonlabs/HappyDB) - A corpus of 100,000 happy moments
 - [GalvanizeOpenSource/developer-standards](https://github.com/GalvanizeOpenSource/developer-standards) - Definition what standards/attributes make up a junior, mid, or senior software developer
 - [ysh329/deep-learning-model-convertor](https://github.com/ysh329/deep-learning-model-convertor) - The convertor/conversion of deep learning models for different deep learning frameworks/softwares.
@@ -3895,7 +3896,7 @@
 - [HumanCompatibleAI/imitation](https://github.com/HumanCompatibleAI/imitation) - Clean PyTorch implementations of imitation and reward learning algorithms
 - [kevinzakka/learn-linalg](https://github.com/kevinzakka/learn-linalg) - Learning some numerical linear algebra.
 - [lucidrains/ponder-transformer](https://github.com/lucidrains/ponder-transformer) - Implementation of a Transformer that Ponders, using the scheme from the PonderNet paper
-- [samuelcolvin/arq](https://github.com/samuelcolvin/arq) - Fast job queuing and RPC in python with asyncio and redis.
+- [python-arq/arq](https://github.com/python-arq/arq) - Fast job queuing and RPC in python with asyncio and redis.
 - [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [openvinotoolkit/datumaro](https://github.com/openvinotoolkit/datumaro) - Dataset Management Framework, a Python library and a CLI tool to build, analyze and manage Computer Vision datasets.
@@ -5986,7 +5987,6 @@
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [harvardnlp/var-attn](https://github.com/harvardnlp/var-attn) - Latent Alignment and Variational Attention
 - [wiseodd/generative-models](https://github.com/wiseodd/generative-models) - Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow.
-- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - Perform data science on data that remains in someone else's server
 - [mozilla/agithub](https://github.com/mozilla/agithub) - Agnostic Github client API -- An EDSL for connecting to REST servers
 - [jmtomczak/vae_vpflows](https://github.com/jmtomczak/vae_vpflows) - Code in PyTorch for the convex combination linear IAF and the Householder Flow, J.M. Tomczak & M. Welling
 - [pytorch/contrib](https://github.com/pytorch/contrib) - Implementations of ideas from recent papers
@@ -7011,7 +7011,7 @@
 - [second-state/microservice-rust-mysql](https://github.com/second-state/microservice-rust-mysql) - A template project for building a database-driven microservice in Rust and run it in the WasmEdge sandbox.
 - [LeonHartley/Coerce-rs](https://github.com/LeonHartley/Coerce-rs) - Actor runtime and distributed systems framework for Rust
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
-- [pykeio/ort](https://github.com/pykeio/ort) - A Rust wrapper for ONNX Runtime
+- [pykeio/ort](https://github.com/pykeio/ort) - Fast ML inference & training for Rust with ONNX Runtime
 - [jaemk/self_update](https://github.com/jaemk/self_update) - Self updates for rust executables
 - [orlp/glidesort](https://github.com/orlp/glidesort) - A Rust implementation of Glidesort, my stable adaptive quicksort/mergesort hybrid sorting algorithm.
 - [yvan-sraka/hs-bindgen](https://github.com/yvan-sraka/hs-bindgen) - Handy macro to generate C-FFI bindings to Rust for Haskell
