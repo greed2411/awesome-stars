@@ -332,7 +332,7 @@
 - [google/gemma.cpp](https://github.com/google/gemma.cpp) - lightweight, standalone C++ inference engine for Google's Gemma models.
 - [root-project/cling](https://github.com/root-project/cling) - The cling C++ interpreter
 - [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - A simple one-file way to run various GGML and GGUF models with a KoboldAI UI
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [google/cld3](https://github.com/google/cld3) - 
 - [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficientl
@@ -1810,6 +1810,7 @@
 
 ## Haskell 
 
+- [chrisdone-archive/rocksdb-haskell-ng](https://github.com/chrisdone-archive/rocksdb-haskell-ng) - 
 - [Soostone/hadron](https://github.com/Soostone/hadron) - Construct and run Hadoop MapReduce programs in Haskell
 - [tweag/sparkle](https://github.com/tweag/sparkle) - Haskell on Apache Spark.
 - [elm/compiler](https://github.com/elm/compiler) - Compiler for Elm, a functional language for reliable webapps.
@@ -3659,7 +3660,7 @@
 - [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型
 - [bytecodealliance/wasmtime-py](https://github.com/bytecodealliance/wasmtime-py) - Python WebAssembly runtime powered by Wasmtime
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is a data framework for your LLM applications
-- [argilla-io/argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration platform for AI engineers and domain experts that require high-quality outputs, full data ownership, and overall efficiency.
+- [argilla-io/argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration tool for AI engineers and domain experts to build high-quality datasets
 - [DLR-RM/stable-baselines3](https://github.com/DLR-RM/stable-baselines3) - PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms.
 - [mit-han-lab/streaming-llm](https://github.com/mit-han-lab/streaming-llm) - [ICLR 2024] Efficient Streaming Language Models with Attention Sinks
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Universal LLM Deployment Engine with ML Compilation
@@ -5303,7 +5304,7 @@
 - [dvingerh/PyInstaLive](https://github.com/dvingerh/PyInstaLive) - Python script to download Instagram livestreams.
 - [IndexedConv/IndexedConv](https://github.com/IndexedConv/IndexedConv) - Code for the indexed convolution
 - [arogozhnikov/einops](https://github.com/arogozhnikov/einops) - Flexible and powerful tensor operations for readable and reliable code (for pytorch, jax, TF and others)
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system in 275+ supported cars.
 - [flow-project/flow](https://github.com/flow-project/flow) - Computational framework for reinforcement learning in traffic control
 - [joshua-wu/deepfakes_faceswap](https://github.com/joshua-wu/deepfakes_faceswap) - from deekfakes' faceswap: https://www.reddit.com/user/deepfakes/
 - [cbfinn/maml](https://github.com/cbfinn/maml) - Code for "Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks"
@@ -6188,6 +6189,7 @@
 - [eladhoffer/fix_your_classifier](https://github.com/eladhoffer/fix_your_classifier) - 
 - [ykamikawa/tf-keras-SegNet](https://github.com/ykamikawa/tf-keras-SegNet) - SegNet including indices pooling for Semantic Segmentation with tensorflow and keras
 - [jparkhill/TensorMol](https://github.com/jparkhill/TensorMol) - Tensorflow + Molecules = TensorMol
+- [vega/vega-datasets](https://github.com/vega/vega-datasets) - Common repository for example datasets used by Vega-related projects
 - [titu1994/Advanced_Machine_Learning](https://github.com/titu1994/Advanced_Machine_Learning) - 
 - [nelson-liu/pytorch-paper-classifier](https://github.com/nelson-liu/pytorch-paper-classifier) - A simple model for classifying papers by academic venue (AI/ML/ACL), given a title and abstract. Bare-metal PyTorch port of https://github.com/allenai/allennlp-as-a-library-example .
 - [drivendataorg/cookiecutter-data-science](https://github.com/drivendataorg/cookiecutter-data-science) - A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
@@ -7753,7 +7755,6 @@
 - [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework
 - [paulgb/Treeverse](https://github.com/paulgb/Treeverse) - A browser extension for navigating burgeoning Twitter conversations
 - [vega/voyager](https://github.com/vega/voyager) - Visualization Tool for Data Exploration
-- [vega/vega-datasets](https://github.com/vega/vega-datasets) - Common repository for example datasets used by Vega-related projects
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
 - [vercel/micro](https://github.com/vercel/micro) - Asynchronous HTTP microservices
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
