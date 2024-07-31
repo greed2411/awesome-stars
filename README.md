@@ -118,6 +118,8 @@
 
 ## C 
 
+- [dreibh/sctplib](https://github.com/dreibh/sctplib) - sctplib Git Repository
+- [dreibh/rsplib](https://github.com/dreibh/rsplib) - rsplib Git Repository
 - [irontec/sngrep](https://github.com/irontec/sngrep) - Ncurses SIP Messages flow viewer
 - [OpenSIPS/opensips](https://github.com/OpenSIPS/opensips) - OpenSIPS is a GPL implementation of a multi-functionality SIP Server that targets to deliver a high-level technical solution (performance, security and quality) to be used in professional SIP server p
 - [kost/android-elf-cleaner](https://github.com/kost/android-elf-cleaner) - Android ELF cleaner
@@ -323,6 +325,7 @@
 
 ## C++ 
 
+- [dreibh/socketapi](https://github.com/dreibh/socketapi) - socketapi Git Repository
 - [fairwaves/pcapsipdump](https://github.com/fairwaves/pcapsipdump) - fork of https://sourceforge.net/projects/pcapsipdump/
 - [SIPp/sipp](https://github.com/SIPp/sipp) - The SIPp testing tool
 - [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
@@ -958,6 +961,9 @@
 
 ## Go 
 
+- [sippy/go-b2bua](https://github.com/sippy/go-b2bua) - The GO port of the Sippy B2BUA
+- [miconda/sipexer](https://github.com/miconda/sipexer) - Modern and flexible SIP/VoIP cli tool
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go
 - [CyCoreSystems/ari](https://github.com/CyCoreSystems/ari) - Golang Asterisk REST Interface (ARI) library
 - [golang-jwt/jwt](https://github.com/golang-jwt/jwt) - Community maintained clone of https://github.com/dgrijalva/jwt-go
 - [skit-ai/vcore](https://github.com/skit-ai/vcore) - Common, utility packages for Go
@@ -3424,7 +3430,7 @@
 - [tramcar/awesome-job-boards](https://github.com/tramcar/awesome-job-boards) - 
 - [philipperemy/timit](https://github.com/philipperemy/timit) - The DARPA TIMIT Acoustic-Phonetic Continuous Speech Corpus.
 - [topper-123/Articles](https://github.com/topper-123/Articles) - Programming articles (Python mostly)
-- [atinfo/awesome-test-automation](https://github.com/atinfo/awesome-test-automation) - A curated list of awesome test automation frameworks, tools, libraries, and software for different programming languages. Sponsored by https://zapple.tech
+- [atinfo/awesome-test-automation](https://github.com/atinfo/awesome-test-automation) - A curated list of awesome test automation frameworks, tools, libraries, and software for different programming languages. Sponsored by https://zapple.tech and https://automated-testing.info
 - [keon/intro-to-dapp](https://github.com/keon/intro-to-dapp) - 
 - [Bjoux2/DeepLearning-in-Bioinformatics](https://github.com/Bjoux2/DeepLearning-in-Bioinformatics) - For anyone who are eager to applying deep learning in bioinformatics!
 - [scarafleus/neural-networks-and-genetic-algorithm-learns-to-drive-cars](https://github.com/scarafleus/neural-networks-and-genetic-algorithm-learns-to-drive-cars) - I made a video about it: https://www.youtube.com/watch?v=0PtntoDnZhk&t=2s
@@ -4598,7 +4604,6 @@
 - [barisgecer/facegan](https://github.com/barisgecer/facegan) - TF implementation of our ECCV 2018 paper:  Semi-supervised Adversarial Learning to Generate Photorealistic Face Images of New Identities from 3D Morphable Model
 - [TDAmeritrade/stumpy](https://github.com/TDAmeritrade/stumpy) - STUMPY is a powerful and scalable Python library for modern time series analysis
 - [NVIDIA/MinkowskiEngine](https://github.com/NVIDIA/MinkowskiEngine) - Minkowski Engine is an auto-diff neural network library for high-dimensional sparse tensors
-- [Evernote/evernote-sdk-python3](https://github.com/Evernote/evernote-sdk-python3) - Testing the Evernote Cloud API for Python 3
 - [chaonan99/ppt_presenter](https://github.com/chaonan99/ppt_presenter) - Convert ppt to video with audio track, using text to speech synthesis
 - [NVlabs/FUNIT](https://github.com/NVlabs/FUNIT) - Translate images to unseen domains in the test time with few example images.
 - [InwoongLee/TS-LSTM](https://github.com/InwoongLee/TS-LSTM) - Skeleton-based Action Recognition using TS-LSTM model
@@ -4945,7 +4950,7 @@
 - [durandtibo/weldon.resnet.pytorch](https://github.com/durandtibo/weldon.resnet.pytorch) - 
 - [ibis-project/ibis](https://github.com/ibis-project/ibis) - the portable Python dataframe library
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [sandialabs/Whetstone](https://github.com/sandialabs/Whetstone) - 
 - [uclaml/Padam](https://github.com/uclaml/Padam) - Partially Adaptive Momentum Estimation method in the paper "Closing the Generalization Gap of Adaptive Gradient Methods in Training Deep Neural Networks" (accepted by IJCAI 2020)
 - [Strange-AI/frenet_path_planning](https://github.com/Strange-AI/frenet_path_planning) - 无人车路径规划算法demo
@@ -6618,7 +6623,7 @@
 - [tensorflow/lattice](https://github.com/tensorflow/lattice) - Lattice methods in TensorFlow
 - [tpsatish95/indus-script-ocr](https://github.com/tpsatish95/indus-script-ocr) - The Indus script optical grapheme recognition engine (from archaeological artifact images)
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [pallets-eco/flask-security](https://github.com/pallets-eco/flask-security) - Quick and simple security for Flask applications
+- [pallets-eco/flask-security-3.0](https://github.com/pallets-eco/flask-security-3.0) - Quick and simple security for Flask applications
 - [maxcountryman/flask-seasurf](https://github.com/maxcountryman/flask-seasurf) - SeaSurf is a Flask extension for preventing cross-site request forgery (CSRF).
 - [ask/flask-celery](https://github.com/ask/flask-celery) - Celery integration for Flask (SINCE CELERY 3.0 THIS IS NO LONGER NEEDED)
 - [tryolabs/luminoth](https://github.com/tryolabs/luminoth) - Deep Learning toolkit for Computer Vision.
@@ -6963,6 +6968,7 @@
 
 ## Ruby 
 
+- [mojolingo/sippy_cup](https://github.com/mojolingo/sippy_cup) - Create SIP load test scenarios the easy way
 - [ankane/blazer](https://github.com/ankane/blazer) - Business intelligence made simple
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [lobsters/lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion
@@ -7004,7 +7010,7 @@
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - A cross-platform, safe, pure-Rust graphics API.
 - [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) - Distributed stream processing engine in Rust
 - [exograph/exograph](https://github.com/exograph/exograph) - Build production-ready backends in minutes
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An Open-Source, Cloud-Native, Unified Time Series Database for Metrics, Logs and Events with SQL/PromQL supported. Available on GreptimeCloud.
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified time series database for metrics, logs and events with SQL/PromQL supported. Available on GreptimeCloud.
 - [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
 - [aaronabramov/k9](https://github.com/aaronabramov/k9) - Rust testing library
 - [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3) - A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
@@ -7611,7 +7617,7 @@
 - [civitai/civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
 - [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
-- [thenorthbay/doculite](https://github.com/thenorthbay/doculite) - Use SQLite as a Document Database
+- [stefanbielmeier/doculite](https://github.com/stefanbielmeier/doculite) - Use SQLite as a Document Database
 - [nativescript-vue/nativescript-vue](https://github.com/nativescript-vue/nativescript-vue) - Native mobile applications using Vue and NativeScript.
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
