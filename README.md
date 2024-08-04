@@ -118,6 +118,9 @@
 
 ## C 
 
+- [pjsip/pjproject](https://github.com/pjsip/pjproject) - PJSIP project
+- [nils-ohlmeier/sipsak](https://github.com/nils-ohlmeier/sipsak) - SIP swiss army knife
+- [coturn/coturn](https://github.com/coturn/coturn) - coturn TURN server project
 - [dreibh/sctplib](https://github.com/dreibh/sctplib) - sctplib Git Repository
 - [dreibh/rsplib](https://github.com/dreibh/rsplib) - rsplib Git Repository
 - [irontec/sngrep](https://github.com/irontec/sngrep) - Ncurses SIP Messages flow viewer
@@ -961,6 +964,9 @@
 
 ## Go 
 
+- [sipcapture/homer-app](https://github.com/sipcapture/homer-app) - HOMER 7.x Front-End and API Server
+- [sipcapture/heplify-server](https://github.com/sipcapture/heplify-server) - HEP Capture Server for HOMER
+- [navi-tt/go-mrcp](https://github.com/navi-tt/go-mrcp) - Open source cross-platform implementation of MRCP protocol by golang
 - [nokia/danm](https://github.com/nokia/danm) - TelCo grade network management in a Kubernetes cluster
 - [sippy/go-b2bua](https://github.com/sippy/go-b2bua) - The GO port of the Sippy B2BUA
 - [miconda/sipexer](https://github.com/miconda/sipexer) - Modern and flexible SIP/VoIP cli tool
@@ -3628,6 +3634,7 @@
 
 ## Python 
 
+- [OpenSIPS/opensips-cli](https://github.com/OpenSIPS/opensips-cli) - OpenSIPS CLI tool - an interactive command line tool that can be used to control and monitor OpenSIPS servers.
 - [gawel/aiocron](https://github.com/gawel/aiocron) - Crontabs for asyncio
 - [Akarsh-TS/sqlite-shift](https://github.com/Akarsh-TS/sqlite-shift) - 
 - [fluhus/snopher](https://github.com/fluhus/snopher) - A practical guide on calling Go from Python using ctypes.
@@ -3662,7 +3669,7 @@
 - [stackimpact/stackimpact-python](https://github.com/stackimpact/stackimpact-python) - DEPRECATED StackImpact Python Profiler - Production-Grade Performance Profiler: CPU, memory allocations, blocking calls, exceptions, metrics, and more
 - [pythonprofilers/memory_profiler](https://github.com/pythonprofilers/memory_profiler) - Monitor Memory usage of Python code
 - [xlang-ai/instructor-embedding](https://github.com/xlang-ai/instructor-embedding) - [ACL 2023] One Embedder, Any Task: Instruction-Finetuned Text Embeddings
-- [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://h2oai.github.io/h2o-llmstudio/
+- [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.ai/h2o-llmstudio/
 - [Mimino666/langdetect](https://github.com/Mimino666/langdetect) - Port of Google's language-detection library to Python.
 - [jwzhanggy/Graph_Toolformer](https://github.com/jwzhanggy/Graph_Toolformer) - 
 - [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型
@@ -3688,7 +3695,7 @@
 - [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
 - [vocodedev/vocode-core](https://github.com/vocodedev/vocode-core) - 🤖 Build voice-based LLM agents. Modular + open source.
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
-- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
+- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it. Not actively maintained.
 - [Luodian/Otter](https://github.com/Luodian/Otter) - 🦦 Otter, a multi-modal model based on OpenFlamingo (open-sourced version of DeepMind's Flamingo), trained on MIMIC-IT and showcasing improved instruction-following and in-context learning ability.
 - [blueswen/gunicorn-monitoring](https://github.com/blueswen/gunicorn-monitoring) - Monitor Gunicorn application (e.g. Flask) through build-in instrumentation feature using the statsD protocol over UDP with Prometheus and Grafana.
 - [mher/flower](https://github.com/mher/flower) - Real-time monitor and web admin for Celery distributed task queue
@@ -4028,7 +4035,7 @@
 - [speechbrain/speechbrain](https://github.com/speechbrain/speechbrain) - A PyTorch-based Speech Toolkit
 - [lucidrains/deep-daze](https://github.com/lucidrains/deep-daze) - Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network). Technique was originally created by https://twitter.com/advadnoun
 - [mnschmit/unsupervised-graph-text-conversion](https://github.com/mnschmit/unsupervised-graph-text-conversion) - This is the code for the EMNLP 2020 paper "An Unsupervised Joint System for Text Generation from Knowledge Graphs and Semantic Parsing".
-- [zenml-io/zenml](https://github.com/zenml-io/zenml) - ZenML 🙏: Build portable, production-ready MLOps pipelines. https://zenml.io.
+- [zenml-io/zenml](https://github.com/zenml-io/zenml) - ZenML 🙏: The bridge between ML and Ops. https://zenml.io.
 - [ContinualAI/avalanche](https://github.com/ContinualAI/avalanche) - Avalanche: an End-to-End Library for Continual Learning based on PyTorch.
 - [mit-han-lab/anycost-gan](https://github.com/mit-han-lab/anycost-gan) - [CVPR 2021] Anycost GANs for Interactive Image Synthesis and Editing
 - [lucidrains/perceiver-pytorch](https://github.com/lucidrains/perceiver-pytorch) - Implementation of Perceiver, General Perception with Iterative Attention, in Pytorch
@@ -7119,7 +7126,7 @@
 - [zesterer/chumsky](https://github.com/zesterer/chumsky) - Write expressive, high-performance parsers with ease.
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
 - [hotg-ai/rune](https://github.com/hotg-ai/rune) - Rune provides containers to encapsulate and deploy edgeML pipelines and applications
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - SQL stream processing, analytics, and management. We decouple storage and compute to offer efficient joins, instant failover, dynamic scaling, speedy bootstrapping, and concurrent query serving.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - SQL database for event streaming workloads. Build live dashboards, event-driven applications, ETL pipelines, and feature stores in minutes. Featuring a best-in-class stream processing engine. PostgreS
 - [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates
 - [JasonShin/elemental-system-designs](https://github.com/JasonShin/elemental-system-designs) - System Designs open for everyone
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
@@ -7500,6 +7507,7 @@
 
 ## Shell 
 
+- [sipcapture/homer](https://github.com/sipcapture/homer) - HOMER - 100% Open-Source SIP, VoIP, RTC Packet Capture & Monitoring
 - [sgerrand/alpine-pkg-glibc](https://github.com/sgerrand/alpine-pkg-glibc) - A glibc compatibility layer package for Alpine Linux
 - [CharlesChiuGit/Logseq-Git-Sync-101](https://github.com/CharlesChiuGit/Logseq-Git-Sync-101) - This repo aims to help Logseq users to sync their data with Git and GitHub.
 - [rupa/z](https://github.com/rupa/z) - z - jump around
