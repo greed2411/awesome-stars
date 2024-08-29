@@ -330,6 +330,7 @@
 
 ## C++ 
 
+- [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [skit-ai/kaldi-serve](https://github.com/skit-ai/kaldi-serve) - Server framework for Kaldi ASR Toolkit
 - [dreibh/socketapi](https://github.com/dreibh/socketapi) - socketapi Git Repository
 - [fairwaves/pcapsipdump](https://github.com/fairwaves/pcapsipdump) - fork of https://sourceforge.net/projects/pcapsipdump/
@@ -966,6 +967,8 @@
 
 ## Go 
 
+- [d3witt/viking](https://github.com/d3witt/viking) - Simple way to manage your remote machines and SSH keys
+- [xendit/kompare](https://github.com/xendit/kompare) - Kompare is a CLI tool to compare two kubernetes cluster and their resources.
 - [sipcapture/homer-app](https://github.com/sipcapture/homer-app) - HOMER 7.x Front-End and API Server
 - [sipcapture/heplify-server](https://github.com/sipcapture/heplify-server) - HEP Capture Server for HOMER
 - [navi-tt/go-mrcp](https://github.com/navi-tt/go-mrcp) - Open source cross-platform implementation of MRCP protocol by golang
@@ -1063,7 +1066,7 @@
 - [samber/do](https://github.com/samber/do) - ⚙️  A dependency injection toolkit based on Go 1.18+ Generics.
 - [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative 📊, 🖥️, 👉. Powered by eBPF for rapid insights into system performance. Monitor, analyze, and optimize your infrastr
 - [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
-- [daguflow/dagu](https://github.com/daguflow/dagu) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
 - [aquasecurity/tracee](https://github.com/aquasecurity/tracee) - Linux Runtime Security and Forensics using eBPF
 - [pion/opus](https://github.com/pion/opus) - Pure Go implementation of Opus
 - [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler) - Descheduler for Kubernetes
@@ -1563,7 +1566,7 @@
 - [yahoo/vssh](https://github.com/yahoo/vssh) - Go Library to Execute Commands Over SSH at Scale
 - [micro/go-micro](https://github.com/micro/go-micro) - A Go microservices framework
 - [danaugrs/go-tsne](https://github.com/danaugrs/go-tsne) - t-Distributed Stochastic Neighbor Embedding (t-SNE) in Go
-- [goplus/gop](https://github.com/goplus/gop) - The Go+ programming language is designed for engineering, STEM education, and data science
+- [goplus/gop](https://github.com/goplus/gop) - The Go+ programming language is designed for engineering, STEM education, and data science. Our vision is to enable everyone to become a builder of the digital world.
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
@@ -3559,9 +3562,9 @@
 - [SamPutnam/Index-2024](https://github.com/SamPutnam/Index-2024) - 
 - [smurfix/flask-script](https://github.com/smurfix/flask-script) - Flask extension to help writing external scripts for Flask applications
 - [EbookFoundation/free-science-books](https://github.com/EbookFoundation/free-science-books) - Inspired by free-programming-books, here's free-science-books
-- [ossu/data-science](https://github.com/ossu/data-science) - :bar_chart: Path to a free self-taught education in Data Science!
+- [ossu/data-science](https://github.com/ossu/data-science) - 📊 Path to a free self-taught education in Data Science!
 - [ossu/bioinformatics](https://github.com/ossu/bioinformatics) - :microscope: Path to a free self-taught education in Bioinformatics!
-- [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
+- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [cigroup-ol/windml](https://github.com/cigroup-ol/windml) - The windML framework provides an easy-to-use access to wind data sources within the Python world, building upon numpy, scipy, sklearn, and matplotlib. Renewable Wind Energy, Forecasting, Prediction
 - [dive-into-machine-learning/python-tips](https://github.com/dive-into-machine-learning/python-tips) - [Archived.] Teammates asked for Python resources; here ya go! :)  For more up to date resources go here: https://github.com/alexmojaki/futurecoder and https://github.com/vinta/awesome-python#resources
 - [dive-into-machine-learning/dive-into-machine-learning](https://github.com/dive-into-machine-learning/dive-into-machine-learning) - Free ways to dive into machine learning with Python and Jupyter Notebook. Notebooks, courses, and other links. (First posted in 2016.)
@@ -4603,7 +4606,7 @@
 - [online-ml/river](https://github.com/online-ml/river) - 🌊 Online machine learning in Python
 - [google-research/mixmatch](https://github.com/google-research/mixmatch) - 
 - [uber-research/UPSNet](https://github.com/uber-research/UPSNet) - UPSNet: A Unified Panoptic Segmentation Network
-- [wandb/wandb](https://github.com/wandb/wandb) - 🔥 A tool for visualizing and tracking your machine learning experiments. This repo contains the CLI and Python API.
+- [wandb/wandb](https://github.com/wandb/wandb) - The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production.
 - [google-research/tensor2robot](https://github.com/google-research/tensor2robot) - Distributed machine learning infrastructure for large-scale robotics research
 - [kjunelee/MetaOptNet](https://github.com/kjunelee/MetaOptNet) - Meta-Learning with Differentiable Convex Optimization (CVPR 2019 Oral)
 - [larq/larq](https://github.com/larq/larq) - An Open-Source Library for Training Binarized Neural Networks
@@ -5010,7 +5013,7 @@
 - [benedekrozemberczki/GraphWaveletNeuralNetwork](https://github.com/benedekrozemberczki/GraphWaveletNeuralNetwork) - A PyTorch implementation of "Graph Wavelet Neural Network" (ICLR 2019)
 - [virajmavani/semi-auto-image-annotation-tool](https://github.com/virajmavani/semi-auto-image-annotation-tool) - Anno-Mage: A Semi Automatic Image Annotation Tool which helps you in annotating images by suggesting you annotations for 80 object classes using a pre-trained model
 - [BlueWinters/DeepWarp](https://github.com/BlueWinters/DeepWarp) - Tensorflow implement for DeepWarp: Photorealistic Image Resynthesis for Gaze Manipulation
-- [openseg-group/openseg.pytorch](https://github.com/openseg-group/openseg.pytorch) - The official Pytorch implementation of OCNet series and SegFix.
+- [openseg-group/openseg.pytorch](https://github.com/openseg-group/openseg.pytorch) - The official Pytorch implementation of OCNet, OCRNet, and SegFix.
 - [SparkJiao/SLQA](https://github.com/SparkJiao/SLQA) - An Unofficial Pytorch Implementation of Multi-Granularity Hierarchical Attention Fusion Networks for Reading Comprehension and Question Answering
 - [recommenders-team/recommenders](https://github.com/recommenders-team/recommenders) - Best Practices on Recommendation Systems
 - [ekzhang/char-rnn-keras](https://github.com/ekzhang/char-rnn-keras) - TensorFlow implementation of multi-layer recurrent neural networks for training and sampling from texts
