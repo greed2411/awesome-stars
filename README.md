@@ -95,6 +95,7 @@
 
 ## Assembly 
 
+- [memorysafety/rav1d](https://github.com/memorysafety/rav1d) - An AV1 decoder in Rust.
 - [kelindar/bitmap](https://github.com/kelindar/bitmap) - Simple dense bitmap index in Go with binary operators
 - [ROCm/MIOpen](https://github.com/ROCm/MIOpen) - AMD's Machine Intelligence Library
 - [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes
@@ -681,7 +682,7 @@
 - [NVIDIA/DALI](https://github.com/NVIDIA/DALI) - A GPU-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications.
 - [projectchrono/chrono](https://github.com/projectchrono/chrono) - High-performance C++ library for multiphysics and multibody dynamics simulations
 - [amazon-archives/amazon-dsstne](https://github.com/amazon-archives/amazon-dsstne) - Deep Scalable Sparse Tensor Network Engine (DSSTNE) is an Amazon developed library for building Deep Learning (DL) machine learning (ML) models
-- [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）【安全加固，暂停交互，请耐心等待】
+- [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [nickgillian/grt](https://github.com/nickgillian/grt) - gesture recognition toolkit
 - [longcw/RoIAlign.pytorch](https://github.com/longcw/RoIAlign.pytorch) - RoIAlign & crop_and_resize for PyTorch
 - [PX4/eigen](https://github.com/PX4/eigen) - Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.
@@ -2995,7 +2996,7 @@
 ## Others 
 
 - [geerlingguy/sbc-reviews](https://github.com/geerlingguy/sbc-reviews) - Jeff Geerling's SBC review data - Raspberry Pi, Radxa, Orange Pi, etc.
-- [protontypes/open-sustainable-technology](https://github.com/protontypes/open-sustainable-technology) - A directory and analysis of the open source ecosystem in the areas of climate change, sustainable energy, biodiversity and natural resources.
+- [protontypes/open-sustainable-technology](https://github.com/protontypes/open-sustainable-technology) - A directory and analysis of the open source ecosystem in the areas of climate change, sustainable energy, biodiversity and natural resources. Grist Spreadsheet: https://docs.getgrist.com/gSscJkc5Rb1R/
 - [ashishps1/awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources) - Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews.
 - [mypyc/mypyc](https://github.com/mypyc/mypyc) - Compile type annotated Python to fast C extensions
 - [espoal/awesome-iouring](https://github.com/espoal/awesome-iouring) - Delightful io_uring packages and resources
@@ -3637,6 +3638,7 @@
 
 ## Python 
 
+- [glasslion/redlock](https://github.com/glasslion/redlock) - Distributed locks with Redis and Python
 - [bitdruid/python-wayback-machine-downloader](https://github.com/bitdruid/python-wayback-machine-downloader) - Query and download archive.org as simple as possible.
 - [OpenSIPS/opensips-cli](https://github.com/OpenSIPS/opensips-cli) - OpenSIPS CLI tool - an interactive command line tool that can be used to control and monitor OpenSIPS servers.
 - [gawel/aiocron](https://github.com/gawel/aiocron) - Crontabs for asyncio
@@ -4053,7 +4055,7 @@
 - [cvxgrp/pymde](https://github.com/cvxgrp/pymde) - Minimum-distortion embedding with PyTorch
 - [sumanbanerjee1/Code-Mixed-Dialog](https://github.com/sumanbanerjee1/Code-Mixed-Dialog) - 
 - [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(
-- [lucidrains/x-transformers](https://github.com/lucidrains/x-transformers) - A simple but complete full-attention transformer with a set of promising experimental features from various papers
+- [lucidrains/x-transformers](https://github.com/lucidrains/x-transformers) - A concise but complete full-attention transformer with a set of promising experimental features from various papers
 - [shobrook/sequitur](https://github.com/shobrook/sequitur) - Library of autoencoders for sequential data
 - [scikit-multilearn/scikit-multilearn](https://github.com/scikit-multilearn/scikit-multilearn) - A scikit-learn based module for multi-label et. al. classification
 - [rasbt/mlxtend](https://github.com/rasbt/mlxtend) - A library of extension and helper modules for Python's data analysis and machine learning libraries.
@@ -6337,7 +6339,7 @@
 - [thunlp/TensorFlow-Summarization](https://github.com/thunlp/TensorFlow-Summarization) - 
 - [neuronets/nobrainer](https://github.com/neuronets/nobrainer) - A framework for developing neural network models for 3D image processing.
 - [PetrochukM/PyTorch-NLP](https://github.com/PetrochukM/PyTorch-NLP) - Basic Utilities for PyTorch Natural Language Processing (NLP)
-- [adamyala/Your_First_Decentralized_Application_Python](https://github.com/adamyala/Your_First_Decentralized_Application_Python) - An up to date and bare minimum tutorial on deploying smart contracts with python
+- [adamyala/Your_First_Decentralized_Application_Python](https://github.com/adamyala/Your_First_Decentralized_Application_Python) - A bare minimum tutorial on deploying smart contracts with python
 - [philipperemy/my-first-bitcoin-miner](https://github.com/philipperemy/my-first-bitcoin-miner) - For the curious minds who want to understand how Bitcoin Blockchain works!
 - [catboost/catboost](https://github.com/catboost/catboost) - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computa
 - [elleryqueenhomels/arbitrary_style_transfer](https://github.com/elleryqueenhomels/arbitrary_style_transfer) - Fast Neural Style Transfer with Arbitrary Style using AdaIN Layer - Based on Huang et al. "Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization"
@@ -7004,6 +7006,7 @@
 
 ## Rust 
 
+- [rsmpi/rsmpi](https://github.com/rsmpi/rsmpi) - MPI bindings for Rust
 - [quinn-rs/quinn](https://github.com/quinn-rs/quinn) - Async-friendly QUIC implementation in Rust
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 - [Televiska/viska](https://github.com/Televiska/viska) - SIP framework built in Rust
@@ -7556,7 +7559,7 @@
 - [catalyst-team/classification](https://github.com/catalyst-team/classification) - Catalyst.Classification
 - [donnyyou/torchcv](https://github.com/donnyyou/torchcv) - TorchCV: A PyTorch-Based Framework for Deep Learning in Computer Vision
 - [jwass/pep8-staged](https://github.com/jwass/pep8-staged) - Git pre-commit hook to run pep8 on staged files.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [s1341/pyenv-alias](https://github.com/s1341/pyenv-alias) - pyenv plugin to allow you to install python versions with user-specified 'aliases'.
 - [tylerbarnum/metagenomics-tutorials](https://github.com/tylerbarnum/metagenomics-tutorials) - Additional scripts from tutorials on tylerbarnum.com
 - [kamranahmedse/git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day. Psst! or be nosy and find what someone else in your team did ;-)
@@ -7675,7 +7678,7 @@
 - [kubeflow/metadata](https://github.com/kubeflow/metadata) - Repository for assets related to Metadata.
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [autoai-org/AID](https://github.com/autoai-org/AID) - One-Stop System for Machine Learning.
-- [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
+- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [aporia-ai/mlplatform-workshop](https://github.com/aporia-ai/mlplatform-workshop) - 🍫 Example code for a basic ML Platform based on Pulumi, FastAPI, DVC, MLFlow and more
 - [opstrace/opstrace](https://github.com/opstrace/opstrace) - The Open Source Observability Distribution
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
