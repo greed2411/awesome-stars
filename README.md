@@ -1221,6 +1221,7 @@
 - [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
 - [panjf2000/ants](https://github.com/panjf2000/ants) - 🐜🐜🐜 ants is the most powerful and reliable pooling solution for Go.
 - [Iceber/iouring-go](https://github.com/Iceber/iouring-go) - Provides easy-to-use async IO interface with io_uring
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [gorse-io/gorse](https://github.com/gorse-io/gorse) - Gorse open source recommender system engine
 - [lni/dragonboat](https://github.com/lni/dragonboat) - A feature complete and high performance multi-group Raft library in Go.
 - [mumax/3](https://github.com/mumax/3) - GPU-accelerated micromagnetic simulator
@@ -1794,6 +1795,7 @@
 - [reshamas/fastai_deeplearn_part1](https://github.com/reshamas/fastai_deeplearn_part1) - Notes for Fastai Deep Learning Course
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [emilwallner/Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website.
+- [Jessime/youtube_history](https://github.com/Jessime/youtube_history) - A quick analysis of all Youtube videos in a user's history.
 - [aaalgo/picpac](https://github.com/aaalgo/picpac) - An image database for deep learning.
 - [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 3rd Edition - Programming the Open Blockchain
 - [shagunsodhani/papers-I-read](https://github.com/shagunsodhani/papers-I-read) - A-Paper-A-Week
@@ -1966,7 +1968,7 @@
 - [logicalclocks/hopsworks](https://github.com/logicalclocks/hopsworks) - Hopsworks - Data-Intensive AI platform with a Feature Store
 - [apache/submarine](https://github.com/apache/submarine) - Submarine is Cloud Native Machine Learning Platform.
 - [beehive-lab/TornadoVM](https://github.com/beehive-lab/TornadoVM) - TornadoVM: A practical and efficient heterogeneous programming framework for managed languages
-- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
+- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
 - [prestodb/presto](https://github.com/prestodb/presto) - The official home of the Presto distributed SQL query engine for big data
 - [graphhopper/jsprit](https://github.com/graphhopper/jsprit) - jsprit is a java based, open source toolkit for solving rich vehicle routing problems
 - [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) - Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code
@@ -2996,7 +2998,7 @@
 ## Others 
 
 - [geerlingguy/sbc-reviews](https://github.com/geerlingguy/sbc-reviews) - Jeff Geerling's SBC review data - Raspberry Pi, Radxa, Orange Pi, etc.
-- [protontypes/open-sustainable-technology](https://github.com/protontypes/open-sustainable-technology) - A directory and analysis of the open source ecosystem in the areas of climate change, sustainable energy, biodiversity and natural resources. Grist Spreadsheet: https://docs.getgrist.com/gSscJkc5Rb1R/
+- [protontypes/open-sustainable-technology](https://github.com/protontypes/open-sustainable-technology) - A directory and analysis of the open source ecosystem in the areas of climate change, sustainable energy, biodiversity and natural resources.  https://docs.getgrist.com/gSscJkc5Rb1R/OpenSustaintech
 - [ashishps1/awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources) - Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews.
 - [mypyc/mypyc](https://github.com/mypyc/mypyc) - Compile type annotated Python to fast C extensions
 - [espoal/awesome-iouring](https://github.com/espoal/awesome-iouring) - Delightful io_uring packages and resources
@@ -3220,7 +3222,7 @@
 - [psibi/rust-book-summary](https://github.com/psibi/rust-book-summary) - Summary of the Rust book
 - [he-y/Awesome-Pruning](https://github.com/he-y/Awesome-Pruning) - A curated list of neural network pruning resources.
 - [graykode/nlp-roadmap](https://github.com/graykode/nlp-roadmap) - ROADMAP(Mind Map) and KEYWORD for students those who have interest in learning NLP
-- [0xsanny/transformers](https://github.com/0xsanny/transformers) - A collection of resources to study Transformers in depth.
+- [sannykim/transformer](https://github.com/sannykim/transformer) - A collection of resources to study Transformers in depth.
 - [jozefg/learn-tt](https://github.com/jozefg/learn-tt) - A collection of resources for learning type theory and type theory adjacent fields.
 - [bor0/gidti](https://github.com/bor0/gidti) - Book: Introduction to Dependent Types with Idris
 - [typeddjango/awesome-python-typing](https://github.com/typeddjango/awesome-python-typing) - Collection of awesome Python types, stubs, plugins, and tools to work with them.
@@ -3758,7 +3760,7 @@
 - [django-cms/djangocms-video](https://github.com/django-cms/djangocms-video) - django CMS Video is a set of plugins for django CMS that allow you to publish video content on your site.
 - [nyu-mll/quality](https://github.com/nyu-mll/quality) - 
 - [huggingface/optimum](https://github.com/huggingface/optimum) - 🚀 Accelerate training and inference of 🤗 Transformers and 🤗 Diffusers with easy to use hardware optimization tools
-- [argoproj-labs/hera](https://github.com/argoproj-labs/hera) - Hera is an Argo Python SDK. Hera aims to make construction and submission of various Argo Project resources easy and accessible to everyone! Hera abstracts away low-level setup details while still mai
+- [argoproj-labs/hera](https://github.com/argoproj-labs/hera) - Hera makes Python code easy to orchestrate on Argo Workflows through native Python integrations. It lets you construct and submit your Workflows entirely in Python. ⭐️ Remember to star!
 - [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
 - [AstraZeneca/chemicalx](https://github.com/AstraZeneca/chemicalx) - A PyTorch and TorchDrug based deep learning library for drug pair scoring. (KDD 2022)
 - [some9000/StylePile](https://github.com/some9000/StylePile) - A prompt generation helper script for AUTOMATIC1111/stable-diffusion-webui and compatible forks
@@ -6473,7 +6475,6 @@
 - [albanie/pytorch-mcn](https://github.com/albanie/pytorch-mcn) - Convert models from MatConvNet to PyTorch
 - [zhangyijia1979/hierarchical-RNNs-model-for-DDI-extraction](https://github.com/zhangyijia1979/hierarchical-RNNs-model-for-DDI-extraction) - 
 - [rlcode/reinforcement-learning](https://github.com/rlcode/reinforcement-learning) - Minimal and Clean Reinforcement Learning Examples
-- [Jessime/youtube_history](https://github.com/Jessime/youtube_history) - A quick analysis of all Youtube videos in a user's history.
 - [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 - [r9y9/deepvoice3_pytorch](https://github.com/r9y9/deepvoice3_pytorch) - PyTorch implementation of convolutional neural networks-based text-to-speech synthesis models
 - [geventhttpclient/geventhttpclient](https://github.com/geventhttpclient/geventhttpclient) - A high performance, concurrent http client library for python with gevent
@@ -7674,7 +7675,6 @@
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [kubeflow/metadata](https://github.com/kubeflow/metadata) - Repository for assets related to Metadata.
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [autoai-org/AID](https://github.com/autoai-org/AID) - One-Stop System for Machine Learning.
