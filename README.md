@@ -119,6 +119,7 @@
 
 ## C 
 
+- [sipcapture/sipgrep](https://github.com/sipcapture/sipgrep) - SIPGREP: Display and Troubleshoot SIP signaling over IP networks in console
 - [pjsip/pjproject](https://github.com/pjsip/pjproject) - PJSIP project
 - [nils-ohlmeier/sipsak](https://github.com/nils-ohlmeier/sipsak) - SIP swiss army knife
 - [coturn/coturn](https://github.com/coturn/coturn) - coturn TURN server project
@@ -310,6 +311,7 @@
 
 ## C# # 
 
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [betwixt-labs/bebop](https://github.com/betwixt-labs/bebop) - 🎷No ceremony, just code. Blazing fast, typesafe binary serialization.
 - [RolandPheasant/TailBlazer](https://github.com/RolandPheasant/TailBlazer) - A modern file tail utility based on Rx.Net which show cases reactive programming and Dynamic Data (see https://github.com/RolandPheasant/DynamicData)
 - [subhra74/xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
@@ -967,6 +969,9 @@
 
 ## Go 
 
+- [atombender/ktail](https://github.com/atombender/ktail) - A tool to easily tail Kubernetes container logs
+- [clastix/kamaji](https://github.com/clastix/kamaji) - Kamaji is the Hosted Control Plane Manager for Kubernetes.
+- [grpcmd/grpcmd](https://github.com/grpcmd/grpcmd) - A simple, easy-to-use, and developer-friendly CLI tool for gRPC.
 - [pion/rtp](https://github.com/pion/rtp) - A Go implementation of RTP
 - [d3witt/viking](https://github.com/d3witt/viking) - Simple way to manage your remote machines and SSH keys
 - [xendit/kompare](https://github.com/xendit/kompare) - Kompare is a CLI tool to compare two kubernetes cluster and their resources.
@@ -1866,6 +1871,7 @@
 - [graninas/automatic-whitebox-testing-showcase](https://github.com/graninas/automatic-whitebox-testing-showcase) - Automatic white-box testing with Free monads: approach description and showcase
 - [diku-dk/futhark](https://github.com/diku-dk/futhark) - :boom::computer::boom: A data-parallel functional programming language
 - [therewillbecode/poker-maison](https://github.com/therewillbecode/poker-maison) - 🂺 A Multiplayer Poker App Crafted with Haskell and React
+- [HigherOrderCO/Kind](https://github.com/HigherOrderCO/Kind) - A modern proof language
 - [jeltsch/incremental-computing](https://github.com/jeltsch/incremental-computing) - Incremental computing
 - [hasktorch/hasktorch](https://github.com/hasktorch/hasktorch) - Tensors and neural networks in Haskell
 
@@ -2032,6 +2038,7 @@
 - [MihaiValentin/lunr-languages](https://github.com/MihaiValentin/lunr-languages) - A collection of languages stemmers and stopwords for Lunr Javascript library
 - [hasura/json2graphql](https://github.com/hasura/json2graphql) - From a JSON file to postgres-backed realtime GraphQL
 - [olsonpm/sqlite-to-rest](https://github.com/olsonpm/sqlite-to-rest) - 
+- [EsperoTech/yaade](https://github.com/EsperoTech/yaade) - Yaade is an open-source, self-hosted, collaborative API development environment.
 - [LingDong-/nonflowers](https://github.com/LingDong-/nonflowers) - Procedurally generated paintings of nonexistent flowers.
 - [LingDong-/fishdraw](https://github.com/LingDong-/fishdraw) - procedurally generated fish drawings
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
@@ -2142,7 +2149,6 @@
 - [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming.
 - [hyperledger/caliper](https://github.com/hyperledger/caliper) - A blockchain benchmark framework to measure performance of multiple blockchain solutions https://wiki.hyperledger.org/display/caliper
 - [axa-group/nlp.js](https://github.com/axa-group/nlp.js) - An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more
-- [HigherOrderCO/Kind1](https://github.com/HigherOrderCO/Kind1) - A modern proof language
 - [ottomatica/slim](https://github.com/ottomatica/slim) - Build and run tiny vms from Dockerfiles. Small and sleek.
 - [mankadronit/Automated-Essay--Scoring](https://github.com/mankadronit/Automated-Essay--Scoring) - Automatically Score essays using Deep Learning
 - [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.0
@@ -3459,7 +3465,7 @@
 - [arialdomartini/Back-End-Developer-Interview-Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) - A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore
 - [bharathgs/Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
 - [dhamaniasad/awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) - A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
-- [kjaisingh/ML-for-High-Schoolers](https://github.com/kjaisingh/ML-for-High-Schoolers) - Being a high schooler myself and having studied Machine Learning and Artificial Intelligence for a year now, I believe that there fails to exist a learning path in this field for High School students.
+- [kjaisingh/ML-for-High-Schoolers](https://github.com/kjaisingh/ML-for-High-Schoolers) - This guide details a learning path for high school students looking to explore the field of Machine Learning & Artificial Intelligence.
 - [megagonlabs/HappyDB](https://github.com/megagonlabs/HappyDB) - A corpus of 100,000 happy moments
 - [GalvanizeOpenSource/developer-standards](https://github.com/GalvanizeOpenSource/developer-standards) - Definition what standards/attributes make up a junior, mid, or senior software developer
 - [ysh329/deep-learning-model-convertor](https://github.com/ysh329/deep-learning-model-convertor) - The convertor/conversion of deep learning models for different deep learning frameworks/softwares.
@@ -3794,7 +3800,7 @@
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [nschloe/tuna](https://github.com/nschloe/tuna) - :fish: Python profile viewer
 - [ashleve/lightning-hydra-template](https://github.com/ashleve/lightning-hydra-template) - PyTorch Lightning + Hydra. A very user-friendly template for ML experimentation.  ⚡🔥⚡
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3). Self-host locally or use our clou
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain, open and self-hostable. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3).
 - [cjdrake/pyeda](https://github.com/cjdrake/pyeda) - Python EDA
 - [CQCL/lambeq](https://github.com/CQCL/lambeq) - A high-level Python library for Quantum Natural Language Processing
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
@@ -7148,7 +7154,7 @@
 - [kampersanda/sucds](https://github.com/kampersanda/sucds) - Collection of succinct data structures in Rust
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data
 - [wilsonzlin/edgesearch](https://github.com/wilsonzlin/edgesearch) - Serverless full-text search with Cloudflare Workers, WebAssembly, and Roaring Bitmaps
-- [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
+- [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications —— Maintenance status: on hold. I have no time for OSS currently; back late 2024.
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [jorgecarleitao/arrow2](https://github.com/jorgecarleitao/arrow2) - Transmute-free Rust library to work with the Arrow format
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust
@@ -7177,7 +7183,7 @@
 - [bytecodealliance/rustix](https://github.com/bytecodealliance/rustix) - Safe Rust bindings to POSIX-ish APIs
 - [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn't ever lose your work if you're using Git
 - [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - App framework for web, desktop, mobile, and more.
 - [tesselode/kira](https://github.com/tesselode/kira) - Library for expressive game audio.
 - [Rust-GPU/Rust-CUDA](https://github.com/Rust-GPU/Rust-CUDA) - Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust.
 - [adwhit/itchy-rust](https://github.com/adwhit/itchy-rust) - NASDAQ ITCH parser in Rust
@@ -7282,7 +7288,7 @@
 - [sonos/tract](https://github.com/sonos/tract) - Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference
 - [sonos/dinghy](https://github.com/sonos/dinghy) - Easier cross-compilation for phones and single boards computers
 - [EmbarkStudios/rust-gpu](https://github.com/EmbarkStudios/rust-gpu) - 🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧
-- [akiradeveloper/lolraft](https://github.com/akiradeveloper/lolraft) - A Multi-Raft implementation in Rust language.
+- [akiradeveloper/lol](https://github.com/akiradeveloper/lol) - A Multi-Raft implementation in Rust language.
 - [silvia-odwyer/photon](https://github.com/silvia-odwyer/photon) - ⚡ Rust/WebAssembly image processing library
 - [austinjones/lifeline-rs](https://github.com/austinjones/lifeline-rs) - A dependency injection library for message-based applications
 - [http-rs/surf](https://github.com/http-rs/surf) - Fast and friendly HTTP client framework for async Rust
@@ -7528,7 +7534,7 @@
 - [rupa/z](https://github.com/rupa/z) - z - jump around
 - [tensorchord/Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps) - An awesome & curated list of best LLMOps tools for developers
 - [fphilipe/psql2csv](https://github.com/fphilipe/psql2csv) - Run a query in psql and output the result as CSV.
-- [Wowu/docker-rollout](https://github.com/Wowu/docker-rollout) - 🚀 Zero Downtime Deployment for Docker Compose
+- [wowu/docker-rollout](https://github.com/wowu/docker-rollout) - 🚀 Zero Downtime Deployment for Docker Compose
 - [jordanwilson230/kubectl-plugins](https://github.com/jordanwilson230/kubectl-plugins) - A Collection of Plugins for kubectl Integration (exec as any user, context switching, etc).
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
 - [basho/riak](https://github.com/basho/riak) - Riak is a decentralized datastore from Basho Technologies.
@@ -7630,6 +7636,7 @@
 
 ## TypeScript 
 
+- [Fallenbagel/jellyseerr](https://github.com/Fallenbagel/jellyseerr) - Fork of overseerr for jellyfin support.
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [statelyai/xstate](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
@@ -7659,7 +7666,6 @@
 - [deislabs/hippo](https://github.com/deislabs/hippo) - The WebAssembly Platform
 - [soketi/soketi](https://github.com/soketi/soketi) - Next-gen, Pusher-compatible, open-source WebSockets server. Simple, fast, and resilient. 📣
 - [Phu1237/vscode-vs-browser](https://github.com/Phu1237/vscode-vs-browser) - Built-in browser for Visual Studio Code
-- [EsperoTech/yaade](https://github.com/EsperoTech/yaade) - Yaade is an open-source, self-hosted, collaborative API development environment.
 - [mil-tokyo/webdnn](https://github.com/mil-tokyo/webdnn) - The Fastest DNN Running Framework on Web Browser
 - [komodorio/validkube](https://github.com/komodorio/validkube) - ValidKube combines the best open-source tools to help ensure Kubernetes YAML best practices, hygiene & security.
 - [elastic/search-ui](https://github.com/elastic/search-ui) - Search UI. Libraries for the fast development of modern, engaging search experiences.
@@ -7697,7 +7703,7 @@
 - [microsoft/SandDance](https://github.com/microsoft/SandDance) - Visually explore, understand, and present your data.
 - [peers/peerjs](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC.
 - [nteract/nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
-- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 A completely free and open interplanetary microblogging platform 🚀
 - [adelsz/pgtyped](https://github.com/adelsz/pgtyped) - pgTyped - Typesafe SQL in TypeScript
 - [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software.
 - [streamr-dev/streamr-client-javascript](https://github.com/streamr-dev/streamr-client-javascript) - JS library for interacting with Streamr APIs: publishing and subscribing to data, creating streams, etc.
