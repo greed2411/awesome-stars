@@ -7289,7 +7289,7 @@
 - [sonos/tract](https://github.com/sonos/tract) - Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference
 - [sonos/dinghy](https://github.com/sonos/dinghy) - Easier cross-compilation for phones and single boards computers
 - [EmbarkStudios/rust-gpu](https://github.com/EmbarkStudios/rust-gpu) - 🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧
-- [akiradeveloper/lol](https://github.com/akiradeveloper/lol) - A Multi-Raft implementation in Rust language.
+- [akiradeveloper/sorock](https://github.com/akiradeveloper/sorock) - A Multi-Raft implementation in Rust language.
 - [silvia-odwyer/photon](https://github.com/silvia-odwyer/photon) - ⚡ Rust/WebAssembly image processing library
 - [austinjones/lifeline-rs](https://github.com/austinjones/lifeline-rs) - A dependency injection library for message-based applications
 - [http-rs/surf](https://github.com/http-rs/surf) - Fast and friendly HTTP client framework for async Rust
