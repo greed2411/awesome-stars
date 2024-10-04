@@ -119,6 +119,7 @@
 
 ## C 
 
+- [cisco/libsrtp](https://github.com/cisco/libsrtp) - Library for SRTP (Secure Realtime Transport Protocol)
 - [sipcapture/sipgrep](https://github.com/sipcapture/sipgrep) - SIPGREP: Display and Troubleshoot SIP signaling over IP networks in console
 - [pjsip/pjproject](https://github.com/pjsip/pjproject) - PJSIP project
 - [nils-ohlmeier/sipsak](https://github.com/nils-ohlmeier/sipsak) - SIP swiss army knife
@@ -3289,7 +3290,7 @@
 - [Conchylicultor/Deep-Learning-Tricks](https://github.com/Conchylicultor/Deep-Learning-Tricks) - Enumerate diverse machine learning training tricks.
 - [dgryski/awesome-consensus](https://github.com/dgryski/awesome-consensus) - Awesome list for Paxos and friends
 - [AbangLZU/Awesome-Autonomous-Driving](https://github.com/AbangLZU/Awesome-Autonomous-Driving) - 
-- [fregu856/papers](https://github.com/fregu856/papers) - I categorize, annotate and write comments for all research papers I read (410+ papers since 2018).
+- [fregu856/papers](https://github.com/fregu856/papers) - I categorize, annotate and write comments for all research papers I read (430+ papers since 2018).
 - [dakshshah96/awesome-startup-credits](https://github.com/dakshshah96/awesome-startup-credits) - ✨ A collection of awesome companies offering free/discounted plans for eligible startups
 - [jinwchoi/awesome-action-recognition](https://github.com/jinwchoi/awesome-action-recognition) - A curated list of action recognition and related area resources
 - [aidonchuk/cracks_segmentation_dataset](https://github.com/aidonchuk/cracks_segmentation_dataset) - All in one cracks segmentation dataset()
@@ -4429,7 +4430,6 @@
 - [NVlabs/few-shot-vid2vid](https://github.com/NVlabs/few-shot-vid2vid) - Pytorch implementation for few-shot photorealistic video-to-video translation.
 - [yobibyte/pgn](https://github.com/yobibyte/pgn) - Graph Nets in pytorch
 - [pdbpp/pdbpp](https://github.com/pdbpp/pdbpp) - pdb++, a drop-in replacement for pdb (the Python debugger)
-- [netrasys/pgANN](https://github.com/netrasys/pgANN) - Fast Approximate Nearest Neighbor (ANN) searches with a PostgreSQL database.
 - [tensortrade-org/tensortrade](https://github.com/tensortrade-org/tensortrade) - An open source reinforcement learning framework for training, evaluating, and deploying robust trading agents.
 - [evilsocket/pwnagotchi](https://github.com/evilsocket/pwnagotchi) - (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
 - [pytorch/captum](https://github.com/pytorch/captum) - Model interpretability and understanding for PyTorch
@@ -6010,6 +6010,7 @@
 - [GITTER-HT/SiameseFC-TF](https://github.com/GITTER-HT/SiameseFC-TF) - 
 - [smallcorgi/3D-Deepbox](https://github.com/smallcorgi/3D-Deepbox) - 3D Bounding Box Estimation Using Deep Learning and Geometry (MultiBin)
 - [JakubSochor/BoxCars](https://github.com/JakubSochor/BoxCars) - Source code related to BoxCars publication
+- [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
 - [isseu/emotion-recognition-neural-networks](https://github.com/isseu/emotion-recognition-neural-networks) - Emotion recognition using DNN with tensorflow
 - [dongjun-Lee/text-classification-models-tf](https://github.com/dongjun-Lee/text-classification-models-tf) - Tensorflow implementations of Text Classification Models.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
@@ -7016,6 +7017,7 @@
 
 ## Rust 
 
+- [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database management tui for postgres
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [J-F-Liu/lopdf](https://github.com/J-F-Liu/lopdf) - A Rust library for PDF document manipulation.
 - [rsmpi/rsmpi](https://github.com/rsmpi/rsmpi) - MPI bindings for Rust
@@ -7184,7 +7186,7 @@
 - [bytecodealliance/rustix](https://github.com/bytecodealliance/rustix) - Safe Rust bindings to POSIX-ish APIs
 - [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn't ever lose your work if you're using Git
 - [apache/datafusion-sqlparser-rs](https://github.com/apache/datafusion-sqlparser-rs) - Extensible SQL Lexer and Parser for Rust
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - App framework for web, desktop, mobile, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
 - [tesselode/kira](https://github.com/tesselode/kira) - Library for expressive game audio.
 - [Rust-GPU/Rust-CUDA](https://github.com/Rust-GPU/Rust-CUDA) - Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust.
 - [adwhit/itchy-rust](https://github.com/adwhit/itchy-rust) - NASDAQ ITCH parser in Rust
@@ -7407,7 +7409,7 @@
 - [pop-os/tensorman](https://github.com/pop-os/tensorman) - Utility for easy management of Tensorflow containers
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [fu5ha/rayn](https://github.com/fu5ha/rayn) - A small path tracing renderer written in Rust.
-- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [TimelyDataflow/timely-dataflow](https://github.com/TimelyDataflow/timely-dataflow) - A modular implementation of timely dataflow in Rust
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
@@ -7788,7 +7790,6 @@
 - [tdurieux/anonymous_github](https://github.com/tdurieux/anonymous_github) - Anonymous Github is a proxy server to support anonymous browsing of Github repositories for open-science code and data.
 - [machinelearnjs/machinelearnjs](https://github.com/machinelearnjs/machinelearnjs) - Machine Learning library for the web and Node.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
-- [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
 - [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
 - [keplergl/kepler.gl](https://github.com/keplergl/kepler.gl) - Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.
 - [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework
