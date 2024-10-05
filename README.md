@@ -970,6 +970,7 @@
 
 ## Go 
 
+- [pion/dtls](https://github.com/pion/dtls) - DTLS 1.2 Server/Client implementation for Go
 - [atombender/ktail](https://github.com/atombender/ktail) - A tool to easily tail Kubernetes container logs
 - [clastix/kamaji](https://github.com/clastix/kamaji) - Kamaji is the Hosted Control Plane Manager for Kubernetes.
 - [grpcmd/grpcmd](https://github.com/grpcmd/grpcmd) - A simple, easy-to-use, and developer-friendly CLI tool for gRPC.
@@ -7027,7 +7028,7 @@
 - [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
 - [yoshuawuyts/futures-concurrency](https://github.com/yoshuawuyts/futures-concurrency) - Structured concurrency operations for async Rust
 - [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust via WebAssembly
-- [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on ??? GPUs
+- [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on non-NVIDIA GPUs
 - [SeaQL/FireDBG.for.Rust](https://github.com/SeaQL/FireDBG.for.Rust) - 🔥 Time Travel Visual Debugger for Rust
 - [dimforge/nalgebra](https://github.com/dimforge/nalgebra) - Linear algebra library for Rust.
 - [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - Git Query language is a SQL like language to perform queries on .git files with supports of most of SQL features such as grouping, ordering and aggregations functions
