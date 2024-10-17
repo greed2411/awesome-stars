@@ -119,6 +119,7 @@
 
 ## C 
 
+- [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [cisco/libsrtp](https://github.com/cisco/libsrtp) - Library for SRTP (Secure Realtime Transport Protocol)
 - [sipcapture/sipgrep](https://github.com/sipcapture/sipgrep) - SIPGREP: Display and Troubleshoot SIP signaling over IP networks in console
 - [pjsip/pjproject](https://github.com/pjsip/pjproject) - PJSIP project
@@ -146,7 +147,6 @@
 - [praat/praat](https://github.com/praat/praat) - Praat: Doing Phonetics By Computer
 - [sraoss/pg_ivm](https://github.com/sraoss/pg_ivm) - IVM (Incremental View Maintenance) implementation as a PostgreSQL extension
 - [mlochbaum/rhsort](https://github.com/mlochbaum/rhsort) - Robin Hood Sort, for uniform data
-- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [2ndQuadrant/pglogical](https://github.com/2ndQuadrant/pglogical) - Logical Replication extension for PostgreSQL 17, 16, 15, 14, 13, 12, 11, 10, 9.6, 9.5, 9.4 (Postgres), providing much faster replication than Slony, Bucardo or Londiste, as well as cross-version upgra
 - [citusdata/cstore_fdw](https://github.com/citusdata/cstore_fdw) - Columnar storage extension for Postgres built as a foreign data wrapper. Check out https://github.com/citusdata/citus for a modernized columnar storage implementation built as a table access method.
@@ -360,6 +360,7 @@
 - [cameron314/concurrentqueue](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11
 - [ceres-solver/ceres-solver](https://github.com/ceres-solver/ceres-solver) - A large scale non-linear optimization library
 - [memgraph/memgraph](https://github.com/memgraph/memgraph) - Open-source graph database, tuned for dynamic analytics environments. Easy to adopt, scale and own.
+- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [pixie-io/pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability
 - [BehaviorTree/BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP) - Behavior Trees Library in C++. Batteries included.
 - [facebookincubator/velox](https://github.com/facebookincubator/velox) - A C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems.
@@ -970,6 +971,7 @@
 
 ## Go 
 
+- [NRicode/GigaPaste](https://github.com/NRicode/GigaPaste) - Giga Paste - File upload, pastebin, and URL shortening all in one app
 - [pion/dtls](https://github.com/pion/dtls) - DTLS 1.2 Server/Client implementation for Go
 - [atombender/ktail](https://github.com/atombender/ktail) - A tool to easily tail Kubernetes container logs
 - [clastix/kamaji](https://github.com/clastix/kamaji) - Kamaji is the Hosted Control Plane Manager for Kubernetes.
@@ -1279,7 +1281,7 @@
 - [treeverse/lakeFS](https://github.com/treeverse/lakeFS) - lakeFS - Data version control for your data lake | Git for data
 - [teh-cmc/go-internals](https://github.com/teh-cmc/go-internals) - A book about the internals of the Go programming language.
 - [kha7iq/pingme](https://github.com/kha7iq/pingme) - PingMe is a CLI which provides the ability to send messages or alerts to multiple messaging platforms & email.
-- [encoredev/encore](https://github.com/encoredev/encore) - Development Platform for building robust type-safe distributed systems with declarative infrastructure
+- [encoredev/encore](https://github.com/encoredev/encore) - Open Source Development Platform for building robust type-safe distributed systems with declarative infrastructure
 - [N0MoreSecr3ts/wraith](https://github.com/N0MoreSecr3ts/wraith) - Uncover forgotten secrets and bring them back to life, haunting security and operations teams.
 - [RedisLabs/redis-recommend](https://github.com/RedisLabs/redis-recommend) - Simple Redis Go recommendation engine
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
@@ -1894,6 +1896,7 @@
 
 - [ashishps1/awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) - Learn Low Level Design (LLD) and prepare for interviews using free resources.
 - [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - Learn System Design concepts and prepare for interviews using free resources.
+- [ashishps1/awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources) - Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews.
 - [dremio/dremio-oss](https://github.com/dremio/dremio-oss) - Dremio - the missing link in modern data
 - [JetBrains/JetBrainsRuntime](https://github.com/JetBrains/JetBrainsRuntime) - Runtime environment based on OpenJDK for running IntelliJ Platform-based products on Windows, macOS, and Linux
 - [Tencent/TencentKona-11](https://github.com/Tencent/TencentKona-11) - Tencent Kona JDK11 is a no-cost, production-ready distribution of the Open Java Development Kit (OpenJDK), Long-Term Support(LTS) with quarterly updates. Tencent Kona JDK11 is certified as compatible 
@@ -2034,7 +2037,7 @@
 - [adobe/leonardo](https://github.com/adobe/leonardo) - Generate colors based on a desired contrast ratio
 - [brianc/node-libpq](https://github.com/brianc/node-libpq) - Simple, low level native bindings to PostgreSQL's libpq from node.js
 - [alyssaxuu/motionity](https://github.com/alyssaxuu/motionity) - The web-based motion graphics editor for everyone 📽
-- [thevahidal/soul](https://github.com/thevahidal/soul) - 🕉 A SQLite REST and realtime server
+- [thevahidal/soul](https://github.com/thevahidal/soul) - 🕉 Soul | Automatic SQLite RESTful  and realtime API server | Build CRUD APIs in seconds!
 - [axa-group/Parsr](https://github.com/axa-group/Parsr) - Transforms PDF, Documents and Images into Enriched Structured Data
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [MihaiValentin/lunr-languages](https://github.com/MihaiValentin/lunr-languages) - A collection of languages stemmers and stopwords for Lunr Javascript library
@@ -2087,7 +2090,7 @@
 - [LearnBoost/cluster](https://github.com/LearnBoost/cluster) - Node.JS multi-core server manager with plugins support.
 - [stackshareio/awesome-stacks](https://github.com/stackshareio/awesome-stacks) - A curated list of tech stacks for building different applications & features
 - [zonetti/zonote](https://github.com/zonetti/zonote) - Cross-platform desktop note-taking app. Sticky notes with Markdown and Tabs. All in one .txt file.
-- [p2panda/handbook](https://github.com/p2panda/handbook) - Website with tutorials, specification, info and learn sections of p2panda
+- [p2panda/website](https://github.com/p2panda/website) - Website with tutorials, specification, info and learn sections of p2panda
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 - [necolas/react-native-web](https://github.com/necolas/react-native-web) - Cross-platform React UI packages
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
@@ -2117,6 +2120,7 @@
 - [postmanlabs/newman](https://github.com/postmanlabs/newman) - Newman is a command-line collection runner for Postman
 - [unconed/ThreeAudio.js](https://github.com/unconed/ThreeAudio.js) - ThreeAudio helps you create music visualizations in Three.js or tQuery.
 - [Ayms/node-Tor](https://github.com/Ayms/node-Tor) - Javascript implementation of the Tor (or Tor like) anonymizer project (The Onion Router)
+- [fonsp/Pluto.jl](https://github.com/fonsp/Pluto.jl) - 🎈 Simple reactive notebooks for Julia
 - [facebookarchive/planout](https://github.com/facebookarchive/planout) - PlanOut is a library and interpreter for designing online experiments.
 - [joshwcomeau/waveforms](https://github.com/joshwcomeau/waveforms) - An interactive, explorable explanation about the peculiar magic of sound waves.
 - [RangerMauve/multi-hyperdrive](https://github.com/RangerMauve/multi-hyperdrive) - Take a bunch of hyperdrives, and read from them as if they were one.
@@ -2279,7 +2283,6 @@
 ## Julia 
 
 - [skit-ai/ml-katas](https://github.com/skit-ai/ml-katas) - Katas for Machine Learning
-- [fonsp/Pluto.jl](https://github.com/fonsp/Pluto.jl) - 🎈 Simple reactive notebooks for Julia
 - [jonathan-laurent/AlphaZero.jl](https://github.com/jonathan-laurent/AlphaZero.jl) - A generic, simple and fast implementation of Deepmind's AlphaZero algorithm.
 - [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl) - Relax! Flux is the ML library that doesn't make you tensor
 - [FluxML/Zygote.jl](https://github.com/FluxML/Zygote.jl) - 21st century AD
@@ -2330,6 +2333,7 @@
 - [bmabey/pyLDAvis](https://github.com/bmabey/pyLDAvis) - Python library for interactive topic model visualization. Port of the R LDAvis package.
 - [maum-ai/wavegrad2](https://github.com/maum-ai/wavegrad2) - Unofficial Pytorch Implementation of WaveGrad2
 - [rasbt/deeplearning-models](https://github.com/rasbt/deeplearning-models) - A collection of various deep learning architectures, models, and tips
+- [SeldonIO/alibi-detect](https://github.com/SeldonIO/alibi-detect) - Algorithms for outlier, adversarial and drift detection
 - [whylabs/whylogs](https://github.com/whylabs/whylogs) - An open-source data logging library for machine learning models and data pipelines. 📚 Provides visibility into data quality & model performance over time. 🛡️ Supports privacy-preserving data collectio
 - [karpathy/cryptos](https://github.com/karpathy/cryptos) - Pure Python from-scratch zero-dependency implementation of Bitcoin for educational purposes
 - [scikit-learn-contrib/hdbscan](https://github.com/scikit-learn-contrib/hdbscan) - A high performance implementation of HDBSCAN clustering.
@@ -3009,7 +3013,6 @@
 
 - [geerlingguy/sbc-reviews](https://github.com/geerlingguy/sbc-reviews) - Jeff Geerling's SBC review data - Raspberry Pi, Radxa, Orange Pi, etc.
 - [protontypes/open-sustainable-technology](https://github.com/protontypes/open-sustainable-technology) - A directory and analysis of the open source ecosystem in the areas of climate change, sustainable energy, biodiversity and natural resources.  https://docs.getgrist.com/gSscJkc5Rb1R/OpenSustaintech
-- [ashishps1/awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources) - Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews.
 - [unblocktorrents/YTS-YIFY-Proxy](https://github.com/unblocktorrents/YTS-YIFY-Proxy) - YTS Proxy - 100% Working YTS Mirror Sites 2024
 - [mypyc/mypyc](https://github.com/mypyc/mypyc) - Compile type annotated Python to fast C extensions
 - [espoal/awesome-iouring](https://github.com/espoal/awesome-iouring) - Delightful io_uring packages and resources
@@ -3802,7 +3805,7 @@
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [nschloe/tuna](https://github.com/nschloe/tuna) - :fish: Python profile viewer
 - [ashleve/lightning-hydra-template](https://github.com/ashleve/lightning-hydra-template) - PyTorch Lightning + Hydra. A very user-friendly template for ML experimentation.  ⚡🔥⚡
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain, open and self-hostable. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3).
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Open and self-hostable. Get answers from the internet or your docs. Use any online or local LLM (e.g gpt, claude, gemini, llama, qwen, mistral). Access from web, obsidian, emacs,
 - [cjdrake/pyeda](https://github.com/cjdrake/pyeda) - Python EDA
 - [CQCL/lambeq](https://github.com/CQCL/lambeq) - A high-level Python library for Quantum Natural Language Processing
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
@@ -3960,7 +3963,6 @@
 - [SethMMorton/natsort](https://github.com/SethMMorton/natsort) - Simple yet flexible natural sorting in Python.
 - [aiogram/aiogram](https://github.com/aiogram/aiogram) - aiogram is a modern and fully asynchronous framework for Telegram Bot API written in Python using asyncio
 - [google-deepmind/android_env](https://github.com/google-deepmind/android_env) - RL research on Android devices.
-- [SeldonIO/alibi-detect](https://github.com/SeldonIO/alibi-detect) - Algorithms for outlier, adversarial and drift detection
 - [jacopotagliabue/you-dont-need-a-bigger-boat](https://github.com/jacopotagliabue/you-dont-need-a-bigger-boat) - An end-to-end implementation of intent prediction with Metaflow and other cool tools
 - [datamade/parserator](https://github.com/datamade/parserator) - :bookmark: A toolkit for making domain-specific probabilistic parsers
 - [datamade/usaddress](https://github.com/datamade/usaddress) - :us: a python library for parsing unstructured United States address strings into address components
@@ -4046,7 +4048,7 @@
 - [Lightning-Universe/lightning-bolts](https://github.com/Lightning-Universe/lightning-bolts) - Toolbox of models, callbacks, and datasets for AI/ML researchers.
 - [wmuron/motpy](https://github.com/wmuron/motpy) - Library for tracking-by-detection multi object tracking implemented in python
 - [EleutherAI/gpt-neo](https://github.com/EleutherAI/gpt-neo) - An implementation of model parallel GPT-2 and GPT-3-style models using the mesh-tensorflow library.
-- [Lightning-AI/torchmetrics](https://github.com/Lightning-AI/torchmetrics) - Torchmetrics - Machine learning metrics for distributed, scalable PyTorch applications.
+- [Lightning-AI/torchmetrics](https://github.com/Lightning-AI/torchmetrics) - Machine learning metrics for distributed, scalable PyTorch applications.
 - [KatyBrown/CIAlign](https://github.com/KatyBrown/CIAlign) - 
 - [Tencent/Real-SR](https://github.com/Tencent/Real-SR) - Real-World Super-Resolution via Kernel Estimation and Noise Injection
 - [huggingface/transfer-learning-conv-ai](https://github.com/huggingface/transfer-learning-conv-ai) - 🦄 State-of-the-Art Conversational AI with Transfer Learning
@@ -4786,7 +4788,7 @@
 - [google-deepmind/mathematics_dataset](https://github.com/google-deepmind/mathematics_dataset) - This dataset code generates mathematical question and answer pairs, from a range of question types at roughly school-level difficulty.
 - [mingdachen/disentangle-semantics-syntax](https://github.com/mingdachen/disentangle-semantics-syntax) - Code for "A Multi-Task Approach for Disentangling Syntax and Semantics in Sentence Representations" (NAACL 2019)
 - [facebookresearch/PyTorch-BigGraph](https://github.com/facebookresearch/PyTorch-BigGraph) - Generate embeddings from large-scale graph-structured data.
-- [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune and deploy AI models on multiple GPUs, TPUs with zero code changes.
+- [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune ANY AI model of ANY size on multiple GPUs, TPUs with zero code changes.
 - [Lotayou/densebody_pytorch](https://github.com/Lotayou/densebody_pytorch) - PyTorch implementation of CloudWalk's recent work DenseBody
 - [falconry/falcon](https://github.com/falconry/falcon) - The no-magic web data plane API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale.
 - [Tsdevendra1/NEAT-Algorithm](https://github.com/Tsdevendra1/NEAT-Algorithm) - 
@@ -5129,7 +5131,7 @@
 - [facebookresearch/instpred](https://github.com/facebookresearch/instpred) - Predicting Future Instance Segmentation by Forecasting Convolutional Features
 - [jalexvig/cnns](https://github.com/jalexvig/cnns) - Barebones implementations of CNNs
 - [Breakend/AdversarialGain](https://github.com/Breakend/AdversarialGain) - 
-- [iterative/dvc](https://github.com/iterative/dvc) - 🦉 ML Experiments and Data Management with Git
+- [iterative/dvc](https://github.com/iterative/dvc) - 🦉 Data Versioning and ML Experiments
 - [inclement/lapidary-ai](https://github.com/inclement/lapidary-ai) - 
 - [AMLab-Amsterdam/L0_regularization](https://github.com/AMLab-Amsterdam/L0_regularization) - Learning Sparse Neural Networks through L0 regularization
 - [lrjconan/LanczosNetwork](https://github.com/lrjconan/LanczosNetwork) - Lanczos Network, Graph Neural Networks, Deep Graph Convolutional Networks, Deep Learning on Graph Structured Data, QM8 Quantum Chemistry Benchmark, ICLR 2019
@@ -5718,7 +5720,6 @@
 - [BichenWuUCB/squeezeDet](https://github.com/BichenWuUCB/squeezeDet) - A tensorflow implementation for SqueezeDet, a convolutional neural network for object detection.
 - [carlini/audio_adversarial_examples](https://github.com/carlini/audio_adversarial_examples) - Targeted Adversarial Examples on Speech-to-Text systems
 - [michaal94/Semisupervised-Clustering](https://github.com/michaal94/Semisupervised-Clustering) - PyTorch semi-supervised clustering with Convolutional Autoencoders
-- [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
 - [philipperemy/vision-api](https://github.com/philipperemy/vision-api) - Google Vision API made easy!
 - [qubvel/segmentation_models](https://github.com/qubvel/segmentation_models) - Segmentation models with pretrained backbones. Keras and TensorFlow Keras.
 - [ikostrikov/pytorch-ddpg-naf](https://github.com/ikostrikov/pytorch-ddpg-naf) - Implementation of algorithms for continuous control (DDPG and NAF).
@@ -6837,7 +6838,7 @@
 - [realpython/flask-boilerplate](https://github.com/realpython/flask-boilerplate) - Boilerplate template for a Python Flask application with Flask-SQLAlchemy, Flask-WTF, Fabric, Coverage, and Bootstrap
 - [imwilsonxu/fbone](https://github.com/imwilsonxu/fbone) - Fbone (Flask bone) is a Flask (Python microframework) starter/template/bootstrap/boilerplate application.
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
-- [wtforms/flask-wtf](https://github.com/wtforms/flask-wtf) - Simple integration of Flask and WTForms, including CSRF, file upload and Recaptcha integration.
+- [pallets-eco/flask-wtf](https://github.com/pallets-eco/flask-wtf) - Simple integration of Flask and WTForms, including CSRF, file upload and Recaptcha integration.
 - [inconshreveable/sqltap](https://github.com/inconshreveable/sqltap) - SQL profiling and introspection for applications using sqlalchemy
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
 - [joepie91/python-whois](https://github.com/joepie91/python-whois) - A python module for retrieving and parsing WHOIS data
@@ -7298,7 +7299,7 @@
 - [http-rs/surf](https://github.com/http-rs/surf) - Fast and friendly HTTP client framework for async Rust
 - [norse-rs/audir](https://github.com/norse-rs/audir) - Low level audio render/capture library
 - [cloudhead/popol](https://github.com/cloudhead/popol) - Minimal non-blocking I/O for Rust
-- [typedb/typedb](https://github.com/typedb/typedb) - TypeDB: one giant leap for databases
+- [typedb/typedb](https://github.com/typedb/typedb) - TypeDB: the power of programming, in your database
 - [ByteHeathen/libsip](https://github.com/ByteHeathen/libsip) - A SIP protocol implementation
 - [sozu-proxy/sozu](https://github.com/sozu-proxy/sozu) - Sōzu HTTP reverse proxy, configurable at runtime, fast and safe, built in Rust. It is awesome!
 - [tokio-rs/mio](https://github.com/tokio-rs/mio) - Metal I/O library for Rust.
@@ -7465,6 +7466,7 @@
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [google/mundane](https://github.com/google/mundane) - Mundane is a Rust cryptography library backed by BoringSSL that is difficult to misuse, ergonomic, and performant (in that order).
 - [mtak-/rust-on-mobile](https://github.com/mtak-/rust-on-mobile) - [WIP] A little demo of how to setup an iOS/android project to use rust
+- [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
 - [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
 - [cswinter/LocustDB](https://github.com/cswinter/LocustDB) - Blazingly fast analytics database that will rapidly devour all of your data.
 - [atom-archive/xray](https://github.com/atom-archive/xray) - An experimental next-generation Electron-based text editor
