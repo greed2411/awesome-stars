@@ -3857,7 +3857,7 @@
 - [aio-libs/async-lru](https://github.com/aio-libs/async-lru) - Simple LRU cache for asyncio
 - [lucasjinreal/yolov7_d2](https://github.com/lucasjinreal/yolov7_d2) - 🔥🔥🔥🔥 (Earlier YOLOv7 not official one) YOLO with Transformers and Instance Segmentation, with TensorRT acceleration! 🔥🔥🔥
 - [harelba/q](https://github.com/harelba/q) - q - Run SQL directly on delimited files and multi-file sqlite databases
-- [someengineering/fixinventory](https://github.com/someengineering/fixinventory) - Fix Inventory consolidates user, resource, and configuration data from your cloud environments into a unified, graph-based asset inventory.
+- [someengineering/fixinventory](https://github.com/someengineering/fixinventory) - Fix Inventory helps you identify and remove the most critical risks in AWS, GCP, Azure and Kubernetes.
 - [adriangb/xpresso](https://github.com/adriangb/xpresso) - A composable Python ASGI web framework
 - [vitalik/django-ninja](https://github.com/vitalik/django-ninja) - 💨  Fast, Async-ready, Openapi, type hints based framework for building APIs
 - [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
@@ -5995,7 +5995,7 @@
 - [symoon94/DRQN-keras](https://github.com/symoon94/DRQN-keras) - Atari-DRQN (keras ver.)
 - [pyprob/pyprob](https://github.com/pyprob/pyprob) - A probabilistic programming system for simulators and high-performance computing (HPC), based on PyTorch
 - [pytorchbearer/torchbearer](https://github.com/pytorchbearer/torchbearer) - torchbearer: A model fitting library for PyTorch
-- [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
+- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [openai/sonic-on-ray](https://github.com/openai/sonic-on-ray) - Training Sonic with RLlib
 - [openai/retro-baselines](https://github.com/openai/retro-baselines) - Publicly releasable baselines for the Retro contest
 - [BerkeleyAutomation/DART](https://github.com/BerkeleyAutomation/DART) - 
