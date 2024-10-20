@@ -971,6 +971,7 @@
 
 ## Go 
 
+- [k8snetworkplumbingwg/multus-cni](https://github.com/k8snetworkplumbingwg/multus-cni) - A CNI meta-plugin for multi-homed pods in Kubernetes
 - [NRicode/GigaPaste](https://github.com/NRicode/GigaPaste) - Giga Paste - File upload, pastebin, and URL shortening all in one app
 - [pion/dtls](https://github.com/pion/dtls) - DTLS 1.2 Server/Client implementation for Go
 - [atombender/ktail](https://github.com/atombender/ktail) - A tool to easily tail Kubernetes container logs
