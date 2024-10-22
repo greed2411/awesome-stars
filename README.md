@@ -3806,7 +3806,7 @@
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [nschloe/tuna](https://github.com/nschloe/tuna) - :fish: Python profile viewer
 - [ashleve/lightning-hydra-template](https://github.com/ashleve/lightning-hydra-template) - PyTorch Lightning + Hydra. A very user-friendly template for ML experimentation.  ⚡🔥⚡
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Open and self-hostable. Get answers from the internet or your docs. Use any online or local LLM (e.g gpt, claude, gemini, llama, qwen, mistral). Access from web, obsidian, emacs,
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the internet or your docs. Use any online or local LLM (e.g gpt, claude, gemini, llama, qwen, mistral). Build custom agents, personalized automati
 - [cjdrake/pyeda](https://github.com/cjdrake/pyeda) - Python EDA
 - [CQCL/lambeq](https://github.com/CQCL/lambeq) - A high-level Python library for Quantum Natural Language Processing
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
@@ -5830,7 +5830,7 @@
 - [SunnerLi/P-Conv](https://github.com/SunnerLi/P-Conv) - The implementation of the partial convolution
 - [bryanyzhu/two-stream-pytorch](https://github.com/bryanyzhu/two-stream-pytorch) - PyTorch implementation of  two-stream networks for video action recognition
 - [atcbosselut/scs-baselines](https://github.com/atcbosselut/scs-baselines) - Baseline models for the paper: "Modeling Naive Psychology of Characters in Simple Commonsense Stories" by Hannah Rashkin, Antoine Bosselut, Maarten Sap, Kevin Knight and Yejin Choi
-- [chetanyachopra/FaceRecognition-Attendance-Marking](https://github.com/chetanyachopra/FaceRecognition-Attendance-Marking) - FaceRecognition Attendance Marking System Recognizes faces of students in a Classroom and marks the attendance of a student. Tested on real data set
+- [chetanyachopra22/FaceRecognition-Attendance-Marking](https://github.com/chetanyachopra22/FaceRecognition-Attendance-Marking) - FaceRecognition Attendance Marking System Recognizes faces of students in a Classroom and marks the attendance of a student. Tested on real data set
 - [NourozR/Reconstruction-and-Compression-of-Color-Images](https://github.com/NourozR/Reconstruction-and-Compression-of-Color-Images) - Reconstruction and Compression of Color Images Using Principal Component Analysis (PCA) Algorithm
 - [utiasSTARS/pykitti](https://github.com/utiasSTARS/pykitti) - Python tools for working with KITTI data.
 - [Sardhendu/License-Plate-Detection](https://github.com/Sardhendu/License-Plate-Detection) - {Python}: Detect and extract the license plate of vehicles using Machine Learning and Image Processing Techniques
