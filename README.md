@@ -971,6 +971,7 @@
 
 ## Go 
 
+- [ondrajz/go-callvis](https://github.com/ondrajz/go-callvis) - Visualize call graph of a Go program using Graphviz
 - [k8snetworkplumbingwg/multus-cni](https://github.com/k8snetworkplumbingwg/multus-cni) - A CNI meta-plugin for multi-homed pods in Kubernetes
 - [NRicode/GigaPaste](https://github.com/NRicode/GigaPaste) - Giga Paste - File upload, pastebin, and URL shortening all in one app
 - [pion/dtls](https://github.com/pion/dtls) - DTLS 1.2 Server/Client implementation for Go
@@ -3666,7 +3667,7 @@
 - [hashboard-hq/hashquery](https://github.com/hashboard-hq/hashquery) - A Python framework for defining and querying BI models in your data warehouse
 - [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
 - [xfactlab/orpo](https://github.com/xfactlab/orpo) - Official repository for ORPO
-- [leondz/garak](https://github.com/leondz/garak) - LLM vulnerability scanner
+- [leondz/garak](https://github.com/leondz/garak) - the LLM vulnerability scanner
 - [ncbi/GeneGPT](https://github.com/ncbi/GeneGPT) - Code and data for GeneGPT.
 - [approximatelabs/sketch](https://github.com/approximatelabs/sketch) - AI code-writing assistant that understands data content
 - [approximatelabs/datadm](https://github.com/approximatelabs/datadm) - DataDM is your private data assistant. Slide into your data's DMs
@@ -3862,7 +3863,7 @@
 - [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
 - [DarshanDeshpande/jax-models](https://github.com/DarshanDeshpande/jax-models) - Unofficial JAX implementations of deep learning research papers
 - [NVIDIA-Merlin/Transformers4Rec](https://github.com/NVIDIA-Merlin/Transformers4Rec) - Transformers4Rec is a flexible and efficient library for sequential and session-based recommendation and works with PyTorch.
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Kubernetes observability and automation, with an awesome Prometheus integration
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [kubernetes-client/python](https://github.com/kubernetes-client/python) - Official Python client library for kubernetes
 - [gugarosa/learnergy](https://github.com/gugarosa/learnergy) - 💡 Learnergy is a Python library for energy-based machine learning models.
 - [libffcv/ffcv](https://github.com/libffcv/ffcv) - FFCV: Fast Forward Computer Vision (and other ML workloads!)
@@ -4537,7 +4538,7 @@
 - [barisumog/simple_cache](https://github.com/barisumog/simple_cache) - A simple caching utility in Python 3.
 - [jackdbd/dash-fda](https://github.com/jackdbd/dash-fda) - A Plotly Dash application to interact with the API endpoints of openFDA
 - [kkanshul/finegan](https://github.com/kkanshul/finegan) - FineGAN: Unsupervised Hierarchical Disentanglement for Fine-grained Object Generation and Discovery
-- [velikodniy/tbparser](https://github.com/velikodniy/tbparser) - A parser of Tensorboard logs
+- [velikodniy/tbparser](https://github.com/velikodniy/tbparser) - Tensorboard parser
 - [dorianbrown/rank_bm25](https://github.com/dorianbrown/rank_bm25) - A Collection of BM25 Algorithms in Python
 - [vpj/python_autocomplete](https://github.com/vpj/python_autocomplete) - A simple neural network for python autocompletion
 - [xiaomi-automl/FairNAS](https://github.com/xiaomi-automl/FairNAS) - FairNAS: Rethinking Evaluation Fairness of Weight Sharing Neural Architecture Search
@@ -5334,7 +5335,7 @@
 - [dvingerh/PyInstaLive](https://github.com/dvingerh/PyInstaLive) - Python script to download Instagram livestreams.
 - [IndexedConv/IndexedConv](https://github.com/IndexedConv/IndexedConv) - Code for the indexed convolution
 - [arogozhnikov/einops](https://github.com/arogozhnikov/einops) - Flexible and powerful tensor operations for readable and reliable code (for pytorch, jax, TF and others)
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system in 275+ supported cars.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 275+ supported cars.
 - [flow-project/flow](https://github.com/flow-project/flow) - Computational framework for reinforcement learning in traffic control
 - [joshua-wu/deepfakes_faceswap](https://github.com/joshua-wu/deepfakes_faceswap) - from deekfakes' faceswap: https://www.reddit.com/user/deepfakes/
 - [cbfinn/maml](https://github.com/cbfinn/maml) - Code for "Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks"
@@ -7017,6 +7018,7 @@
 
 ## Rust 
 
+- [chanhx/crabviz](https://github.com/chanhx/crabviz) - 🦀 A LSP-based interative call graph generator
 - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database management tui for postgres
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [J-F-Liu/lopdf](https://github.com/J-F-Liu/lopdf) - A Rust library for PDF document manipulation.
@@ -7649,7 +7651,7 @@
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
 - [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
 - [gcanti/fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript
-- [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app.
+- [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy thinkers.
 - [FL33TW00D/whisper-turbo](https://github.com/FL33TW00D/whisper-turbo) - Cross-Platform, GPU Accelerated Whisper 🏎️
 - [civitai/civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
