@@ -975,7 +975,7 @@
 - [BemiHQ/BemiDB](https://github.com/BemiHQ/BemiDB) - Postgres read replica optimized for analytics
 - [ondrajz/go-callvis](https://github.com/ondrajz/go-callvis) - Visualize call graph of a Go program using Graphviz
 - [k8snetworkplumbingwg/multus-cni](https://github.com/k8snetworkplumbingwg/multus-cni) - A CNI meta-plugin for multi-homed pods in Kubernetes
-- [NRicode/GigaPaste](https://github.com/NRicode/GigaPaste) - Giga Paste - File upload, pastebin, and URL shortener all in one app
+- [Th0rum/SuperBin](https://github.com/Th0rum/SuperBin) - Super Bin - Pastebin, File Sharing and URL Shortener with Password, Curl and QR support
 - [pion/dtls](https://github.com/pion/dtls) - DTLS 1.2 Server/Client implementation for Go
 - [atombender/ktail](https://github.com/atombender/ktail) - A tool to easily tail Kubernetes container logs
 - [clastix/kamaji](https://github.com/clastix/kamaji) - Kamaji is the Hosted Control Plane Manager for Kubernetes.
@@ -2595,7 +2595,7 @@
 - [google-deepmind/neural-processes](https://github.com/google-deepmind/neural-processes) - This repository contains notebook implementations of the following Neural Process variants: Conditional Neural Processes (CNPs), Neural Processes (NPs), Attentive Neural Processes (ANPs).
 - [SimonKohl/probabilistic_unet](https://github.com/SimonKohl/probabilistic_unet) - A U-Net combined with a variational auto-encoder that is able to learn conditional distributions over semantic segmentations.
 - [guillaume-chevalier/seq2seq-signal-prediction](https://github.com/guillaume-chevalier/seq2seq-signal-prediction) - Signal forecasting with a Sequence-to-Sequence (seq2seq) Recurrent Neural Network (RNN) model in TensorFlow - Guillaume Chevalier
-- [Oulu-IMEDS/solt](https://github.com/Oulu-IMEDS/solt) - Streaming over lightweight data transformations
+- [imedslab/solt](https://github.com/imedslab/solt) - Streaming over lightweight data transformations
 - [rasbt/stat479-machine-learning-fs18](https://github.com/rasbt/stat479-machine-learning-fs18) - Course material for STAT 479: Machine Learning (FS 2018) at University Wisconsin-Madison
 - [wassname/rl-portfolio-management](https://github.com/wassname/rl-portfolio-management) - Attempting to replicate "A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem" https://arxiv.org/abs/1706.10059 (and an openai gym environment)
 - [wassname/phoneme2grapheme](https://github.com/wassname/phoneme2grapheme) - Teaching machines to spell with deep learning (acc=&gt;80%) e.g. a model hears "pɹˈaʊd˺ɚ" and writes "prowder" (but it should be "prouder")
@@ -3190,7 +3190,6 @@
 - [takenobu-hs/haskell-symbol-search-cheatsheet](https://github.com/takenobu-hs/haskell-symbol-search-cheatsheet) - Haskell/GHC symbol search cheatsheet
 - [akullpp/awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
 - [mxssl/sre-interview-prep-guide](https://github.com/mxssl/sre-interview-prep-guide) - Site Reliability Engineer Interview Preparation Guide
-- [andkret/Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook
 - [ebertti/awesome-telegram](https://github.com/ebertti/awesome-telegram) - Collection great groups, channels, bots and libraries for Telegram
 - [alhassy/HaskellCheatSheet](https://github.com/alhassy/HaskellCheatSheet) - A reference sheet for the basics of the mind-expanding Haskell language ^_^
 - [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) - The list of continuous integration services and tools
@@ -4285,6 +4284,7 @@
 - [pika/pika](https://github.com/pika/pika) - Pure Python RabbitMQ/AMQP 0-9-1 client library
 - [python-zk/kazoo](https://github.com/python-zk/kazoo) - Kazoo is a high-level Python library that makes it easier to use Apache Zookeeper.
 - [jeffknupp/sandman2](https://github.com/jeffknupp/sandman2) - Automatically generate a RESTful API service for your legacy database. No code required!
+- [andkret/Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook
 - [feast-dev/feast](https://github.com/feast-dev/feast) - The Open Source Feature Store for Machine Learning
 - [Lightning-Universe/lightning-Covid19](https://github.com/Lightning-Universe/lightning-Covid19) - Classification for covid-19 chest X-ray images using Lightning
 - [cerebroai/reformers](https://github.com/cerebroai/reformers) - Efficient Transformers for research, PyTorch and Tensorflow using Locality Sensitive Hashing
@@ -4791,7 +4791,7 @@
 - [facebookresearch/PyTorch-BigGraph](https://github.com/facebookresearch/PyTorch-BigGraph) - Generate embeddings from large-scale graph-structured data.
 - [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune ANY AI model of ANY size on multiple GPUs, TPUs with zero code changes.
 - [Lotayou/densebody_pytorch](https://github.com/Lotayou/densebody_pytorch) - PyTorch implementation of CloudWalk's recent work DenseBody
-- [falconry/falcon](https://github.com/falconry/falcon) - The no-magic web data plane API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale.
+- [falconry/falcon](https://github.com/falconry/falcon) - The no-magic web API and microservices framework for Python developers, with an emphasis on reliability, correctness, and performance at scale.
 - [Tsdevendra1/NEAT-Algorithm](https://github.com/Tsdevendra1/NEAT-Algorithm) - 
 - [getsentry/raven-python](https://github.com/getsentry/raven-python) - Raven is the legacy Python client for Sentry (getsentry.com) — replaced by sentry-python
 - [getsentry/sentry-python](https://github.com/getsentry/sentry-python) - The official Python SDK for Sentry.io
@@ -5611,7 +5611,7 @@
 - [cgarciae/pypeln](https://github.com/cgarciae/pypeln) - Concurrent data pipelines in Python   &gt;&gt;&gt;
 - [anikett12/Face-Recognition](https://github.com/anikett12/Face-Recognition) - Face Recognition : live face recognition using Python and OpenCV
 - [BYU-PCCL/holodeck](https://github.com/BYU-PCCL/holodeck) - High Fidelity Simulator for Reinforcement Learning and Robotics Research.
-- [lixilinx/psgd_torch](https://github.com/lixilinx/psgd_torch) - Pytorch implementation of preconditioned stochastic gradient descent (affine group preconditioner, low-rank approximation preconditioner and more)
+- [lixilinx/psgd_torch](https://github.com/lixilinx/psgd_torch) - Pytorch implementation of preconditioned stochastic gradient descent (Kron and affine preconditioner, low-rank approximation preconditioner and more)
 - [kentonl/e2e-coref](https://github.com/kentonl/e2e-coref) - End-to-end Neural Coreference Resolution
 - [texturedesign/texturize](https://github.com/texturedesign/texturize) - 🤖🖌️ Generate photo-realistic textures based on source images or (soon) PBR materials. Remix, remake, mashup! Useful if you want to create variations on a theme or elaborate on an existing texture.
 - [yjxiong/temporal-segment-networks](https://github.com/yjxiong/temporal-segment-networks) - Code & Models for Temporal Segment Networks (TSN) in ECCV 2016
@@ -5913,7 +5913,7 @@
 - [dvornikita/blitznet](https://github.com/dvornikita/blitznet) - Deep neural network for object detection and semantic segmentation in real-time. Official code for the paper "BlitzNet: A Real-Time Deep Network for Scene Understanding"
 - [dyelax/encore.ai](https://github.com/dyelax/encore.ai) - Generate new lyrics in the style of any artist using LSTMs and TensorFlow.
 - [dgasmith/opt_einsum](https://github.com/dgasmith/opt_einsum) - ⚡️Optimizing einsum functions in NumPy, Tensorflow, Dask, and more with contraction order optimization.
-- [neonwatty/machine_learning_refined](https://github.com/neonwatty/machine_learning_refined) - Notes, examples, and Python demos for the 2nd edition of the textbook "Machine Learning Refined" (published by Cambridge University Press).
+- [neonwatty/machine_learning_refined](https://github.com/neonwatty/machine_learning_refined) - Notes, examples, and Python demos for the 2nd edition of the university textbook "Machine Learning Refined" (published by Cambridge University Press).
 - [lxx1991/VS-ReID](https://github.com/lxx1991/VS-ReID) - Video Object Segmentation with Re-identification
 - [scaelles/DEXTR-PyTorch](https://github.com/scaelles/DEXTR-PyTorch) - Deep Extreme Cut http://www.vision.ee.ethz.ch/~cvlsegmentation/dextr
 - [scrapinghub/extruct](https://github.com/scrapinghub/extruct) - Extract embedded metadata from HTML markup
@@ -5988,7 +5988,7 @@
 - [MadryLab/adversarial_spatial](https://github.com/MadryLab/adversarial_spatial) - Investigating the robustness of state-of-the-art CNN architectures to simple spatial transformations.
 - [taki0112/FusionGAN-Tensorflow](https://github.com/taki0112/FusionGAN-Tensorflow) - Simple Tensorflow implementation of FusionGAN (CVPR 2018)
 - [s0md3v/Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
-- [Oulu-IMEDS/pytorch_bn_fusion](https://github.com/Oulu-IMEDS/pytorch_bn_fusion) - Batch normalization fusion for PyTorch
+- [imedslab/pytorch_bn_fusion](https://github.com/imedslab/pytorch_bn_fusion) - Batch normalization fusion for PyTorch
 - [supervisely/supervisely](https://github.com/supervisely/supervisely) - Supervisely SDK for Python - convenient way to automate, customize and extend Supervisely Platform for your computer vision task
 - [MarkPKCollier/NeuralTuringMachine](https://github.com/MarkPKCollier/NeuralTuringMachine) - Tensorflow implementation of a Neural Turing Machine
 - [cydonia999/VGGFace2-pytorch](https://github.com/cydonia999/VGGFace2-pytorch) - PyTorch Face Recognizer based on 'VGGFace2: A dataset for recognising faces across pose and age'
@@ -7111,7 +7111,7 @@
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - Postgres with GPUs for ML/AI apps.
 - [davechallis/rust-xgboost](https://github.com/davechallis/rust-xgboost) - Rust bindings for XGBoost.
 - [vaaaaanquish/lightgbm-rs](https://github.com/vaaaaanquish/lightgbm-rs) - LightGBM Rust binding
-- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
+- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
 - [tonarino/innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [rusterlium/rustler](https://github.com/rusterlium/rustler) - Safe Rust bridge for creating Erlang NIF functions
